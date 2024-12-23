@@ -1,0 +1,1187 @@
+Product ID,Product Name,Category,Region,Sales Amount,Cost,Profit,Units Sold,Sales Date,Discount (%),Sales Channel,Customer Satisfaction Score,Customer Segment,Payment Method,Shipping Duration (days),Return Status
+1,Raise Pro,Furniture,Europe,3022.58,3070.4,17.15,57,11-02-2024,16.91,Online,1.6,Retail,Bank Transfer,2,Returned
+2,Suffer Ultra,Furniture,Australia,4107.9,989.61,146.81,82,06-05-2024,0.43,In-store,3.2,Small Business,Debit Card,5,Not Returned
+3,Stay Plus,Furniture,Europe,1033.33,652.74,509.81,49,23-02-2024,0.07,Wholesale,2.9,Corporate,Debit Card,13,Returned
+4,Environment X,Toys,Asia,876.25,65.41,763.6,39,19-09-2024,5.93,Online,3.7,Corporate,PayPal,4,Not Returned
+5,Involve X,Toys,Asia,4189.27,3444.76,995.95,92,25-03-2024,18.68,Online,2.3,Government,Bank Transfer,1,Returned
+6,They Plus,Groceries,North America,894.61,2608.91,165.07,65,12-05-2024,25.19,Wholesale,2.6,Small Business,Credit Card,14,Returned
+7,Someone X,Electronics,North America,1885.84,3979.92,549.19,40,22-04-2024,25.42,Online,3,Corporate,Bank Transfer,14,Not Returned
+8,He Pro,Electronics,Africa,2747.84,838.64,677.3,39,21-04-2024,12.26,Online,2.3,Government,Bank Transfer,3,Returned
+9,Between Plus,Electronics,North America,3950.27,2830.77,661.24,23,29-08-2024,5.98,Online,4.1,Small Business,Debit Card,15,Not Returned
+10,Heart Ultra,Furniture,Australia,4422.51,2375.13,477.56,72,09-12-2024,0.78,In-store,4.6,Government,Debit Card,4,Returned
+11,Heavy Pro,Furniture,North America,3592.71,1892.92,205.66,30,02-02-2024,5.45,Online,3.9,Government,PayPal,2,Not Returned
+12,New X,Electronics,Asia,2743.78,1873.47,131.45,64,29-05-2024,19,Wholesale,2.8,Small Business,Debit Card,6,Returned
+13,Piece Plus,Groceries,North America,1995.6,324.89,440.37,48,12-10-2024,14.17,In-store,4.7,Corporate,PayPal,11,Not Returned
+14,Tv Pro,Clothing,Asia,3076.99,1212.54,621.53,53,07-08-2024,13.2,In-store,2,Retail,Debit Card,9,Returned
+15,Opportunity Plus,Electronics,North America,1350.7,184.56,99.96,62,16-05-2024,10.1,Online,1.2,Retail,Debit Card,10,Returned
+16,Inside X,Electronics,North America,1654.42,188.34,739.39,82,01-09-2024,12.85,In-store,3.5,Corporate,Credit Card,13,Not Returned
+17,Kid X,Groceries,Asia,2138.16,2127.14,179.28,52,13-01-2024,26.77,Online,3.6,Small Business,Credit Card,5,Not Returned
+18,Image X,Clothing,Europe,966.08,628.21,856.31,56,31-05-2024,27.26,Wholesale,1,Retail,Bank Transfer,1,Returned
+19,Story Ultra,Electronics,Africa,3307.6,1993.19,568.6,58,05-12-2024,26.81,Online,1,Government,Bank Transfer,13,Returned
+20,Vote Plus,Clothing,Asia,1205.76,3372.06,928.35,51,08-03-2024,6.22,Wholesale,3.9,Retail,Credit Card,6,Not Returned
+21,Only X,Furniture,North America,1601.27,2318.9,533.41,32,09-12-2024,21.49,Wholesale,4.1,Corporate,Credit Card,12,Returned
+22,Rise X,Groceries,Australia,4644.6,3885.66,690.05,91,13-03-2024,6.56,In-store,4.5,Retail,Bank Transfer,4,Returned
+23,Book Ultra,Groceries,Europe,4083.64,3609.74,510,39,09-11-2024,23.65,Online,3.4,Small Business,PayPal,3,Not Returned
+24,Start X,Furniture,Australia,3839.82,694.2,698.56,29,25-07-2024,19.46,Wholesale,1.6,Corporate,PayPal,9,Not Returned
+25,Work X,Furniture,Europe,1568.04,1872.65,38.06,91,07-01-2024,14.29,Online,4.9,Small Business,PayPal,9,Returned
+26,Factor Ultra,Electronics,Asia,3107.92,2542.13,564.77,8,11-11-2024,29.22,Online,3,Retail,Debit Card,14,Returned
+27,Between Pro,Furniture,North America,2988.67,2248.22,890.23,64,22-01-2024,9.59,Online,3.4,Retail,Credit Card,7,Not Returned
+28,Avoid Ultra,Clothing,Africa,1892.83,3179.58,704.26,31,28-02-2024,27.43,Wholesale,2,Corporate,Credit Card,3,Returned
+29,Everything Ultra,Groceries,Europe,3005.41,1373.84,950.02,82,03-09-2024,7.35,In-store,4.9,Corporate,Credit Card,7,Not Returned
+30,Year Ultra,Furniture,Europe,3539.08,308.51,696.04,71,24-03-2024,25.59,Wholesale,1.5,Corporate,Debit Card,8,Not Returned
+31,Seven Plus,Clothing,Africa,538.3,2462.78,297.73,58,30-08-2024,27.32,Wholesale,4.9,Corporate,PayPal,6,Returned
+32,Organization Plus,Clothing,Australia,4074.2,3572.66,615.28,95,29-09-2024,2.59,In-store,3.5,Corporate,Debit Card,3,Not Returned
+33,Radio Plus,Groceries,Australia,2054.33,2641.17,973.66,49,14-08-2024,10.56,Wholesale,2,Small Business,Bank Transfer,12,Returned
+34,Reason Pro,Groceries,North America,4055.67,2613.27,28.31,36,06-01-2024,10.28,Wholesale,3.5,Corporate,Bank Transfer,4,Not Returned
+35,Save Ultra,Toys,Europe,4284.69,2182.34,269.05,18,21-10-2024,15.88,Online,4.8,Corporate,Debit Card,12,Returned
+36,He X,Toys,Australia,2370.29,66.06,206.09,26,27-11-2024,8.76,Online,4.5,Corporate,Debit Card,10,Not Returned
+37,Short Pro,Groceries,North America,2583.14,2861.51,335.97,15,06-05-2024,7.06,Online,4.2,Government,PayPal,5,Returned
+38,Notice Plus,Electronics,Australia,2138.73,1311.49,692.33,41,29-09-2024,1.76,Online,1.8,Government,Debit Card,9,Returned
+39,Figure Plus,Furniture,Europe,3152.36,1707.26,203.9,46,10-09-2024,4.46,Online,4.3,Corporate,Debit Card,6,Returned
+40,Tree Ultra,Furniture,Europe,2345.63,2896.44,738.55,92,31-01-2024,18.06,Online,3.5,Small Business,PayPal,12,Returned
+41,Order Pro,Toys,Australia,4058.38,1580.36,872.49,93,03-07-2024,8.41,In-store,1.1,Government,Credit Card,3,Not Returned
+42,Campaign X,Clothing,Australia,4813.58,3354.58,834.54,8,27-04-2024,3.76,Online,2.5,Retail,Bank Transfer,10,Returned
+43,Maybe Pro,Clothing,Asia,4774.87,2069.43,827.58,74,23-08-2024,3.37,Wholesale,1.3,Corporate,Debit Card,1,Returned
+44,Half X,Groceries,Asia,1996.65,618.51,845.8,50,06-08-2024,16.32,Online,2.8,Government,Credit Card,7,Not Returned
+45,Investment Plus,Furniture,North America,1673.58,787.19,465.37,74,06-09-2024,19.98,Wholesale,3.7,Corporate,Debit Card,10,Returned
+46,Good X,Furniture,Asia,418.63,764.46,127.67,60,14-06-2024,16.73,Online,1.4,Retail,PayPal,9,Not Returned
+47,Interview X,Furniture,Europe,2506.73,3977.44,787.45,28,17-11-2024,7.27,Online,3.7,Retail,PayPal,13,Not Returned
+48,Election Ultra,Furniture,North America,2570.48,1065.49,856.06,22,21-02-2024,3.58,In-store,1.6,Corporate,Debit Card,12,Not Returned
+49,Leader X,Toys,North America,3542.77,3022.39,254.91,46,19-05-2024,26.36,Online,1.8,Retail,Bank Transfer,1,Not Returned
+50,Fight Pro,Groceries,Africa,1741.23,2983.82,405.52,62,25-05-2024,14.63,In-store,4.3,Corporate,Credit Card,4,Not Returned
+51,Visit X,Clothing,Australia,715.77,2506.68,16.87,11,29-11-2024,19.73,In-store,2.6,Small Business,Debit Card,11,Returned
+52,Compare Pro,Electronics,Asia,2606.7,735.9,586.33,10,09-08-2024,23.98,Online,2.5,Small Business,Debit Card,8,Returned
+53,Happen X,Groceries,Africa,1171.64,2309.77,275.27,1,07-01-2024,10.69,Online,2.5,Small Business,Bank Transfer,15,Returned
+54,Technology Ultra,Clothing,Africa,3609.78,3671.08,41.56,95,13-08-2024,20.73,Wholesale,4.7,Small Business,Bank Transfer,13,Returned
+55,Scientist Pro,Clothing,Africa,2683.91,417.76,672.53,57,04-10-2024,22.13,Online,3.1,Small Business,Bank Transfer,9,Returned
+56,Address Pro,Electronics,North America,1547.78,782.89,681.52,41,09-08-2024,19.92,Wholesale,2.9,Government,Debit Card,10,Not Returned
+57,Carry X,Furniture,Europe,262.33,2825.2,370.81,77,18-07-2024,24.76,In-store,3.5,Retail,Bank Transfer,12,Not Returned
+58,Result Ultra,Electronics,Asia,4574.82,3723.23,958.08,81,15-05-2024,0.15,Online,2.5,Government,Bank Transfer,10,Not Returned
+59,Mission Plus,Groceries,Australia,4252.09,1431.24,779.15,76,26-09-2024,26.61,Wholesale,3.9,Retail,Debit Card,9,Returned
+60,City Pro,Electronics,North America,3879.78,1972.64,27.5,91,06-03-2024,25.01,Online,2.4,Corporate,Debit Card,14,Not Returned
+61,Anything Pro,Clothing,Europe,2437.71,2563.89,926.51,86,13-12-2024,5.13,Wholesale,2.2,Retail,Debit Card,2,Not Returned
+62,Mind Ultra,Groceries,Europe,3861.36,3198.68,350.25,45,22-10-2024,11.87,Online,3.5,Government,Debit Card,8,Returned
+63,Stock Plus,Toys,Africa,308.84,2273.95,669.22,42,03-07-2024,25.79,Online,5,Government,Bank Transfer,6,Returned
+64,Story Ultra,Clothing,Africa,4920.26,1302.06,887.07,50,10-05-2024,18.98,Online,4.4,Small Business,Credit Card,11,Returned
+65,Usually Pro,Toys,Australia,4308.21,3310.7,371.32,85,26-09-2024,12.42,Wholesale,3.2,Corporate,PayPal,10,Not Returned
+66,Human Pro,Furniture,Australia,3914.05,473.83,436.25,10,08-08-2024,26.26,Wholesale,4.6,Government,Credit Card,3,Not Returned
+67,Yourself X,Furniture,Europe,4193.07,2176.86,142.56,9,20-02-2024,22.87,Online,3,Corporate,Bank Transfer,9,Returned
+68,Memory Pro,Toys,Africa,2600.92,2275.83,31.36,42,19-04-2024,3.04,Online,2,Small Business,Debit Card,15,Returned
+69,Central Pro,Clothing,North America,2775.35,3427.05,228.03,42,21-02-2024,14.95,In-store,4.3,Small Business,Bank Transfer,11,Not Returned
+70,Week Ultra,Furniture,North America,4456.81,2379.79,43.59,94,08-09-2024,29.62,Online,1.4,Retail,Debit Card,1,Not Returned
+71,International Plus,Groceries,Europe,2526.6,3484,126.09,45,18-05-2024,5.5,Online,3.4,Corporate,Credit Card,11,Returned
+72,Choose Plus,Furniture,North America,1962.13,2887.24,592.07,50,16-12-2024,25.79,In-store,3.5,Retail,Bank Transfer,10,Returned
+73,Memory Ultra,Groceries,North America,1264.6,2709.33,642.46,37,27-11-2024,5.24,In-store,3.5,Corporate,Bank Transfer,12,Returned
+74,Unit Pro,Toys,Asia,3750.27,1195.64,590.94,95,08-02-2024,20.65,Wholesale,5,Corporate,Bank Transfer,13,Returned
+75,Republican X,Groceries,Asia,57.91,300.29,48.43,68,19-02-2024,8.34,Online,2.1,Small Business,Credit Card,8,Not Returned
+76,Image Plus,Clothing,Africa,1224.9,770.49,323.36,22,07-01-2024,15.02,Wholesale,4.3,Retail,Debit Card,1,Not Returned
+77,Appear Pro,Furniture,North America,2874.36,2930,573.22,67,24-04-2024,15.78,Online,3.1,Government,Bank Transfer,14,Not Returned
+78,While Plus,Toys,North America,2544.14,3617.73,613.12,61,12-07-2024,24.85,In-store,2.2,Government,Credit Card,2,Returned
+79,Poor Pro,Toys,North America,4269.43,2165.89,551.1,71,12-10-2024,1.6,Online,3,Retail,Credit Card,5,Not Returned
+80,Conference Plus,Electronics,Australia,2836.71,1947.59,314.82,32,22-07-2024,15.23,In-store,1.3,Corporate,PayPal,13,Returned
+81,Surface X,Groceries,Australia,4927.04,734.86,379.16,9,12-11-2024,14.54,Online,3.3,Retail,Credit Card,14,Returned
+82,By Ultra,Clothing,North America,478.67,56.33,379.35,75,24-04-2024,23.52,Wholesale,4.9,Small Business,PayPal,10,Returned
+83,Audience X,Groceries,North America,2477.66,3924.73,417.94,46,13-04-2024,25.79,Wholesale,1.1,Retail,Credit Card,8,Returned
+84,However Pro,Furniture,Africa,3022.56,1452.3,937.6,25,06-12-2024,12.96,Wholesale,1.8,Corporate,Bank Transfer,1,Not Returned
+85,Month Plus,Furniture,Africa,2032.46,3211.57,565.56,4,19-05-2024,17.85,In-store,2.2,Government,Debit Card,4,Returned
+86,Eye Pro,Furniture,Europe,1023.27,2945.36,840.67,11,20-12-2024,29.62,Wholesale,2.3,Corporate,PayPal,7,Returned
+87,South Plus,Clothing,Europe,607.83,1786.25,689.42,26,01-02-2024,18.61,Wholesale,3.8,Corporate,Credit Card,13,Not Returned
+88,Sister Ultra,Clothing,Asia,2027.38,3460.81,750.76,50,28-02-2024,4.25,Online,1.3,Corporate,Bank Transfer,10,Not Returned
+89,Strong X,Electronics,North America,4600.71,687.32,844.5,33,26-07-2024,29.42,Wholesale,3.7,Retail,PayPal,9,Not Returned
+90,Position Ultra,Toys,North America,4480.09,1719.52,866.73,63,02-05-2024,3.02,Online,4.7,Small Business,Credit Card,4,Returned
+91,Under Ultra,Toys,Africa,2896.08,1559.88,575.76,14,27-10-2024,16.14,Online,4,Corporate,Debit Card,15,Returned
+92,Without X,Groceries,Australia,4654.89,1463.08,114.05,11,21-01-2024,17.44,Wholesale,3.7,Small Business,Credit Card,8,Returned
+93,Sing X,Groceries,Asia,384.41,1745.49,845.78,78,05-09-2024,25.1,Online,2.3,Government,PayPal,3,Returned
+94,Community Ultra,Groceries,Asia,3037.73,119.11,179.99,68,09-09-2024,0.92,Wholesale,4.8,Retail,PayPal,4,Not Returned
+95,Heart X,Toys,Africa,1094.42,1681.83,670.33,56,17-05-2024,20.19,Online,2.3,Retail,Credit Card,14,Returned
+96,Soldier Plus,Furniture,Africa,1514.79,1984.96,665.03,16,18-01-2024,8.37,Online,3.9,Corporate,Credit Card,1,Returned
+97,Decision X,Electronics,Africa,51.45,952.52,812.89,57,21-06-2024,4.34,Online,2.7,Corporate,Bank Transfer,5,Not Returned
+98,Either Ultra,Clothing,North America,961.3,3008.46,665.03,75,04-12-2024,8.2,In-store,4.9,Corporate,Credit Card,2,Returned
+99,Room Pro,Furniture,Africa,1917.8,2946.87,400.36,97,02-06-2024,13.22,Online,1.7,Small Business,Bank Transfer,7,Returned
+100,Idea Ultra,Electronics,Africa,3957.54,2427.46,251.27,69,30-03-2024,12.56,Online,3.3,Government,Bank Transfer,7,Returned
+101,Especially Ultra,Clothing,Africa,3133.72,1824.18,931.15,96,20-06-2024,19.46,Wholesale,3.5,Corporate,Credit Card,10,Returned
+102,Partner Plus,Electronics,Africa,1941.33,3111.07,962.71,57,05-05-2024,11.86,In-store,3.4,Government,Credit Card,2,Returned
+103,Improve Ultra,Clothing,Australia,3367.4,2227.28,28.36,81,25-05-2024,7.97,Wholesale,3.2,Government,Debit Card,15,Not Returned
+104,Expert X,Furniture,Europe,3667.12,3072.23,35.95,61,06-11-2024,5.99,In-store,2.6,Small Business,Bank Transfer,6,Returned
+105,Fight Ultra,Clothing,Europe,3348.76,441.55,640.95,30,22-03-2024,3.97,In-store,2.1,Small Business,Bank Transfer,10,Returned
+106,Argue Pro,Furniture,Africa,1001.55,3373.38,910.99,58,16-08-2024,28.21,Online,1.5,Retail,Bank Transfer,11,Not Returned
+107,Let Plus,Clothing,North America,412.23,3718.12,965.54,29,25-09-2024,1.92,In-store,3,Small Business,PayPal,1,Not Returned
+108,Family X,Furniture,Australia,3541.11,1149.98,737.97,36,24-04-2024,22.81,In-store,2.4,Retail,Debit Card,12,Returned
+109,Set X,Toys,North America,3247.08,129.13,958.52,59,02-04-2024,25.62,In-store,4.7,Retail,PayPal,9,Returned
+110,Population Ultra,Furniture,North America,3119.46,1837.34,439.57,5,23-04-2024,23.29,Wholesale,4.5,Retail,Credit Card,7,Not Returned
+111,Manage Pro,Furniture,Africa,4620.66,715.06,74.3,9,11-03-2024,16.89,In-store,3.2,Corporate,PayPal,11,Not Returned
+112,Consumer Plus,Clothing,Europe,152.93,1990.38,32.04,30,18-02-2024,20.17,Online,2.9,Small Business,PayPal,10,Returned
+113,I Plus,Electronics,Europe,1851.55,1315.73,77.87,89,28-11-2024,4.98,Online,4.9,Retail,PayPal,5,Not Returned
+114,View Ultra,Toys,Australia,2175.63,3136.97,416.04,58,09-06-2024,5.56,Online,2.5,Government,Credit Card,11,Returned
+115,Single Pro,Groceries,North America,15.76,3094.33,233.07,31,06-07-2024,18.35,Wholesale,2.4,Small Business,Bank Transfer,2,Not Returned
+116,Industry X,Groceries,Australia,3947.63,170.38,580.46,64,16-04-2024,9.97,In-store,3.4,Small Business,PayPal,15,Not Returned
+117,Upon X,Electronics,Europe,3096.04,59.33,934.76,33,20-08-2024,2.6,In-store,2.5,Retail,Debit Card,8,Returned
+118,Year X,Electronics,Africa,1721.53,2285.8,432.77,11,20-10-2024,21.73,Online,3.4,Corporate,Credit Card,6,Not Returned
+119,End Ultra,Toys,Australia,3998.38,1537.05,966.01,93,02-11-2024,15.58,In-store,1.5,Small Business,Bank Transfer,1,Returned
+120,Stage Pro,Groceries,Asia,1352.39,3194.26,84.84,64,08-07-2024,25.81,Online,2.1,Corporate,PayPal,7,Returned
+121,Challenge Plus,Furniture,Asia,2511.24,2036.27,610.82,25,30-11-2024,22.57,Online,4.2,Small Business,Debit Card,3,Not Returned
+122,Option X,Electronics,Asia,2534.8,2358.79,827.73,95,27-02-2024,10.88,Wholesale,2.1,Government,PayPal,12,Returned
+123,High Ultra,Toys,North America,1328.14,1472.12,549.89,19,06-09-2024,27.13,Online,2.8,Small Business,Bank Transfer,8,Not Returned
+124,Environmental Pro,Furniture,Australia,4072.97,3570.8,575.02,17,02-01-2024,7.43,Online,4.6,Small Business,Bank Transfer,15,Returned
+125,Wear Pro,Electronics,Europe,3885.83,1333.46,237.62,56,26-05-2024,0.86,In-store,2.9,Corporate,Debit Card,2,Returned
+126,Community Ultra,Groceries,Australia,4455.28,2939.78,1.98,12,02-04-2024,24.2,Online,1.4,Small Business,PayPal,2,Not Returned
+127,Man Ultra,Electronics,Asia,61.65,2396.61,237.93,67,06-11-2024,21.12,Online,1.3,Corporate,Credit Card,6,Not Returned
+128,Citizen Pro,Toys,Asia,1024.37,3403.66,820.14,43,26-09-2024,2.55,Wholesale,2.4,Retail,PayPal,8,Not Returned
+129,Lose Ultra,Clothing,North America,3082.05,396.19,815.08,2,11-08-2024,3.16,Wholesale,4.4,Small Business,Debit Card,2,Returned
+130,Off Pro,Furniture,Africa,3126.41,2651.83,839.19,88,27-08-2024,25.4,Online,3.8,Government,Bank Transfer,8,Returned
+131,Method X,Groceries,North America,1283.79,2270.72,506.92,56,06-02-2024,1.29,In-store,1.9,Small Business,PayPal,9,Returned
+132,Play Pro,Furniture,North America,3763.01,1388.24,291.95,82,01-10-2024,10.74,Online,5,Corporate,Credit Card,1,Returned
+133,Trial Plus,Furniture,Africa,1554.97,3301.26,452.61,81,23-05-2024,5.47,Online,3.3,Retail,Bank Transfer,7,Not Returned
+134,Experience Pro,Toys,Africa,621.14,649.1,314.31,7,07-07-2024,5.57,Online,4.8,Retail,Bank Transfer,9,Not Returned
+135,Too X,Furniture,Asia,3973.25,1871.27,272.27,32,29-02-2024,24.62,In-store,2.8,Government,Bank Transfer,14,Returned
+136,Guy Ultra,Clothing,Asia,1121.11,749.6,289.54,75,28-03-2024,11.41,Online,1,Government,Debit Card,7,Returned
+137,Beautiful X,Electronics,Australia,2365.64,2554.06,147.15,71,26-07-2024,25.55,In-store,3.4,Government,Debit Card,11,Not Returned
+138,Present Plus,Electronics,Australia,4362.86,3486.65,188.13,82,11-11-2024,10.73,Wholesale,4.1,Government,PayPal,12,Not Returned
+139,Tough Plus,Electronics,Asia,1873.78,2554.99,620.46,92,06-07-2024,27.55,In-store,4.7,Small Business,Bank Transfer,13,Returned
+140,Buy Ultra,Furniture,Asia,3397.46,665.82,999.93,79,28-07-2024,24.24,Online,3,Government,Debit Card,3,Returned
+141,Once X,Furniture,Australia,3558.51,2122.91,920.83,56,08-06-2024,8.11,In-store,4.4,Retail,Bank Transfer,7,Returned
+142,Pm Pro,Groceries,Africa,2659.62,1143.69,224.25,11,20-10-2024,5.99,Online,2.8,Corporate,Credit Card,7,Not Returned
+143,Detail Plus,Furniture,Australia,3176.34,2476.03,21.82,64,27-05-2024,11.49,Wholesale,3.1,Corporate,PayPal,11,Returned
+144,Much X,Clothing,Africa,529.27,225.93,372.42,77,07-09-2024,1.39,Wholesale,4.3,Corporate,Bank Transfer,1,Returned
+145,Middle X,Electronics,Europe,847.15,3947.83,963.23,17,16-10-2024,13.48,In-store,3.3,Retail,Credit Card,10,Not Returned
+146,Behavior X,Clothing,Africa,1227.38,1695.87,614.13,78,31-08-2024,6.91,Online,4.5,Retail,Credit Card,11,Not Returned
+147,Or X,Groceries,North America,2544.34,3511.24,745.32,52,14-04-2024,15.92,Online,1.1,Corporate,Bank Transfer,13,Not Returned
+148,Score X,Groceries,Australia,2022.15,1044.9,1.03,62,11-11-2024,23.35,In-store,3.2,Corporate,Bank Transfer,7,Not Returned
+149,Turn Ultra,Furniture,Europe,356.04,3876.03,724.29,37,02-07-2024,2.65,In-store,3.9,Corporate,Credit Card,1,Not Returned
+150,Music Ultra,Clothing,Australia,1030.32,3573.09,92.74,54,30-04-2024,1.07,Online,2.7,Corporate,Bank Transfer,1,Not Returned
+151,At X,Clothing,Australia,944.93,222.12,577.64,56,04-04-2024,12.56,Wholesale,1.7,Government,Debit Card,4,Returned
+152,Enjoy X,Toys,Europe,115.81,2297.23,792.78,23,19-08-2024,12.15,Online,3.6,Retail,Bank Transfer,8,Returned
+153,Role Pro,Groceries,North America,4831.68,784.01,973.35,48,21-06-2024,24.97,Wholesale,1.6,Small Business,PayPal,6,Not Returned
+154,Should Pro,Clothing,North America,4138.43,2889.55,696.5,40,21-09-2024,13.23,Wholesale,2.2,Corporate,Bank Transfer,12,Not Returned
+155,Pm Ultra,Furniture,North America,4078.13,3466.75,189.1,36,21-09-2024,24.94,In-store,3.7,Government,Debit Card,11,Returned
+156,Party X,Groceries,North America,3765.81,955.68,662.03,2,05-07-2024,20.5,Online,4,Retail,Credit Card,8,Not Returned
+157,Explain Pro,Groceries,Europe,1468.95,3121.41,294.65,12,15-09-2024,5.37,In-store,4.8,Small Business,Credit Card,9,Returned
+158,Member Plus,Furniture,Asia,2402.52,833.87,664.63,8,10-08-2024,11.13,Online,2.2,Small Business,Debit Card,5,Returned
+159,Foot Ultra,Toys,Australia,3018.08,741.79,886.4,47,06-10-2024,18.63,In-store,2.8,Corporate,PayPal,5,Returned
+160,Myself Plus,Electronics,Australia,4636.03,291.2,93.46,83,14-04-2024,15.55,Wholesale,1.6,Small Business,Debit Card,7,Returned
+161,Wear Pro,Groceries,North America,3857.61,2119.33,950.34,18,01-07-2024,10,Online,4.8,Government,Bank Transfer,10,Not Returned
+162,Ground Plus,Groceries,Asia,1389.4,2979.07,125.39,22,09-03-2024,10.23,Online,4.6,Retail,PayPal,5,Returned
+163,Site Ultra,Electronics,Africa,1197.85,3564.52,470.96,22,09-09-2024,18.23,Wholesale,2.9,Small Business,PayPal,15,Not Returned
+164,Pull Pro,Furniture,Europe,4771.59,1689.81,887.28,2,10-02-2024,13.89,Wholesale,4.4,Corporate,PayPal,8,Not Returned
+165,Alone X,Electronics,North America,2399.22,3211.64,347.74,41,12-06-2024,25.33,Online,4.1,Retail,Bank Transfer,4,Returned
+166,Feeling Pro,Clothing,Asia,2394.99,2607.31,186.51,71,26-09-2024,26.25,In-store,3.7,Government,Bank Transfer,13,Returned
+167,Court X,Electronics,Africa,3549.57,2468.64,422.61,80,03-11-2024,10.81,Online,3.1,Retail,Credit Card,13,Not Returned
+168,Class Pro,Toys,Australia,1121.39,3227.75,148,33,02-11-2024,15.62,Online,2.6,Corporate,Bank Transfer,4,Not Returned
+169,Policy Pro,Toys,Australia,2159.86,3905.13,101.54,1,11-03-2024,2.33,In-store,1.4,Corporate,Debit Card,1,Returned
+170,Part X,Clothing,Australia,4861.58,103.56,868.9,31,14-06-2024,24.91,Wholesale,2.3,Corporate,Credit Card,15,Not Returned
+171,Probably Pro,Groceries,Asia,2187.74,402.84,969.41,16,22-09-2024,28.02,Online,1.6,Corporate,Debit Card,12,Returned
+172,Manager Ultra,Groceries,Asia,3401.59,2812.92,86.95,85,13-03-2024,29.24,Wholesale,2.1,Small Business,PayPal,4,Not Returned
+173,Reason X,Clothing,Australia,1020.46,3657.33,520.02,50,12-05-2024,16.96,Online,4.6,Government,Credit Card,9,Not Returned
+174,Particular Ultra,Electronics,Asia,3969.81,1355.72,986.64,88,18-08-2024,8.45,In-store,4.4,Small Business,Debit Card,7,Returned
+175,Provide Pro,Groceries,Europe,3953.09,45.86,803.47,44,01-05-2024,17.14,In-store,2.9,Corporate,Debit Card,4,Returned
+176,Language Ultra,Toys,North America,2859.7,2274.88,684.35,88,23-03-2024,26.48,In-store,1.2,Retail,PayPal,2,Not Returned
+177,Guess X,Clothing,Asia,524.31,1286.71,794.71,2,19-02-2024,25.62,In-store,3.7,Government,Bank Transfer,9,Not Returned
+178,Upon Pro,Clothing,Asia,794.54,3566.96,556.91,36,30-11-2024,5.71,Wholesale,3,Small Business,PayPal,3,Returned
+179,Mention Plus,Toys,Europe,2232.9,2762.17,338.58,74,07-10-2024,14.37,In-store,1.4,Government,Debit Card,6,Not Returned
+180,By Plus,Electronics,Africa,4739.88,1888.64,748.21,61,11-05-2024,1.09,In-store,2.4,Government,PayPal,2,Returned
+181,Daughter Pro,Groceries,Asia,2355.95,3673.29,90.04,51,15-08-2024,8.6,In-store,1.2,Corporate,PayPal,2,Not Returned
+182,Hour Pro,Clothing,Africa,3030.67,2453.73,29.12,24,29-01-2024,0.56,In-store,4.5,Government,Bank Transfer,12,Not Returned
+183,Raise Plus,Toys,Europe,4619.03,3483.72,680.41,49,29-07-2024,17.83,Online,4.9,Retail,Debit Card,13,Not Returned
+184,Imagine Ultra,Electronics,Australia,794.06,524.66,700.55,62,05-07-2024,13.72,Online,3.3,Corporate,Debit Card,11,Not Returned
+185,Animal Ultra,Electronics,Australia,1807.91,1436.54,525.74,94,09-05-2024,1.91,In-store,2.9,Retail,Bank Transfer,1,Not Returned
+186,Pretty X,Clothing,Europe,4212.3,1346.93,428.96,75,19-03-2024,4.73,Online,3.8,Small Business,Debit Card,11,Returned
+187,Again Ultra,Furniture,Africa,2443.75,3768.39,252.3,85,18-04-2024,3.97,Wholesale,1.6,Small Business,Bank Transfer,14,Returned
+188,Skin Ultra,Clothing,North America,561.04,2534.61,282.02,45,20-04-2024,19.78,Wholesale,2.8,Government,PayPal,11,Not Returned
+189,Task Pro,Electronics,Africa,3798.22,3986.37,780,19,28-02-2024,14.5,Online,3.6,Small Business,PayPal,12,Returned
+190,Wear X,Toys,Africa,988.63,703.93,271.86,80,01-03-2024,27.12,Online,3.4,Corporate,Bank Transfer,7,Returned
+191,Seek Pro,Clothing,Africa,4914.6,100.48,632.49,89,03-08-2024,9.41,In-store,2.5,Small Business,Bank Transfer,9,Not Returned
+192,Success X,Furniture,Asia,1553.93,497.99,713.46,71,07-09-2024,3.47,Online,2.6,Government,Debit Card,3,Returned
+193,Rule Ultra,Furniture,Africa,3721.77,488.59,430.35,37,24-03-2024,23.61,In-store,4.9,Corporate,Bank Transfer,11,Returned
+194,Goal Plus,Electronics,Europe,964.04,1996.44,562.52,48,19-02-2024,3.21,Online,3,Corporate,Bank Transfer,3,Not Returned
+195,Moment Pro,Groceries,North America,1147.73,3060.27,145.4,74,18-04-2024,10.1,Wholesale,4.6,Small Business,Bank Transfer,6,Not Returned
+196,Safe X,Electronics,Europe,1838.93,1552.08,958.14,23,08-11-2024,27.95,In-store,4.9,Government,Credit Card,8,Not Returned
+197,Campaign Ultra,Groceries,Europe,4183.59,2785.73,958.06,8,30-09-2024,1.53,Wholesale,1.9,Corporate,Bank Transfer,15,Not Returned
+198,Wait Plus,Groceries,North America,1855.94,3104.02,175.95,71,14-07-2024,26.65,In-store,4.3,Corporate,Credit Card,14,Returned
+199,Available X,Electronics,North America,4908.25,1233.93,781.53,44,27-04-2024,13.03,Online,3.7,Corporate,Bank Transfer,1,Returned
+200,Data Plus,Toys,Europe,1286.68,3483.6,362.82,41,06-06-2024,21.25,Online,2.9,Corporate,Bank Transfer,11,Not Returned
+201,Medical Ultra,Clothing,North America,1480.28,3003.83,944.9,18,04-06-2024,19.47,Online,1.6,Government,PayPal,4,Returned
+202,Talk Ultra,Clothing,Asia,2704.57,2422.19,667.99,19,02-05-2024,22.71,Wholesale,1.3,Retail,Bank Transfer,13,Not Returned
+203,Degree Ultra,Furniture,Australia,3607.79,2962.73,599.45,87,23-05-2024,11.79,In-store,1.5,Small Business,PayPal,15,Returned
+204,Cover Plus,Groceries,Africa,581.62,2467.81,849.46,65,25-02-2024,23.9,Wholesale,2.7,Corporate,Credit Card,13,Returned
+205,Language Pro,Clothing,Europe,3001.25,1405.22,576.13,73,06-09-2024,6.24,In-store,2.5,Corporate,Credit Card,1,Returned
+206,Others X,Furniture,Asia,621.03,1457.91,570.97,94,11-12-2024,23.85,In-store,2.3,Corporate,Bank Transfer,9,Not Returned
+207,Rule X,Electronics,Europe,3111.35,2954.33,300.74,11,02-12-2024,20.12,In-store,4.9,Corporate,Bank Transfer,5,Not Returned
+208,Sort X,Electronics,North America,971.42,1749.46,774.6,64,06-07-2024,8.44,Online,3.5,Small Business,Debit Card,1,Returned
+209,Hour Plus,Toys,North America,2236.41,82.15,118.12,25,05-01-2024,20.2,In-store,3.3,Retail,Debit Card,11,Returned
+210,Song X,Electronics,Asia,4005.46,2826.88,629.08,56,07-10-2024,1.46,In-store,3.9,Corporate,Debit Card,8,Returned
+211,Play Ultra,Toys,Europe,2029,89.27,516.48,25,29-08-2024,1.71,In-store,4.5,Corporate,Debit Card,8,Not Returned
+212,Treat Ultra,Furniture,Australia,4069.84,1620.73,800.01,42,24-11-2024,1.85,In-store,2,Small Business,Credit Card,4,Returned
+213,Option X,Groceries,Africa,2888.57,3147.02,828.86,98,21-02-2024,6.5,Online,3.2,Retail,PayPal,4,Not Returned
+214,Dog Plus,Furniture,North America,4189.56,3846.16,1.05,95,28-05-2024,2.61,In-store,3.5,Corporate,Bank Transfer,5,Not Returned
+215,Condition Ultra,Furniture,Africa,1480.49,2802.36,164.11,73,09-01-2024,29.79,Wholesale,4.6,Retail,Bank Transfer,11,Not Returned
+216,Fine Ultra,Groceries,Australia,1016.94,2506.38,892.33,92,30-01-2024,14.39,In-store,3.8,Retail,Debit Card,1,Returned
+217,Study Pro,Groceries,North America,4767.21,961.38,420.71,31,09-05-2024,20.49,Wholesale,1.6,Corporate,PayPal,7,Not Returned
+218,Again Pro,Clothing,Europe,4709.65,996.17,282.88,71,29-09-2024,21.94,In-store,3.2,Retail,Credit Card,5,Returned
+219,Wide X,Toys,Australia,703.11,1997.39,860.26,82,03-11-2024,17.88,Online,1.5,Small Business,Bank Transfer,15,Not Returned
+220,Number Pro,Electronics,Africa,3078.24,209.19,389,26,27-10-2024,22.48,Online,2.1,Retail,Bank Transfer,1,Not Returned
+221,No X,Clothing,Africa,2692.54,3704.84,469.47,47,10-01-2024,7.94,Online,3,Government,Credit Card,3,Not Returned
+222,It Plus,Clothing,Asia,1618.18,3831.12,323.94,22,10-03-2024,22.15,Online,4,Government,Credit Card,6,Returned
+223,Effort Plus,Electronics,Asia,4125.16,372.58,454.39,40,05-03-2024,25,In-store,3.3,Government,Bank Transfer,5,Returned
+224,Car Plus,Clothing,Australia,1379.92,966.69,323.82,5,04-10-2024,25.98,Online,1.7,Corporate,Debit Card,6,Returned
+225,Until Pro,Groceries,Europe,1335.44,3273.72,865.79,72,28-01-2024,22.9,Online,1.3,Retail,Bank Transfer,10,Not Returned
+226,Cost Plus,Toys,North America,4010.05,546.41,288.18,17,07-10-2024,21.76,Online,2.1,Government,PayPal,13,Returned
+227,Issue Ultra,Electronics,Europe,2167.87,3692.54,543.72,42,07-09-2024,16.64,Online,4.9,Government,Credit Card,7,Not Returned
+228,Ago Ultra,Electronics,North America,3816.25,2196.28,193.66,8,26-04-2024,23.47,Online,4.8,Retail,PayPal,12,Not Returned
+229,Minute X,Toys,North America,4606.07,955.69,565.4,2,04-03-2024,23.51,In-store,4.3,Small Business,Credit Card,10,Not Returned
+230,Throw Pro,Furniture,North America,1199.73,2357.28,642.47,37,12-06-2024,15.39,Online,4.8,Corporate,PayPal,7,Not Returned
+231,Hotel Plus,Groceries,Asia,3612.01,369.8,985.57,24,14-10-2024,5.64,Online,2.9,Government,PayPal,11,Returned
+232,Subject Plus,Toys,Australia,1269.9,2552.03,890.65,89,20-04-2024,19.48,In-store,3.2,Government,Credit Card,4,Returned
+233,Star X,Groceries,Europe,3762.67,2183.72,785.15,94,03-05-2024,28.63,Online,2.4,Government,Credit Card,2,Not Returned
+234,Me Plus,Electronics,Asia,4958.63,2160.24,402.85,7,22-11-2024,8.86,Online,1.7,Corporate,Bank Transfer,11,Not Returned
+235,Every Ultra,Furniture,Europe,3729.93,980.68,921.74,53,16-09-2024,1.28,Wholesale,2.4,Government,Debit Card,14,Not Returned
+236,Believe Pro,Groceries,Europe,3222.51,2436.14,723.76,80,19-02-2024,6.45,In-store,3.5,Retail,Bank Transfer,4,Not Returned
+237,Style X,Electronics,Asia,2417.21,1057.43,493.73,48,22-03-2024,15.32,Online,1.3,Retail,Bank Transfer,3,Not Returned
+238,Build Plus,Groceries,Asia,3230.34,2598.72,855.89,25,28-01-2024,19.06,In-store,2.3,Small Business,Credit Card,13,Not Returned
+239,Policy X,Clothing,Africa,190.79,2285.82,520.88,12,13-07-2024,0.23,In-store,2.3,Retail,PayPal,5,Returned
+240,Interview Ultra,Clothing,Europe,1188.86,3526.9,395,11,28-07-2024,6.33,In-store,2,Retail,PayPal,6,Returned
+241,Manage Ultra,Electronics,Asia,1806,863,304.87,70,25-02-2024,5.64,Online,4.8,Corporate,Credit Card,3,Returned
+242,View Plus,Groceries,North America,3507.97,2868.31,972.95,23,09-12-2024,7.17,Online,3.6,Small Business,Debit Card,14,Returned
+243,Goal Pro,Clothing,Australia,3045.95,358.9,459.16,16,26-05-2024,22.08,Wholesale,2.7,Corporate,Debit Card,3,Not Returned
+244,Most Plus,Furniture,North America,275.3,887.16,629.06,7,14-04-2024,11.29,In-store,3.6,Retail,Bank Transfer,10,Returned
+245,Figure Plus,Electronics,Europe,168.18,217.9,556.49,80,23-01-2024,2,Wholesale,1,Retail,Debit Card,5,Not Returned
+246,Discussion X,Groceries,Asia,347.46,427.98,741.57,87,13-02-2024,14.37,Wholesale,2,Government,Bank Transfer,12,Not Returned
+247,Boy Ultra,Groceries,Australia,2125.03,2400.91,731.96,26,02-01-2024,26.11,Wholesale,3.2,Government,PayPal,3,Not Returned
+248,Return X,Electronics,Asia,2217.87,285.29,164.37,75,09-06-2024,19.26,Wholesale,2.9,Corporate,Credit Card,14,Not Returned
+249,Will Ultra,Furniture,Europe,894.65,3039.48,609.06,19,22-02-2024,20.7,In-store,2.6,Small Business,Bank Transfer,8,Not Returned
+250,American Pro,Groceries,Asia,1640.13,956.57,304.42,69,01-12-2024,0.54,Online,2.7,Retail,Credit Card,4,Not Returned
+251,Account X,Electronics,Asia,336.29,2509.28,206.99,84,09-07-2024,15.05,Wholesale,3.2,Corporate,Debit Card,11,Returned
+252,Street Plus,Groceries,Europe,2778.9,2474.29,528.78,46,06-08-2024,6.42,Online,2.6,Corporate,Bank Transfer,15,Returned
+253,His Plus,Toys,Australia,3054.24,2389.19,867.83,14,15-09-2024,8.11,Wholesale,3.1,Retail,Credit Card,13,Returned
+254,Seat Ultra,Furniture,North America,154.54,425,442.67,43,01-04-2024,11.2,Online,3.5,Corporate,Credit Card,2,Not Returned
+255,Build Ultra,Groceries,Europe,1244.03,2994.78,496.05,36,02-06-2024,23.46,In-store,2.4,Corporate,Bank Transfer,9,Not Returned
+256,General Pro,Groceries,North America,1375.91,3472.5,401.55,56,18-04-2024,14.54,In-store,4.5,Government,PayPal,14,Not Returned
+257,Forward Ultra,Clothing,North America,1017.45,3126.2,773.33,86,12-05-2024,13.33,In-store,2.5,Government,Bank Transfer,4,Not Returned
+258,Occur Pro,Toys,Europe,2218.47,3370.54,342.18,35,01-12-2024,2.95,Online,1.4,Government,Debit Card,10,Returned
+259,Another Pro,Groceries,Asia,4131.64,3247.01,322.7,24,10-09-2024,5.01,In-store,3.6,Government,PayPal,5,Not Returned
+260,Current Plus,Clothing,Europe,2752.11,688.42,228.65,14,08-05-2024,12.74,Online,2.7,Government,Bank Transfer,6,Not Returned
+261,Moment Pro,Clothing,North America,538.15,3130.23,412.6,45,21-10-2024,16.55,Online,1.9,Small Business,Debit Card,2,Not Returned
+262,Radio X,Clothing,Europe,3005.05,90.07,643.38,59,25-07-2024,17.52,In-store,1.9,Corporate,Bank Transfer,4,Returned
+263,Education Ultra,Clothing,Africa,2357.99,170.37,108.92,22,19-07-2024,29.63,In-store,1.6,Retail,PayPal,5,Not Returned
+264,Focus Plus,Clothing,Asia,4948.04,2400.06,304.89,25,28-04-2024,12.11,Online,3.4,Corporate,Bank Transfer,14,Not Returned
+265,Budget X,Toys,Africa,4799.31,3977.45,365.55,33,31-03-2024,6.49,In-store,1.5,Government,Credit Card,3,Returned
+266,Impact Ultra,Groceries,Europe,39.66,1503.46,131.48,23,09-03-2024,2.31,Wholesale,3.9,Corporate,Bank Transfer,10,Returned
+267,Lot Pro,Clothing,North America,1169.48,1270.24,354.24,58,06-10-2024,4.86,In-store,2.1,Government,Bank Transfer,15,Not Returned
+268,Serious Pro,Furniture,North America,4636.61,2516.04,30.2,71,21-10-2024,1.41,Online,2.5,Small Business,Credit Card,10,Returned
+269,Fast Ultra,Toys,Australia,3463.54,1834.77,428.81,97,12-06-2024,23.68,Wholesale,1.6,Retail,Debit Card,9,Returned
+270,Loss X,Electronics,Australia,4316.6,1300.13,35.76,19,29-09-2024,26.54,Wholesale,1.3,Government,Debit Card,10,Returned
+271,Specific Ultra,Electronics,North America,1009.83,1012.65,185.76,62,26-02-2024,23.99,In-store,4.3,Retail,PayPal,14,Returned
+272,Time Ultra,Groceries,North America,4073.92,603.9,75.38,65,01-01-2024,26.9,In-store,4.9,Corporate,Debit Card,15,Returned
+273,East Ultra,Furniture,North America,3663.94,827.12,154.94,56,13-04-2024,27.75,Wholesale,3.6,Small Business,Credit Card,3,Not Returned
+274,Build Plus,Clothing,Europe,824.01,1392.57,218.46,19,30-11-2024,7,Online,4.2,Government,PayPal,1,Returned
+275,Think Pro,Clothing,Asia,4253.93,1909.01,245.52,12,26-09-2024,24.82,In-store,4.2,Small Business,Bank Transfer,8,Returned
+276,Nature Pro,Furniture,Asia,2910.48,3312.06,159.3,94,10-11-2024,4.49,Wholesale,3.4,Small Business,Credit Card,9,Not Returned
+277,Single Ultra,Clothing,Africa,4864.01,3279.04,764.56,51,28-01-2024,20.47,Wholesale,2.2,Corporate,PayPal,3,Not Returned
+278,Form X,Toys,North America,2614.14,3856.74,453.18,3,01-05-2024,8.64,Online,1.2,Small Business,Debit Card,3,Returned
+279,Station Plus,Groceries,Africa,2331.88,1247.17,637.96,95,01-07-2024,24.13,Online,4.1,Corporate,Credit Card,7,Not Returned
+280,Know Ultra,Toys,Africa,358.43,3373.09,498.53,57,06-02-2024,2.36,Wholesale,4.2,Small Business,Debit Card,13,Returned
+281,Science Ultra,Groceries,Europe,543.69,2090.97,560.52,14,21-05-2024,22.06,Wholesale,3.2,Retail,Bank Transfer,9,Returned
+282,Cut Plus,Clothing,Australia,99.16,2012.31,57.36,49,27-03-2024,18.36,Online,4.9,Government,Bank Transfer,13,Not Returned
+283,Recognize X,Toys,Europe,4283.32,2510.45,360.42,75,07-05-2024,18.71,In-store,1.4,Government,Bank Transfer,5,Returned
+284,Quality X,Toys,Europe,4669.46,3671.92,87.59,24,27-10-2024,17.86,Wholesale,4.2,Small Business,Bank Transfer,2,Returned
+285,Particularly Plus,Groceries,Africa,3075.08,1538.66,884.5,34,10-05-2024,26.33,In-store,1.3,Small Business,Credit Card,4,Not Returned
+286,Someone Plus,Furniture,Asia,3406.1,2205.4,447.5,79,21-08-2024,14.21,Online,1.1,Government,Credit Card,1,Returned
+287,Shake Pro,Toys,Africa,808.45,3864.45,12.67,78,10-10-2024,26.45,Online,3.4,Corporate,Credit Card,2,Not Returned
+288,Author Plus,Electronics,Australia,2245.91,3135.72,563.24,70,27-03-2024,16.65,In-store,4.3,Government,Debit Card,13,Not Returned
+289,Pressure Ultra,Electronics,Asia,870.61,3668.57,314.12,53,05-03-2024,6.3,In-store,3.6,Corporate,Credit Card,13,Returned
+290,Like Ultra,Clothing,Asia,1135.82,1708.3,50.99,54,24-05-2024,0.44,In-store,2.2,Small Business,Bank Transfer,12,Returned
+291,Collection X,Clothing,North America,4511.82,1431.25,247.78,12,03-02-2024,6.88,Wholesale,2.4,Small Business,Bank Transfer,7,Returned
+292,Trade Plus,Furniture,Asia,2840.3,3651.05,396.67,11,09-07-2024,17.96,Online,1.4,Government,Bank Transfer,7,Not Returned
+293,House Pro,Groceries,Asia,4028.82,3547.82,842.76,7,28-01-2024,5.62,In-store,4.6,Small Business,Credit Card,10,Returned
+294,Order Pro,Furniture,Asia,3698.09,2213.14,641.54,86,08-06-2024,6.28,Online,4.5,Corporate,Debit Card,14,Returned
+295,Drive Plus,Toys,North America,4064.9,3626.35,943.1,38,03-07-2024,9.9,In-store,1.3,Corporate,Bank Transfer,2,Returned
+296,Consumer X,Clothing,Australia,4186.52,2413.43,867.63,58,22-07-2024,12.88,Wholesale,2.4,Government,PayPal,11,Not Returned
+297,Sit Plus,Groceries,Africa,3579.3,2691.06,444.65,82,10-07-2024,5.6,Online,3.8,Corporate,PayPal,13,Returned
+298,Foreign Pro,Toys,Africa,907.62,375.44,937.79,69,01-09-2024,26.29,Wholesale,4.9,Government,Debit Card,1,Not Returned
+299,Large Plus,Toys,North America,4553.56,1101.54,640.91,97,01-12-2024,14.71,Wholesale,3.5,Retail,Credit Card,13,Returned
+300,None Ultra,Furniture,Australia,2120.32,369.3,454.39,74,02-01-2024,21.29,Wholesale,3.5,Retail,Debit Card,14,Not Returned
+301,Toward Plus,Groceries,Europe,2585.43,2591.81,269.35,11,05-03-2024,27.04,Online,2.1,Retail,Bank Transfer,4,Returned
+302,Such Pro,Toys,Africa,827.55,1194.89,187.79,37,11-02-2024,4.99,In-store,2.2,Retail,Credit Card,9,Not Returned
+303,Social Ultra,Furniture,Europe,3598.22,2827.99,660.13,48,24-08-2024,12.75,In-store,2,Government,Credit Card,11,Returned
+304,Include X,Toys,Asia,1400.16,349.3,109.02,8,22-10-2024,14.68,Online,2.9,Retail,Credit Card,1,Returned
+305,Figure Pro,Electronics,North America,2503.45,318.03,278.31,31,24-03-2024,22.6,In-store,2.2,Small Business,Bank Transfer,7,Returned
+306,Model Plus,Toys,North America,3451.52,2281.62,940.44,20,07-10-2024,2.57,Wholesale,3,Small Business,Bank Transfer,15,Not Returned
+307,Quickly Ultra,Groceries,Africa,18.78,2088.74,842.38,70,25-09-2024,25.61,Online,4.9,Retail,Debit Card,7,Returned
+308,Else Plus,Electronics,Europe,4964.92,3381.52,160.45,82,08-07-2024,18.65,Wholesale,3.3,Small Business,Bank Transfer,1,Not Returned
+309,Though Plus,Toys,Asia,1585.43,2609.31,940.26,65,09-06-2024,27.14,Online,2.6,Retail,Credit Card,1,Not Returned
+310,Central Ultra,Electronics,Asia,300.37,3954.32,335.2,59,13-08-2024,20.84,In-store,2.6,Retail,Bank Transfer,13,Not Returned
+311,Option X,Electronics,North America,4599.23,596.37,994.65,52,03-08-2024,3.27,In-store,3.6,Government,Debit Card,7,Not Returned
+312,Level Pro,Toys,Asia,2637.12,2756.23,916.81,27,09-09-2024,15.02,Wholesale,2.2,Small Business,PayPal,7,Returned
+313,Face X,Groceries,Asia,3132.66,3212.65,794.09,50,11-03-2024,6.57,Wholesale,3.5,Retail,Bank Transfer,7,Returned
+314,Area X,Toys,Africa,4296.6,19.92,517.1,84,06-05-2024,25.96,Online,2.5,Small Business,Bank Transfer,2,Returned
+315,Share Ultra,Groceries,North America,2948.72,3660.91,357.74,41,30-04-2024,9.69,In-store,3.3,Small Business,Credit Card,2,Not Returned
+316,Military Plus,Electronics,Africa,3522.42,36.23,160.2,92,01-10-2024,4.62,Wholesale,3.6,Government,PayPal,5,Not Returned
+317,Six Plus,Groceries,Australia,3802.03,1892.3,741.45,29,15-11-2024,21.74,Online,3.4,Retail,Bank Transfer,13,Not Returned
+318,Example X,Electronics,Asia,291.42,835.04,219.42,96,17-10-2024,20,Online,1.8,Small Business,Bank Transfer,7,Returned
+319,Pm Plus,Electronics,Australia,2618.64,2020.46,900.68,60,07-08-2024,7.13,Online,2.6,Retail,Bank Transfer,2,Not Returned
+320,Member X,Toys,Africa,3091.18,2043.46,423.2,55,12-09-2024,1.43,In-store,1.7,Government,Credit Card,15,Not Returned
+321,Next Plus,Toys,Africa,1382.6,1087.13,420,50,22-04-2024,2.89,In-store,1.8,Corporate,PayPal,2,Returned
+322,Total Ultra,Clothing,Australia,4687.12,3580.18,606.28,79,25-06-2024,1.2,In-store,4.3,Corporate,PayPal,7,Not Returned
+323,Up Ultra,Groceries,North America,815.28,1279.64,626.95,20,08-03-2024,2.76,Online,1.5,Retail,PayPal,14,Not Returned
+324,Series X,Furniture,Europe,4545.74,1441.3,659.09,4,08-09-2024,19.36,Wholesale,1.8,Government,Debit Card,1,Not Returned
+325,Our X,Toys,Asia,1411.94,633.73,606.43,40,09-12-2024,5.17,Online,1.4,Corporate,Bank Transfer,11,Not Returned
+326,Security Pro,Toys,Asia,3802.34,3792.16,315.52,27,02-10-2024,23.67,In-store,3,Government,Bank Transfer,13,Not Returned
+327,Nation Pro,Clothing,Africa,4816.44,1372.01,774.12,60,02-01-2024,5.94,Online,1.6,Corporate,Debit Card,4,Not Returned
+328,Admit X,Electronics,Europe,4047.43,3850.48,416.79,42,12-04-2024,19.17,In-store,2.9,Retail,PayPal,9,Returned
+329,Avoid X,Groceries,Asia,3744.25,28.15,807.76,72,13-06-2024,26.95,In-store,4.9,Small Business,Debit Card,15,Not Returned
+330,Trouble Ultra,Toys,North America,2268.96,1657.55,271.2,45,17-07-2024,19.12,Online,2.1,Retail,Credit Card,8,Returned
+331,Recently Pro,Clothing,Africa,2865.8,736.6,249.76,70,30-10-2024,6.67,In-store,4.7,Corporate,Bank Transfer,8,Not Returned
+332,Season X,Toys,Europe,3405.06,1745.8,465.12,48,24-11-2024,20.7,Wholesale,1.5,Small Business,Debit Card,4,Not Returned
+333,My X,Toys,North America,3521.86,1969.97,71.38,86,03-06-2024,3.81,In-store,4.3,Retail,Credit Card,5,Not Returned
+334,Process Pro,Clothing,Africa,616.77,2815.87,410.6,42,30-07-2024,13.89,In-store,2.9,Corporate,Debit Card,3,Returned
+335,Red Pro,Groceries,Australia,2695.04,190.68,603.38,72,15-01-2024,25.73,Online,3.7,Small Business,PayPal,8,Not Returned
+336,Professor Pro,Electronics,Asia,3562.4,2703.45,42.71,87,25-03-2024,8.68,In-store,4.7,Corporate,Bank Transfer,1,Returned
+337,Southern Ultra,Clothing,Africa,233.86,2877.92,866.18,72,12-03-2024,22.09,Online,2.7,Small Business,Debit Card,12,Not Returned
+338,Laugh Plus,Clothing,North America,245.36,3916.59,741.84,60,20-11-2024,8.64,In-store,4.4,Government,Credit Card,13,Not Returned
+339,Anyone Ultra,Toys,North America,4324.33,3214.56,427.36,96,23-07-2024,23.77,Wholesale,2.2,Government,Debit Card,9,Not Returned
+340,Any Plus,Clothing,Australia,480.55,1043.48,455.13,88,09-12-2024,3.5,Online,3.7,Small Business,Credit Card,13,Returned
+341,Particularly Pro,Electronics,Europe,1969.39,2701.46,705.06,47,05-06-2024,22.37,Online,1.8,Retail,Bank Transfer,13,Not Returned
+342,Wait Pro,Electronics,Africa,463.9,1399.01,321.79,32,08-08-2024,5,Online,3.7,Retail,PayPal,6,Not Returned
+343,Hand Plus,Toys,Europe,302.83,2346.95,941.98,42,10-09-2024,0.65,Online,3.3,Government,PayPal,11,Not Returned
+344,Hair Plus,Groceries,Europe,318.14,217.18,487.32,3,21-09-2024,14.52,Online,4.8,Corporate,Bank Transfer,1,Not Returned
+345,Account Ultra,Clothing,Australia,1538.7,1396.14,384.85,87,30-01-2024,15.05,Wholesale,4.4,Corporate,Bank Transfer,10,Not Returned
+346,Yet X,Clothing,Asia,1367.3,538.02,967.85,100,28-08-2024,9.46,Wholesale,2.8,Retail,Credit Card,1,Not Returned
+347,Bed Ultra,Groceries,Australia,1971.32,2875.7,184.87,58,09-09-2024,28.7,Wholesale,1.4,Corporate,PayPal,10,Returned
+348,Subject Plus,Toys,Europe,213.32,618.46,891.14,51,28-08-2024,13.4,Wholesale,2.1,Small Business,Credit Card,14,Not Returned
+349,Into Plus,Furniture,Europe,1350.86,2991.03,421.95,44,08-02-2024,8.06,Wholesale,1.4,Government,Credit Card,4,Not Returned
+350,Front Plus,Electronics,Europe,3790.92,3324.08,235,24,09-02-2024,0.98,Online,2.7,Retail,PayPal,11,Not Returned
+351,Mean Plus,Groceries,Europe,4427.17,2861.43,789.17,22,06-05-2024,23.48,Wholesale,2.9,Government,Bank Transfer,11,Not Returned
+352,Stage Plus,Groceries,Asia,3738.35,3375.51,263.58,6,30-06-2024,14.46,Wholesale,1.7,Small Business,PayPal,7,Not Returned
+353,Though Pro,Furniture,Asia,850.85,2656.54,871.88,20,24-08-2024,0.07,Wholesale,3.7,Retail,Credit Card,12,Not Returned
+354,Sure X,Furniture,North America,36.83,3212.97,940.12,45,20-08-2024,5.6,Wholesale,2.8,Corporate,PayPal,3,Returned
+355,Fine Pro,Toys,North America,1361.47,298.39,866.95,53,22-06-2024,6.57,Wholesale,3.6,Small Business,PayPal,10,Returned
+356,Business Plus,Clothing,Asia,3111.62,625.77,262.8,9,20-06-2024,4.33,In-store,3.4,Corporate,Credit Card,12,Returned
+357,Congress Plus,Electronics,Europe,1547.85,2516.65,220.49,4,19-10-2024,28.84,Wholesale,4.9,Government,Debit Card,5,Not Returned
+358,Spend Plus,Furniture,Africa,3455.53,1865.07,817.47,97,10-04-2024,23.34,In-store,3.8,Corporate,Debit Card,5,Not Returned
+359,Control X,Groceries,North America,2597.59,2505.02,37.65,74,26-02-2024,27.12,Wholesale,2.8,Government,Credit Card,13,Returned
+360,Early Plus,Groceries,Australia,4269.79,956.36,583.09,21,03-11-2024,3.2,Wholesale,3,Government,PayPal,1,Returned
+361,Black X,Groceries,Asia,3633.08,2570.5,309.41,95,17-04-2024,6.62,Online,4.3,Government,Credit Card,13,Not Returned
+362,Once Ultra,Furniture,Africa,3995.45,1656.66,331.68,72,22-08-2024,14.09,Online,4.6,Government,PayPal,12,Returned
+363,Use Pro,Electronics,Africa,4597.52,2856.17,525.76,75,16-02-2024,26.65,In-store,3.6,Small Business,Debit Card,2,Returned
+364,Center Pro,Toys,North America,3190.87,3026.68,750.73,83,21-05-2024,23.05,Online,4.2,Small Business,Debit Card,13,Returned
+365,Skin Plus,Clothing,Asia,4589.91,1290.65,663.01,35,21-09-2024,2.56,Wholesale,2.9,Government,Credit Card,13,Not Returned
+366,Personal Plus,Electronics,Africa,243.03,1000.27,18.29,47,06-07-2024,10.06,In-store,4.9,Government,Debit Card,7,Not Returned
+367,Cause Plus,Groceries,Europe,1079.42,776.57,508.75,17,10-05-2024,6.8,Wholesale,3.9,Retail,Bank Transfer,8,Not Returned
+368,Night Pro,Toys,North America,4192.39,3024.98,255.66,78,06-04-2024,27.07,In-store,4.2,Small Business,Debit Card,5,Not Returned
+369,Bring Plus,Electronics,Australia,2139.05,198.32,510.87,86,13-09-2024,16.78,In-store,2.1,Small Business,Credit Card,6,Returned
+370,Buy X,Groceries,Australia,1215.85,3996.7,722.84,31,01-09-2024,17.01,In-store,2.4,Corporate,Credit Card,2,Not Returned
+371,Others Plus,Electronics,Europe,3221.4,3792.43,375.72,54,21-10-2024,11.31,Wholesale,3.1,Small Business,Credit Card,5,Returned
+372,Card Ultra,Groceries,North America,4774.21,834.99,214.03,2,16-10-2024,11.32,Wholesale,2.7,Government,PayPal,9,Not Returned
+373,Which Ultra,Toys,Australia,4117.2,1429.45,178.99,43,27-01-2024,5.96,Wholesale,2,Small Business,Bank Transfer,14,Not Returned
+374,Cell Plus,Clothing,Australia,1467.43,2876.84,227.04,70,22-03-2024,2.18,Online,4.1,Small Business,Debit Card,13,Returned
+375,Religious X,Groceries,Europe,596.08,2387.44,784.66,72,31-01-2024,6.68,Wholesale,4.8,Government,Bank Transfer,13,Returned
+376,Candidate Pro,Electronics,Australia,2727.8,3252.77,864.99,89,30-07-2024,21.5,Online,3.4,Small Business,Credit Card,5,Not Returned
+377,Carry Ultra,Groceries,Africa,1001.19,2109.04,635.98,88,20-10-2024,7.6,Online,3.8,Government,PayPal,9,Returned
+378,Shake Ultra,Toys,Africa,1619.66,1391.38,870.45,38,17-01-2024,5.16,Wholesale,1.2,Government,Credit Card,5,Returned
+379,Wear Plus,Toys,Europe,2751.12,1733.5,609.9,74,11-04-2024,24.04,In-store,4,Small Business,Bank Transfer,9,Not Returned
+380,Student Ultra,Electronics,North America,1953.53,477.04,672.16,50,25-03-2024,21.8,Online,2.8,Small Business,PayPal,14,Not Returned
+381,Woman X,Furniture,Australia,1822.97,2192.49,328.64,19,01-09-2024,0.53,Wholesale,2.1,Government,PayPal,12,Returned
+382,Wish X,Groceries,Asia,2095.91,390.36,237.65,57,31-03-2024,14.15,In-store,1.2,Government,Credit Card,13,Not Returned
+383,Drug Pro,Electronics,Europe,2574.51,2189.49,114.42,78,04-08-2024,4.79,Online,2.8,Small Business,Debit Card,13,Not Returned
+384,About Pro,Groceries,Asia,2654.26,2068.29,73.88,82,14-10-2024,13.93,Wholesale,3.3,Corporate,Debit Card,1,Returned
+385,Its Pro,Furniture,Asia,683.88,103.55,421.44,50,16-01-2024,7.54,Wholesale,2,Government,Credit Card,13,Returned
+386,Personal Plus,Toys,Asia,4452.65,3563.34,957.37,97,16-01-2024,7.34,Online,2.1,Government,Bank Transfer,11,Returned
+387,Health Pro,Furniture,Europe,3965.79,1929.31,413.67,70,30-10-2024,25.42,Online,2.2,Government,Bank Transfer,13,Not Returned
+388,Season Ultra,Electronics,North America,3978,3444.31,178.22,9,11-02-2024,26.26,Wholesale,3.8,Retail,PayPal,3,Returned
+389,Cold X,Groceries,Asia,2186.41,266.6,71.33,38,27-08-2024,7.48,In-store,3.8,Small Business,Credit Card,14,Returned
+390,Require X,Clothing,Europe,3101.65,2586.1,674.35,52,18-02-2024,8.45,In-store,1.1,Retail,PayPal,2,Not Returned
+391,Business Ultra,Groceries,Europe,1129.59,3831.47,200.29,52,13-09-2024,17.45,Wholesale,1.5,Government,Debit Card,7,Not Returned
+392,Hope Ultra,Furniture,Africa,2898.74,3073.91,578.04,81,19-12-2024,25.63,In-store,4.7,Corporate,Bank Transfer,11,Returned
+393,Among X,Furniture,Africa,4824.2,2734.03,354.09,81,21-04-2024,0.71,Wholesale,1.2,Corporate,PayPal,8,Not Returned
+394,Particularly Pro,Toys,Africa,3152.6,1567.24,956.49,79,22-12-2024,26.72,Wholesale,3.5,Government,Credit Card,11,Returned
+395,System Ultra,Clothing,Australia,3911.75,3832.31,132.57,46,08-07-2024,5.39,Wholesale,4.8,Corporate,Debit Card,6,Returned
+396,Big Plus,Groceries,Australia,3469.89,325.46,69.06,18,28-06-2024,7.47,Online,2.7,Government,PayPal,4,Returned
+397,Special Plus,Groceries,Asia,1486.95,3825.9,76.59,92,25-05-2024,18.66,Wholesale,1.2,Small Business,PayPal,1,Not Returned
+398,Drop Pro,Groceries,Asia,3065.07,2744.13,943.47,4,26-11-2024,11.17,In-store,2.6,Government,Credit Card,11,Returned
+399,Concern Ultra,Clothing,Asia,3648.88,3251.13,455.15,65,29-05-2024,8.96,In-store,4.8,Corporate,Bank Transfer,12,Not Returned
+400,Bill X,Groceries,Asia,3914.02,2412.1,420.5,44,10-10-2024,8.73,In-store,1.4,Small Business,PayPal,7,Not Returned
+401,Decade Ultra,Furniture,Asia,432.61,2993.17,138.27,53,14-05-2024,8.7,In-store,2,Government,PayPal,11,Not Returned
+402,Interest Ultra,Electronics,Australia,1073.42,526.43,883.09,16,18-08-2024,25.59,Online,4.1,Retail,PayPal,7,Not Returned
+403,South Pro,Electronics,Africa,3535.56,2333.31,796.58,51,12-02-2024,8.88,Wholesale,3.9,Small Business,Bank Transfer,6,Not Returned
+404,Really Pro,Groceries,Australia,4109.87,3282.04,771.89,18,01-05-2024,28.56,Wholesale,2.9,Corporate,Debit Card,11,Returned
+405,If Ultra,Toys,Africa,3141.53,1817.25,811.21,12,09-06-2024,3.15,Wholesale,4.3,Small Business,Bank Transfer,4,Not Returned
+406,Recognize X,Electronics,Africa,632.23,1602.75,156.61,75,26-09-2024,22.84,Wholesale,1.2,Small Business,PayPal,9,Not Returned
+407,Eat Ultra,Clothing,Africa,989.02,1009.61,930.78,3,25-10-2024,29.02,Online,1.2,Government,Credit Card,10,Returned
+408,Plan Pro,Electronics,Australia,824.34,2008.28,371.29,14,05-08-2024,16.01,In-store,1.8,Government,PayPal,2,Not Returned
+409,Trial Ultra,Furniture,Asia,1694.52,2335.78,174.46,27,02-09-2024,6.79,In-store,1.5,Government,Bank Transfer,8,Returned
+410,Front Ultra,Toys,Australia,2086.76,2825.89,170.23,75,23-09-2024,21.62,In-store,3.4,Retail,Credit Card,11,Returned
+411,Despite X,Clothing,Europe,2964.94,3260.4,377.18,12,24-04-2024,2.82,Wholesale,2.7,Small Business,Bank Transfer,3,Returned
+412,Anything Ultra,Furniture,Africa,2064.49,835.26,740.27,14,12-11-2024,24.13,Wholesale,1.4,Retail,Credit Card,5,Not Returned
+413,Push Ultra,Furniture,North America,2386.95,970.27,862.16,7,18-11-2024,5.41,Online,2,Retail,Bank Transfer,7,Returned
+414,Especially Ultra,Clothing,Asia,157.06,2294.93,273.37,28,01-09-2024,11.96,Wholesale,1.7,Corporate,Debit Card,15,Not Returned
+415,Rise X,Furniture,Australia,758.69,3972.97,126.33,79,11-07-2024,22.44,Online,2.9,Corporate,PayPal,1,Not Returned
+416,Instead X,Toys,Africa,3033.52,3240.2,351.07,8,04-09-2024,6.88,Wholesale,4.3,Retail,Bank Transfer,8,Not Returned
+417,Hit Plus,Toys,Europe,113.93,770.52,678.84,32,28-10-2024,0.25,Online,3,Corporate,Credit Card,5,Returned
+418,Front Ultra,Groceries,Asia,781.55,3085.59,709.91,29,28-01-2024,1.45,In-store,3.1,Corporate,Debit Card,15,Returned
+419,Foot X,Groceries,North America,2145.89,3871.02,17.01,68,19-04-2024,17.11,In-store,4.2,Government,Credit Card,2,Not Returned
+420,Anything Pro,Clothing,Asia,763.88,2823.34,421.36,21,20-10-2024,29.45,In-store,2.6,Small Business,Credit Card,6,Returned
+421,Effect X,Furniture,Asia,4030.45,976.35,499.99,34,22-05-2024,5.41,Online,4.7,Government,Credit Card,7,Returned
+422,Election Pro,Electronics,Asia,4922.25,2474.21,597.25,60,26-04-2024,29.24,In-store,3.1,Small Business,Credit Card,1,Not Returned
+423,Rule Ultra,Toys,Europe,1898.54,2460.98,314.23,100,09-12-2024,20.58,Wholesale,2.7,Small Business,Debit Card,6,Returned
+424,All Plus,Groceries,North America,3212.82,1509.4,591.14,87,26-09-2024,19.17,In-store,2.9,Small Business,PayPal,3,Returned
+425,Catch X,Groceries,Africa,3190.31,336.88,748.44,30,29-06-2024,25.14,In-store,3.2,Government,Debit Card,2,Returned
+426,Fight Ultra,Electronics,Australia,755.2,3285.49,411.78,1,09-12-2024,14.07,Wholesale,3.6,Government,Debit Card,7,Not Returned
+427,List Ultra,Clothing,North America,3200.48,2031.01,772.26,7,11-07-2024,19.48,In-store,4.8,Corporate,Debit Card,5,Returned
+428,System X,Groceries,Australia,4132.46,1620.14,782.18,10,29-11-2024,29.52,In-store,4.1,Government,Credit Card,13,Not Returned
+429,Scene Plus,Clothing,Africa,4140.85,3712.78,327.9,7,27-07-2024,1.29,Online,2.1,Retail,Bank Transfer,6,Not Returned
+430,Black Plus,Toys,North America,2629.65,3948.67,112.44,47,02-06-2024,5.85,Wholesale,2.4,Corporate,Credit Card,7,Not Returned
+431,Watch Ultra,Clothing,Australia,2860.09,1944.66,390.78,90,30-11-2024,0.73,In-store,3.6,Government,Credit Card,15,Returned
+432,Perhaps Pro,Groceries,Africa,3779.51,3759.74,67.6,15,19-12-2024,26.41,Online,3.4,Small Business,Bank Transfer,4,Not Returned
+433,Point Pro,Toys,Australia,867.72,588.61,311.7,35,23-09-2024,16.58,In-store,4,Retail,Debit Card,12,Returned
+434,Think X,Toys,North America,1306.07,282.43,518.21,86,23-11-2024,7.25,In-store,4.3,Corporate,Debit Card,14,Not Returned
+435,Professor Ultra,Electronics,Asia,2390.06,3789.01,823.02,91,12-11-2024,9.06,Online,4.6,Retail,Debit Card,12,Returned
+436,At Ultra,Groceries,Asia,888.86,38.18,676.9,87,24-11-2024,29.39,Wholesale,2.4,Small Business,Credit Card,2,Not Returned
+437,Country Plus,Toys,Africa,2098.34,1122.6,390.54,39,19-08-2024,22.68,In-store,5,Corporate,Credit Card,2,Not Returned
+438,Turn Pro,Toys,Australia,4094.83,154.04,875.23,87,01-03-2024,4.68,Wholesale,2.3,Retail,Bank Transfer,8,Not Returned
+439,Care X,Clothing,Europe,2554.82,2888.99,91.87,16,04-11-2024,15.36,Online,1.8,Corporate,Bank Transfer,10,Not Returned
+440,Everyone Ultra,Electronics,Australia,758.92,2486.76,687.75,84,12-05-2024,29.95,Wholesale,1.8,Small Business,Credit Card,11,Not Returned
+441,If Ultra,Electronics,North America,1927.25,3546.02,54.3,26,07-09-2024,7.04,In-store,2.4,Retail,Credit Card,13,Not Returned
+442,Talk X,Furniture,Australia,2964.08,539.19,443.91,24,30-05-2024,1.61,Wholesale,3.7,Small Business,Bank Transfer,8,Not Returned
+443,Win Ultra,Groceries,Australia,1681.29,2140.47,966.41,43,24-10-2024,5.05,Wholesale,3.7,Small Business,Credit Card,1,Returned
+444,While Ultra,Clothing,Europe,909.19,1760.17,872.69,44,02-03-2024,1.46,Wholesale,2.2,Small Business,Debit Card,10,Not Returned
+445,Join Pro,Electronics,Asia,1704.96,1852.52,542.51,93,08-09-2024,6.68,Wholesale,3.4,Retail,Bank Transfer,4,Not Returned
+446,Apply Ultra,Groceries,Europe,3097.23,243.57,385.5,81,23-08-2024,15.15,Wholesale,3.5,Corporate,Bank Transfer,4,Not Returned
+447,Seat Pro,Groceries,Africa,2397.53,3800.83,608.01,57,07-12-2024,24.05,Online,3.6,Corporate,Bank Transfer,8,Returned
+448,Act Ultra,Electronics,Africa,3849.32,866.86,443.06,86,27-02-2024,19.14,Online,3.6,Small Business,Debit Card,6,Not Returned
+449,Within Pro,Electronics,Asia,3192.11,1779.66,155.51,97,09-10-2024,7.83,Wholesale,4.7,Government,Credit Card,7,Returned
+450,Onto Pro,Furniture,Australia,4016.7,1951.23,156.76,10,24-04-2024,28.62,Wholesale,3.5,Small Business,Bank Transfer,14,Returned
+451,Agency Plus,Clothing,North America,3552.42,133.66,401.07,62,09-08-2024,18.75,Wholesale,2.3,Government,Bank Transfer,1,Returned
+452,Series Ultra,Furniture,Europe,1628.38,866.8,815.51,39,24-06-2024,21.17,In-store,3.2,Small Business,Credit Card,12,Not Returned
+453,Long Pro,Clothing,Europe,737.37,3150.37,115.39,85,10-08-2024,28.69,Wholesale,4.7,Corporate,PayPal,3,Not Returned
+454,Drug X,Furniture,Africa,3981.85,3358.64,975.52,36,11-04-2024,14.62,In-store,3,Small Business,Bank Transfer,4,Returned
+455,Physical Ultra,Furniture,North America,4043.88,1312.3,975.53,14,02-09-2024,10.37,Online,3,Government,Debit Card,8,Returned
+456,Travel X,Electronics,Asia,220.16,2043.13,319.44,53,26-10-2024,25.09,Wholesale,3.1,Small Business,Credit Card,15,Returned
+457,Would X,Groceries,Europe,1459.55,313.87,691.92,57,05-06-2024,4.94,Online,4.9,Government,PayPal,2,Not Returned
+458,Sort Plus,Toys,Australia,749.64,3943.8,30.04,20,06-04-2024,14.44,Wholesale,1.9,Small Business,PayPal,5,Returned
+459,Discussion Pro,Toys,Asia,2627.04,136.28,204.35,17,10-05-2024,10.37,In-store,2.2,Corporate,Bank Transfer,9,Returned
+460,Here Pro,Electronics,Africa,580.95,1305.47,770.09,48,19-10-2024,7.57,Wholesale,4.3,Government,Credit Card,3,Not Returned
+461,Last X,Clothing,Asia,212.57,2036.46,498.11,50,13-09-2024,21.93,In-store,4.6,Government,Debit Card,1,Not Returned
+462,Apply Ultra,Furniture,Australia,3757.47,3234.91,211.78,100,31-07-2024,28.13,Online,4.8,Corporate,PayPal,11,Returned
+463,End Pro,Electronics,Africa,674.72,928.32,822.74,67,08-10-2024,11.72,Online,2,Retail,Debit Card,7,Not Returned
+464,Human X,Furniture,North America,1265.3,2913.53,580.05,70,01-02-2024,25.88,Wholesale,4.1,Small Business,Bank Transfer,13,Not Returned
+465,Increase Ultra,Electronics,North America,2985.83,1952.93,779.1,66,13-04-2024,23.05,In-store,4.6,Corporate,Credit Card,15,Returned
+466,Fund Ultra,Electronics,North America,4440.54,2194.54,882.34,40,03-08-2024,26.9,Online,4.6,Government,Bank Transfer,8,Not Returned
+467,Forward Plus,Electronics,North America,2163.33,939.14,914.12,82,06-07-2024,2.48,Online,1.6,Government,Credit Card,1,Returned
+468,Suffer X,Groceries,Australia,4809.66,3242.46,681.57,17,17-08-2024,29.29,In-store,2.8,Corporate,Bank Transfer,9,Not Returned
+469,Where Pro,Clothing,Africa,1455.22,2318.55,461.38,54,18-01-2024,14.44,Wholesale,2.9,Small Business,Bank Transfer,3,Not Returned
+470,Step Pro,Electronics,Australia,2597.67,655.73,480.85,27,05-09-2024,9.66,In-store,1,Retail,PayPal,15,Returned
+471,Employee Pro,Groceries,North America,2575.43,588.16,590.16,1,17-10-2024,17.63,Online,4.3,Corporate,Debit Card,2,Returned
+472,City Plus,Furniture,North America,136.53,82.08,794.9,72,22-05-2024,4.44,In-store,3.4,Retail,Bank Transfer,3,Returned
+473,Analysis Pro,Clothing,Asia,4533.59,3999.8,104.41,13,27-03-2024,10.19,Wholesale,1.5,Government,Credit Card,4,Not Returned
+474,Year Ultra,Clothing,North America,661.14,1398.9,573.58,32,24-09-2024,8.59,Wholesale,1.6,Small Business,Bank Transfer,10,Returned
+475,Staff X,Toys,Asia,4502.52,1308.79,453.52,2,18-03-2024,14.86,In-store,2.7,Retail,Bank Transfer,3,Returned
+476,Morning X,Clothing,North America,468.27,1638.17,132.69,8,06-05-2024,9.34,In-store,1.6,Government,Debit Card,3,Not Returned
+477,Then Ultra,Clothing,North America,4822.49,3330.96,786.78,58,07-08-2024,14.42,Wholesale,3.5,Corporate,Debit Card,11,Returned
+478,Movie Pro,Clothing,Europe,3560.5,252.2,44.22,68,12-10-2024,22.71,In-store,1.6,Small Business,PayPal,14,Returned
+479,Itself Plus,Toys,North America,3396.3,155.9,95.49,35,26-06-2024,9.75,In-store,1.3,Government,Credit Card,10,Returned
+480,West X,Clothing,Asia,1830.28,2969.93,428.56,38,18-12-2024,3.18,Wholesale,4.5,Government,Bank Transfer,15,Returned
+481,Threat Plus,Groceries,North America,687.95,1773.84,193.39,74,10-10-2024,4.06,In-store,2.6,Small Business,Credit Card,13,Returned
+482,Several Ultra,Toys,Asia,4808.7,1203.42,216.82,99,22-08-2024,0.84,Wholesale,4.9,Retail,Debit Card,1,Returned
+483,Foot X,Electronics,Australia,196.83,2842.68,785.96,45,09-03-2024,29.73,Online,3.5,Small Business,Bank Transfer,3,Not Returned
+484,Despite Plus,Toys,Europe,1928.64,1070.97,887.98,35,24-10-2024,27,Online,4.2,Retail,Debit Card,7,Returned
+485,See Ultra,Electronics,Asia,1348.6,1638.89,405.08,39,07-12-2024,27.13,In-store,4.6,Small Business,Credit Card,9,Returned
+486,Be Ultra,Toys,North America,3663.13,169.81,409.53,24,17-08-2024,12.96,Wholesale,1.6,Corporate,PayPal,3,Returned
+487,Government Pro,Clothing,Africa,2315.3,3140.08,337.24,40,07-08-2024,10.17,Online,2.6,Small Business,PayPal,15,Not Returned
+488,Statement Ultra,Furniture,North America,3625.11,2738.07,6.59,7,02-01-2024,5.55,Online,3.3,Corporate,Bank Transfer,9,Returned
+489,Leave Ultra,Furniture,Asia,984.4,3609.33,495.77,70,20-02-2024,2.22,Wholesale,3.7,Government,PayPal,5,Not Returned
+490,Soldier Ultra,Clothing,Asia,4066.57,1504.98,864.25,47,21-02-2024,26.93,Wholesale,2.6,Retail,Credit Card,6,Not Returned
+491,Seem Ultra,Electronics,Asia,2245.35,1919.01,124.67,30,24-10-2024,10.58,Online,4.7,Government,PayPal,3,Not Returned
+492,Task Pro,Groceries,Asia,2992.29,855.51,116.48,46,01-09-2024,24.12,Online,4.7,Government,Bank Transfer,10,Returned
+493,Western Plus,Toys,Europe,4992.13,3524.15,732.34,61,25-10-2024,24,Online,1.3,Small Business,Credit Card,15,Not Returned
+494,Several X,Groceries,Africa,2113.84,1621.19,175.88,61,01-03-2024,29.05,Wholesale,2.5,Small Business,Bank Transfer,14,Not Returned
+495,Political Ultra,Groceries,Europe,1767.62,3228.85,937.13,84,01-06-2024,7.84,Wholesale,2.6,Corporate,PayPal,9,Returned
+496,Ask X,Groceries,Europe,1966.76,239.94,734.04,21,21-08-2024,29.2,Wholesale,3.3,Government,PayPal,6,Returned
+497,Stand Plus,Furniture,Australia,2303.09,1700.66,866.57,28,06-03-2024,1.15,In-store,1.7,Corporate,Credit Card,4,Not Returned
+498,Hear Plus,Clothing,Australia,3472.35,2249.39,207.43,21,06-03-2024,22.06,Online,3.3,Corporate,Credit Card,6,Returned
+499,Agency Pro,Groceries,Europe,720.38,360.07,995.79,66,21-07-2024,29.28,Wholesale,3.1,Small Business,Credit Card,9,Returned
+500,Leader X,Toys,Europe,4321.45,1276.99,910.15,7,03-07-2024,3.23,Online,4.4,Corporate,PayPal,4,Not Returned
+501,Accept Plus,Clothing,Asia,1511.48,1607.53,199.62,58,15-01-2024,26.33,Wholesale,4.8,Retail,Bank Transfer,9,Not Returned
+502,High Pro,Groceries,Asia,3419.81,3590.59,318.12,11,13-01-2024,19.51,Online,4,Corporate,Credit Card,5,Returned
+503,Officer Plus,Groceries,Australia,3160.15,3255,605,58,11-09-2024,23.05,Wholesale,3.4,Corporate,Credit Card,7,Returned
+504,Rich Plus,Groceries,Europe,629.9,3857.88,813.84,44,12-05-2024,5.16,Wholesale,1.7,Small Business,Credit Card,14,Returned
+505,Throw Ultra,Clothing,Australia,3291.85,572.49,825.89,30,31-10-2024,3.37,In-store,4.7,Small Business,Credit Card,5,Not Returned
+506,Simple Ultra,Furniture,North America,42.78,3851.41,934.25,63,31-05-2024,2.39,In-store,1.3,Retail,PayPal,13,Not Returned
+507,Improve X,Groceries,Europe,1833.84,214.34,381.23,23,13-07-2024,0.49,In-store,3.5,Government,Credit Card,1,Returned
+508,Participant Pro,Groceries,Africa,1133.35,2827.46,498.14,99,21-04-2024,25.54,In-store,3.8,Corporate,Credit Card,5,Returned
+509,Her X,Clothing,Europe,4194.94,1169.8,546.29,33,04-04-2024,20.84,In-store,3.6,Retail,Credit Card,11,Returned
+510,Subject X,Electronics,Australia,87.77,475.97,297.85,64,18-11-2024,23.77,Online,4.8,Government,PayPal,7,Not Returned
+511,Large Ultra,Furniture,Asia,319.21,1715.34,183.4,32,21-03-2024,18.26,Wholesale,2.5,Government,PayPal,14,Not Returned
+512,Street Ultra,Furniture,Asia,2268.52,1635.65,841.65,52,05-07-2024,22.46,In-store,3.1,Government,Bank Transfer,6,Returned
+513,Relate Ultra,Toys,Australia,4785.86,1571.47,681.44,10,28-02-2024,15.89,In-store,2.3,Small Business,Bank Transfer,7,Not Returned
+514,Cause Ultra,Clothing,Africa,2856.71,162.67,448.13,96,04-01-2024,9.3,Online,3.3,Corporate,PayPal,2,Not Returned
+515,Respond Ultra,Groceries,North America,2825.5,1651.75,657.19,41,21-07-2024,7.55,In-store,2.7,Retail,PayPal,11,Not Returned
+516,Whose Pro,Electronics,Europe,2069.76,440.54,651.85,34,17-02-2024,12.84,In-store,1.6,Small Business,PayPal,6,Not Returned
+517,Young Pro,Furniture,Asia,880.32,3677.3,805.71,65,27-08-2024,0.54,Online,2.1,Government,Bank Transfer,12,Returned
+518,Fear Plus,Electronics,Europe,725.69,3926.52,161.1,59,31-07-2024,28.87,Online,4.4,Small Business,Bank Transfer,14,Returned
+519,Congress Pro,Clothing,North America,2240.03,3531.16,648.44,17,15-01-2024,1.59,Wholesale,2.1,Corporate,Bank Transfer,15,Returned
+520,Which Plus,Electronics,Europe,27.89,691.48,776.03,74,22-11-2024,24.25,In-store,3.3,Retail,Bank Transfer,8,Returned
+521,Nation Pro,Toys,Australia,3350.7,2684.63,515.44,11,18-06-2024,10.53,Wholesale,1.5,Retail,Bank Transfer,2,Returned
+522,Participant Pro,Toys,Africa,2299.82,2984.19,894.79,13,09-01-2024,13.3,Wholesale,2.8,Retail,PayPal,11,Returned
+523,Describe X,Furniture,Australia,3865.86,2203.1,535.16,66,01-06-2024,4.81,In-store,3,Corporate,PayPal,14,Returned
+524,Audience Pro,Groceries,Australia,4495.22,2496.53,451.66,2,22-03-2024,23.67,Online,4.8,Government,Credit Card,15,Not Returned
+525,High Pro,Clothing,Asia,23.91,3542.41,203.17,81,22-11-2024,12.75,In-store,1.4,Corporate,Bank Transfer,12,Returned
+526,Represent X,Toys,Africa,1799.18,1812.09,419.92,6,08-11-2024,6.61,Wholesale,1.3,Government,Debit Card,1,Returned
+527,Right X,Furniture,Europe,3980.78,2665.6,893.11,92,15-05-2024,7.5,Online,2.4,Corporate,PayPal,8,Returned
+528,Detail Ultra,Clothing,Europe,2192.36,3404.38,749.66,84,10-08-2024,2.65,Wholesale,2.3,Retail,Bank Transfer,3,Returned
+529,Executive Pro,Furniture,Africa,4400.6,3811.97,421.34,99,06-11-2024,5.95,Wholesale,4.9,Small Business,PayPal,10,Returned
+530,Down Plus,Groceries,Australia,1874.74,2604.81,777.97,99,25-05-2024,14.11,Online,1.3,Corporate,Credit Card,6,Not Returned
+531,Least Ultra,Furniture,Australia,1600.67,2443.46,131.15,3,05-06-2024,11.39,Wholesale,3.4,Retail,Debit Card,4,Not Returned
+532,Interesting Pro,Groceries,North America,1378.65,3068.81,575.6,37,29-11-2024,23.82,Wholesale,2.6,Corporate,Bank Transfer,8,Returned
+533,Make X,Toys,Asia,918.67,713.09,508.89,57,02-10-2024,28.48,In-store,4.4,Government,PayPal,4,Not Returned
+534,Management Ultra,Toys,Asia,3551.61,2290.49,529.98,83,02-10-2024,6.53,Online,2.1,Small Business,Credit Card,13,Not Returned
+535,Week Plus,Electronics,Asia,3110.35,367.31,730.38,31,06-01-2024,6.72,In-store,4.7,Government,Credit Card,8,Returned
+536,From Plus,Clothing,Europe,4991.1,19.02,624.08,37,23-05-2024,24.56,Online,4.8,Small Business,Bank Transfer,2,Returned
+537,Main X,Clothing,Africa,3811.43,1550.34,925.51,23,14-07-2024,15.73,Wholesale,4.5,Government,Bank Transfer,11,Not Returned
+538,Whom Ultra,Groceries,Asia,4839.06,1791.29,566.11,6,29-06-2024,15.2,In-store,2.5,Small Business,Debit Card,14,Not Returned
+539,Address Plus,Clothing,Africa,3517.06,930.79,696.99,6,21-06-2024,15.3,Wholesale,1.7,Small Business,Credit Card,5,Returned
+540,Leave Pro,Toys,North America,4692.96,3615.8,840.02,78,01-01-2024,23.79,Online,4.3,Government,Debit Card,9,Returned
+541,Crime Pro,Clothing,Asia,3261.76,3962.32,516.28,85,27-02-2024,10.62,Wholesale,2.5,Small Business,Credit Card,12,Returned
+542,Any Plus,Toys,Europe,2334.61,2067.3,912.17,23,28-01-2024,16.34,Wholesale,2.5,Retail,Debit Card,12,Not Returned
+543,Race Ultra,Electronics,Africa,4633.34,3367.2,335.58,63,14-04-2024,7.32,Wholesale,3.5,Corporate,PayPal,3,Not Returned
+544,Outside X,Electronics,Asia,4320.79,3970.93,301.9,14,12-01-2024,12.91,Wholesale,3.6,Small Business,Credit Card,14,Returned
+545,Audience Pro,Clothing,Europe,2100.73,108.7,632.38,68,07-10-2024,23.26,Wholesale,1.6,Corporate,Credit Card,7,Not Returned
+546,Agent Ultra,Furniture,Australia,1155.72,256.47,100.58,9,22-11-2024,0.1,In-store,2.6,Government,Credit Card,1,Not Returned
+547,Also Plus,Groceries,North America,1967.8,3558.37,531.42,38,08-05-2024,22.7,In-store,1.9,Small Business,PayPal,1,Returned
+548,Boy Plus,Groceries,Europe,3071.17,1055.31,23.18,64,24-01-2024,9.63,In-store,4.8,Small Business,Debit Card,6,Returned
+549,Reality Ultra,Furniture,North America,4183.88,2053.46,218.77,88,16-12-2024,2.35,Wholesale,4.9,Corporate,Debit Card,15,Returned
+550,Across Plus,Furniture,Europe,1124.41,3749.59,995.19,93,24-10-2024,24.27,Wholesale,2.3,Small Business,Debit Card,8,Returned
+551,Happy Plus,Clothing,Africa,1471.44,745.63,541.82,80,16-12-2024,10.34,Online,5,Government,PayPal,10,Not Returned
+552,Wife Pro,Toys,Africa,1788.69,270.81,127.82,64,14-07-2024,28.82,Wholesale,3.5,Small Business,PayPal,4,Not Returned
+553,Story Plus,Clothing,Africa,1809.3,1437.57,809.99,95,13-05-2024,23.15,Wholesale,3.7,Corporate,Bank Transfer,7,Returned
+554,War X,Groceries,Asia,3572.81,3264.53,167.15,85,22-10-2024,17.35,In-store,1.4,Government,Credit Card,7,Returned
+555,Soldier Plus,Electronics,Asia,21.99,1530.83,409,95,01-04-2024,28.67,Online,3.4,Government,Bank Transfer,2,Not Returned
+556,On Pro,Electronics,Africa,4897.5,2158.58,455.23,21,05-10-2024,15.43,In-store,4.1,Retail,Credit Card,15,Returned
+557,Sure Plus,Toys,Africa,4228.09,2238.96,669.53,9,28-10-2024,4.08,Online,1.9,Small Business,Bank Transfer,14,Returned
+558,Base Ultra,Groceries,Africa,1891.53,35.73,208.87,84,19-12-2024,1.88,Online,4.4,Retail,Bank Transfer,11,Not Returned
+559,Point Plus,Electronics,North America,4670.63,2581.53,809.39,79,22-04-2024,26.4,In-store,1.2,Retail,PayPal,6,Returned
+560,Democratic X,Groceries,Europe,1930.57,2314.47,955.39,62,14-10-2024,17.64,Wholesale,2.2,Small Business,Credit Card,4,Returned
+561,Bad Ultra,Clothing,Australia,4744.59,3374.51,471.74,22,16-05-2024,23.63,In-store,1.2,Corporate,PayPal,10,Returned
+562,Seat X,Toys,North America,1499.08,3602.58,942.19,79,19-03-2024,18.43,In-store,4.9,Retail,Bank Transfer,13,Not Returned
+563,Last X,Clothing,Europe,1085.9,376.4,748.57,83,04-08-2024,7.49,In-store,1.7,Retail,Credit Card,9,Returned
+564,Catch Pro,Furniture,North America,1684.03,3859.3,269.4,6,07-08-2024,6.57,Online,2.1,Small Business,PayPal,2,Not Returned
+565,High Plus,Electronics,Australia,3314.77,156.47,508.01,16,13-11-2024,3.12,Online,1.9,Corporate,Credit Card,14,Returned
+566,Still Plus,Clothing,North America,2845.83,3162,584.14,66,14-03-2024,9.58,Online,2.1,Government,PayPal,7,Not Returned
+567,Budget Pro,Clothing,Australia,3797.53,1609.76,138.96,20,20-02-2024,1.68,Wholesale,1.9,Corporate,PayPal,7,Returned
+568,Dark X,Electronics,Europe,3948,1220.91,667.95,82,06-08-2024,9.5,Online,1.2,Corporate,Debit Card,13,Not Returned
+569,Light Pro,Groceries,Africa,1009.47,1641.39,320.53,29,03-11-2024,8.26,In-store,2.2,Corporate,Credit Card,14,Not Returned
+570,Financial Pro,Groceries,Africa,3158.4,2106.89,737.85,5,25-11-2024,12.48,Wholesale,2.9,Retail,Debit Card,15,Returned
+571,Student Ultra,Toys,Europe,1392.18,3615.61,562.59,73,11-07-2024,16.55,Online,4,Retail,Bank Transfer,13,Not Returned
+572,Must Plus,Groceries,Europe,3237.09,53.41,820.37,23,09-05-2024,6.01,In-store,4.3,Corporate,PayPal,11,Not Returned
+573,Fish Plus,Groceries,Europe,820.94,3557.12,727.2,51,10-06-2024,18.72,In-store,4.7,Retail,Credit Card,1,Returned
+574,Beautiful Pro,Electronics,Asia,4365.1,2001.21,929.87,87,07-02-2024,6.88,Online,3,Corporate,PayPal,5,Returned
+575,Too Pro,Groceries,Africa,233.37,1581.28,157.57,43,14-03-2024,20.15,In-store,3.8,Government,Bank Transfer,10,Not Returned
+576,Tree Ultra,Clothing,Australia,218.65,756.64,850.07,9,11-10-2024,28,Wholesale,4.9,Retail,Bank Transfer,2,Returned
+577,Mother Pro,Groceries,Asia,4970.88,3064.92,21.51,97,14-03-2024,23.94,Wholesale,2.5,Retail,Debit Card,1,Not Returned
+578,Bed X,Clothing,North America,1780.33,2071.87,111.17,49,22-12-2024,12.65,Online,3.3,Retail,Debit Card,11,Not Returned
+579,Allow Ultra,Groceries,Asia,2915.07,3324.4,863.2,54,15-02-2024,29.27,Online,4.4,Small Business,Credit Card,5,Returned
+580,Nice X,Toys,Asia,3025.63,2276.69,368.31,14,22-07-2024,3.51,Online,4.9,Small Business,Credit Card,5,Returned
+581,Security X,Electronics,Asia,3459.16,854.92,702.53,96,07-05-2024,8.64,Online,2,Corporate,Credit Card,14,Returned
+582,Policy Ultra,Groceries,Asia,1142.97,2079.28,712.52,10,25-10-2024,18.56,Wholesale,4.3,Government,Credit Card,11,Not Returned
+583,Question Plus,Electronics,Europe,1079.69,87.92,214.01,10,26-01-2024,8,Online,2.1,Government,Bank Transfer,1,Not Returned
+584,Before Ultra,Groceries,North America,844.71,1705.23,573.51,1,21-11-2024,15.27,Online,1.6,Corporate,Bank Transfer,1,Returned
+585,In Ultra,Furniture,Africa,574.03,3375.33,768.87,35,20-08-2024,27.11,Wholesale,3.5,Government,Bank Transfer,14,Not Returned
+586,Popular Pro,Furniture,Asia,2321.83,558.51,149.36,26,19-12-2024,25.54,Wholesale,4.6,Small Business,PayPal,9,Not Returned
+587,Range Plus,Toys,Europe,1849.9,2487.36,469.06,84,03-06-2024,24.76,Online,4.1,Small Business,Credit Card,8,Not Returned
+588,Individual Pro,Clothing,Australia,3080.24,2697.87,687.75,98,26-02-2024,17.65,In-store,3,Government,Debit Card,8,Not Returned
+589,Put Ultra,Groceries,Europe,2616.99,1340.22,240.66,83,15-10-2024,0.45,In-store,1.6,Corporate,Debit Card,8,Returned
+590,Represent Plus,Furniture,Africa,4585.22,3072.27,431.17,38,15-09-2024,13.79,Online,2,Retail,Debit Card,8,Not Returned
+591,Gas Ultra,Clothing,Australia,4463.56,3235.42,690.75,63,02-07-2024,26.31,Wholesale,4.5,Small Business,Debit Card,9,Returned
+592,Resource Ultra,Electronics,Europe,1042.83,3457.91,835.9,20,26-03-2024,27.32,In-store,2.1,Retail,Debit Card,8,Returned
+593,Month Pro,Clothing,Asia,3898.53,435.22,208.01,9,08-04-2024,9.42,Wholesale,1.9,Retail,Debit Card,2,Returned
+594,Allow Pro,Electronics,North America,2286.43,2989.1,520.95,31,21-03-2024,26.07,In-store,4.4,Retail,Debit Card,11,Not Returned
+595,Seek X,Groceries,North America,90.74,2786.09,968.16,33,23-02-2024,22.15,Online,1.9,Retail,Bank Transfer,10,Not Returned
+596,Event X,Clothing,Europe,735.48,950.42,175.39,2,14-06-2024,2.67,Wholesale,2.3,Corporate,PayPal,11,Not Returned
+597,Ground X,Toys,Europe,2824.31,214.28,373.46,74,19-07-2024,20.62,Wholesale,2.2,Retail,PayPal,14,Not Returned
+598,Oil X,Groceries,Australia,800.34,1279.48,264.82,6,08-10-2024,27.97,In-store,4.2,Corporate,PayPal,4,Returned
+599,Tend Ultra,Groceries,North America,803.29,1364.73,385.73,97,15-09-2024,0.98,Wholesale,3.4,Small Business,Bank Transfer,13,Not Returned
+600,Plan Pro,Groceries,Europe,4925,154.05,284.72,26,02-11-2024,19.63,Wholesale,4,Retail,Debit Card,15,Returned
+601,Middle Ultra,Toys,North America,4905.12,1854.06,851.28,68,30-08-2024,20.72,Wholesale,4.9,Small Business,PayPal,13,Not Returned
+602,International Plus,Toys,Asia,622.14,1138.11,653.47,21,21-09-2024,20.63,In-store,1.2,Corporate,Debit Card,4,Not Returned
+603,Company X,Clothing,Europe,1552.61,83.19,84.65,95,03-07-2024,10.44,In-store,3.6,Government,PayPal,6,Not Returned
+604,Class Ultra,Toys,Europe,4255.41,1032.61,442.19,39,10-06-2024,18.48,Online,3.3,Government,Credit Card,4,Returned
+605,Grow Ultra,Clothing,Europe,2872.39,1352.62,721.18,31,27-01-2024,23.14,In-store,4.1,Small Business,Credit Card,4,Returned
+606,Service X,Toys,Europe,2162.73,1116.99,941.55,87,15-10-2024,8.48,Online,1.8,Small Business,Credit Card,12,Returned
+607,Which X,Electronics,North America,992.89,797.06,614.64,71,20-12-2024,21.43,In-store,2.1,Corporate,PayPal,2,Returned
+608,Agreement Pro,Furniture,Asia,4157.63,1471.97,328.13,47,01-05-2024,4.49,Wholesale,3.7,Corporate,Credit Card,3,Not Returned
+609,Of Plus,Electronics,Europe,658.99,1786.5,1.75,77,08-05-2024,17.55,Online,1.6,Corporate,Credit Card,9,Not Returned
+610,Political Ultra,Furniture,Africa,2547.58,1181.19,325.41,69,30-01-2024,23.23,Wholesale,3.2,Small Business,Bank Transfer,11,Not Returned
+611,Short Pro,Toys,Asia,4101.71,1518.07,383.18,26,22-07-2024,26.75,Wholesale,3.5,Government,Bank Transfer,7,Returned
+612,Open Plus,Furniture,Australia,4697.59,1828.31,476.08,11,09-11-2024,6.67,In-store,1.1,Corporate,Bank Transfer,13,Returned
+613,Past Pro,Toys,Asia,4471.83,2401.68,894.85,18,16-11-2024,0.98,Wholesale,3.5,Retail,PayPal,11,Returned
+614,Class X,Clothing,Europe,1030,3963.93,717.92,28,18-06-2024,21.71,Wholesale,1.4,Corporate,Debit Card,13,Returned
+615,Despite Pro,Furniture,Australia,2413.74,1355.43,55.38,7,08-07-2024,21.13,Wholesale,1.9,Retail,Bank Transfer,6,Not Returned
+616,Check Ultra,Clothing,Australia,333.05,3212.12,347.9,43,24-08-2024,27.67,Wholesale,4.8,Small Business,Debit Card,6,Not Returned
+617,Model Plus,Electronics,Africa,1578.61,1445.66,161.15,12,12-07-2024,18.84,In-store,2.4,Retail,PayPal,15,Returned
+618,Add Ultra,Furniture,Asia,3780.48,1590.96,435.89,77,29-03-2024,9.78,In-store,2,Retail,PayPal,7,Returned
+619,Follow Pro,Groceries,Australia,578.36,2799,575.94,77,21-07-2024,0.98,In-store,3.7,Corporate,PayPal,15,Not Returned
+620,Health Pro,Groceries,North America,4202.66,2518.81,447.33,12,21-01-2024,15.71,Online,1.9,Small Business,Bank Transfer,14,Not Returned
+621,Paper X,Toys,Asia,1572.96,3857.11,668.72,10,31-01-2024,21.95,Wholesale,2.9,Government,Bank Transfer,3,Returned
+622,Stay Pro,Clothing,Australia,2508.51,2376.1,526.02,1,26-02-2024,27.76,Online,2,Government,Bank Transfer,12,Not Returned
+623,Other Plus,Toys,Africa,3525.79,2766.6,972.02,20,20-01-2024,9.6,In-store,4.7,Corporate,PayPal,12,Not Returned
+624,Have Pro,Toys,Africa,2410.3,1741.36,249.85,96,17-10-2024,4.04,Online,1.8,Corporate,Credit Card,4,Not Returned
+625,His X,Toys,Asia,3959.05,3450.98,56.83,68,17-04-2024,25.9,Online,4.9,Retail,Bank Transfer,15,Returned
+626,Need X,Groceries,Africa,3410.25,1483.8,477.96,75,12-03-2024,11.1,Online,1.5,Corporate,PayPal,4,Returned
+627,Water Plus,Furniture,Asia,1318.65,3571.67,27.36,49,24-03-2024,25.8,Online,2.5,Government,Bank Transfer,1,Returned
+628,Impact Plus,Furniture,Asia,4803.15,3929.09,79.44,58,19-12-2024,13.8,Wholesale,3.3,Government,Bank Transfer,11,Returned
+629,Campaign Ultra,Furniture,Australia,592.73,1741.35,920.59,22,09-10-2024,12.54,In-store,2.5,Corporate,PayPal,6,Not Returned
+630,Market Pro,Toys,Australia,443.75,733.79,437.84,17,24-06-2024,26.71,In-store,4.9,Small Business,PayPal,13,Not Returned
+631,Special Plus,Toys,Africa,1776.67,2521.44,78.92,87,10-06-2024,26.1,Wholesale,3.6,Corporate,Credit Card,7,Returned
+632,One Ultra,Electronics,Europe,3040.35,2171.01,896.86,13,14-04-2024,0.15,Online,1.2,Retail,Debit Card,7,Returned
+633,Maybe Ultra,Electronics,North America,277.17,2600.07,234.17,59,25-01-2024,26.34,Online,4.2,Government,Bank Transfer,8,Not Returned
+634,Water Pro,Furniture,Australia,1225.6,1581.1,891.32,85,15-05-2024,23.51,Online,1,Small Business,Debit Card,4,Returned
+635,Almost Ultra,Furniture,Australia,4963.82,3760.07,522.98,78,26-02-2024,25.76,Online,2.1,Retail,Credit Card,5,Not Returned
+636,Property X,Clothing,Australia,4632.81,1808.71,752.62,14,19-07-2024,2.59,Wholesale,1.7,Government,Bank Transfer,1,Returned
+637,Reach Plus,Electronics,Africa,4797.58,2329.08,885.9,100,17-11-2024,2.37,Wholesale,1,Retail,Credit Card,9,Returned
+638,Whether X,Electronics,North America,1046.97,3984.68,464.05,27,30-08-2024,10.87,Wholesale,1.8,Retail,Credit Card,3,Not Returned
+639,According Plus,Furniture,Asia,3843.93,1981.39,43.1,15,25-05-2024,24.14,Online,3,Government,PayPal,9,Returned
+640,Price Ultra,Toys,Europe,1615,1768.87,895.2,37,22-09-2024,6.42,Online,3.3,Small Business,Debit Card,6,Not Returned
+641,Process Plus,Electronics,Asia,2403.14,3097.25,347.24,29,06-05-2024,29,Online,3.7,Corporate,Bank Transfer,8,Returned
+642,Bed Plus,Clothing,Australia,2381.88,476.83,641.24,36,28-06-2024,29.46,In-store,4.8,Small Business,Bank Transfer,3,Not Returned
+643,Consumer Plus,Clothing,Asia,907.08,1138.61,627.6,58,04-02-2024,0.35,Online,2.1,Government,PayPal,10,Not Returned
+644,Professor Ultra,Electronics,Europe,3675.49,3850.24,994.11,28,13-08-2024,17.92,Wholesale,4.4,Corporate,Debit Card,11,Not Returned
+645,Fish X,Groceries,North America,4901.7,1749.52,516.94,74,14-04-2024,13.69,Online,4.8,Corporate,PayPal,4,Not Returned
+646,Could X,Groceries,Africa,3374.79,1489.44,788.81,82,20-12-2024,18.96,Online,4.2,Corporate,Bank Transfer,1,Returned
+647,Center Ultra,Groceries,Africa,2247.52,2696.03,601.2,79,09-01-2024,8.56,Online,3.3,Retail,Credit Card,8,Returned
+648,Focus Pro,Furniture,Europe,2255.61,2323.7,799.98,27,16-03-2024,15.46,Wholesale,1.8,Small Business,Bank Transfer,13,Returned
+649,Night Ultra,Groceries,North America,3895.35,1895.41,907.83,13,07-01-2024,1.14,Online,1.8,Government,Credit Card,11,Returned
+650,Yet X,Toys,Europe,3084.2,3432.87,495.79,53,10-09-2024,21.25,In-store,2.4,Corporate,Debit Card,12,Returned
+651,Thank Ultra,Electronics,Europe,1406.73,32.65,314.74,93,17-04-2024,14.17,Online,2.5,Small Business,Debit Card,2,Not Returned
+652,Seven Ultra,Electronics,Europe,1164.18,2710.38,864.84,68,01-10-2024,1.02,Online,1.9,Government,PayPal,8,Returned
+653,Not Plus,Electronics,Europe,3889.99,2732.86,699.2,39,01-10-2024,19.47,In-store,4.1,Corporate,Bank Transfer,9,Returned
+654,Body X,Clothing,Africa,20.85,481.35,684.85,32,08-04-2024,28.44,Wholesale,4.4,Corporate,Bank Transfer,13,Returned
+655,Individual X,Toys,North America,4468.24,2164.05,636.99,42,30-04-2024,16.97,Wholesale,1.8,Government,Debit Card,10,Returned
+656,None Ultra,Groceries,Australia,2768.51,3548.5,700.3,79,04-09-2024,1.45,Online,4.8,Government,Bank Transfer,12,Not Returned
+657,Sure Plus,Furniture,Australia,4572.67,401.28,97.3,23,09-07-2024,9.3,Wholesale,1.7,Retail,Debit Card,1,Returned
+658,Whether Ultra,Clothing,Europe,2427.37,3971.54,735.51,84,05-04-2024,1.04,In-store,2.2,Government,Credit Card,13,Returned
+659,Similar X,Furniture,Australia,632.12,510.04,375.75,84,16-10-2024,13.97,In-store,4.5,Government,Credit Card,2,Not Returned
+660,Fish Plus,Furniture,Australia,1604.74,696.11,939.6,61,06-03-2024,14.64,Wholesale,3.8,Government,Debit Card,9,Not Returned
+661,So X,Toys,Asia,30.05,2090.34,573.54,9,13-12-2024,2.76,Wholesale,1.5,Corporate,Bank Transfer,15,Returned
+662,Leave Plus,Furniture,North America,4148.98,156.73,434.31,35,27-06-2024,22.78,In-store,3.1,Retail,Bank Transfer,4,Returned
+663,Save X,Toys,Europe,2313.92,2603.1,404.33,2,20-03-2024,20.86,Online,1.7,Corporate,Bank Transfer,12,Not Returned
+664,City Pro,Toys,Australia,3788.1,1858.25,338.91,24,17-04-2024,27.62,Online,4.4,Corporate,Debit Card,13,Not Returned
+665,Them Plus,Electronics,Africa,4547.82,3558.49,550.25,26,19-04-2024,16.49,In-store,1.8,Corporate,Debit Card,1,Returned
+666,Kid Ultra,Groceries,Europe,4716.64,1002.1,932.11,88,22-04-2024,24.77,Online,2.1,Government,Bank Transfer,10,Returned
+667,Reason Pro,Groceries,North America,4881.5,3119.14,801.37,70,20-07-2024,2.46,In-store,2.9,Retail,Credit Card,3,Not Returned
+668,Computer Pro,Toys,Europe,821.39,1688.65,227.2,18,18-07-2024,24.17,In-store,4.5,Retail,Credit Card,3,Returned
+669,Old X,Clothing,Africa,4928.73,2690.78,638.23,65,02-10-2024,6.62,Wholesale,2.3,Small Business,Credit Card,4,Not Returned
+670,Police Plus,Groceries,Australia,4838.72,2278.71,36.52,1,13-05-2024,25.22,In-store,3,Corporate,PayPal,11,Returned
+671,Shoulder X,Electronics,Asia,4014.14,2223.64,576.27,2,11-02-2024,16,In-store,2.8,Retail,Debit Card,8,Returned
+672,Wish X,Furniture,North America,3381.88,1505.49,419.15,65,18-02-2024,14.19,In-store,1.3,Small Business,Debit Card,13,Returned
+673,Fund Plus,Electronics,North America,1012.82,3561.4,528.07,47,22-01-2024,29.21,Wholesale,1.4,Small Business,Credit Card,3,Not Returned
+674,Yeah Ultra,Furniture,North America,2329.49,3041.23,847.07,77,31-08-2024,0.85,Wholesale,3.9,Government,PayPal,1,Returned
+675,Hit Pro,Electronics,North America,1982.47,3915.46,735.97,76,01-04-2024,23.33,In-store,1.7,Retail,Bank Transfer,6,Not Returned
+676,Send Ultra,Furniture,Australia,1416.3,1606.13,989.99,90,17-10-2024,4.55,In-store,4.1,Retail,Bank Transfer,3,Returned
+677,Team Pro,Clothing,Asia,2139.31,3823.7,850.59,42,22-12-2024,14.22,Online,2.7,Government,PayPal,15,Not Returned
+678,At Ultra,Toys,Europe,1197.25,158.64,480.68,7,16-05-2024,7.21,Online,4.1,Corporate,Debit Card,4,Returned
+679,Give Ultra,Clothing,Europe,1563.83,3573.77,622.81,68,06-07-2024,21.11,Online,3.1,Retail,Credit Card,13,Returned
+680,Win Pro,Clothing,North America,3888.75,1764.95,22.48,4,09-03-2024,18.5,In-store,4.6,Small Business,Bank Transfer,10,Not Returned
+681,Require Ultra,Electronics,Asia,2632.03,3537.47,800.73,40,02-06-2024,13.23,Wholesale,1.8,Small Business,PayPal,7,Not Returned
+682,Exist Ultra,Furniture,North America,3410.69,3884.7,428.1,75,06-04-2024,21.26,Online,3.2,Corporate,Debit Card,15,Returned
+683,Personal X,Clothing,Africa,2371.24,3436.09,777.54,73,11-11-2024,20,Wholesale,3,Government,Bank Transfer,3,Not Returned
+684,Early Plus,Groceries,Australia,2368.64,159.85,91.64,50,16-02-2024,14.16,Online,1.1,Retail,PayPal,11,Returned
+685,Interview Ultra,Groceries,Asia,1066.25,47.52,451.17,62,12-09-2024,14.67,In-store,2.4,Government,Credit Card,1,Not Returned
+686,Focus X,Toys,North America,4717.7,167,879.61,2,05-07-2024,16.77,Online,1.1,Retail,Bank Transfer,7,Not Returned
+687,Part Ultra,Clothing,North America,1732.07,2137.76,227.75,94,27-05-2024,27.65,Wholesale,1.7,Government,Credit Card,13,Returned
+688,Low Pro,Groceries,Asia,648.29,3624.43,961.85,29,29-10-2024,14.91,Online,1.1,Retail,PayPal,12,Not Returned
+689,Side Ultra,Clothing,Europe,2205.77,2603.64,942.26,34,20-05-2024,18.58,Online,1.1,Government,Credit Card,6,Returned
+690,Political Pro,Groceries,Europe,771.78,2331.75,767.35,72,25-05-2024,23.22,Online,2.4,Corporate,PayPal,15,Not Returned
+691,Media Plus,Groceries,Africa,2853.53,2783.76,294.43,21,28-10-2024,18.25,In-store,3.6,Corporate,Credit Card,13,Returned
+692,Back Pro,Electronics,Asia,2029.21,3346.64,875.48,94,02-05-2024,2.3,In-store,3.5,Corporate,Credit Card,8,Returned
+693,Technology Ultra,Clothing,Europe,3822.84,3315.26,507.58,34,14-04-2024,24.61,Online,3.1,Retail,Credit Card,7,Returned
+694,Possible Pro,Electronics,Asia,163.78,3752.68,374.29,80,27-03-2024,17.58,Online,2.3,Retail,PayPal,10,Not Returned
+695,Moment Pro,Electronics,Asia,4510.94,1150.12,107.47,12,13-11-2024,12.92,In-store,1.9,Retail,Credit Card,4,Returned
+696,Happy Pro,Electronics,Europe,3147.21,933.93,831.73,27,21-11-2024,5.96,Online,4.3,Government,Credit Card,15,Not Returned
+697,Current X,Furniture,Asia,3856.37,3081.23,101.77,32,14-02-2024,8.35,Wholesale,1.8,Government,Credit Card,9,Returned
+698,Follow X,Groceries,Africa,3076.3,3090.23,370.78,29,20-02-2024,26.68,Online,3.3,Small Business,Credit Card,1,Returned
+699,Player Pro,Clothing,Europe,2035.03,109.23,622.35,9,13-10-2024,0.4,Online,2.2,Retail,Bank Transfer,6,Not Returned
+700,But Pro,Clothing,Africa,4474.15,1309.53,488.38,54,20-02-2024,6.52,Online,3.6,Retail,PayPal,7,Returned
+701,Newspaper Ultra,Electronics,Africa,1031.43,1608.14,895.53,3,16-12-2024,25.21,Wholesale,3.7,Government,PayPal,12,Returned
+702,Meeting X,Groceries,Australia,3725.93,1233.28,926.54,70,20-04-2024,13.33,In-store,4.5,Retail,Debit Card,1,Not Returned
+703,Article X,Groceries,Europe,945.82,183.75,959.89,60,23-03-2024,24.37,In-store,1.8,Government,Bank Transfer,11,Not Returned
+704,Indeed X,Toys,North America,2698.37,680.07,80.92,82,31-07-2024,15.38,Wholesale,1.3,Government,Bank Transfer,4,Not Returned
+705,Professional X,Furniture,Africa,1206.25,728.27,171.92,31,10-03-2024,6.08,Online,1.8,Government,Debit Card,15,Returned
+706,Economic X,Groceries,Africa,614.56,199.83,633.55,96,02-07-2024,0.24,In-store,2.5,Government,Credit Card,1,Returned
+707,Black Pro,Electronics,Europe,35.67,2630.48,391.98,50,10-08-2024,28.44,Wholesale,2.4,Corporate,Bank Transfer,5,Not Returned
+708,Trial Pro,Electronics,Africa,186.3,1578.78,191.35,56,03-03-2024,29.64,In-store,2,Corporate,PayPal,6,Not Returned
+709,Teach Plus,Groceries,Asia,239.42,3724.36,99.49,42,05-05-2024,24.15,In-store,4.7,Small Business,Debit Card,10,Returned
+710,National Pro,Toys,Asia,4176.97,3840.21,911.52,52,05-12-2024,24.3,Wholesale,4,Corporate,Bank Transfer,15,Not Returned
+711,Space Ultra,Toys,Europe,3817.08,565.67,728.19,39,18-06-2024,4.29,Online,1.7,Government,PayPal,5,Returned
+712,Boy Pro,Clothing,North America,4080.8,1319.19,778.2,78,02-03-2024,23.24,Online,4,Retail,PayPal,1,Not Returned
+713,Education Pro,Furniture,Australia,2696.41,2187.62,947.34,24,02-11-2024,26.83,In-store,2.6,Corporate,Debit Card,11,Not Returned
+714,Bank X,Groceries,Africa,874.78,2171.24,975.87,78,31-10-2024,4.31,Wholesale,4.5,Small Business,PayPal,10,Not Returned
+715,To X,Electronics,North America,4893.21,1630.67,616.9,26,05-01-2024,21.23,In-store,4.3,Retail,Debit Card,13,Not Returned
+716,Position Pro,Clothing,Europe,4197.51,2835.92,911.41,81,28-04-2024,24.68,In-store,3,Small Business,Bank Transfer,7,Not Returned
+717,Before Plus,Electronics,Europe,4163.62,2888.31,145.36,85,25-04-2024,16.07,In-store,4.1,Government,Credit Card,4,Returned
+718,Cold Pro,Groceries,Asia,720.72,571.31,497.22,37,11-08-2024,15.2,In-store,3.3,Small Business,Bank Transfer,9,Returned
+719,Third Plus,Clothing,Asia,4048.54,719.01,177.18,25,07-05-2024,26.75,Online,4.8,Retail,Credit Card,15,Not Returned
+720,War X,Groceries,Asia,1930.27,2194.53,70.54,38,14-12-2024,1.79,In-store,3.3,Corporate,Credit Card,2,Returned
+721,Figure Ultra,Electronics,Australia,267.2,2947.11,809.42,44,31-05-2024,9.02,Online,4.6,Retail,Bank Transfer,3,Not Returned
+722,Return X,Groceries,North America,1780.28,3786.49,75.77,88,22-05-2024,8.01,Online,2,Corporate,Bank Transfer,11,Not Returned
+723,Attention Plus,Furniture,North America,1832.44,3951.52,247.77,1,31-08-2024,21.25,Wholesale,3.9,Corporate,Debit Card,1,Not Returned
+724,Night Ultra,Clothing,Africa,3578.79,2049.51,748.58,36,06-09-2024,24.23,Online,1.6,Corporate,Debit Card,6,Returned
+725,Than Ultra,Electronics,Europe,1179.95,975.68,503.34,57,16-05-2024,1.33,Wholesale,4.5,Government,Debit Card,2,Returned
+726,Technology X,Clothing,Africa,2310.43,952.06,898.96,44,22-01-2024,13.74,Wholesale,5,Retail,Bank Transfer,2,Returned
+727,How Ultra,Electronics,Australia,3140.07,3026.82,284.29,60,09-10-2024,23.33,Wholesale,4.6,Small Business,Debit Card,1,Not Returned
+728,Yet Pro,Electronics,Europe,3862.37,281.2,387.75,92,22-06-2024,2.97,Wholesale,2.5,Government,Bank Transfer,10,Not Returned
+729,Hospital Plus,Electronics,Asia,2664.67,236.47,741.64,14,25-05-2024,12.02,Online,3.8,Government,Credit Card,13,Not Returned
+730,Tough Ultra,Toys,Australia,1889.99,2880.78,585.59,23,03-04-2024,3.27,In-store,2.4,Corporate,Debit Card,14,Not Returned
+731,Writer Pro,Furniture,Africa,4895.17,3594.62,431.83,29,17-06-2024,14.73,Online,4.7,Small Business,Bank Transfer,6,Returned
+732,Teach X,Groceries,Australia,3429.59,2825.44,573.06,34,04-01-2024,3.16,In-store,2.7,Corporate,Debit Card,3,Not Returned
+733,Outside Pro,Clothing,North America,4614.08,325.26,611.53,78,16-06-2024,20.02,In-store,1,Government,Credit Card,6,Not Returned
+734,Fine Ultra,Clothing,Europe,4710.04,3238.59,990.55,32,10-12-2024,8.05,Wholesale,2,Small Business,PayPal,10,Returned
+735,More Plus,Toys,Europe,851.8,2369.94,936.16,46,14-11-2024,16.63,Wholesale,1.7,Retail,Debit Card,10,Not Returned
+736,Write Ultra,Toys,Australia,4212.93,3245.62,320.25,36,24-03-2024,20.32,In-store,4.1,Government,Credit Card,7,Not Returned
+737,Blue X,Toys,Europe,1579.93,1824.41,682.46,21,19-01-2024,25.43,Online,4,Corporate,Debit Card,8,Returned
+738,Center Pro,Groceries,Asia,798.44,2757.89,624.99,24,28-05-2024,28.76,Online,1.2,Government,Debit Card,1,Not Returned
+739,Often Plus,Toys,Africa,4350.53,2539.77,904.41,43,09-03-2024,19.49,In-store,3.1,Government,Credit Card,15,Returned
+740,Age X,Groceries,Europe,2597.9,1105.94,538.26,13,14-03-2024,8.58,In-store,4.1,Small Business,Debit Card,2,Returned
+741,Product Plus,Furniture,Australia,199.99,652.07,150.77,94,25-06-2024,13.6,Online,2.4,Small Business,Bank Transfer,7,Not Returned
+742,Involve Ultra,Clothing,North America,2579.96,3385.26,666.27,49,03-02-2024,24.2,In-store,1.9,Corporate,Debit Card,14,Returned
+743,Hear X,Clothing,Australia,667.43,1022.52,873.14,70,17-02-2024,13.75,In-store,2.2,Government,Bank Transfer,2,Returned
+744,Son Ultra,Clothing,Africa,4219.62,2136.27,482.73,73,13-08-2024,12.94,Online,2.8,Retail,Debit Card,1,Returned
+745,Eight Pro,Furniture,Australia,3416.96,611.3,339.35,39,17-02-2024,10.31,In-store,2.5,Retail,Credit Card,4,Not Returned
+746,Time Ultra,Groceries,Asia,3465.66,1087.23,418.54,2,05-02-2024,27.49,In-store,1.8,Retail,Credit Card,10,Returned
+747,Home X,Clothing,North America,1670,225.74,981.58,30,04-06-2024,2.19,In-store,1.2,Small Business,PayPal,9,Not Returned
+748,Recognize Ultra,Clothing,Australia,4455.5,1992.16,735.42,84,23-08-2024,8.98,In-store,3.1,Corporate,Bank Transfer,3,Returned
+749,Technology Ultra,Clothing,Africa,1785.65,1196.35,338.27,37,14-03-2024,20.56,In-store,3.3,Small Business,Bank Transfer,3,Not Returned
+750,Rule Ultra,Groceries,North America,3204.21,1192.5,995.57,81,04-04-2024,9.67,Online,2.4,Retail,Bank Transfer,4,Not Returned
+751,Ahead X,Furniture,Africa,259.82,1706.77,708.75,92,15-04-2024,13.7,Online,4.3,Corporate,Bank Transfer,13,Returned
+752,Go Ultra,Toys,North America,1753.25,398.06,870.66,93,25-01-2024,21.92,Wholesale,1.4,Corporate,Debit Card,12,Not Returned
+753,Argue Ultra,Furniture,North America,514.81,84.83,247.24,89,08-04-2024,29.96,Wholesale,3.7,Retail,Debit Card,8,Returned
+754,Operation Ultra,Toys,Africa,1108.29,1541.03,237.14,82,02-07-2024,7.36,Online,2.3,Small Business,Bank Transfer,15,Returned
+755,Start X,Clothing,Asia,1826.48,3211.23,391.88,24,30-06-2024,1.13,In-store,3.9,Small Business,PayPal,8,Not Returned
+756,With X,Clothing,Asia,4596.52,3700.06,778.84,4,03-07-2024,11.93,In-store,1.9,Government,PayPal,6,Not Returned
+757,Red Ultra,Groceries,Asia,1151.08,3669.87,632.99,10,26-11-2024,21.67,In-store,2.2,Retail,Bank Transfer,6,Returned
+758,Commercial X,Clothing,Australia,1808.87,2578.23,216.47,8,15-05-2024,24.9,Online,4.3,Retail,Bank Transfer,5,Returned
+759,Practice X,Clothing,North America,796.85,2551.42,552.83,35,26-04-2024,29.22,In-store,2.4,Government,Bank Transfer,8,Not Returned
+760,Usually Ultra,Clothing,Europe,2601.9,2822.78,615.27,75,31-03-2024,26.3,Wholesale,2.9,Government,Bank Transfer,9,Returned
+761,Truth X,Clothing,Australia,544.3,2099.45,194.93,79,29-04-2024,17.06,Online,3.1,Government,Debit Card,14,Not Returned
+762,Itself Plus,Furniture,Europe,629.95,26.72,747.9,98,08-04-2024,22.73,Wholesale,2.3,Small Business,Bank Transfer,8,Returned
+763,Sense Ultra,Clothing,Asia,520.94,2807.55,878.12,64,07-05-2024,3.67,In-store,1.4,Retail,Bank Transfer,1,Returned
+764,Series Pro,Groceries,North America,2207.24,1222.1,684.26,41,15-08-2024,18.25,In-store,4,Retail,PayPal,2,Returned
+765,Move Pro,Toys,North America,3766.39,3553.14,983.69,50,26-01-2024,9.11,Wholesale,3.6,Government,Bank Transfer,15,Returned
+766,Explain Ultra,Furniture,Asia,4862.31,1713,996.82,36,03-11-2024,0.62,In-store,3,Corporate,Bank Transfer,3,Not Returned
+767,Everyone Ultra,Furniture,Australia,1030.36,1105.86,116.57,98,04-09-2024,22.88,Online,3.3,Corporate,Credit Card,6,Not Returned
+768,Arm Ultra,Toys,Europe,3567.65,1938.31,193.59,79,09-07-2024,11.13,Online,1.8,Government,Debit Card,13,Not Returned
+769,Nice X,Clothing,North America,63.6,3839.95,236.51,89,06-03-2024,0.29,Wholesale,1.4,Government,Credit Card,2,Not Returned
+770,Trip Ultra,Groceries,North America,1060.49,417.9,278.76,96,11-08-2024,7.7,In-store,2.3,Government,Bank Transfer,12,Not Returned
+771,Then Pro,Furniture,North America,4437.27,1690.68,122.91,3,15-09-2024,10.37,In-store,1.2,Retail,Debit Card,1,Not Returned
+772,Tax Pro,Clothing,Australia,329.18,2288.3,896.54,11,16-01-2024,1.7,Online,1,Retail,Credit Card,8,Returned
+773,Similar Plus,Electronics,North America,3356.64,1110.03,283.17,8,28-02-2024,18.39,Online,3.7,Corporate,PayPal,13,Returned
+774,Bed Ultra,Furniture,North America,4370.19,1460.89,288.21,39,26-02-2024,22.67,In-store,4.1,Corporate,Debit Card,6,Returned
+775,Tell X,Furniture,Europe,3222.99,1033.88,394.34,49,12-05-2024,0.13,In-store,3.5,Government,Credit Card,2,Not Returned
+776,Lose Ultra,Groceries,Australia,4083.17,975.38,742.09,96,01-05-2024,22.87,In-store,4.3,Government,Credit Card,2,Returned
+777,Its Plus,Furniture,Africa,3848.98,471.63,878.21,40,30-11-2024,9.1,Online,3.5,Government,Bank Transfer,15,Returned
+778,View Plus,Groceries,Europe,1896.44,2633.83,783.54,77,17-11-2024,24.84,Online,2.5,Corporate,Debit Card,6,Not Returned
+779,Too Ultra,Toys,Africa,1638.94,2327.34,325.12,14,24-08-2024,5.63,Wholesale,1.9,Government,Credit Card,2,Not Returned
+780,Visit Plus,Groceries,Europe,2452.25,942.27,777.54,80,21-11-2024,14,Wholesale,1.1,Government,Debit Card,9,Returned
+781,Represent Pro,Toys,Africa,843.55,844,242.17,63,08-06-2024,2.37,Online,3.3,Government,PayPal,14,Returned
+782,Kind Pro,Toys,Africa,1550.83,3395.45,949.5,78,04-05-2024,23.37,Wholesale,5,Retail,Credit Card,9,Not Returned
+783,Inside Pro,Clothing,Australia,4545.51,2368.57,722.8,21,25-11-2024,12.18,Wholesale,1.8,Corporate,Bank Transfer,11,Not Returned
+784,Explain Pro,Furniture,Asia,2309.14,2370.9,544.54,15,07-12-2024,4.88,Online,1.9,Government,PayPal,7,Not Returned
+785,Place Ultra,Toys,Asia,1379.86,3713.17,65.4,80,20-11-2024,12.13,Online,2.5,Small Business,Bank Transfer,7,Returned
+786,Exactly X,Clothing,Africa,84.59,3518.74,298.52,60,22-04-2024,15.27,Wholesale,2,Small Business,Credit Card,15,Returned
+787,Vote Plus,Toys,Asia,817.16,3441.27,384.11,81,15-10-2024,17.61,Online,4.7,Small Business,Bank Transfer,1,Not Returned
+788,International Plus,Electronics,Asia,1160.43,1460.02,837.86,75,14-12-2024,20.6,Online,1.3,Retail,Bank Transfer,4,Returned
+789,Development X,Clothing,Australia,3506.5,725.18,731.72,89,17-09-2024,6.57,In-store,1.9,Government,PayPal,1,Returned
+790,Necessary Plus,Electronics,Europe,2546.88,2179.42,588.12,8,04-06-2024,5.68,Wholesale,4.5,Retail,Credit Card,7,Returned
+791,Not Plus,Furniture,Europe,2428.05,2834.57,515.89,22,21-08-2024,11.95,In-store,1.8,Corporate,Bank Transfer,2,Not Returned
+792,Sign Ultra,Groceries,Australia,3478.01,2820.81,328.98,31,29-10-2024,23,In-store,2.7,Government,Debit Card,1,Not Returned
+793,Line Pro,Groceries,Australia,211.26,1017.39,318.66,55,15-04-2024,27.82,In-store,1.5,Corporate,PayPal,11,Not Returned
+794,Suffer Ultra,Furniture,North America,1936.83,1873.54,475.46,53,14-07-2024,12.23,Wholesale,2.5,Government,Debit Card,7,Returned
+795,Chair Ultra,Furniture,Australia,3091.93,549.92,6.64,88,24-01-2024,13.57,Wholesale,1.3,Corporate,Debit Card,8,Not Returned
+796,Meeting X,Toys,Australia,3145.63,733.33,600.42,96,01-05-2024,13.56,In-store,2.4,Corporate,Bank Transfer,9,Not Returned
+797,Tree Ultra,Groceries,Europe,1311.11,3802.06,94.07,84,10-06-2024,1.17,In-store,3.9,Retail,Bank Transfer,2,Not Returned
+798,Remain X,Toys,North America,2340.51,3624.66,255.51,86,31-01-2024,1.3,In-store,3.4,Government,Bank Transfer,13,Returned
+799,Government Pro,Groceries,Asia,1706.57,2356.86,51.05,74,19-05-2024,11.22,Wholesale,1.5,Retail,PayPal,5,Returned
+800,Finish Ultra,Toys,Europe,4466.7,2848.71,895.25,65,19-02-2024,8.26,In-store,3.2,Corporate,Credit Card,8,Returned
+801,Six Ultra,Groceries,Asia,905.5,2672.72,39.63,62,29-11-2024,6.59,Online,3.2,Corporate,PayPal,7,Returned
+802,Actually X,Clothing,Africa,4506.94,1815.07,535.47,55,05-03-2024,29.74,Wholesale,3,Corporate,PayPal,8,Returned
+803,Story Plus,Toys,Australia,4864.3,2469.62,292.34,91,11-12-2024,26.29,Wholesale,2.1,Retail,Debit Card,9,Not Returned
+804,Treat Ultra,Electronics,Australia,3957.02,1927.48,604.35,58,25-11-2024,23.93,Online,4.6,Corporate,Debit Card,6,Returned
+805,Truth Ultra,Furniture,Asia,1819.53,3019.91,896.12,53,28-11-2024,29.14,Online,2.7,Small Business,Bank Transfer,9,Not Returned
+806,Early Pro,Groceries,Asia,3866.21,3143.99,464.81,85,04-07-2024,13.68,Wholesale,1.5,Corporate,Credit Card,9,Returned
+807,Town Ultra,Electronics,Asia,55.17,48.58,211.32,73,27-10-2024,28.91,In-store,3.6,Retail,Bank Transfer,12,Returned
+808,After Pro,Electronics,North America,1207.44,2712.59,713.39,57,11-02-2024,2.69,Wholesale,1.6,Corporate,PayPal,4,Not Returned
+809,Alone Plus,Clothing,Australia,4653.31,1078.69,149.84,71,20-01-2024,2.23,Wholesale,1.3,Retail,Debit Card,9,Returned
+810,Development Ultra,Groceries,Australia,1056.64,1518.98,44.6,35,20-09-2024,11.15,In-store,4,Retail,Bank Transfer,14,Not Returned
+811,Coach X,Clothing,Asia,4577.42,1942.3,889.54,42,10-08-2024,2.81,Wholesale,2.9,Small Business,PayPal,11,Returned
+812,Cold Ultra,Toys,Australia,2645.64,3706.79,301.31,31,04-03-2024,10.95,In-store,4.7,Retail,Debit Card,1,Returned
+813,Value Plus,Groceries,Australia,3217.39,1736.89,164.26,40,27-03-2024,29.71,Online,4.5,Small Business,Credit Card,9,Returned
+814,Job Pro,Toys,Africa,2752.82,138.86,80.05,94,04-07-2024,24.5,Wholesale,3.3,Corporate,PayPal,13,Not Returned
+815,Social Pro,Electronics,North America,351.08,746.82,916.13,91,26-09-2024,8.85,In-store,1.7,Small Business,Credit Card,5,Returned
+816,Yeah Plus,Groceries,Australia,3963.67,1343.87,88.44,77,22-08-2024,1.08,Wholesale,2.6,Corporate,Credit Card,7,Not Returned
+817,Debate Plus,Electronics,Africa,3530.25,1669.69,541.87,15,23-11-2024,18.6,Wholesale,1.9,Small Business,PayPal,2,Returned
+818,Thus Ultra,Clothing,Asia,1227.83,2516.85,256.47,17,07-07-2024,28.17,Online,2.5,Corporate,PayPal,8,Not Returned
+819,Surface Plus,Electronics,Asia,2361.54,3905.86,701.56,86,12-12-2024,22.47,Wholesale,3.8,Government,Bank Transfer,2,Not Returned
+820,Natural X,Electronics,Asia,2722.04,2876.09,124.55,39,26-11-2024,29.24,Online,2.8,Government,Credit Card,15,Returned
+821,Either Ultra,Electronics,North America,552.65,1998.31,783.36,21,25-01-2024,21.79,In-store,2.1,Retail,PayPal,15,Not Returned
+822,Save Ultra,Furniture,Africa,1195.06,3982.98,217.98,91,21-08-2024,0.58,Wholesale,2.2,Government,Credit Card,3,Returned
+823,Positive Pro,Clothing,Africa,2783.02,97.61,711.17,91,31-03-2024,16.23,Wholesale,2.7,Corporate,PayPal,1,Not Returned
+824,Himself Ultra,Clothing,Europe,3349.73,626.84,863.48,98,12-01-2024,7.67,In-store,3.9,Government,PayPal,2,Returned
+825,Race Ultra,Clothing,Europe,1565.7,1064.86,790.15,55,21-11-2024,22.18,Wholesale,1.1,Retail,Bank Transfer,5,Not Returned
+826,Four Ultra,Furniture,North America,483.38,2830.99,886.66,50,10-08-2024,23.61,In-store,4.7,Government,Debit Card,1,Not Returned
+827,Yes Ultra,Electronics,Asia,225.12,3565,818.73,95,07-05-2024,0.36,Wholesale,2.6,Retail,Credit Card,6,Returned
+828,Speech Pro,Electronics,Australia,2734.47,3560.8,496.71,63,19-10-2024,13.45,Online,4.1,Corporate,PayPal,13,Returned
+829,Certainly Pro,Toys,Africa,2553.43,1934,702.29,41,13-01-2024,28.58,Online,1.8,Corporate,PayPal,13,Returned
+830,Fight Pro,Electronics,North America,1531.23,1455.16,314.32,48,12-03-2024,18.13,Online,2.5,Government,Debit Card,1,Returned
+831,Water X,Furniture,Europe,857.7,2908.62,769.33,94,09-01-2024,16.54,Wholesale,2.1,Small Business,Debit Card,11,Not Returned
+832,Anyone Ultra,Toys,Asia,1674.79,3206.79,855.66,19,21-09-2024,20.9,Online,2.3,Retail,PayPal,13,Not Returned
+833,Top Plus,Clothing,Europe,727.03,3245.49,785.06,42,07-02-2024,15.89,Wholesale,4,Retail,Credit Card,7,Not Returned
+834,Pick X,Toys,Europe,1632.2,2171.28,452.05,74,12-07-2024,29.88,Wholesale,4.3,Corporate,Bank Transfer,11,Returned
+835,Year X,Groceries,Australia,3177.56,2867.55,406.99,90,31-01-2024,5.8,Online,3.4,Government,Credit Card,11,Returned
+836,Long Plus,Toys,Europe,399.86,345.17,692.66,20,05-11-2024,10.67,Wholesale,1.5,Retail,Credit Card,15,Not Returned
+837,Name Pro,Furniture,Europe,4086.9,2498.62,651.83,11,22-04-2024,18.18,Wholesale,3.9,Small Business,PayPal,3,Returned
+838,Employee Pro,Clothing,Asia,2991.69,3904.41,402.3,34,10-04-2024,10.28,Online,5,Retail,Credit Card,4,Not Returned
+839,Decision Plus,Furniture,North America,3710.06,1631.39,326.67,85,15-07-2024,18.1,Wholesale,3.8,Retail,Bank Transfer,10,Returned
+840,Than Pro,Clothing,Australia,805.09,1384.47,678.11,38,12-11-2024,23.3,Wholesale,3.1,Retail,PayPal,14,Not Returned
+841,Number Plus,Furniture,Asia,4401.69,1877.78,720.22,74,19-08-2024,25.04,Wholesale,2.8,Government,Credit Card,15,Not Returned
+842,Little Plus,Electronics,Australia,1418.62,1437.64,892.98,56,14-12-2024,26.53,In-store,1.3,Small Business,Debit Card,8,Not Returned
+843,Hold X,Toys,Australia,1767.65,2116.66,773.2,81,17-10-2024,3.41,Online,1.9,Government,Credit Card,3,Not Returned
+844,Anything X,Clothing,Europe,1919.23,2326.22,476,1,20-12-2024,14.59,Wholesale,4.2,Retail,Debit Card,9,Returned
+845,Throw Pro,Toys,Africa,1329.32,2172.72,995.38,10,03-08-2024,22.84,In-store,4.1,Corporate,PayPal,1,Not Returned
+846,Use Ultra,Furniture,Europe,3719.07,3689.08,971.07,74,30-10-2024,17.45,Wholesale,2,Small Business,Credit Card,3,Returned
+847,Leader Plus,Groceries,Asia,2007.18,103.12,586.35,89,14-09-2024,5.67,Online,3.3,Corporate,Credit Card,10,Not Returned
+848,Risk Ultra,Electronics,Australia,4772.1,2015.73,641.16,1,24-02-2024,6.65,Wholesale,3.1,Small Business,Credit Card,13,Returned
+849,Leader Pro,Electronics,Asia,2924.83,2401.6,164.71,69,05-10-2024,26.56,Wholesale,2.2,Retail,Debit Card,10,Returned
+850,Night Ultra,Toys,Africa,3354.22,3530.2,597.01,91,24-03-2024,20.77,Online,4.9,Government,PayPal,15,Not Returned
+851,Stop Ultra,Electronics,North America,4417.21,2054.96,46.27,7,07-10-2024,9.86,In-store,2.8,Retail,Credit Card,1,Returned
+852,Interest X,Toys,Asia,1339.38,647.07,402.89,36,06-12-2024,25.95,Wholesale,4.8,Corporate,Credit Card,9,Returned
+853,Hard X,Electronics,Asia,2118.45,1875.19,318.8,49,17-04-2024,6.11,Online,1.3,Small Business,Debit Card,3,Returned
+854,Professional Pro,Electronics,Europe,1392.84,1063.03,300.06,74,31-01-2024,13.42,Online,1.9,Government,Bank Transfer,12,Returned
+855,Born X,Toys,North America,4218.26,1865.3,65.49,63,06-12-2024,29.93,Online,3.3,Small Business,PayPal,6,Returned
+856,Thousand Pro,Toys,Asia,871.2,1435.13,646.64,52,13-02-2024,21.02,In-store,4.5,Retail,Bank Transfer,7,Not Returned
+857,Build Pro,Toys,Africa,3554.49,2144.46,705.86,28,12-04-2024,6.16,Online,4.6,Corporate,Credit Card,8,Not Returned
+858,Who Plus,Electronics,Africa,3194.97,3419.48,810.2,81,08-12-2024,29.79,Online,3.4,Retail,Credit Card,13,Returned
+859,Become Pro,Toys,Africa,2292.45,3601.48,709.45,29,27-03-2024,18.16,Wholesale,3.4,Corporate,Debit Card,10,Returned
+860,Change Plus,Furniture,North America,4956.34,2191.03,769.5,62,04-09-2024,5.59,In-store,2.1,Government,Credit Card,14,Returned
+861,Including Pro,Furniture,Africa,46.2,3136.95,540.8,17,22-11-2024,13.17,In-store,3,Government,PayPal,15,Not Returned
+862,Inside Plus,Electronics,Europe,206.12,1267.5,74.77,6,17-10-2024,28.27,In-store,1.8,Government,Credit Card,5,Not Returned
+863,No Ultra,Groceries,Africa,68.57,351.21,441.06,81,29-10-2024,8.39,In-store,1.6,Government,Debit Card,15,Returned
+864,Often Plus,Furniture,Africa,637.46,3081.05,701.63,13,21-02-2024,6.71,Wholesale,1.7,Small Business,Credit Card,3,Returned
+865,Fall X,Clothing,Africa,3893.91,744.25,314.9,92,25-07-2024,18.08,Wholesale,4.9,Corporate,PayPal,11,Returned
+866,Check Pro,Electronics,North America,1722.24,391.4,612.18,97,16-03-2024,29.44,Online,4.2,Retail,Bank Transfer,6,Not Returned
+867,Remember X,Furniture,Australia,2938.63,580.35,654.1,69,04-07-2024,29.21,In-store,1.3,Retail,Debit Card,15,Returned
+868,Last X,Groceries,Europe,4105.54,1457.55,972.48,53,05-01-2024,9.29,Online,2,Government,Credit Card,15,Not Returned
+869,Instead Ultra,Electronics,North America,3821.97,2977.44,644.57,45,06-11-2024,8.11,In-store,2.6,Small Business,Bank Transfer,15,Returned
+870,Interest Plus,Toys,North America,3834.02,2624.46,473.15,78,21-09-2024,5.75,Wholesale,1.2,Corporate,Credit Card,7,Not Returned
+871,Skin X,Electronics,Asia,4695.65,116.9,80.31,41,01-07-2024,2.9,In-store,2.6,Government,Bank Transfer,7,Returned
+872,Technology X,Toys,Europe,3909.55,2310.62,214.5,100,16-09-2024,13.57,Online,3.4,Retail,Debit Card,6,Not Returned
+873,Southern X,Clothing,Africa,2166.03,1434.95,910.86,19,11-05-2024,14.65,Wholesale,2.1,Small Business,Credit Card,15,Returned
+874,Run X,Groceries,North America,2696.88,655.11,917.45,74,20-03-2024,15.61,Wholesale,3.9,Corporate,Credit Card,8,Returned
+875,Bar Ultra,Clothing,Europe,4035.86,3774.95,582.58,85,03-03-2024,12.11,In-store,2.5,Government,PayPal,6,Returned
+876,Network Pro,Electronics,Europe,1595.97,3119.34,27.32,1,08-04-2024,18.1,Wholesale,4.4,Corporate,Credit Card,4,Returned
+877,After Pro,Clothing,Asia,2085.7,3322.5,279.18,72,09-07-2024,20.83,Online,1.3,Retail,Bank Transfer,12,Not Returned
+878,As Pro,Toys,Europe,1958.93,2888.91,716.45,98,09-10-2024,18.37,Online,1.8,Corporate,Bank Transfer,8,Returned
+879,Tree Ultra,Groceries,Africa,3922.64,94.94,849.34,44,01-01-2024,5.94,In-store,1.9,Government,Credit Card,11,Not Returned
+880,Everything Plus,Clothing,Europe,4264.7,1091.1,199.25,61,29-03-2024,19.57,Wholesale,4.5,Government,Credit Card,2,Not Returned
+881,Forget Pro,Electronics,North America,691.51,1692.61,627.44,42,14-07-2024,7.32,Online,4.7,Retail,Debit Card,8,Returned
+882,Owner Plus,Clothing,North America,3191.39,136.8,237.1,33,27-05-2024,27.23,In-store,2.8,Corporate,Debit Card,3,Returned
+883,National X,Clothing,Europe,158.17,2382.46,647.55,3,15-12-2024,22.51,In-store,3.6,Government,Bank Transfer,2,Returned
+884,Technology Plus,Electronics,Asia,2111.7,26.16,669.67,88,24-08-2024,21.68,Online,2.4,Government,PayPal,2,Returned
+885,Bar X,Electronics,Europe,3491.68,554.74,502.36,11,02-04-2024,13.84,Wholesale,2.5,Retail,PayPal,3,Not Returned
+886,Officer X,Toys,North America,4478.74,2916.02,981.37,4,25-08-2024,28.22,In-store,2.6,Government,Bank Transfer,8,Not Returned
+887,Financial Ultra,Groceries,North America,1152.03,3802.7,888.48,56,02-11-2024,5.69,In-store,2.8,Small Business,Debit Card,14,Not Returned
+888,Successful Pro,Furniture,North America,1651.31,375.07,49.79,26,19-12-2024,0.92,Wholesale,2.9,Small Business,PayPal,13,Not Returned
+889,Camera Pro,Clothing,Europe,912.45,1369.89,430.69,36,05-05-2024,6.38,In-store,2.5,Government,Bank Transfer,3,Returned
+890,Act Plus,Electronics,Europe,4580.38,2643.05,492.92,40,11-11-2024,11.8,Online,1.6,Corporate,Debit Card,13,Not Returned
+891,Clearly Pro,Electronics,Asia,2463.38,3505.64,389.72,9,17-02-2024,8.58,Online,4.9,Corporate,PayPal,13,Returned
+892,Majority Plus,Electronics,North America,859.19,1993.81,518.87,43,08-03-2024,17.73,In-store,4.6,Retail,Credit Card,11,Returned
+893,Game X,Furniture,Europe,3834.24,953.94,870.98,63,11-05-2024,27.91,Wholesale,1.9,Small Business,Debit Card,2,Returned
+894,Everyone X,Toys,Asia,2093.19,2071.58,387.8,83,09-12-2024,19.65,In-store,4,Retail,Debit Card,12,Not Returned
+895,Grow Ultra,Furniture,Asia,4552.73,1965.33,301.32,100,28-08-2024,3.61,In-store,5,Government,Debit Card,4,Not Returned
+896,Little X,Toys,Australia,160.92,1298.27,222.62,37,20-07-2024,16.58,Online,1.2,Government,Credit Card,8,Returned
+897,Former Ultra,Furniture,Europe,1679.18,3245.22,813.57,24,16-05-2024,13.88,In-store,3.4,Government,Credit Card,11,Not Returned
+898,See Pro,Electronics,Africa,1141.12,3284.8,874.23,73,05-01-2024,24.58,In-store,4.1,Government,PayPal,6,Returned
+899,Event Plus,Clothing,Africa,1503.02,933.05,474.47,54,16-11-2024,23.19,Wholesale,1.4,Government,PayPal,2,Returned
+900,Popular X,Clothing,Europe,1875.22,1145.71,496.74,47,18-03-2024,27.82,Wholesale,1.2,Corporate,Bank Transfer,7,Returned
+901,Start Ultra,Electronics,North America,2998.22,3206.6,332.75,1,23-01-2024,5.5,Wholesale,1.1,Retail,Bank Transfer,6,Not Returned
+902,Police X,Toys,North America,1087.86,1257.94,338.87,40,09-04-2024,22.66,Wholesale,3.7,Retail,Debit Card,11,Returned
+903,Reality Ultra,Groceries,Australia,3675.63,175.52,803.69,72,28-08-2024,28.95,Wholesale,2.8,Corporate,PayPal,6,Returned
+904,Practice Ultra,Electronics,Europe,4785.76,3272.33,189.42,31,18-01-2024,13.78,In-store,3,Retail,Debit Card,14,Returned
+905,Each Ultra,Furniture,Africa,797.01,827.15,992.32,67,31-07-2024,7.43,Wholesale,4.7,Retail,Credit Card,7,Returned
+906,Few Plus,Clothing,Asia,3553.66,976.68,830.95,50,17-05-2024,29.09,Online,2.6,Retail,PayPal,3,Returned
+907,Feel Pro,Groceries,Australia,3347.47,675.04,680.38,16,25-01-2024,29.3,Wholesale,1.6,Retail,Debit Card,8,Returned
+908,Personal Plus,Groceries,Australia,1921.37,3370.03,458.56,79,02-05-2024,5,Wholesale,4,Small Business,Debit Card,15,Returned
+909,I Ultra,Clothing,North America,273.9,2144.34,782.03,75,03-01-2024,19.1,Online,3.9,Corporate,Debit Card,11,Returned
+910,Head Plus,Groceries,Australia,864.38,2954.75,727.87,38,26-10-2024,12.82,Online,4.9,Government,Bank Transfer,14,Returned
+911,Young Pro,Electronics,Australia,3798.94,1234.83,624,67,22-09-2024,28.58,In-store,2.3,Retail,Debit Card,4,Not Returned
+912,They Plus,Toys,Africa,1092.24,815.19,635.51,54,09-10-2024,2.13,Wholesale,1,Corporate,Credit Card,10,Not Returned
+913,Occur Ultra,Toys,Europe,4669.76,2818.15,548.13,50,06-09-2024,0.08,Wholesale,2.2,Retail,Bank Transfer,12,Not Returned
+914,Care X,Clothing,Europe,2147.44,2666.43,54.24,5,13-08-2024,13.35,Wholesale,4.8,Small Business,PayPal,3,Not Returned
+915,Including Ultra,Furniture,Asia,3672.33,1669.43,133.3,87,29-08-2024,18.89,Online,3.9,Government,PayPal,3,Not Returned
+916,Process Plus,Groceries,North America,208.6,1647.77,361.05,98,20-01-2024,20.38,In-store,3,Corporate,PayPal,2,Returned
+917,Strong X,Electronics,North America,2020.98,3130.51,666.4,52,08-01-2024,27.38,Wholesale,4.7,Retail,Credit Card,11,Returned
+918,Never Plus,Electronics,Australia,634.72,764.2,780.26,64,17-06-2024,4.8,Online,2.6,Small Business,Debit Card,6,Not Returned
+919,Create Ultra,Toys,Europe,1794.02,2069.78,388.21,49,11-02-2024,21.85,In-store,4.5,Small Business,PayPal,9,Returned
+920,Movie Ultra,Furniture,Europe,1887.11,3080.14,210.34,20,02-08-2024,15.23,In-store,1.3,Government,Bank Transfer,13,Not Returned
+921,Talk Pro,Clothing,Africa,200.65,2836.32,523.98,24,21-08-2024,26.47,Online,1.6,Corporate,Credit Card,5,Not Returned
+922,Human Pro,Groceries,Europe,2517.06,1301.41,898.61,35,05-09-2024,28.45,In-store,4.4,Retail,Debit Card,3,Not Returned
+923,Line Ultra,Groceries,Africa,806.64,898.65,911.93,15,23-09-2024,15.45,Wholesale,2.3,Retail,Credit Card,3,Returned
+924,Raise X,Toys,Europe,3527.31,1915.37,983.66,80,01-07-2024,16.44,In-store,2.7,Corporate,Credit Card,4,Returned
+925,Back X,Furniture,North America,2421.08,3709.79,800.81,59,03-05-2024,22.06,Online,4.5,Small Business,Debit Card,13,Not Returned
+926,Remain Pro,Furniture,Australia,3221.01,611.38,394.14,62,24-01-2024,17.97,Wholesale,4,Government,Bank Transfer,15,Returned
+927,Another X,Electronics,Asia,3246.02,23.79,251.51,88,03-06-2024,3.33,In-store,4.2,Corporate,Debit Card,12,Returned
+928,Room X,Groceries,Asia,14.19,3922.7,947.12,90,28-10-2024,9.53,In-store,4.4,Retail,Bank Transfer,2,Not Returned
+929,All Pro,Furniture,North America,2298.6,67.51,308.7,6,17-11-2024,21.47,Online,4.5,Small Business,Credit Card,1,Returned
+930,Charge X,Groceries,Africa,4984.76,3869.92,742.62,25,12-02-2024,27.3,Wholesale,4.7,Corporate,Bank Transfer,4,Not Returned
+931,Whether Plus,Electronics,Australia,700.62,2467.47,599.43,22,21-01-2024,12.58,Wholesale,4.8,Government,Debit Card,6,Returned
+932,Fish Pro,Furniture,Europe,2218.43,113.3,489.08,55,24-09-2024,0.4,Online,2.9,Corporate,Debit Card,3,Not Returned
+933,Maintain Pro,Furniture,Asia,868.76,2608.86,982.48,90,17-01-2024,25.7,In-store,1.8,Corporate,Debit Card,6,Returned
+934,Home Pro,Groceries,Asia,3044.74,1706.18,923.4,66,03-07-2024,11.93,In-store,2.6,Small Business,Bank Transfer,5,Returned
+935,Meet Pro,Clothing,Europe,4383.52,3449.28,949.09,75,23-02-2024,14.55,Online,4.1,Small Business,Debit Card,4,Returned
+936,Commercial Ultra,Toys,Asia,2315.83,232.29,626.95,70,18-08-2024,12.4,In-store,4.4,Government,Credit Card,3,Returned
+937,Argue X,Furniture,Asia,4819.94,848.31,573.75,79,03-08-2024,7.01,In-store,1.4,Government,Bank Transfer,1,Returned
+938,Around Pro,Electronics,North America,2424.76,2455.15,780.1,81,02-09-2024,18.17,Wholesale,2.4,Government,Credit Card,6,Returned
+939,Movie Ultra,Groceries,Australia,3767.21,2834.49,469.96,33,23-07-2024,15.76,Online,2.5,Retail,Debit Card,14,Returned
+940,Back Ultra,Toys,Africa,4428.63,2539.95,215.45,65,04-11-2024,14.93,Online,1.3,Retail,Credit Card,15,Not Returned
+941,Sense Ultra,Toys,North America,4780.94,2834.58,117.7,16,21-04-2024,6.03,Wholesale,3.5,Small Business,Bank Transfer,9,Not Returned
+942,Sense Pro,Groceries,Asia,839.58,1336.42,96.76,31,11-10-2024,13.13,Wholesale,3,Government,Bank Transfer,6,Returned
+943,Pretty Plus,Electronics,Asia,3766.05,614.12,276.67,60,08-04-2024,5.38,In-store,2.6,Government,Debit Card,3,Returned
+944,Officer Ultra,Groceries,North America,3605,1067.32,702.03,28,23-01-2024,11.75,Wholesale,3.4,Corporate,Credit Card,11,Not Returned
+945,Camera Ultra,Electronics,Australia,4309.26,1274.28,624.45,72,29-04-2024,23.17,Online,1.4,Small Business,Bank Transfer,2,Returned
+946,And X,Electronics,Europe,4843.31,727.54,266.37,94,17-11-2024,7.66,Wholesale,1.5,Corporate,Bank Transfer,2,Returned
+947,Them Pro,Electronics,Australia,4276.67,2359.25,42.33,64,10-11-2024,27.75,Online,1.1,Retail,Credit Card,1,Returned
+948,Some X,Toys,Africa,4162.62,1607.28,549.35,54,03-03-2024,2.46,Wholesale,4.4,Retail,Bank Transfer,10,Returned
+949,Institution Plus,Furniture,Australia,46.55,2667.34,480.38,84,06-05-2024,11.12,Online,3.9,Retail,Debit Card,9,Not Returned
+950,Mother Plus,Groceries,North America,1494.66,2875.46,405.11,63,12-06-2024,14.7,In-store,1.7,Government,PayPal,14,Not Returned
+951,Short Ultra,Toys,Australia,1826.39,1783.17,267.64,37,10-07-2024,14.07,Wholesale,4.1,Corporate,Debit Card,10,Not Returned
+952,Benefit X,Groceries,North America,3100.85,989.79,178.66,42,29-03-2024,9.42,In-store,1.1,Retail,Credit Card,10,Not Returned
+953,Fire Pro,Furniture,Australia,3623.98,425.07,100.62,49,21-07-2024,1.93,Wholesale,3.6,Small Business,Bank Transfer,4,Returned
+954,Test Plus,Electronics,Australia,1153.88,382.01,860.2,49,19-05-2024,4.95,In-store,2.7,Retail,Debit Card,15,Returned
+955,Trade Ultra,Clothing,Europe,3114.74,2684.82,550.13,38,28-08-2024,19.87,Online,1.5,Government,Debit Card,1,Returned
+956,Notice Plus,Electronics,Europe,2127.65,1741.54,267.69,75,07-01-2024,10.09,In-store,2.5,Corporate,Credit Card,15,Returned
+957,Reason X,Groceries,North America,4900.42,2092.87,313.51,6,26-11-2024,3.33,In-store,2.9,Government,PayPal,9,Not Returned
+958,Lose Ultra,Groceries,Europe,1090.54,2833.72,482.03,65,17-05-2024,17.83,In-store,1.2,Corporate,Debit Card,14,Not Returned
+959,Others X,Electronics,Australia,3167.96,2493.96,624.93,34,24-11-2024,10.03,In-store,4.2,Government,PayPal,6,Not Returned
+960,Report Ultra,Clothing,Europe,1723.44,3400.04,251.88,77,12-06-2024,21.83,In-store,3.5,Government,Credit Card,10,Returned
+961,Few Ultra,Furniture,Australia,4949,2656.7,679.72,90,21-12-2024,23.81,Wholesale,1.6,Corporate,Bank Transfer,8,Returned
+962,Change X,Clothing,Europe,1565.01,1051.41,57.44,18,25-01-2024,27.48,Online,2.9,Retail,Bank Transfer,15,Not Returned
+963,Discuss Ultra,Groceries,Africa,3252.44,2076.33,172.76,83,20-05-2024,11.24,In-store,2.4,Government,Bank Transfer,8,Not Returned
+964,Ball Ultra,Clothing,North America,2843.61,1044.88,403.04,88,02-10-2024,23.58,In-store,2.3,Government,Bank Transfer,9,Not Returned
+965,Defense Pro,Electronics,North America,733.8,3750.06,14.01,77,30-04-2024,26.51,Online,3.7,Retail,Debit Card,7,Not Returned
+966,Situation X,Clothing,Asia,4052.61,1200.43,995.29,66,22-12-2024,29.36,Online,2,Retail,Debit Card,12,Not Returned
+967,Opportunity Plus,Groceries,North America,1988.95,2834.28,879.09,43,21-10-2024,29.74,In-store,1.8,Corporate,PayPal,14,Not Returned
+968,Good X,Clothing,Australia,3850.41,154.48,132.65,1,10-05-2024,11.97,Wholesale,3.3,Government,Credit Card,8,Not Returned
+969,During Ultra,Groceries,Australia,2877.09,3448.39,477.15,93,27-07-2024,18.86,Online,2,Corporate,Debit Card,15,Not Returned
+970,System Pro,Groceries,Australia,1599.73,3665.76,671.89,92,30-01-2024,17.96,Online,3.7,Small Business,Bank Transfer,8,Not Returned
+971,Near Ultra,Groceries,Australia,1076.44,2416.3,768.74,100,28-03-2024,29.18,Wholesale,2.9,Small Business,PayPal,14,Returned
+972,President Plus,Toys,Europe,1634.12,1525.03,725.85,31,10-01-2024,8.33,Online,2.2,Small Business,Debit Card,6,Returned
+973,Who Plus,Furniture,Europe,4690.88,1120.65,580.44,4,19-07-2024,14.01,Online,4,Small Business,Debit Card,7,Not Returned
+974,Friend Ultra,Electronics,Africa,4436.75,3207.79,704.37,81,18-12-2024,28.84,Online,2.3,Small Business,Credit Card,14,Not Returned
+975,Nice Plus,Electronics,Asia,4558.46,3971.89,448.46,48,18-12-2024,17.04,Online,1.6,Corporate,Debit Card,2,Not Returned
+976,Economic Pro,Clothing,Africa,4905.51,3177.21,20.65,28,23-02-2024,15.85,In-store,1.4,Retail,PayPal,13,Not Returned
+977,Take Plus,Toys,Asia,2336.17,445.66,45.09,45,05-10-2024,28.37,Online,1.9,Corporate,Debit Card,6,Returned
+978,Then X,Furniture,Europe,1314.01,175.19,681.19,38,05-06-2024,28.04,Online,4.2,Retail,PayPal,8,Returned
+979,Name Plus,Clothing,Australia,1749.92,719.15,305.64,98,19-04-2024,28.72,Wholesale,1,Government,Credit Card,1,Returned
+980,Where Plus,Electronics,Australia,671.68,3008.06,144.67,25,06-03-2024,5.85,Online,2.1,Retail,Debit Card,13,Not Returned
+981,Southern Pro,Groceries,Asia,2132.46,2571.21,676.28,32,09-09-2024,11.46,Wholesale,3.3,Retail,Credit Card,9,Not Returned
+982,Bag X,Toys,Asia,1185.91,293.09,947.52,94,12-08-2024,1.54,Wholesale,1.6,Retail,Bank Transfer,6,Not Returned
+983,Toward X,Electronics,Australia,2002.6,793.11,632.12,34,24-09-2024,18.01,Online,1.6,Government,Credit Card,7,Returned
+984,Program Plus,Electronics,Europe,2881.01,529.49,949.69,14,03-10-2024,29.74,Wholesale,1.5,Government,Credit Card,1,Returned
+985,Style Plus,Clothing,North America,2703.45,2917.88,624.03,12,20-04-2024,14.23,Wholesale,2.1,Retail,Bank Transfer,11,Not Returned
+986,Popular Plus,Furniture,Asia,3395.21,2453.91,462.86,92,03-07-2024,1.82,In-store,2.6,Retail,PayPal,14,Returned
+987,Discover X,Electronics,Europe,2200.85,736.6,551.38,26,27-05-2024,14.61,Wholesale,3.9,Government,PayPal,1,Not Returned
+988,Care Ultra,Electronics,Europe,736.98,589.92,745.86,60,05-06-2024,6.24,Online,2.9,Corporate,Debit Card,4,Returned
+989,Recent Plus,Furniture,Africa,4415.17,1009.39,92.11,52,17-05-2024,17,Wholesale,4.2,Corporate,Debit Card,12,Returned
+990,Space Ultra,Electronics,North America,1501.85,3138.86,559.3,19,05-11-2024,23.58,Wholesale,4.5,Retail,PayPal,5,Not Returned
+991,Although Ultra,Toys,Australia,909.48,3557.4,495.46,30,30-08-2024,8.85,Online,4.8,Retail,Debit Card,1,Returned
+992,Spring X,Furniture,North America,4764.26,3971.07,491.66,24,26-11-2024,26.13,Online,2.5,Government,PayPal,7,Returned
+993,Summer X,Toys,Asia,2225.78,2560.2,810.18,47,11-10-2024,28.17,Wholesale,4.5,Government,Credit Card,5,Not Returned
+994,Store Pro,Electronics,Australia,4468.98,924.41,681.64,80,18-06-2024,27.94,Online,3.7,Government,Credit Card,3,Returned
+995,Decide X,Groceries,Africa,1165.41,2608.06,280.15,50,16-10-2024,2.87,In-store,2.3,Retail,PayPal,4,Not Returned
+996,Bar Plus,Clothing,North America,423.26,2351.16,965.25,97,25-07-2024,20.15,In-store,1.3,Government,Credit Card,7,Returned
+997,Response Plus,Groceries,North America,4044.62,2842.53,419.04,43,31-03-2024,6.81,Online,4.1,Government,Debit Card,13,Returned
+998,Require Pro,Groceries,Australia,562.49,2638.59,165.32,22,13-12-2024,8.74,Online,3.4,Corporate,Credit Card,2,Returned
+999,Take Ultra,Electronics,Europe,3527.72,3914.85,733.73,65,19-03-2024,17.5,Wholesale,1.6,Corporate,Credit Card,10,Not Returned
+1000,Kid Ultra,Furniture,Australia,2669.39,85.75,335.75,98,23-06-2024,21.92,In-store,1.2,Government,Bank Transfer,11,Returned
+1001,Right X,Toys,Australia,1886.94,1611.86,218.71,38,17-10-2024,4.14,Online,4.3,Government,Credit Card,7,Returned
+1002,Trial X,Groceries,Africa,860.35,1869.56,57.41,82,06-07-2024,27.58,In-store,4.2,Retail,PayPal,3,Not Returned
+1003,Career Plus,Electronics,Europe,1254.62,2472.65,387.91,10,06-07-2024,9.01,In-store,3.1,Corporate,Bank Transfer,12,Returned
+1004,Control X,Clothing,Europe,4244.7,3949.96,636.7,74,28-02-2024,27.33,Wholesale,1.7,Small Business,PayPal,9,Not Returned
+1005,Process Pro,Groceries,North America,2251.4,1294.86,313.24,85,10-10-2024,17.67,Online,1.5,Retail,Credit Card,9,Returned
+1006,I X,Clothing,Europe,1303.27,1063.35,942.18,19,14-01-2024,11.69,In-store,3,Retail,Debit Card,12,Returned
+1007,Stuff X,Toys,North America,1642.21,665.08,905.69,78,03-08-2024,14.25,Wholesale,1.8,Small Business,Credit Card,6,Returned
+1008,Type Ultra,Electronics,Europe,3233.67,3897.75,733.14,10,01-01-2024,26.76,Wholesale,4.1,Government,Credit Card,9,Returned
+1009,Back Ultra,Electronics,Asia,4158.07,2408.23,937.19,87,09-04-2024,1.78,Wholesale,4.9,Small Business,Credit Card,1,Not Returned
+1010,Southern X,Toys,Australia,4610.69,544.23,270.62,44,19-09-2024,23.22,Online,3.9,Small Business,PayPal,1,Returned
+1011,Move Plus,Furniture,North America,3520.95,2654.86,624.71,9,04-10-2024,1.94,Online,1,Government,Debit Card,7,Not Returned
+1012,Body Plus,Furniture,North America,2478.36,3919.95,177.42,23,04-10-2024,23.51,In-store,4,Small Business,Bank Transfer,13,Returned
+1013,Wear Pro,Clothing,Asia,4158.51,446.8,308.31,72,10-09-2024,14.34,Online,4.5,Retail,Credit Card,13,Not Returned
+1014,Pay X,Furniture,Europe,3345.08,704.13,466.27,13,12-07-2024,11.07,Wholesale,4.2,Government,Credit Card,10,Not Returned
+1015,Business Ultra,Toys,Asia,1849.67,905.78,713.12,61,01-01-2024,7.3,In-store,2.5,Retail,Credit Card,15,Not Returned
+1016,Administration Pro,Electronics,Australia,1484.17,162.45,356.79,53,24-02-2024,15.98,In-store,4.1,Corporate,PayPal,12,Not Returned
+1017,National Plus,Clothing,North America,4519.91,138.25,613.53,33,14-03-2024,4.28,In-store,2.5,Small Business,Credit Card,14,Not Returned
+1018,Family X,Electronics,Asia,952.52,3894.28,408.74,68,05-01-2024,9.73,Online,2.1,Retail,Bank Transfer,10,Returned
+1019,Poor Plus,Toys,Africa,1362.24,965.46,349.05,47,29-09-2024,1.06,Online,3.8,Small Business,Bank Transfer,13,Returned
+1020,Message Plus,Groceries,Asia,1193.34,3374.36,423.34,48,20-10-2024,28.93,Wholesale,4.2,Retail,Credit Card,11,Not Returned
+1021,Law Plus,Groceries,Asia,4900.33,1496.98,918.65,88,20-12-2024,5.72,Wholesale,1.9,Retail,PayPal,1,Not Returned
+1022,Break Plus,Furniture,North America,2538.21,2311.58,295.54,9,26-05-2024,9.28,Wholesale,2.6,Small Business,Credit Card,3,Not Returned
+1023,Sit X,Furniture,North America,3407.42,994.69,796.11,17,21-11-2024,29.99,Wholesale,1,Corporate,PayPal,5,Not Returned
+1024,Source Pro,Electronics,Australia,3118.47,2092.63,564.42,82,11-07-2024,25.94,Online,4.6,Small Business,Bank Transfer,11,Returned
+1025,Lose Pro,Groceries,Australia,4517.54,3321.6,416.08,3,04-04-2024,17.8,In-store,4.9,Government,PayPal,5,Returned
+1026,Republican Ultra,Groceries,Europe,1376.22,943.33,15.33,80,23-11-2024,28.4,In-store,2.3,Corporate,PayPal,2,Not Returned
+1027,Lot Pro,Toys,Europe,538.55,3702.37,518.7,97,18-11-2024,3.33,Wholesale,1.5,Small Business,PayPal,9,Returned
+1028,Impact Pro,Clothing,North America,672.62,249.27,618.24,57,06-06-2024,20.92,Wholesale,2.3,Government,Credit Card,15,Not Returned
+1029,Much Ultra,Clothing,Europe,3169.29,3061.73,664.45,11,31-01-2024,2.21,Online,4.3,Small Business,PayPal,1,Not Returned
+1030,Citizen Pro,Furniture,Europe,3803.95,1615.88,979.32,80,30-05-2024,11.66,In-store,2.8,Government,Debit Card,13,Returned
+1031,Into Pro,Furniture,North America,966.65,3801.47,77.22,17,16-03-2024,23.8,In-store,2.8,Government,PayPal,14,Not Returned
+1032,Me X,Electronics,Africa,4549.03,885.1,25.86,39,23-03-2024,16.65,Wholesale,4.9,Corporate,Debit Card,9,Returned
+1033,Blood Plus,Toys,Asia,2738.56,1165.1,339.59,6,10-04-2024,22.02,In-store,2.8,Government,Debit Card,6,Returned
+1034,Section Pro,Toys,Europe,1583.8,3211.06,556.14,76,04-10-2024,20.91,Wholesale,2.5,Government,PayPal,12,Not Returned
+1035,Simply Plus,Clothing,Africa,3865.75,61.72,276.39,5,24-07-2024,6.46,In-store,2,Retail,Bank Transfer,7,Returned
+1036,Hand Pro,Electronics,Europe,2898.63,2424.4,488.76,10,16-04-2024,25.85,Online,3,Retail,Credit Card,6,Not Returned
+1037,Himself Pro,Electronics,Africa,824.31,1533.12,395.02,69,20-06-2024,13.73,Online,4.9,Government,Debit Card,14,Not Returned
+1038,Instead Pro,Furniture,Australia,966.89,823.21,748.55,27,11-03-2024,9.18,In-store,3.4,Retail,Debit Card,14,Not Returned
+1039,Interview X,Electronics,North America,2565.89,993.67,807.13,39,22-11-2024,6.18,Wholesale,2.3,Government,Debit Card,6,Not Returned
+1040,Along Pro,Clothing,Africa,214.62,942.08,274.56,98,23-03-2024,20.39,Online,4.5,Small Business,PayPal,2,Returned
+1041,Person X,Electronics,Europe,4891.42,1049.47,517.91,75,09-11-2024,22.07,Wholesale,1.1,Retail,Credit Card,1,Not Returned
+1042,Church X,Groceries,North America,4640.83,2658.99,133.97,3,30-04-2024,28.66,Wholesale,4.5,Corporate,Bank Transfer,14,Not Returned
+1043,Kid X,Groceries,Asia,2449.67,959.32,602.54,35,16-03-2024,29.85,In-store,1.8,Retail,Credit Card,9,Returned
+1044,Require Ultra,Electronics,Africa,4043.63,3117,849.84,72,24-04-2024,26.54,Online,2.9,Corporate,Debit Card,3,Not Returned
+1045,Purpose Plus,Electronics,North America,2319.36,1413.94,694.97,27,16-05-2024,19.75,Online,2.5,Government,PayPal,12,Not Returned
+1046,Eat Ultra,Toys,Africa,1111.04,836.28,374.14,97,28-09-2024,14.26,Online,3.5,Government,Debit Card,14,Returned
+1047,Blue Ultra,Toys,Europe,4610.05,269.21,159.19,55,13-01-2024,13.55,Wholesale,4.6,Corporate,Debit Card,7,Not Returned
+1048,Glass Plus,Toys,Australia,2914.01,3104.73,450.68,23,27-08-2024,27.95,In-store,1.3,Small Business,Debit Card,3,Returned
+1049,Game Plus,Groceries,Europe,3722.47,2420.39,174.15,58,17-01-2024,21.05,Wholesale,1.5,Small Business,Credit Card,15,Not Returned
+1050,Degree Ultra,Clothing,Australia,1321.96,1093.49,676.69,50,28-05-2024,3.32,In-store,2.9,Small Business,Bank Transfer,1,Returned
+1051,Visit Ultra,Groceries,Europe,569.87,291.9,950.17,53,11-06-2024,28.16,In-store,2.1,Small Business,Bank Transfer,10,Returned
+1052,Much Plus,Electronics,Africa,2509.21,3104.32,702.96,21,07-10-2024,29.14,Wholesale,1.6,Retail,Debit Card,6,Not Returned
+1053,Floor X,Furniture,Asia,777.24,1723.22,18.81,61,02-08-2024,3.09,In-store,3.6,Corporate,Bank Transfer,13,Not Returned
+1054,Minute Ultra,Electronics,North America,3419.03,2278.1,832.59,72,17-08-2024,21.6,Online,2.2,Government,Bank Transfer,4,Returned
+1055,Somebody Ultra,Furniture,Africa,3738.05,3952.96,48.33,27,13-10-2024,12.72,Online,1.3,Government,Bank Transfer,11,Not Returned
+1056,Make Pro,Clothing,Asia,4165.46,3759.09,59.12,36,13-05-2024,14.54,Online,3.9,Small Business,Bank Transfer,4,Not Returned
+1057,Wear Pro,Clothing,Europe,244.77,939.83,778.29,51,25-05-2024,3.29,Online,1.5,Retail,PayPal,7,Not Returned
+1058,Occur Plus,Furniture,Asia,2513.57,2498.54,793.55,37,07-08-2024,12.15,Wholesale,1.5,Government,Debit Card,15,Not Returned
+1059,Instead Ultra,Furniture,Africa,3642.96,639.87,287.6,15,24-11-2024,27.69,Online,2.9,Retail,Credit Card,15,Returned
+1060,Remain X,Toys,Asia,3916.47,255.73,673.14,18,25-08-2024,15.08,Online,4.2,Government,Debit Card,2,Returned
+1061,Nature Pro,Furniture,North America,3269.91,1391.22,646.87,64,10-06-2024,20.42,Wholesale,1,Small Business,Debit Card,7,Not Returned
+1062,Successful Ultra,Electronics,Europe,3919.87,3902.62,14.93,48,19-07-2024,0.26,Online,3.4,Retail,PayPal,6,Returned
+1063,Too Pro,Clothing,North America,490.69,777.95,954.86,28,06-09-2024,15.71,Online,4.1,Retail,Credit Card,2,Not Returned
+1064,How Plus,Clothing,Europe,2661.41,3616.36,111.6,61,04-04-2024,16.91,In-store,2.9,Small Business,Debit Card,4,Not Returned
+1065,Style Plus,Furniture,North America,1051.03,1678.78,702.12,3,16-01-2024,29.73,In-store,1.7,Government,Debit Card,12,Returned
+1066,Look X,Clothing,Australia,2658.52,2544.81,647.92,50,29-03-2024,29.06,In-store,2.6,Retail,PayPal,6,Not Returned
+1067,Wall X,Groceries,North America,2983.87,228.46,406.85,99,06-05-2024,11.45,In-store,3.7,Government,Credit Card,2,Not Returned
+1068,Surface Plus,Electronics,Europe,520.74,423.43,774.59,77,09-05-2024,4.37,Wholesale,1.8,Retail,Debit Card,1,Returned
+1069,Instead Plus,Groceries,North America,3597.11,1056.34,556.98,23,28-10-2024,8.89,Wholesale,4.1,Retail,Credit Card,7,Returned
+1070,Huge X,Furniture,Asia,1496.18,3185.65,648,75,26-11-2024,28,In-store,2.5,Corporate,PayPal,11,Not Returned
+1071,Fish Plus,Groceries,North America,3300.38,3327.5,886.1,99,04-02-2024,17.74,In-store,4.6,Retail,Bank Transfer,7,Not Returned
+1072,Hour Ultra,Electronics,Europe,3639.1,2252.32,507.25,21,15-12-2024,22.2,Wholesale,3.9,Retail,PayPal,11,Not Returned
+1073,Nice Pro,Clothing,Australia,2265.85,1078.89,541.15,100,19-06-2024,9.23,Wholesale,4,Small Business,Credit Card,13,Returned
+1074,Hit Ultra,Clothing,Australia,3023.76,1738.2,794.57,21,10-06-2024,5.7,Online,3,Retail,Debit Card,6,Not Returned
+1075,Number Plus,Electronics,Asia,1574.59,2008.73,370.19,82,25-03-2024,6.19,Wholesale,3.7,Small Business,PayPal,4,Not Returned
+1076,Role X,Groceries,Australia,2016.52,417.71,413.65,8,21-09-2024,9.09,Online,2.4,Retail,Bank Transfer,12,Returned
+1077,Yes X,Groceries,Europe,1002.47,1455.83,644.68,45,13-01-2024,23.04,Online,2.9,Government,Credit Card,2,Not Returned
+1078,Keep Ultra,Groceries,Europe,3491.53,1037.98,124.62,38,02-04-2024,29.78,Wholesale,4.9,Corporate,Debit Card,14,Not Returned
+1079,Against X,Groceries,Asia,4117.16,3874.55,430.27,28,28-01-2024,19.7,In-store,4.3,Retail,PayPal,12,Returned
+1080,Specific X,Electronics,North America,3182.18,2709.3,222.39,99,27-07-2024,13.71,Online,4.4,Government,Bank Transfer,11,Not Returned
+1081,Approach Ultra,Toys,North America,364.26,3566.74,763.34,2,28-11-2024,22.91,Online,2,Corporate,PayPal,10,Returned
+1082,Enough Plus,Electronics,Africa,279.75,365.55,41.19,53,07-04-2024,0.61,Wholesale,4.2,Corporate,Credit Card,7,Returned
+1083,Ok Ultra,Electronics,Africa,4105.59,3442.58,1.9,17,15-07-2024,9.25,Wholesale,2.5,Retail,PayPal,6,Returned
+1084,Station Ultra,Clothing,North America,4057.94,1872.18,736.06,6,31-03-2024,11.19,Online,2.6,Small Business,Bank Transfer,13,Not Returned
+1085,Writer Plus,Toys,North America,1845.92,3249.1,544.51,80,21-11-2024,23.55,Online,2.3,Corporate,PayPal,9,Returned
+1086,Into Plus,Toys,Asia,1311.4,3766.55,857.54,54,02-01-2024,9.14,Wholesale,4.4,Corporate,Debit Card,3,Not Returned
+1087,Music Pro,Clothing,North America,1234,3241.7,876.18,17,21-01-2024,25.63,In-store,2.1,Corporate,Debit Card,13,Returned
+1088,Region Ultra,Electronics,Australia,4893.09,1284.57,64.58,31,20-01-2024,29.03,Wholesale,4.4,Small Business,Bank Transfer,4,Returned
+1089,Room Pro,Clothing,Europe,2713.78,2910.8,367.94,26,19-07-2024,0.59,Wholesale,2.2,Corporate,Bank Transfer,12,Returned
+1090,Life Ultra,Clothing,Africa,4939.63,3820.47,223.13,65,27-03-2024,13.79,Wholesale,2.3,Government,Credit Card,6,Not Returned
+1091,Be Pro,Clothing,Africa,4263.22,98.21,427.93,30,24-03-2024,12.68,Wholesale,2.2,Retail,Credit Card,8,Not Returned
+1092,Huge X,Electronics,Australia,1910.56,234.37,501.97,67,20-03-2024,17.76,Wholesale,3.9,Government,Credit Card,9,Not Returned
+1093,Project Ultra,Electronics,Europe,2113.23,3021.33,885.68,89,02-09-2024,22.32,Online,2.4,Government,Debit Card,4,Returned
+1094,Beautiful Ultra,Furniture,Europe,4237.76,2256.97,863.95,95,22-06-2024,5.35,Online,2.4,Corporate,Bank Transfer,2,Returned
+1095,Rock Plus,Furniture,Asia,1146.08,2928.81,230.14,47,16-05-2024,10.18,Online,4.2,Retail,PayPal,2,Not Returned
+1096,He Pro,Toys,Europe,66.48,1690.49,488.75,28,23-10-2024,3.91,Online,2.7,Retail,Debit Card,9,Returned
+1097,Whom X,Toys,North America,1225.92,3862.8,542.85,32,19-03-2024,15.11,Wholesale,1.2,Corporate,PayPal,14,Not Returned
+1098,Late X,Electronics,Europe,3147.66,2692.61,662.79,35,12-03-2024,21.12,Online,3.9,Government,Debit Card,15,Not Returned
+1099,Left X,Clothing,Africa,2950.29,1208.38,449.82,95,20-09-2024,24.4,Online,4.7,Government,Credit Card,11,Returned
+1100,Option Ultra,Clothing,Europe,1808.47,1612.11,656.73,30,06-01-2024,22.72,Wholesale,3.8,Corporate,Debit Card,7,Not Returned
+1101,Top Plus,Groceries,Africa,1118.96,1348.45,47.76,35,08-02-2024,10.03,Wholesale,1.9,Small Business,Debit Card,10,Not Returned
+1102,College Pro,Furniture,Europe,2949.46,237.15,765.12,4,09-01-2024,9.55,Wholesale,2.5,Retail,PayPal,9,Returned
+1103,Meet Ultra,Toys,Africa,3406.86,1120.9,562.43,63,02-04-2024,25.9,Wholesale,2.2,Government,Debit Card,5,Not Returned
+1104,Issue Pro,Electronics,Australia,1973.55,308.09,659.26,22,05-11-2024,26.84,Online,1.6,Small Business,Credit Card,8,Returned
+1105,Strategy X,Groceries,Europe,3582.95,3955.57,462.99,23,10-12-2024,7.49,In-store,2.9,Retail,Debit Card,12,Not Returned
+1106,Also Pro,Toys,North America,1006.55,2356.57,958.98,26,01-08-2024,18.66,In-store,1.8,Small Business,Debit Card,10,Not Returned
+1107,Key Pro,Electronics,Europe,643.61,1386.91,479.09,70,21-12-2024,13.26,Wholesale,3,Retail,PayPal,13,Not Returned
+1108,At X,Toys,Asia,2042.7,1606.56,277.86,2,19-08-2024,27.1,Wholesale,1.8,Corporate,Credit Card,11,Not Returned
+1109,Student X,Electronics,Asia,980.69,1911.97,948.87,37,17-10-2024,17.56,In-store,2.7,Retail,Debit Card,6,Not Returned
+1110,Animal Pro,Toys,Australia,1294.55,85.05,304.41,34,13-04-2024,11.54,In-store,4.8,Corporate,Bank Transfer,7,Not Returned
+1111,Serious Plus,Groceries,Asia,4588.32,2116.54,818.65,41,24-06-2024,3.98,Online,3.7,Corporate,Credit Card,6,Returned
+1112,Say Plus,Toys,Europe,2255.03,2206.43,57.92,71,20-08-2024,14.32,Online,2.3,Corporate,PayPal,2,Returned
+1113,Citizen Ultra,Clothing,North America,386.32,780.33,311.71,46,16-03-2024,2.54,Wholesale,1.3,Corporate,Debit Card,7,Not Returned
+1114,Two X,Groceries,Africa,4640.41,1593.25,593.75,60,06-04-2024,29.13,Online,1,Small Business,Debit Card,10,Returned
+1115,Answer Pro,Groceries,Australia,873.36,1094.2,207.2,98,11-04-2024,17.09,In-store,2,Small Business,Credit Card,12,Returned
+1116,Congress Ultra,Toys,Australia,965.64,2252.46,235.18,61,16-09-2024,9.53,Online,3.9,Government,Bank Transfer,6,Returned
+1117,Degree Ultra,Toys,Australia,2531.14,2853.08,631.95,46,12-11-2024,10.49,In-store,2.5,Retail,Credit Card,11,Not Returned
+1118,Visit X,Groceries,Asia,277.43,3113.85,176.56,13,24-09-2024,14.9,Online,4.8,Retail,Credit Card,12,Not Returned
+1119,Game Ultra,Groceries,Australia,1769.78,1489.45,149.37,2,08-01-2024,0.68,Online,4.6,Retail,Credit Card,2,Not Returned
+1120,Sea Pro,Electronics,North America,451.39,758.58,574.67,86,18-10-2024,1.3,In-store,4.5,Retail,Credit Card,13,Returned
+1121,Win Plus,Furniture,Asia,107.2,3413.89,708.49,81,16-12-2024,21.68,Wholesale,3.1,Government,Credit Card,2,Returned
+1122,Free X,Groceries,Australia,4213.53,1534.58,592.67,75,07-04-2024,21.18,In-store,3.6,Retail,Debit Card,2,Returned
+1123,Former Pro,Toys,Australia,2730.14,871.05,526.4,4,29-07-2024,15.4,In-store,4.9,Retail,Credit Card,7,Returned
+1124,Use X,Toys,Australia,3149.33,2788.76,579.63,50,14-05-2024,17.91,In-store,4.5,Government,Debit Card,13,Returned
+1125,Truth X,Clothing,Europe,681.03,3291.27,68.8,36,01-01-2024,2.52,Wholesale,3.9,Corporate,Debit Card,13,Not Returned
+1126,Institution X,Groceries,Asia,1965.85,419.61,611.51,46,16-05-2024,25.46,In-store,1.2,Retail,PayPal,10,Returned
+1127,Toward Pro,Groceries,Europe,3185.04,318.75,484.98,54,19-04-2024,11.3,In-store,3.6,Retail,PayPal,8,Returned
+1128,Provide Ultra,Clothing,Africa,1991.68,1252.91,536.53,43,12-09-2024,18.04,Wholesale,4.6,Retail,Debit Card,5,Not Returned
+1129,Example X,Furniture,Africa,2728.92,2890.38,473.45,86,01-10-2024,17.17,Wholesale,3.9,Retail,Credit Card,10,Not Returned
+1130,Crime Plus,Electronics,Europe,4757.96,2093.97,663.97,78,23-07-2024,12.58,In-store,1.3,Government,Debit Card,11,Not Returned
+1131,Although Ultra,Furniture,Europe,398.89,654.02,725.89,17,23-02-2024,7.83,In-store,2,Retail,Credit Card,12,Not Returned
+1132,Western Pro,Groceries,North America,3000.05,3946.61,870.8,58,09-11-2024,15.86,In-store,1.6,Corporate,PayPal,4,Not Returned
+1133,Hospital Plus,Toys,Africa,2827.25,2298.11,566.93,1,09-01-2024,18.41,Wholesale,4.7,Small Business,Debit Card,2,Returned
+1134,Themselves Ultra,Electronics,Australia,1161.74,681.37,519.84,22,21-06-2024,21,In-store,2.9,Small Business,Debit Card,10,Returned
+1135,Cost Pro,Furniture,Africa,500.69,3047.34,212.39,53,23-11-2024,13.24,In-store,3.7,Retail,Credit Card,9,Not Returned
+1136,South Plus,Clothing,Australia,4381.62,1104.33,834.66,33,22-10-2024,15.09,Wholesale,2.4,Government,Credit Card,4,Returned
+1137,Phone X,Groceries,Australia,2610.52,1674.96,948.33,3,11-01-2024,7,Wholesale,1,Corporate,Credit Card,3,Returned
+1138,Someone Ultra,Electronics,Europe,3758.44,1799.75,288.14,57,11-12-2024,21.87,In-store,2.7,Retail,Credit Card,15,Not Returned
+1139,Nor X,Clothing,North America,195.49,2425.5,407.23,86,19-03-2024,4.87,Online,4.4,Corporate,PayPal,3,Returned
+1140,Customer Ultra,Groceries,North America,3280.77,437.07,548.55,43,19-02-2024,8.9,Online,1.2,Government,Bank Transfer,1,Not Returned
+1141,Father Plus,Groceries,Australia,4935.62,2312.94,976.38,43,21-08-2024,25.14,Wholesale,4.3,Small Business,PayPal,4,Not Returned
+1142,Watch Pro,Furniture,North America,4211.29,1025.41,222.52,13,08-12-2024,19.93,Wholesale,4.8,Retail,Credit Card,11,Not Returned
+1143,Article X,Clothing,Asia,1592.27,2009.17,399.96,54,20-07-2024,20.47,Online,2.9,Corporate,PayPal,14,Returned
+1144,Seven Pro,Toys,Asia,1091.12,2110.36,298.13,79,18-11-2024,9.21,Online,1.2,Government,Credit Card,6,Returned
+1145,Fill Plus,Groceries,Europe,1607.39,2113.34,826.98,88,27-11-2024,24.97,Online,4.2,Corporate,Bank Transfer,3,Not Returned
+1146,Ready Plus,Furniture,Africa,962.16,2485.43,847.07,1,19-07-2024,11.29,Wholesale,3.1,Small Business,PayPal,2,Returned
+1147,Yet X,Electronics,Asia,1086.66,1731.27,489.9,65,14-07-2024,17.45,Wholesale,4.6,Government,Bank Transfer,12,Returned
+1148,Produce X,Groceries,Europe,573.23,3939.83,842.23,57,12-08-2024,10.89,In-store,4.5,Government,Bank Transfer,2,Returned
+1149,Resource X,Clothing,Asia,3948.32,995.89,440.76,35,02-04-2024,5.9,Wholesale,3,Small Business,Bank Transfer,14,Not Returned
+1150,Fight Pro,Clothing,Australia,3910.77,1756.84,39.92,31,18-03-2024,5.45,Wholesale,2.8,Corporate,Credit Card,8,Returned
+1151,Why X,Electronics,Europe,716.72,676.44,588.73,72,29-06-2024,25.99,Wholesale,4.4,Retail,PayPal,15,Not Returned
+1152,Green Ultra,Groceries,North America,1737.83,2288.02,322.45,91,09-10-2024,2.65,In-store,3.6,Retail,Credit Card,14,Returned
+1153,Minute Pro,Clothing,Asia,4500.48,2755.97,938.82,75,15-07-2024,27.97,In-store,3.2,Government,PayPal,5,Not Returned
+1154,Truth Ultra,Clothing,Asia,4602.8,980.43,861.75,1,11-08-2024,25.07,Wholesale,3.8,Government,Debit Card,3,Not Returned
+1155,Describe Pro,Toys,Australia,4554.87,3080.84,633.56,55,11-03-2024,17.79,Wholesale,1.4,Corporate,Bank Transfer,5,Not Returned
+1156,Item Ultra,Electronics,Asia,4455.58,1324.99,729.64,4,27-09-2024,2.62,In-store,4.1,Small Business,PayPal,4,Not Returned
+1157,Ahead Pro,Toys,Africa,2470.93,2048.22,186.86,3,07-12-2024,12.6,Online,3.2,Retail,Debit Card,1,Returned
+1158,Its Pro,Furniture,Africa,1050.68,3879.65,454.54,79,16-10-2024,29.45,Online,1.6,Government,Debit Card,8,Returned
+1159,Above Plus,Electronics,North America,985.85,3678.42,784.36,64,13-12-2024,27.72,In-store,4.9,Small Business,Credit Card,4,Returned
+1160,Seat Pro,Groceries,Europe,4055.1,2193.11,720.43,85,20-01-2024,26.76,In-store,2.2,Government,PayPal,10,Not Returned
+1161,Bad Plus,Furniture,Europe,2306.62,1833.08,989.55,52,03-10-2024,26.18,Wholesale,1.3,Government,Bank Transfer,7,Not Returned
+1162,Dark X,Toys,Africa,319.25,1276.21,748.12,75,19-11-2024,28.47,Wholesale,1,Government,Credit Card,1,Returned
+1163,Remember Plus,Groceries,Africa,239.6,2335.22,390.89,88,06-02-2024,23.73,Wholesale,2.3,Retail,PayPal,6,Not Returned
+1164,Civil Pro,Groceries,Australia,67.71,1144.44,883.45,60,13-10-2024,1.42,In-store,1.9,Small Business,Bank Transfer,15,Returned
+1165,Fact Plus,Groceries,Africa,3465.84,2995.57,954.1,38,22-08-2024,15.46,Online,2.5,Small Business,Debit Card,12,Not Returned
+1166,Important Plus,Groceries,Australia,2171.83,2642.43,789,83,08-04-2024,19.36,In-store,3.6,Retail,Bank Transfer,3,Returned
+1167,Exactly Plus,Groceries,North America,1733.98,3962.57,892.19,68,20-04-2024,1.68,Online,5,Retail,Debit Card,4,Returned
+1168,Letter Pro,Clothing,Europe,809.52,1053.83,33.05,75,30-10-2024,24.2,In-store,1.6,Corporate,PayPal,5,Not Returned
+1169,Style X,Toys,North America,1016.58,3971.69,974.75,4,13-06-2024,10.08,In-store,2.3,Government,Debit Card,9,Returned
+1170,Rich Ultra,Furniture,North America,1584.73,2513.37,120.95,35,17-12-2024,5.93,In-store,2.5,Retail,PayPal,3,Not Returned
+1171,Firm Pro,Toys,Africa,1615.06,3386.47,975.38,63,08-07-2024,16.76,Online,2,Small Business,Credit Card,14,Returned
+1172,Decade Ultra,Toys,North America,1633.88,3452.42,157.99,18,14-08-2024,19.57,Wholesale,1.6,Retail,Debit Card,12,Returned
+1173,Sort X,Clothing,North America,3951.67,1338.1,479.58,94,15-10-2024,18.7,Online,4.8,Corporate,PayPal,11,Returned
+1174,Leg X,Furniture,Australia,101.56,2124.1,856.47,26,03-02-2024,26.94,In-store,1.2,Retail,Credit Card,14,Not Returned
+1175,Team X,Clothing,Australia,501.37,2425.46,398.13,28,06-03-2024,0.16,Online,4.2,Government,Bank Transfer,9,Returned
+1176,Day Pro,Groceries,Australia,341.6,795.95,433.46,93,04-02-2024,0.07,Wholesale,1.1,Corporate,PayPal,9,Returned
+1177,Effort Pro,Furniture,Asia,1237.24,3928.05,810.3,13,02-01-2024,19.75,Online,1.1,Small Business,Credit Card,4,Not Returned
+1178,Hour X,Groceries,North America,3439.25,1133.99,356.99,36,25-01-2024,13.81,Online,3.9,Retail,Debit Card,11,Returned
+1179,It Pro,Electronics,Australia,4895.35,2696.27,822.03,40,28-02-2024,10.86,Online,2.7,Retail,Debit Card,11,Returned
+1180,Simply Plus,Electronics,North America,4066.68,483.5,231.56,83,29-07-2024,11.35,Wholesale,1.7,Corporate,Bank Transfer,11,Not Returned
+1181,Economic Plus,Electronics,North America,2264.01,1830.11,571.9,6,01-02-2024,8.7,Online,2.1,Government,Debit Card,4,Returned
+1182,On Pro,Electronics,Europe,364.17,3020.73,507.02,95,12-03-2024,22.59,Online,4.2,Small Business,Credit Card,13,Returned
+1183,Commercial Pro,Furniture,Australia,2777.11,2941.16,355.4,27,16-12-2024,5.76,In-store,2.1,Retail,Debit Card,3,Returned
+1184,Rise Pro,Toys,Australia,3025.88,881.96,235.11,33,12-09-2024,17.72,Online,3.8,Government,Bank Transfer,4,Returned
+1185,You X,Toys,Australia,4776.14,639.61,810.03,69,27-03-2024,18.74,Wholesale,2.3,Retail,Bank Transfer,8,Not Returned
+1186,Begin X,Furniture,Australia,2019.1,3900.5,605.31,67,16-12-2024,18.75,Online,3.3,Corporate,Debit Card,8,Returned

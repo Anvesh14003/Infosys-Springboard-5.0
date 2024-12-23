@@ -1,0 +1,1240 @@
+Date,Region,Product Category,Sales Amount,Profit,Units Sold,Discount Offered,Sales Channel,Customer Type,Sales Representative,Product Rating
+2024-06-03,Australia,Electronics,2274.16,205.74,45,21,In-store,Returning,Joseph Graham,2.2
+2024-08-26,Asia,Groceries,4705.41,433.39,46,5,Wholesale,New,April Hernandez,1.1
+2024-11-13,North America,Clothing,4441.15,351.56,28,9,Wholesale,New,Sarah Walker,3.3
+2024-03-24,North America,Furniture,658.57,529.39,100,24,In-store,New,Brandon Sims,3.7
+2024-01-10,Africa,Electronics,1810.92,661.81,29,13,In-store,New,Joanna Taylor,1.7
+2024-06-26,Asia,Groceries,521.72,409.1,86,28,Wholesale,New,William Moore,5.0
+2024-09-20,Africa,Toys,4548.61,146.68,57,6,Wholesale,Returning,Rita Jackson,3.3
+2024-01-22,Africa,Furniture,3236.08,750.06,55,29,Online,New,Reginald Jones,1.9
+2024-11-07,Europe,Clothing,84.15,443.52,47,28,Wholesale,New,Thomas Parker,2.9
+2024-05-29,Asia,Clothing,3312.94,851.21,28,26,Wholesale,New,Amanda Brooks,2.3
+2024-09-17,Europe,Clothing,3545.48,922.89,4,20,In-store,New,Hannah Ward,2.9
+2024-05-30,Europe,Electronics,4384.0,529.25,94,9,In-store,New,Joan Harris,1.4
+2024-02-05,Australia,Groceries,383.96,270.15,64,22,In-store,Returning,Katie Morales,2.1
+2024-10-19,Europe,Toys,3953.67,139.81,6,12,Online,Returning,Timothy Gibson,2.2
+2024-02-20,Europe,Furniture,600.46,326.15,20,13,Wholesale,New,Samantha Lynch,3.5
+2024-04-23,Africa,Toys,53.66,898.84,60,27,Online,New,Patricia Nelson,1.4
+2024-06-18,Australia,Clothing,4746.65,692.35,68,29,Online,Returning,Derrick Arellano,3.8
+2024-10-24,Asia,Furniture,2899.58,760.98,26,3,In-store,New,Chad Maldonado,4.7
+2024-05-09,Australia,Toys,95.42,789.71,92,18,In-store,New,David Weeks,2.7
+2024-08-27,North America,Toys,4126.89,558.11,44,2,Online,Returning,Andrew Cummings,2.8
+2024-11-17,North America,Furniture,524.7,522.37,46,19,Online,New,Craig Payne,4.3
+2024-06-27,Australia,Electronics,4450.18,567.59,8,22,Online,Returning,Evan Gutierrez,2.9
+2024-09-23,Europe,Clothing,3274.6,254.05,57,2,Online,Returning,Crystal Frank,1.3
+2024-10-22,North America,Clothing,4344.85,118.99,51,25,Wholesale,New,Jennifer Scott,4.8
+2024-09-28,Europe,Furniture,4395.71,87.36,43,18,Online,Returning,Johnny Fuller,1.4
+2024-04-09,Africa,Clothing,1586.8,409.66,31,24,Wholesale,Returning,Melissa Lopez,2.8
+2024-09-20,Africa,Groceries,4431.05,344.93,36,24,Wholesale,New,Rhonda Odonnell,4.9
+2024-11-29,Asia,Furniture,103.65,274.51,57,4,Wholesale,Returning,Eddie Pace,3.8
+2024-09-24,Asia,Toys,878.31,170.52,83,19,Wholesale,Returning,Mark Taylor,1.6
+2024-01-19,Asia,Furniture,3352.29,488.31,90,26,Wholesale,New,Debra Cunningham,2.6
+2024-01-21,North America,Clothing,2255.72,845.62,76,6,In-store,Returning,Jerry Wise,4.0
+2024-05-26,Africa,Clothing,3279.53,612.1,64,5,Wholesale,Returning,Chad Bryan,1.7
+2024-03-29,Asia,Groceries,4107.27,973.41,68,10,In-store,Returning,Shawn Jimenez,1.9
+2024-08-03,North America,Toys,4357.07,715.62,33,13,In-store,Returning,John Fletcher,3.4
+2024-02-05,North America,Clothing,2493.92,285.46,44,7,Wholesale,New,Robert Blankenship,4.6
+2024-10-31,Asia,Electronics,4516.58,370.73,81,12,Online,New,Christina Mcfarland,3.7
+2024-10-08,Europe,Groceries,457.25,688.39,49,15,Wholesale,Returning,Joseph Hull,2.1
+2024-11-08,North America,Groceries,1690.86,711.91,8,20,Online,New,Mrs. Stacey Brandt,4.7
+2024-06-22,Europe,Electronics,650.01,109.7,89,17,Online,New,Robin Wilson,1.3
+2024-03-08,Africa,Electronics,4192.63,766.61,71,8,In-store,New,Keith Nguyen,3.9
+2024-01-27,Australia,Groceries,4666.14,83.44,46,10,In-store,New,Angel Costa,3.8
+2024-07-27,Europe,Clothing,1171.14,681.29,70,10,In-store,New,Molly Brock,4.4
+2024-06-18,North America,Clothing,2552.93,566.85,84,1,Wholesale,New,Paul Aguilar,2.9
+2024-10-09,Australia,Furniture,2549.04,550.8,79,16,Wholesale,New,Jacob Osborne,3.5
+2024-05-28,North America,Toys,2641.66,156.41,19,9,Online,Returning,Danielle Lee,3.9
+2024-10-29,Australia,Furniture,3554.66,564.97,79,14,In-store,New,Michael Abbott,2.1
+2024-09-11,Africa,Clothing,693.88,782.65,82,4,In-store,Returning,Jennifer George,2.7
+2024-03-21,Australia,Clothing,1399.81,754.9,86,4,Online,Returning,Susan Neal,2.2
+2024-09-28,Asia,Electronics,2426.92,816.66,95,26,Online,Returning,Travis Jackson,4.9
+2024-05-30,Europe,Furniture,952.7,435.33,1,5,Online,New,Brandon Pope,1.1
+2024-01-10,Europe,Furniture,2068.18,746.29,32,0,Wholesale,New,Jerry Harper,4.3
+2024-03-07,Asia,Electronics,2172.84,181.19,40,3,Online,Returning,John Potter,3.1
+2024-12-11,Africa,Clothing,3917.0,729.27,19,24,Online,Returning,Juan Welch,4.9
+2024-08-27,Australia,Groceries,786.44,945.05,55,19,In-store,Returning,Rose Cummings,3.3
+2024-04-29,Asia,Groceries,1615.82,688.19,79,3,Wholesale,Returning,Kimberly Walker,3.1
+2024-01-26,Europe,Electronics,2140.83,831.59,84,4,In-store,Returning,Phyllis Pineda,4.4
+2024-02-09,Asia,Toys,2993.75,86.96,18,1,Online,Returning,Morgan Hansen,2.4
+2024-08-15,Europe,Furniture,310.61,257.58,58,30,In-store,New,Jessica Morales,4.5
+2024-09-28,Australia,Toys,3785.85,869.71,94,13,Wholesale,New,Tiffany Hood,4.4
+2024-06-06,Asia,Electronics,1870.31,498.99,62,12,In-store,New,Daniel Russell,4.7
+2024-03-15,Africa,Clothing,522.32,875.74,27,21,Online,Returning,Hannah Smith,1.5
+2024-09-03,Asia,Furniture,977.45,832.29,11,3,Online,New,Jordan Brooks,2.0
+2024-01-08,Australia,Electronics,1802.83,310.11,79,7,Online,Returning,Bailey Edwards,1.6
+2024-05-13,Africa,Electronics,2858.48,33.78,56,4,Wholesale,Returning,Mindy Davidson,2.5
+2024-08-20,Africa,Toys,3360.08,859.42,38,25,Wholesale,Returning,Joyce Andrade,3.8
+2024-03-10,Asia,Furniture,2088.1,290.0,16,23,In-store,New,Adam Gibbs,2.5
+2024-02-17,Europe,Furniture,453.47,184.06,7,10,Online,Returning,Stephanie Nelson,4.0
+2024-08-10,North America,Groceries,2389.65,117.6,52,6,In-store,Returning,Gabrielle Glover,1.6
+2024-09-29,Europe,Furniture,1933.38,152.97,88,24,Online,Returning,Lori Davis,3.2
+2024-03-02,Africa,Electronics,2205.76,41.69,10,20,Wholesale,New,Deborah Brown,3.3
+2024-10-02,Europe,Furniture,1889.19,873.9,58,29,Wholesale,Returning,Jacob Duran,2.7
+2024-05-24,Asia,Electronics,2834.53,19.6,100,8,Wholesale,New,Michael James,1.6
+2024-09-11,Asia,Clothing,189.35,977.13,25,7,Wholesale,New,Phillip Ford,2.8
+2024-09-14,North America,Clothing,3312.11,190.63,78,20,Wholesale,Returning,Charles Miller,3.3
+2024-08-28,Europe,Furniture,4130.02,900.03,83,28,In-store,Returning,Thomas Myers,1.1
+2024-11-12,Asia,Electronics,3070.8,556.5,43,21,Wholesale,New,Mary Fitzgerald,1.8
+2024-05-23,Asia,Electronics,1681.63,458.42,51,11,Online,Returning,Ashley Cruz,3.6
+2024-10-08,Europe,Electronics,2405.31,215.21,68,4,In-store,New,Paul Smith,4.6
+2024-11-05,North America,Electronics,1306.0,314.04,74,13,In-store,Returning,Christopher Davis,3.0
+2024-02-17,Asia,Clothing,1636.93,626.49,21,25,Wholesale,Returning,Paul Scott,3.5
+2024-03-20,Asia,Toys,1916.27,837.3,1,15,In-store,Returning,Lisa Hudson,4.1
+2024-11-08,Australia,Furniture,818.8,977.95,25,15,Online,New,Justin Bass,4.4
+2024-07-22,Asia,Furniture,868.05,182.05,63,9,Wholesale,New,Christopher Rodriguez,3.0
+2024-07-10,Australia,Furniture,4952.12,741.86,60,17,In-store,New,Brenda Riley,1.6
+2024-06-07,Africa,Furniture,4039.38,950.3,70,11,In-store,New,Samantha Reilly,3.3
+2024-10-24,Australia,Electronics,3554.63,410.14,55,24,In-store,New,Shannon Thompson,4.0
+2024-07-17,Asia,Electronics,2358.98,986.79,45,21,Online,New,Jose Moore,2.1
+2024-10-28,Australia,Toys,1149.26,972.11,9,19,In-store,New,Rebecca Golden,3.9
+2024-05-27,Europe,Clothing,4841.28,321.29,82,17,Wholesale,Returning,Samantha Johnson,2.6
+2024-03-04,North America,Toys,3717.86,266.04,58,15,Online,New,Sarah Payne,2.4
+2024-12-03,Australia,Groceries,3168.0,997.92,96,15,Wholesale,Returning,Susan Johnson,4.5
+2024-05-21,Australia,Toys,1713.82,874.57,22,24,Wholesale,New,Bernard Howell,1.4
+2024-11-29,Europe,Toys,580.66,587.07,65,24,In-store,New,Ms. Christina Kennedy DDS,4.8
+2024-06-25,Europe,Electronics,3436.56,196.93,55,1,In-store,Returning,Michael Henry,4.9
+2024-11-01,Africa,Groceries,2647.84,67.63,8,23,Online,Returning,Derek Wells,2.4
+2024-01-11,Africa,Toys,1518.16,298.18,6,10,Wholesale,New,Meghan Edwards,2.8
+2024-06-04,Europe,Toys,2410.27,989.87,9,4,Wholesale,Returning,Donna Jones,3.2
+2024-06-25,Asia,Electronics,2072.87,990.93,88,4,Wholesale,Returning,Brenda Scott,3.5
+2024-02-20,North America,Toys,100.56,462.34,91,16,Wholesale,New,Melissa Vargas,1.9
+2024-08-28,North America,Furniture,3091.07,355.17,63,4,Online,New,Kristen Davis,2.4
+2024-03-22,Europe,Groceries,1912.84,453.93,81,11,Wholesale,Returning,Monique Vaughan,1.3
+2024-08-03,Europe,Groceries,3684.95,49.35,73,12,In-store,Returning,Roy Wilson,1.9
+2024-11-28,Africa,Groceries,2871.22,246.52,99,26,Wholesale,New,Jennifer Mercer,1.0
+2024-07-24,Africa,Groceries,3374.26,604.46,22,14,Wholesale,New,Robert Sullivan,1.9
+2024-07-19,Europe,Toys,2609.36,128.94,100,19,Wholesale,New,Shane Parker,4.9
+2024-08-26,Africa,Toys,4643.14,595.23,65,19,Wholesale,Returning,Kara Jordan,1.8
+2024-09-18,North America,Electronics,2682.42,208.53,61,12,Wholesale,New,Jennifer Gaines,2.0
+2024-08-11,Asia,Electronics,1459.67,421.75,73,5,Wholesale,Returning,Steven Brown,4.4
+2024-10-26,North America,Groceries,4778.35,865.61,89,27,In-store,New,Daniel Anderson,4.5
+2024-11-18,Asia,Furniture,1123.49,669.65,79,12,Wholesale,New,Daniel Olson,1.5
+2024-07-16,North America,Groceries,2944.66,797.61,21,18,Online,New,Nicholas Simpson,1.1
+2024-07-27,Europe,Furniture,1375.74,948.37,63,3,In-store,New,Michael Lewis,4.1
+2024-06-24,Australia,Toys,1142.51,334.35,17,16,Online,Returning,Eduardo Medina,3.9
+2024-04-19,Asia,Toys,3629.72,960.21,74,0,In-store,Returning,Travis Case,3.8
+2024-05-31,Europe,Toys,3207.49,3.0,76,30,In-store,Returning,Matthew Everett,1.7
+2024-03-01,North America,Clothing,31.05,217.1,48,8,In-store,New,Mary Smith,4.7
+2024-08-05,Africa,Electronics,1645.85,275.08,86,30,Online,New,Dustin Kelly,3.3
+2024-02-01,Europe,Electronics,1002.56,160.71,38,9,Wholesale,Returning,Jenna Martinez,4.5
+2024-03-23,North America,Toys,1363.22,841.7,61,16,In-store,Returning,Heather Thompson,3.3
+2024-04-13,Australia,Toys,2451.64,934.85,64,0,Wholesale,New,Luis Matthews,1.9
+2024-11-10,Europe,Furniture,4324.95,546.01,3,28,Online,Returning,Patrick Stokes,3.8
+2024-06-08,Asia,Electronics,206.75,539.39,59,0,Wholesale,New,Heidi Cooper,3.4
+2024-05-14,Africa,Groceries,3276.99,870.24,73,21,In-store,Returning,Justin Cox,2.1
+2024-05-07,Asia,Clothing,2629.43,168.03,37,21,Online,Returning,Jeremy Morgan,4.6
+2024-01-28,Asia,Electronics,2708.89,839.0,15,25,In-store,New,David West,4.4
+2024-06-17,North America,Electronics,3272.56,483.34,4,19,In-store,Returning,Daniel Thomas,4.6
+2024-04-24,Europe,Groceries,3834.04,481.59,49,29,Online,New,Dr. David Mitchell,2.3
+2024-02-17,Europe,Toys,3140.13,698.84,25,15,In-store,Returning,Robert Silva,3.7
+2024-04-05,Australia,Furniture,4143.16,615.08,75,6,Wholesale,Returning,William Pierce,4.2
+2024-05-18,Africa,Groceries,2607.07,495.96,69,29,Wholesale,New,Debbie Cook,3.4
+2024-01-28,Africa,Electronics,846.17,227.57,59,8,Wholesale,Returning,Kimberly Evans,4.7
+2024-07-22,Europe,Groceries,2828.46,679.76,36,12,Online,New,Michael Cole,4.0
+2024-08-15,Asia,Electronics,4325.49,674.22,6,2,Online,Returning,Martha Mcdonald,2.8
+2024-01-08,Asia,Toys,2649.57,741.75,71,14,In-store,New,Mark Cohen,4.9
+2024-11-10,North America,Groceries,4650.32,115.76,30,28,In-store,Returning,Robert Alvarez,1.0
+2024-07-10,Africa,Toys,2558.56,752.6,4,13,Wholesale,New,Dana Young,1.5
+2024-03-19,North America,Electronics,841.68,362.17,53,7,In-store,Returning,Rhonda James,3.2
+2024-05-24,Asia,Toys,535.23,262.12,37,7,Wholesale,Returning,Anthony Powell,2.8
+2024-11-14,Africa,Furniture,3135.26,712.91,61,2,In-store,Returning,Ethan Hanson,5.0
+2024-12-10,Europe,Furniture,869.56,126.11,99,13,In-store,New,Laura Ortiz,2.6
+2024-08-24,North America,Groceries,4051.19,957.21,56,25,Wholesale,Returning,Jamie Lara,4.4
+2024-04-21,Africa,Furniture,3644.13,712.65,84,0,Online,Returning,Deborah Gaines,1.1
+2024-06-25,North America,Toys,3923.96,343.79,15,4,Online,Returning,Curtis Prince,1.0
+2024-01-26,Africa,Electronics,3665.55,602.92,52,19,Online,New,Kaitlyn Kane,4.1
+2024-04-05,Europe,Clothing,2440.19,285.67,27,7,Wholesale,Returning,Bryan Morgan,4.6
+2024-06-03,Australia,Toys,3614.74,103.07,97,24,Wholesale,Returning,Veronica Watson,4.2
+2024-05-22,Asia,Toys,3739.61,436.88,57,16,Online,New,Lori Sanchez,4.1
+2024-03-12,Asia,Groceries,4960.45,12.19,95,18,Online,New,Andrea Robles,1.3
+2024-07-05,Europe,Furniture,978.7,795.51,89,1,Online,Returning,Rachel Castaneda,1.3
+2024-10-12,Europe,Furniture,860.67,823.86,9,26,In-store,New,David Waters,3.0
+2024-08-19,Asia,Furniture,4936.63,676.02,91,12,Online,Returning,Cody Delacruz,1.9
+2024-07-26,Africa,Clothing,3074.92,231.17,77,17,In-store,New,Mia Mcintosh,2.8
+2024-02-29,Australia,Groceries,3510.76,840.28,11,23,Wholesale,New,Charles Moody,1.7
+2024-05-19,Africa,Toys,1447.5,343.04,86,13,Wholesale,New,Jennifer Woodard,2.2
+2024-10-28,North America,Toys,233.18,195.8,76,8,Online,Returning,Alexis Turner,1.7
+2024-01-27,Australia,Clothing,4385.67,879.62,50,4,Wholesale,Returning,Roberta Houston,3.7
+2024-01-28,Asia,Furniture,1926.83,329.52,84,8,Wholesale,New,Robert White,1.6
+2024-08-18,Asia,Furniture,2083.22,275.04,99,17,Wholesale,New,Marcia Rowe,3.3
+2024-02-22,Australia,Groceries,364.42,831.02,90,29,In-store,Returning,Troy Christensen,1.2
+2024-03-27,Australia,Electronics,3545.44,512.8,78,6,Wholesale,Returning,Tammy Richard,1.6
+2024-05-01,Europe,Groceries,1984.41,289.65,9,22,Online,New,Ashley Nunez,2.3
+2024-05-24,Africa,Clothing,4362.28,666.71,22,4,Online,Returning,Joseph Hinton,4.6
+2024-11-08,Australia,Clothing,1377.46,690.64,41,29,Wholesale,Returning,Joseph Henry,1.9
+2024-09-10,Europe,Clothing,822.22,588.52,62,16,Wholesale,New,Spencer Wilson,4.4
+2024-09-29,Africa,Electronics,2352.22,588.51,24,21,In-store,New,Heather King,2.2
+2024-08-02,Europe,Electronics,2826.31,958.92,98,28,Wholesale,New,Scott Thompson,2.8
+2024-02-04,Europe,Toys,1327.69,903.18,68,30,Wholesale,Returning,Travis Taylor,3.2
+2024-11-08,North America,Furniture,295.37,270.74,80,17,In-store,Returning,Christian Chandler,1.5
+2024-07-25,Australia,Groceries,2662.48,864.83,80,11,Online,Returning,Whitney Thomas,2.7
+2024-04-13,Australia,Electronics,1940.54,138.4,24,24,In-store,Returning,Marc Reed,3.3
+2024-07-08,Australia,Groceries,3679.59,471.37,78,12,Online,New,David Sparks,3.9
+2024-08-18,North America,Clothing,1289.73,785.49,1,28,Wholesale,Returning,Fernando Freeman,2.3
+2024-09-29,North America,Electronics,422.41,819.17,41,8,Online,Returning,Jenna Carter,2.4
+2024-06-28,Asia,Clothing,4529.59,155.73,4,22,Online,Returning,Kathryn Stone,3.6
+2024-10-24,Asia,Clothing,1372.14,989.85,96,18,Wholesale,Returning,Justin May,2.3
+2024-04-24,Asia,Clothing,909.4,179.85,84,6,In-store,Returning,Laura Montes,1.6
+2024-07-23,Australia,Groceries,4219.01,608.6,97,15,Wholesale,Returning,Mr. Thomas Oconnor,2.3
+2024-02-07,Asia,Furniture,529.59,333.08,11,11,Online,New,Ashley Martin,3.9
+2024-02-10,Australia,Toys,3980.06,468.54,33,4,In-store,Returning,Eric Bush,4.2
+2024-12-10,North America,Toys,4243.16,384.56,26,18,Online,New,Jennifer Baxter,1.7
+2024-02-16,Asia,Groceries,3925.84,132.7,93,16,Online,Returning,Maria Caldwell,4.0
+2024-05-10,Australia,Clothing,2393.75,12.07,69,18,Online,Returning,Lisa Beck,4.9
+2024-08-29,Europe,Electronics,2927.29,951.21,16,28,Online,Returning,Amanda Douglas MD,3.0
+2024-10-02,Europe,Clothing,4331.09,627.21,19,15,Wholesale,Returning,Mrs. Jennifer Williams,3.3
+2024-03-04,North America,Groceries,1019.44,305.81,44,17,In-store,New,Lucas Ortega,4.5
+2024-09-20,Australia,Clothing,2179.21,228.28,20,26,In-store,Returning,Christopher Wagner,2.6
+2024-10-10,North America,Electronics,2278.66,461.92,4,14,Wholesale,Returning,Timothy Sutton,4.5
+2024-11-16,Europe,Groceries,1567.77,132.82,55,16,Wholesale,Returning,Andrew Benjamin,3.3
+2024-07-05,Asia,Electronics,1197.0,148.44,42,25,Online,Returning,Monica Pearson,4.8
+2024-08-09,Africa,Toys,4149.8,461.99,78,26,Wholesale,New,Katie Chavez,1.9
+2024-01-29,Australia,Groceries,1040.28,108.87,18,3,Online,Returning,Brandon Turner,2.1
+2024-01-29,Australia,Electronics,4050.86,67.7,53,4,In-store,Returning,Jeffrey Mosley,3.1
+2024-10-25,Asia,Clothing,480.81,74.41,25,19,Wholesale,Returning,Kayla Morgan,4.1
+2024-11-10,Africa,Groceries,4434.17,238.54,35,27,In-store,New,Paula Mccall,4.5
+2024-10-14,Europe,Electronics,2807.84,615.3,13,10,Wholesale,New,Jeffrey Chapman,4.9
+2024-01-28,North America,Toys,4178.99,835.85,95,5,Wholesale,Returning,Sergio Oneill,4.0
+2024-04-14,Europe,Electronics,4615.49,109.75,32,21,In-store,New,Donna Fuller,1.9
+2024-11-16,Asia,Electronics,3637.28,749.55,82,16,In-store,Returning,Christopher Phillips,4.4
+2024-10-02,Europe,Groceries,2837.23,483.61,36,12,In-store,New,Melissa Burton,4.9
+2024-04-08,Europe,Groceries,3518.33,952.93,94,28,Wholesale,Returning,Abigail Watson,3.0
+2024-10-24,Africa,Furniture,3035.16,147.97,4,2,Wholesale,New,Angela Barton,1.6
+2024-06-28,North America,Toys,2574.41,878.32,19,17,Online,Returning,Rita Wright,4.1
+2024-12-04,Asia,Electronics,1773.14,413.12,90,16,Wholesale,Returning,Thomas Bailey,3.4
+2024-10-03,Africa,Clothing,787.69,349.1,29,5,Online,Returning,Sierra Brown,3.4
+2024-10-08,Asia,Groceries,3607.22,435.61,18,0,Online,New,Joseph Jarvis,3.8
+2024-07-25,Asia,Electronics,1765.52,951.61,59,29,In-store,Returning,Amber Cabrera,1.6
+2024-02-05,North America,Toys,2986.23,84.52,50,23,Wholesale,New,Monica Castro,1.5
+2024-03-31,Africa,Toys,2030.0,143.83,90,4,Wholesale,New,Daniel Allen,2.0
+2024-09-29,Africa,Electronics,1147.27,257.78,100,18,Online,Returning,Brittany Grimes,2.9
+2024-01-30,Asia,Groceries,3851.48,426.01,18,5,Wholesale,New,Vanessa Lane,2.2
+2024-05-03,North America,Toys,3223.81,404.22,63,15,Wholesale,Returning,Dennis Brown,2.4
+2024-03-20,North America,Furniture,137.17,360.05,92,22,In-store,Returning,Parker Jones,4.5
+2024-05-28,Africa,Clothing,2313.08,457.23,89,9,Online,New,Craig Mason,3.1
+2024-04-24,Australia,Groceries,1948.15,867.5,38,1,Wholesale,Returning,Kelly Roach,4.6
+2024-06-10,Africa,Furniture,4692.29,571.68,2,10,In-store,New,James Williams,3.0
+2024-03-05,North America,Clothing,4562.64,662.81,95,10,Wholesale,Returning,Alex Mcdaniel,4.4
+2024-06-19,Australia,Toys,4465.38,496.99,36,12,Online,New,Mr. Spencer Vaughn DVM,4.3
+2024-10-14,Australia,Furniture,12.5,295.48,45,1,Online,New,Alicia Harris,1.5
+2024-05-26,Asia,Electronics,1029.37,251.98,5,12,Wholesale,Returning,Melinda Hernandez,1.1
+2024-09-19,North America,Furniture,2755.99,337.54,49,7,Online,New,Cindy Tran,4.4
+2024-09-14,Africa,Electronics,4116.91,876.84,18,1,Online,New,Michelle Taylor,3.5
+2024-10-24,Europe,Groceries,4150.12,552.02,34,6,In-store,New,Kevin Wise,3.5
+2024-05-27,Africa,Toys,1342.5,767.23,34,12,Wholesale,Returning,Zachary Hanson,3.1
+2024-07-18,Australia,Clothing,1148.29,334.06,8,20,In-store,Returning,Matthew Mueller,3.0
+2024-09-29,Australia,Groceries,1466.14,606.54,64,2,Wholesale,Returning,Natalie Green,1.2
+2024-04-08,North America,Toys,1533.49,271.11,52,30,Wholesale,Returning,Henry Keller,1.4
+2024-07-24,North America,Groceries,1186.78,803.72,63,10,In-store,New,Stephanie Carson,4.8
+2024-04-14,Australia,Groceries,3486.77,97.98,62,15,In-store,Returning,Justin Owens,2.4
+2024-02-05,Asia,Groceries,4040.57,778.54,96,17,Online,New,Philip Alvarez MD,1.7
+2024-05-23,Europe,Groceries,323.23,87.64,33,15,In-store,Returning,Jacob Coleman,4.4
+2024-06-13,Africa,Groceries,4854.56,691.2,80,3,Online,New,Jacqueline Scott,4.4
+2024-05-27,Asia,Toys,2421.52,516.04,72,10,Online,Returning,Deanna Garner,3.2
+2024-06-01,Africa,Clothing,511.63,633.62,46,23,In-store,New,Stephanie Lewis,2.7
+2024-09-29,Europe,Groceries,4531.69,17.18,35,2,In-store,New,Calvin Adams,1.1
+2024-11-22,Europe,Groceries,3127.01,223.42,93,7,Online,New,Holly Bailey,3.0
+2024-04-22,Australia,Toys,4070.24,347.63,3,3,Online,Returning,Ricardo Obrien,1.4
+2024-03-29,Asia,Clothing,54.14,656.27,39,22,In-store,Returning,Cassandra Wade,1.3
+2024-08-28,Europe,Groceries,2786.26,350.4,34,10,In-store,Returning,Jeffrey Francis,1.3
+2024-09-03,Asia,Furniture,2564.53,756.09,14,9,In-store,New,Cassandra Jones,2.2
+2024-07-10,Asia,Electronics,2848.77,759.6,45,22,Wholesale,New,Alexandra Brown,4.2
+2024-04-01,Africa,Clothing,832.38,244.84,56,28,In-store,New,Jack Rice,4.4
+2024-05-26,Australia,Electronics,3947.47,648.83,86,11,In-store,Returning,Ronald Robertson,4.6
+2024-11-25,Asia,Furniture,4873.6,126.47,68,1,Wholesale,Returning,Victoria Boone,4.0
+2024-07-16,Asia,Electronics,3701.12,320.86,50,5,In-store,New,Dominique Smith,2.8
+2024-10-11,Africa,Toys,408.79,724.71,59,7,In-store,New,Cameron Perez,3.2
+2024-05-10,Australia,Toys,3456.68,692.66,18,21,Online,Returning,Jackie Martinez,3.1
+2024-06-29,Africa,Groceries,4178.11,531.12,73,21,Wholesale,Returning,Ray Martin,4.8
+2024-10-31,North America,Furniture,2741.34,33.18,26,12,In-store,Returning,Debbie Brooks,3.4
+2024-01-08,Africa,Groceries,3008.42,656.47,11,12,In-store,Returning,Adam Blackwell,4.4
+2024-12-10,North America,Clothing,4613.11,460.91,69,6,Online,Returning,Courtney Johnson,3.7
+2024-01-26,Africa,Electronics,3204.33,753.94,12,27,Wholesale,New,Eugene Goodwin,2.3
+2024-04-29,North America,Electronics,3602.93,125.17,57,30,In-store,Returning,Patricia Howell,1.9
+2024-05-07,Asia,Electronics,4728.25,821.07,88,23,Online,New,William Price,3.7
+2024-10-06,Africa,Electronics,974.48,769.13,38,10,Wholesale,Returning,Julia Davila,3.5
+2024-08-20,Africa,Electronics,4584.99,119.98,41,16,Wholesale,Returning,Tamara Burke,4.7
+2024-10-02,Africa,Electronics,1059.28,885.57,23,8,Wholesale,Returning,Lindsey Ochoa,3.9
+2024-08-06,Asia,Groceries,3348.24,973.48,13,13,Online,New,Barbara Williams,5.0
+2024-11-20,Europe,Groceries,902.35,449.43,78,29,In-store,New,Joshua Terry,4.7
+2024-03-22,Australia,Clothing,2924.96,522.77,62,29,Online,Returning,Rhonda Wilson,2.3
+2024-02-06,Europe,Electronics,1802.17,114.53,88,17,Online,Returning,Matthew Mercado,4.2
+2024-06-09,Africa,Toys,1758.97,843.76,73,26,Online,New,Sean Moore,2.4
+2024-01-07,Asia,Groceries,1587.54,440.19,57,1,Online,New,Adam Day,1.8
+2024-03-24,Australia,Groceries,3898.01,952.55,75,1,In-store,New,Jennifer Henry,4.6
+2024-07-24,North America,Furniture,1430.64,724.99,27,7,Wholesale,New,Savannah Castillo,4.6
+2024-01-05,Africa,Furniture,729.02,734.97,42,23,In-store,Returning,Edward White,3.8
+2024-01-30,Asia,Electronics,1451.82,531.84,6,24,In-store,New,John Rojas,3.3
+2024-07-23,Australia,Groceries,1943.41,783.11,72,22,Online,New,Laura Hopkins,1.4
+2024-06-12,Africa,Toys,2618.77,952.22,65,12,Wholesale,Returning,Michael Williams,4.4
+2024-04-21,North America,Furniture,2797.12,865.95,60,30,In-store,Returning,Amy Williams,3.1
+2024-10-03,Europe,Electronics,2712.28,104.04,36,15,Online,Returning,Tammie Mendez,1.1
+2024-09-09,North America,Toys,4837.55,527.17,73,24,Online,Returning,Amy Knight,4.4
+2024-09-23,Africa,Toys,3998.12,520.7,95,1,Online,New,Ronald Parker,1.9
+2024-08-02,Asia,Furniture,4066.98,324.62,73,10,Online,Returning,Ann Douglas,2.6
+2024-07-23,Asia,Electronics,1942.68,422.77,61,29,Online,Returning,Christine Callahan,4.3
+2024-09-25,Europe,Electronics,798.77,512.14,67,17,Wholesale,Returning,Melanie Moore,2.9
+2024-02-24,Australia,Groceries,1433.54,689.06,32,6,Online,New,Samantha Clarke,1.2
+2024-08-21,Africa,Groceries,3006.34,470.87,16,3,Wholesale,New,Reginald Austin,1.1
+2024-06-20,Africa,Clothing,3274.57,961.33,1,8,Online,Returning,Steven Rogers,1.9
+2024-12-04,Europe,Furniture,4314.9,501.48,82,3,Wholesale,Returning,Vickie Weaver,2.5
+2024-10-10,North America,Furniture,2367.51,622.36,57,28,Online,New,Eric Ramirez,2.0
+2024-07-22,Australia,Electronics,1411.0,637.86,60,28,Wholesale,New,Carla Reynolds,2.4
+2024-07-26,Australia,Groceries,26.72,452.75,60,10,In-store,New,Tara Foster,4.9
+2024-10-01,North America,Toys,4531.13,22.37,23,30,Wholesale,Returning,Christian Stephenson,2.4
+2024-06-15,Africa,Groceries,4069.01,786.96,48,28,Wholesale,Returning,Vicki Ryan,2.7
+2024-05-16,Australia,Furniture,1480.51,84.35,4,16,In-store,New,Christy Williams,3.6
+2024-10-05,North America,Furniture,589.15,687.11,14,16,In-store,New,Elijah Anderson,3.2
+2024-11-09,Australia,Groceries,4862.94,687.19,73,9,Wholesale,Returning,Jonathan Barajas,3.4
+2024-12-10,North America,Groceries,2855.35,557.22,3,12,Wholesale,New,Kevin Turner,1.3
+2024-04-24,North America,Furniture,3235.02,26.58,81,23,Wholesale,Returning,Michelle Rogers,1.7
+2024-03-30,North America,Electronics,296.28,115.56,64,25,Wholesale,Returning,Karen Rivera,1.2
+2024-06-12,Africa,Furniture,205.87,389.65,51,4,Online,New,Kimberly Morgan,2.4
+2024-01-18,North America,Toys,3780.75,75.37,2,30,In-store,New,Curtis Cook,2.7
+2024-07-19,North America,Clothing,3140.24,120.73,54,16,In-store,New,Dawn Turner,3.0
+2024-03-15,North America,Groceries,4763.62,674.0,80,0,Online,New,Claudia Grimes,2.4
+2024-01-06,Asia,Electronics,3695.99,660.41,35,0,Wholesale,Returning,Crystal Nguyen,1.4
+2024-10-15,North America,Clothing,367.41,569.76,31,21,Wholesale,New,Thomas Gallegos,4.6
+2024-05-12,North America,Groceries,4945.99,500.8,35,9,Wholesale,New,Sean Townsend,1.3
+2024-07-06,Asia,Clothing,2450.45,547.4,93,13,In-store,Returning,John Wilkins,3.7
+2024-07-11,Asia,Groceries,585.66,448.22,49,12,In-store,New,Shirley Li,1.4
+2024-03-25,Asia,Toys,1217.16,162.62,49,5,Wholesale,New,Amanda Wood,1.5
+2024-04-04,Asia,Toys,3026.98,911.61,36,6,In-store,Returning,Anthony Bailey,1.8
+2024-10-10,Europe,Toys,2898.0,323.16,29,5,In-store,Returning,Peter Holland,2.9
+2024-07-14,Asia,Furniture,4606.68,728.16,30,29,In-store,Returning,Holly Hampton,4.5
+2024-07-18,North America,Groceries,472.89,609.39,13,30,In-store,New,Justin Miles,4.9
+2024-06-04,Africa,Clothing,3365.17,827.45,12,7,Wholesale,Returning,Mark Rogers,2.0
+2024-08-28,Africa,Furniture,4361.03,199.69,9,23,Online,Returning,Brad Paul MD,3.8
+2024-08-15,Africa,Furniture,4298.59,20.77,82,20,Online,New,Tiffany Cardenas,2.9
+2024-10-19,North America,Clothing,3852.98,76.88,18,0,Online,New,Bobby Castillo,1.9
+2024-03-25,North America,Clothing,136.04,139.22,69,25,Online,New,Zachary Burke,1.6
+2024-05-28,Europe,Electronics,3015.63,511.83,37,24,Online,New,Timothy Smith,4.6
+2024-04-27,Asia,Groceries,825.16,666.74,60,8,Wholesale,New,Kristina Vega,1.9
+2024-01-15,Europe,Toys,504.06,917.98,82,2,In-store,Returning,Christopher Suarez,1.9
+2024-01-29,Asia,Furniture,2325.63,848.95,36,18,In-store,New,Mr. Roger Payne,2.1
+2024-07-28,Australia,Furniture,3776.8,245.68,43,27,In-store,Returning,Tara English,1.5
+2024-03-23,Australia,Furniture,4002.07,498.78,11,29,In-store,Returning,Sydney Bennett,4.4
+2024-10-04,Europe,Furniture,4416.94,759.74,73,3,Wholesale,Returning,Katelyn Jackson,3.0
+2024-11-09,Asia,Clothing,3082.92,784.85,14,22,In-store,New,Anthony White,2.4
+2024-03-18,Asia,Toys,4352.54,313.36,13,9,Wholesale,Returning,Joseph Wallace,1.3
+2024-04-15,Asia,Electronics,2332.52,417.82,54,12,Wholesale,New,Raymond Castro,4.3
+2024-08-27,Asia,Toys,2466.05,458.06,16,25,Online,Returning,Wendy Smith,2.6
+2024-12-08,Asia,Toys,2138.29,820.83,29,25,Wholesale,New,Kristy Thornton,2.9
+2024-06-24,Asia,Clothing,4083.05,315.86,5,27,In-store,New,Karen Harper,3.0
+2024-01-15,Asia,Groceries,3630.28,340.19,24,30,Wholesale,Returning,Michael Davis,4.2
+2024-09-10,Asia,Furniture,4572.18,367.85,22,20,Wholesale,Returning,Thomas Cole DDS,4.1
+2024-09-20,Europe,Groceries,193.57,351.05,34,0,Online,Returning,Joshua Williams,2.4
+2024-07-08,Africa,Groceries,658.24,834.7,3,10,Online,New,Paul Cross,3.1
+2024-09-15,Australia,Furniture,3009.26,998.06,2,22,In-store,New,Megan Griffin,3.9
+2024-02-29,Europe,Groceries,3501.9,232.88,42,8,Wholesale,New,Katrina Gardner,3.9
+2024-01-31,Africa,Toys,3639.8,406.06,5,29,Wholesale,Returning,Christine Rodriguez,1.7
+2024-10-19,Europe,Clothing,4081.78,342.53,41,12,In-store,New,Maurice Moore,3.1
+2024-03-08,Europe,Furniture,266.73,361.97,29,25,Online,Returning,Stephen Williams,2.2
+2024-03-15,Asia,Clothing,957.37,397.22,42,10,In-store,Returning,Barbara Sims,1.7
+2024-10-31,Europe,Toys,793.39,621.64,25,10,Wholesale,New,Kyle Harris,4.7
+2024-01-19,Europe,Toys,3313.48,430.38,61,4,Online,New,Shaun Smith,1.8
+2024-05-10,Africa,Clothing,3750.26,402.33,32,9,Wholesale,Returning,Gina Sweeney,1.6
+2024-01-06,Europe,Groceries,4938.43,742.58,19,30,In-store,Returning,Michaela Day,3.2
+2024-03-31,Asia,Toys,2764.57,253.56,69,13,Online,Returning,David Hood,3.8
+2024-09-11,Europe,Groceries,4762.27,810.2,63,2,Online,New,Brandon Clark,2.3
+2024-03-15,Europe,Furniture,4126.16,672.47,14,24,In-store,Returning,Andrea Hansen,3.5
+2024-03-22,Africa,Electronics,685.76,327.98,33,7,Online,New,Jennifer Owens,4.2
+2024-06-06,Asia,Toys,3862.61,137.25,15,9,In-store,New,John Robinson Jr.,1.8
+2024-11-05,North America,Groceries,2981.24,524.99,61,30,Online,Returning,David Nelson,3.6
+2024-11-23,Asia,Electronics,270.5,412.12,29,3,Wholesale,New,Charles Perkins,1.1
+2024-11-07,Africa,Electronics,2126.68,562.17,73,29,Wholesale,Returning,Jason Wolfe,1.2
+2024-07-20,Asia,Clothing,1080.44,73.72,23,26,Wholesale,New,Veronica Jimenez,1.1
+2024-04-07,Europe,Clothing,4582.11,263.04,71,7,In-store,New,Jesus Weber,3.3
+2024-07-15,Australia,Furniture,2730.06,269.19,33,19,In-store,New,Nicholas Brown,3.7
+2024-12-01,Australia,Electronics,1469.64,6.11,42,10,Online,Returning,Anthony Bowers,4.6
+2024-07-27,Asia,Toys,542.14,416.8,88,15,Wholesale,New,Carlos Johnson,4.7
+2024-05-09,Asia,Groceries,738.54,140.97,18,3,Wholesale,New,James Williams,2.1
+2024-07-21,Asia,Toys,545.59,969.04,21,8,In-store,New,Zoe Weaver,4.6
+2024-03-14,Asia,Furniture,4907.37,528.55,88,13,Wholesale,Returning,Aaron Stark,3.9
+2024-06-06,Australia,Furniture,335.25,851.99,77,26,In-store,Returning,Michael Hughes,2.3
+2024-04-18,Africa,Furniture,2923.46,378.45,93,23,Wholesale,Returning,Zachary Pugh,3.2
+2024-10-06,Europe,Toys,1936.51,244.77,69,7,In-store,New,Amanda Larson,1.2
+2024-02-10,Australia,Toys,4904.78,787.7,63,16,Online,Returning,Walter Guerrero,2.7
+2024-02-02,Australia,Toys,2783.12,296.02,67,20,Online,Returning,Cheryl Lane,4.1
+2024-09-13,Africa,Toys,1707.3,219.13,34,12,Wholesale,Returning,Heather Johnston,2.2
+2024-10-13,North America,Groceries,2110.15,247.57,13,27,Online,New,Dr. Taylor Moore,4.1
+2024-07-23,Africa,Furniture,3987.73,562.79,2,16,In-store,New,Mark Craig,1.7
+2024-07-30,Europe,Groceries,2860.6,594.15,41,27,In-store,Returning,Julia Jones,3.1
+2024-12-10,Africa,Electronics,836.02,868.02,92,6,In-store,Returning,Vincent Perez,3.4
+2024-02-08,North America,Groceries,1185.16,646.05,37,9,In-store,Returning,Christina Christensen,3.4
+2024-06-23,Europe,Groceries,4370.54,325.15,39,6,Wholesale,Returning,Bethany Coleman,1.3
+2024-05-13,Europe,Clothing,4663.74,211.94,98,19,In-store,New,Martha Jenkins,3.9
+2024-10-31,North America,Electronics,3474.38,255.28,11,27,In-store,New,David Payne,3.2
+2024-08-08,Europe,Furniture,763.98,858.53,15,8,In-store,Returning,Brian Jackson,1.6
+2024-09-26,Africa,Furniture,3632.42,488.18,23,6,Wholesale,New,Corey Kelley,2.3
+2024-08-07,North America,Furniture,2698.79,374.34,20,24,Online,Returning,Michelle Hayes,1.0
+2024-08-04,North America,Clothing,310.48,67.74,56,30,Wholesale,New,David Martin,4.6
+2024-12-01,Europe,Clothing,2226.97,748.03,38,3,Online,New,Lauren Alexander,5.0
+2024-07-06,Europe,Clothing,3815.05,498.16,24,8,Online,New,Rachel Rice,1.5
+2024-10-19,North America,Groceries,464.22,345.6,53,10,Online,New,Jonathan Lam,4.8
+2024-09-07,Asia,Electronics,878.16,507.27,89,20,Wholesale,Returning,Linda Zhang,2.0
+2024-01-11,Asia,Furniture,2749.36,597.42,57,3,Wholesale,Returning,Meghan Williams,4.1
+2024-02-12,Australia,Groceries,3200.52,685.85,89,0,Wholesale,New,Shelley Calderon,4.7
+2024-10-27,Asia,Electronics,3910.07,134.94,14,5,In-store,New,Joseph Owens,1.2
+2024-01-05,Africa,Furniture,2719.96,36.79,43,19,Online,Returning,Christina Schultz,2.2
+2024-02-03,Asia,Toys,2922.7,525.67,5,3,In-store,Returning,Crystal Bowman,4.3
+2024-11-20,North America,Electronics,4306.17,590.35,4,6,Online,Returning,Stephanie Wells,4.1
+2024-03-02,Europe,Furniture,4684.61,66.41,75,9,Wholesale,Returning,Tyrone Gonzalez,3.7
+2024-09-15,Europe,Electronics,3411.03,305.17,79,17,Online,New,Eric Galloway,4.0
+2024-06-21,Asia,Furniture,2873.9,144.85,15,2,Wholesale,New,Philip Aguirre,3.6
+2024-01-26,North America,Clothing,913.0,476.6,93,25,In-store,Returning,Jason Lee,2.3
+2024-09-30,Africa,Furniture,2053.88,978.06,96,27,Online,New,Bradley Wilkins,2.7
+2024-06-25,North America,Groceries,2639.46,767.41,40,12,Wholesale,Returning,Melissa Hampton,2.7
+2024-10-16,Africa,Toys,4226.43,488.7,35,11,Online,New,Victoria Soto,2.9
+2024-05-26,Africa,Electronics,2429.14,69.74,98,4,Online,New,James Holt,4.3
+2024-07-05,Europe,Groceries,4937.66,108.43,49,25,In-store,Returning,Sheri Martinez,1.4
+2024-01-17,North America,Toys,4654.62,731.27,51,21,In-store,Returning,Kathleen Williams,3.8
+2024-08-02,North America,Clothing,1141.4,699.24,75,14,Online,New,John Spencer,3.8
+2024-02-06,Asia,Clothing,3699.65,513.51,18,3,Wholesale,New,Jeremy Ross,1.7
+2024-05-13,Australia,Electronics,2479.24,101.46,18,18,Wholesale,New,Jacob Gardner,1.8
+2024-12-11,Asia,Electronics,2235.19,770.23,43,14,In-store,New,Jonathan Edwards,1.0
+2024-11-16,Africa,Furniture,2254.9,923.32,37,3,Wholesale,Returning,Caitlin Adams,1.1
+2024-03-30,Australia,Furniture,3873.49,112.3,88,22,Online,New,Alex Hall,4.7
+2024-07-20,Europe,Groceries,1019.02,296.27,3,20,Online,Returning,Dominic Davis,1.2
+2024-05-03,North America,Electronics,79.55,891.45,5,3,In-store,New,Melissa Cunningham,1.1
+2024-06-20,North America,Toys,1572.13,824.11,77,13,In-store,New,Bonnie Watkins,4.1
+2024-07-23,Africa,Electronics,2517.72,217.24,19,6,Online,New,Jennifer Wagner,3.7
+2024-06-12,Africa,Electronics,4698.66,49.94,56,8,Online,New,Carlos Kim,4.6
+2024-10-15,Australia,Electronics,1743.75,128.85,93,11,Wholesale,New,Kimberly Stephens,3.7
+2024-11-15,Australia,Clothing,1753.95,143.64,35,10,Online,New,Cory Patterson,4.1
+2024-05-28,Africa,Clothing,3462.13,369.78,19,6,In-store,Returning,Michael Santana,1.1
+2024-02-18,Asia,Groceries,3648.46,511.23,11,14,Online,Returning,David Weber,2.9
+2024-06-29,Europe,Furniture,3465.56,989.71,70,4,Online,New,Kristin Mitchell,2.9
+2024-07-06,Europe,Electronics,3502.76,788.57,72,2,Online,Returning,Jeffrey Jackson,4.2
+2024-08-13,Australia,Toys,1982.27,281.63,11,22,Online,Returning,Matthew Rose,3.1
+2024-06-14,Europe,Furniture,1217.21,373.94,75,21,In-store,New,Gregory Wheeler,2.3
+2024-02-17,Australia,Groceries,3443.82,521.55,9,15,Wholesale,Returning,Patricia Hughes,4.2
+2024-11-30,Africa,Electronics,3014.29,938.25,96,29,Online,New,Jill Brown,2.6
+2024-01-10,North America,Groceries,3330.27,589.28,16,14,Wholesale,New,Sandra Griffin,2.0
+2024-09-09,Africa,Groceries,4194.97,391.27,2,12,Online,Returning,Jocelyn Robles,3.8
+2024-10-27,North America,Groceries,1246.93,920.68,72,2,In-store,New,Janet Harris,1.3
+2024-06-11,Europe,Clothing,3470.91,189.85,29,4,In-store,New,Alison Wolfe,4.2
+2024-06-14,Australia,Electronics,3036.21,239.22,31,19,Online,New,Sean Daniel,2.4
+2024-05-05,Asia,Electronics,2536.46,349.73,9,30,Wholesale,Returning,James Clark,4.6
+2024-04-24,Australia,Toys,2969.41,656.16,11,20,Wholesale,New,Heather Scott,4.3
+2024-09-16,North America,Toys,1379.31,406.76,80,7,Wholesale,New,Thomas Hernandez,2.7
+2024-04-28,Europe,Furniture,3667.96,555.33,75,10,Wholesale,Returning,Darlene Morris,4.5
+2024-03-04,Asia,Furniture,1860.2,536.5,90,16,In-store,New,Kayla Newton,3.8
+2024-04-01,Europe,Electronics,2153.68,869.86,84,27,Online,New,Robin Contreras,4.4
+2024-04-11,North America,Electronics,511.79,544.66,30,17,Wholesale,New,Kathleen Rodriguez,3.0
+2024-03-04,Europe,Toys,128.63,985.43,94,12,Wholesale,New,Brenda Peck,3.1
+2024-09-12,Australia,Electronics,3166.23,491.08,46,17,Online,Returning,Megan Newman,2.4
+2024-05-10,Europe,Furniture,418.58,56.53,26,27,In-store,Returning,Dr. Matthew Wright,1.7
+2024-06-29,Europe,Clothing,2943.18,28.38,12,25,Online,New,Eric Mosley,3.9
+2024-03-14,Australia,Toys,3897.05,517.33,28,9,Wholesale,New,Steven James,4.9
+2024-01-15,Australia,Groceries,4942.57,546.15,48,9,Wholesale,Returning,Jill Greene,1.8
+2024-03-08,Europe,Clothing,1477.34,334.79,70,26,In-store,Returning,Paul Keith,2.6
+2024-11-01,Europe,Groceries,1240.26,469.36,55,8,Online,Returning,Logan Braun,2.7
+2024-04-02,Asia,Toys,1334.51,964.26,11,25,Online,Returning,Christopher Miller,2.2
+2024-04-14,North America,Clothing,3184.3,753.58,91,16,In-store,Returning,Shane Johnson,4.0
+2024-12-03,North America,Clothing,737.83,102.42,89,21,In-store,New,Melinda Webb,2.6
+2024-12-04,Asia,Electronics,2770.34,861.83,58,26,Online,New,William Rubio,2.1
+2024-09-03,Asia,Toys,1281.42,428.45,85,24,Wholesale,New,Ebony Montes,1.4
+2024-01-21,North America,Groceries,2954.26,842.82,66,16,In-store,New,Alyssa Camacho DDS,4.5
+2024-09-30,Europe,Electronics,2582.45,199.6,90,12,Wholesale,Returning,Denise Robinson,4.4
+2024-08-20,Asia,Clothing,2153.3,290.89,83,27,Online,New,Steven Armstrong,4.2
+2024-06-21,Australia,Groceries,1675.21,22.01,63,27,In-store,New,Mary Franco,2.9
+2024-11-23,North America,Groceries,148.52,39.37,51,13,Online,Returning,Stacy Perry,2.9
+2024-08-09,Europe,Furniture,2003.17,46.94,60,8,Online,Returning,Maurice Alvarado,4.4
+2024-08-18,Europe,Clothing,4368.95,167.16,40,2,In-store,New,Taylor Solomon,1.8
+2024-08-09,Asia,Groceries,2871.61,933.66,75,23,Wholesale,Returning,Laurie Flores,1.6
+2024-03-31,North America,Toys,1544.79,344.14,47,13,Online,New,Todd Mitchell,3.9
+2024-07-08,Australia,Clothing,4903.62,941.97,11,9,In-store,Returning,Cheryl Kelly,1.8
+2024-11-09,Africa,Toys,2185.8,859.76,71,3,In-store,New,Karen Ortiz,1.2
+2024-04-26,Africa,Groceries,2256.65,553.01,36,23,Wholesale,New,Ryan Moore,1.8
+2024-05-25,Asia,Clothing,3555.81,283.18,49,27,Online,New,Katie Weber,4.5
+2024-03-13,North America,Electronics,3674.4,74.82,81,4,Online,Returning,Thomas Finley,1.3
+2024-01-10,Australia,Groceries,4321.73,700.49,58,27,Online,New,Catherine Robles,2.8
+2024-06-11,North America,Furniture,3804.13,414.35,4,13,Wholesale,Returning,Timothy Robles,3.2
+2024-01-19,Europe,Toys,1284.79,888.46,19,2,Wholesale,New,Stephanie Jones,3.6
+2024-02-19,North America,Toys,680.17,141.87,33,13,Wholesale,Returning,Emily Moore,4.9
+2024-09-09,Australia,Furniture,1718.01,87.56,97,4,Wholesale,Returning,Michael Robinson,3.8
+2024-10-20,Europe,Toys,4137.29,861.35,92,19,Wholesale,Returning,Juan West,3.7
+2024-07-11,Australia,Toys,1481.26,431.24,69,1,Online,Returning,Joshua George,2.6
+2024-08-27,Asia,Electronics,14.64,515.14,9,1,In-store,Returning,Jeremy Williams,3.1
+2024-01-07,Australia,Toys,2471.71,324.09,43,4,In-store,New,Marcus Kelley,3.7
+2024-10-17,Africa,Clothing,668.5,508.73,12,16,Online,New,Madison Smith,3.3
+2024-04-08,Australia,Toys,4731.26,608.54,1,21,Wholesale,New,Tammy Romero,4.1
+2024-07-26,North America,Groceries,983.19,696.18,31,12,In-store,New,Ann Lee,4.7
+2024-09-02,Australia,Groceries,3645.16,206.99,38,10,Online,New,Paige Gibson,4.3
+2024-05-21,Africa,Furniture,2982.8,846.87,87,17,Online,New,Anita Foster,3.0
+2024-09-24,Australia,Electronics,1116.99,561.2,16,19,Online,Returning,Oscar Lynch,1.9
+2024-11-12,Asia,Toys,1673.45,479.59,61,13,Wholesale,Returning,Craig Edwards,2.4
+2024-10-29,Europe,Furniture,2435.54,280.67,19,17,In-store,Returning,David Perry,4.1
+2024-09-08,Africa,Groceries,559.67,650.38,2,6,In-store,New,Emily Morgan,4.0
+2024-09-22,Africa,Furniture,4490.97,969.38,65,17,Wholesale,New,Samuel Jackson,2.0
+2024-03-31,Asia,Toys,1799.74,49.15,20,2,Wholesale,New,Larry Goodman,1.7
+2024-05-25,Asia,Electronics,2215.46,106.71,26,26,In-store,Returning,Christopher Cunningham,3.0
+2024-05-23,Africa,Electronics,1226.45,183.2,40,15,Wholesale,Returning,Linda Beard,2.3
+2024-08-28,Asia,Furniture,3368.18,273.27,84,22,Online,Returning,Michael Smith,2.0
+2024-04-03,Africa,Toys,3749.26,529.37,65,21,Online,Returning,Ronald Brewer,3.6
+2024-03-31,Australia,Furniture,2336.91,29.08,95,19,Wholesale,Returning,Karen Hill,3.7
+2024-07-04,Africa,Electronics,3944.04,875.91,92,14,Wholesale,New,Candice Edwards,4.9
+2024-07-15,Asia,Furniture,3496.56,413.16,38,28,In-store,Returning,Jessica Mcdonald,2.3
+2024-04-04,Europe,Furniture,2921.54,115.71,21,27,In-store,Returning,Jamie Simmons,2.2
+2024-11-20,North America,Groceries,2512.49,486.91,54,3,Wholesale,New,Jesse Rodgers,2.6
+2024-02-18,Asia,Electronics,4374.3,926.12,46,16,In-store,New,Monica Lucero,3.5
+2024-08-23,Europe,Groceries,1785.64,776.68,75,20,Online,Returning,Daniel Murray,3.2
+2024-04-24,Asia,Electronics,490.04,404.49,76,12,Online,New,Jacqueline Fowler,3.5
+2024-04-02,Asia,Furniture,302.13,313.97,5,14,Wholesale,New,Kenneth Perez,1.5
+2024-12-07,Australia,Clothing,2512.0,587.08,76,25,Online,New,Danielle Drake,2.8
+2024-08-04,Asia,Clothing,1994.18,976.71,78,5,Online,Returning,Crystal Davis,3.3
+2024-01-10,Australia,Toys,4954.48,301.84,72,28,Online,New,Amanda Gallagher,4.6
+2024-06-19,Africa,Clothing,3888.91,442.11,57,20,Online,Returning,Cathy Brown,2.6
+2024-07-29,Africa,Groceries,521.45,445.77,50,30,Wholesale,New,Michael Jones,2.1
+2024-10-02,North America,Groceries,4105.2,970.58,24,21,Wholesale,New,Bryan Oneill,3.7
+2024-03-31,Europe,Electronics,2510.33,167.6,30,13,Online,New,Jasmine Spencer,2.6
+2024-05-11,Africa,Groceries,1470.18,569.59,61,27,Online,Returning,Sandra Brennan,4.0
+2024-07-15,Asia,Furniture,268.16,241.37,89,30,Online,Returning,David Vargas,4.3
+2024-12-01,Asia,Toys,3522.81,880.48,85,5,In-store,Returning,Stacey Torres,4.1
+2024-12-11,North America,Electronics,477.29,667.49,76,12,Online,Returning,Chelsea Hill,1.6
+2024-12-07,Europe,Electronics,3262.54,660.95,17,29,Wholesale,Returning,Andrew Jackson,4.4
+2024-03-20,Africa,Furniture,3559.47,701.73,8,18,In-store,Returning,Adrian Rivera,1.0
+2024-01-16,North America,Clothing,4899.5,89.6,44,14,Wholesale,New,Maria Young,1.5
+2024-01-19,North America,Clothing,1815.7,591.54,90,28,Online,New,Keith Nichols,1.5
+2024-11-11,Australia,Groceries,4314.37,131.36,25,16,Online,New,Ann Smith,3.1
+2024-11-19,Europe,Toys,1920.21,378.31,58,18,Wholesale,New,Aaron Taylor,1.9
+2024-06-06,North America,Groceries,256.62,197.46,85,7,Online,Returning,David Luna,3.5
+2024-01-14,Europe,Clothing,2255.91,913.34,63,23,Online,Returning,Kerry Ashley,4.4
+2024-05-30,North America,Toys,406.74,534.67,7,16,In-store,Returning,Erica Tran,2.6
+2024-04-21,Asia,Furniture,3878.12,587.8,83,22,Online,Returning,Daniel Clark,4.4
+2024-10-04,Australia,Furniture,3602.23,35.23,66,2,In-store,New,Ryan Jones,4.9
+2024-03-21,Asia,Clothing,267.23,547.09,100,23,In-store,Returning,Christina Cervantes,3.2
+2024-02-16,North America,Electronics,4024.49,934.17,9,15,Wholesale,Returning,Stacy Leonard,4.8
+2024-06-19,North America,Furniture,2863.59,739.17,51,24,Online,Returning,Travis Ruiz,4.5
+2024-11-28,North America,Clothing,2509.81,248.8,48,19,Wholesale,Returning,John Romero,1.2
+2024-02-03,Australia,Toys,2505.31,882.93,2,30,Online,Returning,Anthony Smith,3.6
+2024-06-07,Asia,Electronics,1613.56,818.13,60,0,In-store,Returning,Jon Richardson,3.8
+2024-01-01,Asia,Groceries,3284.52,348.19,22,4,In-store,Returning,Samantha Rose,4.1
+2024-08-03,Africa,Groceries,3387.98,969.1,10,20,In-store,Returning,Carrie Davis,2.4
+2024-06-11,Asia,Clothing,3402.0,606.11,70,10,Wholesale,Returning,Brenda Grant,2.0
+2024-08-29,Australia,Clothing,1311.26,318.68,11,28,In-store,Returning,Jon Rodriguez,1.9
+2024-08-10,Australia,Toys,3699.29,50.47,37,7,In-store,New,Christina Mcneil,3.3
+2024-02-04,Africa,Toys,156.81,773.22,95,10,In-store,Returning,Gary Woods,1.8
+2024-01-06,Australia,Groceries,639.32,984.62,97,28,Wholesale,New,Kelly Cardenas,2.1
+2024-11-22,Australia,Toys,1100.54,655.54,89,19,Online,New,Shannon Beard,4.9
+2024-09-02,Australia,Electronics,3121.68,403.67,87,3,Wholesale,New,Daniel Hill,1.5
+2024-01-08,Africa,Electronics,1767.79,143.7,66,23,Wholesale,Returning,Joel Keith,3.6
+2024-08-22,Asia,Electronics,861.12,95.08,31,23,Online,New,Elizabeth Frank,1.5
+2024-09-07,Europe,Furniture,3897.4,186.6,47,24,Wholesale,Returning,Stephen Fitzgerald,1.2
+2024-08-08,Africa,Toys,381.45,309.04,11,27,Wholesale,New,Russell Rogers,3.7
+2024-08-20,Australia,Clothing,2770.04,139.16,63,27,Online,Returning,Scott Reid,2.6
+2024-12-10,Australia,Groceries,4673.53,284.3,84,30,In-store,New,Jamie Ryan,3.0
+2024-07-03,Australia,Furniture,3548.64,238.34,39,7,Online,Returning,Dr. Pamela Greene DDS,3.4
+2024-08-15,Asia,Clothing,736.73,738.91,35,12,Online,Returning,Judy Price,2.0
+2024-05-01,Asia,Groceries,4573.69,273.95,37,20,Online,New,Carrie King,2.7
+2024-09-24,Australia,Furniture,2756.48,273.4,73,26,Wholesale,New,Cindy Mckay,3.4
+2024-02-24,Australia,Toys,1603.64,737.32,24,6,In-store,New,Kristin Johnson,4.4
+2024-11-24,Asia,Electronics,1179.95,129.44,87,4,Online,New,Jennifer Stanley,4.1
+2024-09-20,Europe,Toys,4944.29,360.45,68,5,In-store,Returning,Charles Mcdonald,3.1
+2024-12-01,North America,Clothing,2675.63,593.57,60,5,Wholesale,Returning,George Wheeler,1.1
+2024-03-12,Asia,Clothing,3652.1,408.11,15,25,Wholesale,Returning,Barbara Hunt,2.4
+2024-10-06,Asia,Groceries,4982.85,960.02,65,2,Online,New,Tanya Stewart,3.7
+2024-03-10,Africa,Groceries,4092.75,193.42,68,18,Wholesale,New,Brianna Strong,2.5
+2024-07-14,Asia,Furniture,3515.58,241.99,46,4,Wholesale,New,Caroline Castaneda,4.5
+2024-07-09,Africa,Furniture,2445.89,866.39,84,5,In-store,New,Cassandra Roberts,1.8
+2024-11-25,Australia,Furniture,1191.57,728.22,84,18,Wholesale,Returning,Lawrence Evans,4.5
+2024-08-09,Asia,Clothing,3585.38,965.68,52,19,Wholesale,New,Adam Dickerson,3.2
+2024-06-29,Asia,Furniture,1195.56,126.67,98,29,In-store,New,Diane Jones,1.6
+2024-09-21,North America,Clothing,2430.52,65.2,69,26,Online,New,Christian Diaz,4.9
+2024-02-03,Europe,Furniture,1784.58,452.29,48,16,In-store,New,Michelle Pruitt,1.2
+2024-05-30,Asia,Groceries,4014.11,822.72,50,9,Wholesale,New,Matthew Hughes,2.3
+2024-05-22,North America,Furniture,3529.97,380.7,89,4,In-store,Returning,Cheryl Casey,2.4
+2024-10-02,Europe,Clothing,4155.15,432.1,13,4,Online,Returning,Kurt Molina,2.7
+2024-01-04,North America,Furniture,3599.04,553.04,60,7,Wholesale,Returning,Gina Shaw,4.4
+2024-11-07,Europe,Furniture,1662.31,883.62,85,20,Online,Returning,William Wagner,1.9
+2024-09-03,Europe,Furniture,607.12,681.63,79,27,Online,New,Kelly Mercado,3.3
+2024-10-01,Australia,Furniture,1023.76,766.9,97,10,Wholesale,New,Nathan Massey,2.2
+2024-10-18,Asia,Electronics,3154.32,499.77,92,19,Wholesale,Returning,Deanna Torres,2.7
+2024-11-06,Europe,Toys,4977.54,550.0,72,4,Online,New,Heather Phillips,3.9
+2024-08-19,Australia,Toys,3088.37,354.42,67,26,Wholesale,New,John Austin,2.2
+2024-12-04,Australia,Electronics,3060.45,992.05,83,4,In-store,New,Kelly Knapp,1.9
+2024-08-17,Europe,Groceries,947.07,970.5,15,26,In-store,Returning,Timothy Gomez,1.2
+2024-01-17,Africa,Groceries,3178.18,646.64,58,27,In-store,Returning,Dr. Matthew Boone,4.3
+2024-05-17,Asia,Electronics,4195.49,376.47,61,17,In-store,Returning,Mario Davidson,3.2
+2024-12-08,Australia,Furniture,3527.22,72.75,28,30,Wholesale,New,Michael Henry,4.3
+2024-05-09,Asia,Electronics,1798.63,59.74,55,3,Online,New,Melissa Sheppard,2.5
+2024-05-01,Asia,Clothing,675.22,272.84,38,9,Wholesale,New,Paul Hill,4.8
+2024-02-11,Africa,Clothing,3098.8,312.09,72,7,Wholesale,New,Ashley Cook,1.5
+2024-07-14,Europe,Toys,261.15,649.25,19,26,Online,Returning,Joseph Conrad,2.0
+2024-01-29,North America,Clothing,313.86,333.93,56,7,Online,New,Amber Simpson,3.7
+2024-02-15,Asia,Groceries,2677.61,162.92,41,6,In-store,Returning,John Phelps,3.2
+2024-11-13,Africa,Toys,4782.51,293.58,18,28,In-store,Returning,Tammy Perez,1.4
+2024-07-18,Africa,Toys,2846.79,751.79,27,12,In-store,Returning,Anthony Jones,3.7
+2024-07-14,Asia,Groceries,2880.33,673.93,21,4,Wholesale,New,Linda Hamilton,3.8
+2024-01-01,Europe,Groceries,1166.7,316.16,63,4,Wholesale,Returning,Brandy Moore,4.3
+2024-07-20,Europe,Toys,3973.9,627.49,19,19,In-store,New,Jason Key,1.8
+2024-03-02,Africa,Furniture,4036.68,591.81,9,11,Wholesale,Returning,Bryan Carter,1.8
+2024-04-28,Europe,Clothing,4476.65,547.12,9,25,Online,Returning,Kayla Barnes,1.0
+2024-12-01,Africa,Clothing,1160.06,104.73,73,24,Wholesale,Returning,Kathryn Smith,3.7
+2024-08-02,Asia,Electronics,3806.53,823.19,32,7,Wholesale,Returning,Caleb King,3.8
+2024-06-29,North America,Toys,4714.96,927.32,34,11,In-store,Returning,Joe Dawson,2.9
+2024-08-27,Africa,Toys,1426.08,869.88,4,17,Online,New,Michael Oconnor,3.6
+2024-05-24,Europe,Electronics,175.97,102.96,79,13,Online,Returning,Julie Arroyo,2.5
+2024-09-01,Australia,Electronics,2102.74,528.65,89,25,Wholesale,New,Michael Jenkins,2.9
+2024-06-12,Australia,Electronics,4177.33,80.03,2,28,Wholesale,New,Andrew Bradford,2.6
+2024-03-06,Asia,Toys,3512.55,319.6,81,10,Online,New,James Shelton,2.6
+2024-10-23,Europe,Toys,3433.78,597.26,11,27,Online,Returning,Karen Carter,1.5
+2024-04-03,Europe,Electronics,694.37,145.85,89,26,Wholesale,New,Ellen Gonzalez,2.8
+2024-06-08,North America,Furniture,2740.96,330.45,55,6,In-store,Returning,Jennifer Barker,1.7
+2024-09-13,Asia,Toys,2636.89,988.56,59,13,In-store,New,Timothy Mclaughlin,3.6
+2024-02-26,Australia,Clothing,3507.31,635.32,3,18,In-store,New,Brenda Evans,2.2
+2024-10-16,Europe,Groceries,4427.4,294.89,21,5,Wholesale,New,Brenda Smith,1.4
+2024-03-21,Africa,Electronics,3516.01,648.81,14,19,In-store,New,Paul Sanchez,2.2
+2024-05-09,Europe,Groceries,303.55,940.96,77,15,Online,Returning,Marcus Lewis,2.6
+2024-05-14,North America,Clothing,3096.82,948.74,78,8,In-store,New,Leslie Esparza,2.4
+2024-07-09,North America,Furniture,1231.55,31.71,54,7,In-store,Returning,Dillon Fischer,5.0
+2024-07-22,Africa,Clothing,4014.57,579.92,34,29,Wholesale,New,Bradley Jackson,1.0
+2024-11-28,Australia,Toys,4022.39,930.93,5,30,In-store,New,Christopher Evans,2.1
+2024-04-09,Australia,Groceries,3057.76,775.99,43,8,In-store,Returning,John Johnson,3.1
+2024-04-08,Europe,Toys,3567.59,885.0,30,10,In-store,New,Nicole Smith,4.8
+2024-05-28,Australia,Toys,2269.12,828.61,48,10,Wholesale,Returning,Edgar Walter,3.5
+2024-10-24,Europe,Groceries,3023.38,9.02,76,13,In-store,Returning,Andrew Howard,2.6
+2024-05-01,Australia,Electronics,1353.86,687.52,27,22,Wholesale,Returning,Susan Lane,4.8
+2024-07-29,Africa,Clothing,1094.84,244.5,24,19,Wholesale,Returning,Bonnie Kane,2.7
+2024-06-25,Australia,Furniture,2229.13,8.09,92,12,Wholesale,New,Kathleen Conner,2.6
+2024-07-18,Europe,Toys,4513.63,540.74,53,7,In-store,Returning,Robert Barnes,3.1
+2024-10-20,Australia,Toys,2257.65,763.43,100,18,In-store,Returning,Mark Nelson,2.1
+2024-08-12,Asia,Clothing,2840.2,999.83,48,25,Wholesale,Returning,Joseph Campbell,3.7
+2024-08-08,Asia,Electronics,1484.62,988.04,95,27,Online,New,Amanda Lopez,1.1
+2024-09-01,Australia,Groceries,1676.3,145.46,43,19,Wholesale,Returning,Sara Nichols,4.9
+2024-01-15,Africa,Groceries,4628.03,742.23,8,10,Wholesale,Returning,Elizabeth Harris,2.6
+2024-12-03,Australia,Toys,3411.96,969.51,70,18,Wholesale,New,Mark Mccarthy,3.3
+2024-09-23,Africa,Toys,990.24,563.46,96,23,Online,Returning,Timothy Nguyen,4.9
+2024-04-03,Europe,Furniture,3931.08,464.91,27,21,Wholesale,Returning,Brenda Castillo,5.0
+2024-05-07,North America,Furniture,782.43,481.8,88,3,Wholesale,New,Amy Skinner,2.9
+2024-11-25,Europe,Furniture,2250.59,270.02,96,6,Online,New,Justin Wilkinson,1.0
+2024-10-06,Asia,Electronics,4538.52,785.82,54,8,In-store,New,Todd Holder,1.3
+2024-11-15,Europe,Toys,4047.16,955.94,58,6,In-store,Returning,Rebecca Reilly,1.8
+2024-01-22,North America,Electronics,1678.67,380.12,49,21,In-store,Returning,Veronica Rogers,2.7
+2024-12-10,Australia,Groceries,802.49,268.72,30,19,Wholesale,New,Stacy Blair,4.4
+2024-11-05,Europe,Furniture,1110.72,444.27,90,0,Online,Returning,Jonathan Moreno DDS,3.3
+2024-05-12,North America,Groceries,4295.9,672.54,90,6,Wholesale,Returning,Anthony Burke,1.6
+2024-02-23,North America,Toys,1918.78,912.81,74,15,Wholesale,Returning,Thomas Wilson,3.8
+2024-10-18,Europe,Furniture,1273.5,728.07,25,26,Online,Returning,Susan Mahoney,4.7
+2024-06-18,Asia,Clothing,3903.42,30.4,44,3,Wholesale,Returning,Kayla Butler,4.4
+2024-09-12,North America,Furniture,1125.88,610.8,8,29,Wholesale,Returning,Martin Lang,1.9
+2024-04-30,Asia,Furniture,3804.78,749.42,99,6,Wholesale,Returning,Angela Heath,2.2
+2024-05-18,Africa,Toys,1186.91,689.07,16,13,In-store,New,Caleb Olson,5.0
+2024-11-07,Asia,Groceries,1035.6,695.33,22,6,Wholesale,Returning,Micheal Cervantes,4.6
+2024-08-11,Europe,Groceries,4745.58,445.1,31,6,In-store,New,Michelle Turner DVM,3.5
+2024-05-12,Asia,Toys,2472.76,359.04,79,24,Online,Returning,Amy Oconnell,3.3
+2024-07-12,North America,Electronics,442.85,95.6,72,7,In-store,Returning,Lucas Williams,3.9
+2024-05-02,North America,Clothing,4274.45,342.0,18,14,Online,New,Wesley Brown,1.4
+2024-09-07,North America,Furniture,3305.91,966.06,57,24,In-store,New,Mary Johnson,4.0
+2024-04-13,Africa,Electronics,1113.39,114.35,64,12,Online,Returning,Donald Turner,1.4
+2024-01-26,Africa,Groceries,4333.46,125.51,85,17,Wholesale,New,Nicholas Foster,3.6
+2024-08-08,Asia,Groceries,639.42,236.53,7,14,Wholesale,Returning,Anthony Jackson,2.1
+2024-04-04,Africa,Clothing,4351.94,666.21,7,20,Wholesale,Returning,Barbara Watson,2.8
+2024-11-01,Africa,Toys,4854.38,84.54,50,16,Online,Returning,Heather Molina,4.7
+2024-08-14,Europe,Clothing,3563.6,135.54,47,15,Wholesale,New,Hunter Robertson,2.7
+2024-05-03,Australia,Clothing,626.78,893.66,96,25,In-store,New,Connie Reyes,1.3
+2024-08-28,North America,Toys,772.19,973.55,2,10,Wholesale,New,Dawn Young,2.2
+2024-03-26,Australia,Groceries,1638.57,653.48,68,12,In-store,New,Douglas Lynch,5.0
+2024-09-03,Asia,Toys,140.97,733.59,1,30,Wholesale,New,Amber Brown,4.4
+2024-06-16,Asia,Toys,2748.56,935.13,53,23,Online,New,Gregory Lane,4.4
+2024-09-13,Europe,Furniture,4059.09,515.59,64,3,Online,New,Sarah Park,4.8
+2024-10-13,Africa,Groceries,4094.73,181.08,97,20,In-store,New,Jordan Moss,2.6
+2024-04-17,Australia,Groceries,3139.0,804.31,6,14,Wholesale,Returning,Patricia Mcdonald,1.6
+2024-11-22,Asia,Toys,353.09,882.8,89,26,Wholesale,Returning,Jennifer Bradshaw,3.8
+2024-09-01,Australia,Electronics,541.84,917.36,83,5,Online,New,Holly Gibson,5.0
+2024-08-09,Europe,Furniture,277.47,330.79,75,9,Wholesale,New,Anna Bell,3.1
+2024-08-01,Australia,Toys,1636.08,47.46,14,1,Wholesale,New,Charles Abbott,1.2
+2024-05-14,Asia,Furniture,786.64,863.11,35,16,Wholesale,New,Joshua Bowen DDS,4.4
+2024-01-04,Africa,Groceries,582.28,259.73,4,19,Online,New,Brandon Coleman,4.1
+2024-08-22,Asia,Electronics,2626.97,695.25,41,6,In-store,New,Lindsay Thomas,4.8
+2024-07-07,North America,Furniture,1494.09,754.34,85,7,Online,New,Carmen Hernandez,4.8
+2024-10-02,North America,Groceries,4212.52,668.42,38,6,Wholesale,Returning,Andrea Perry,4.9
+2024-02-05,Australia,Electronics,2681.37,906.19,70,9,In-store,Returning,Manuel Howard,3.7
+2024-09-18,Europe,Toys,2939.71,757.41,4,18,In-store,Returning,Linda Adams,4.7
+2024-07-12,Australia,Electronics,1031.52,459.67,25,14,Online,New,Daniel Ball,3.6
+2024-11-21,Europe,Clothing,868.5,935.04,38,4,In-store,New,Richard Carroll,1.1
+2024-09-07,Australia,Furniture,1653.57,40.66,45,24,Wholesale,New,Timothy Carter,4.6
+2024-08-26,Africa,Toys,1083.33,995.27,69,15,In-store,Returning,David Romero,4.6
+2024-02-29,Asia,Groceries,2664.1,619.56,99,20,In-store,New,Steven Young,3.7
+2024-04-19,Africa,Groceries,2093.04,520.81,55,14,Wholesale,Returning,Heidi Wright,1.3
+2024-07-18,Europe,Electronics,3476.31,711.92,80,11,Online,New,Tony White,2.9
+2024-08-21,Africa,Clothing,3697.52,840.42,27,12,Online,New,Lauren Aguirre,4.1
+2024-11-24,Australia,Electronics,413.35,175.42,77,21,Online,New,Juan Jackson,3.5
+2024-05-07,Asia,Furniture,2427.63,143.42,23,17,Wholesale,Returning,David Smith,2.3
+2024-07-28,North America,Toys,3050.92,99.63,51,17,Online,New,Lisa Williams,3.1
+2024-09-30,Asia,Furniture,806.15,91.61,60,23,In-store,New,Elizabeth Pacheco,3.1
+2024-04-15,Africa,Toys,3608.01,735.71,23,2,Wholesale,Returning,Michael Diaz,4.2
+2024-07-18,Australia,Furniture,1048.47,39.37,15,3,Online,New,Donald Powell,1.2
+2024-02-03,Europe,Electronics,2304.39,33.26,86,18,Online,Returning,Dakota Mcmahon,5.0
+2024-12-09,Europe,Clothing,4004.14,340.85,22,0,In-store,New,Jaime Gonzalez,3.4
+2024-02-15,Australia,Toys,642.16,458.29,39,14,Wholesale,New,Emily Lopez,4.8
+2024-07-03,Asia,Furniture,4872.53,497.22,77,2,Online,Returning,Hannah Vega,4.0
+2024-05-03,North America,Groceries,2601.3,406.43,27,27,Online,New,Vincent Jones,2.5
+2024-11-22,Europe,Groceries,147.11,994.33,29,5,Wholesale,Returning,Tara Castaneda,1.9
+2024-03-12,Australia,Electronics,420.61,719.99,85,18,Wholesale,New,Jackie Marsh,4.0
+2024-02-14,Asia,Groceries,883.33,967.71,48,9,In-store,Returning,Stephen Owens,1.7
+2024-11-24,Asia,Furniture,1741.81,764.07,83,23,Wholesale,New,Aaron Martinez,2.9
+2024-02-07,Asia,Clothing,1633.97,526.66,51,2,In-store,Returning,Allison Garrison,4.5
+2024-05-20,Europe,Clothing,909.03,112.59,33,17,Online,Returning,Joseph Henderson,1.4
+2024-10-18,North America,Clothing,128.77,410.95,19,7,Online,New,Felicia Rivera,2.3
+2024-09-01,Africa,Furniture,2615.5,655.7,7,29,Online,Returning,Christopher Adams,3.1
+2024-09-10,North America,Furniture,1225.52,74.05,69,7,Wholesale,New,Carol Espinoza DDS,4.3
+2024-03-31,Australia,Toys,1916.22,446.41,36,2,Wholesale,New,Diana Combs,4.1
+2024-11-28,Australia,Toys,4998.09,476.72,53,16,Wholesale,New,Anthony Heath,1.6
+2024-04-11,North America,Furniture,3821.54,27.94,85,21,Wholesale,Returning,Anthony Nelson,2.1
+2024-04-21,Europe,Electronics,3217.39,871.59,6,12,Online,Returning,David Farmer,2.8
+2024-06-06,Africa,Clothing,2132.66,253.74,12,8,Online,Returning,Brandy Spencer MD,4.1
+2024-10-06,Africa,Electronics,214.49,754.63,99,1,Wholesale,Returning,Rebecca Maldonado,2.5
+2024-08-25,Europe,Furniture,3142.09,771.07,35,9,In-store,Returning,Alicia Rodriguez,3.7
+2024-09-07,Australia,Clothing,4142.17,373.59,72,13,In-store,Returning,Richard Willis,4.0
+2024-06-03,Australia,Groceries,1906.75,766.24,67,3,In-store,New,Katherine Sandoval,4.5
+2024-10-06,Europe,Electronics,4461.89,778.04,66,4,Online,Returning,Amanda Watts,4.8
+2024-11-23,North America,Clothing,1166.85,267.37,81,2,Online,Returning,Chelsea Lane,1.6
+2024-11-25,Africa,Toys,1478.16,614.19,47,15,Wholesale,New,Amanda Henry,4.2
+2024-10-07,North America,Clothing,3831.48,245.86,74,18,Online,New,Matthew Williams,1.3
+2024-06-02,North America,Toys,4356.0,349.77,31,8,In-store,Returning,Amy Gutierrez,3.8
+2024-04-07,North America,Clothing,1846.09,455.68,44,25,Online,Returning,Cindy Wade,4.2
+2024-11-23,Africa,Toys,1163.45,751.15,41,13,Wholesale,Returning,Jennifer Lopez,4.9
+2024-06-25,Australia,Clothing,4037.27,562.53,70,21,In-store,New,David Hunt,3.5
+2024-07-10,Europe,Toys,2780.86,97.05,40,3,Wholesale,New,Joshua Bowers,1.8
+2024-09-09,North America,Toys,1866.88,401.92,53,20,Wholesale,New,Melinda Booth,3.2
+2024-03-31,North America,Electronics,193.84,911.86,20,5,In-store,New,Rebekah Steele,2.5
+2024-05-24,Australia,Clothing,4321.96,45.99,38,3,Wholesale,New,Chad Brown,3.7
+2024-11-30,Asia,Furniture,1822.22,162.81,48,30,In-store,New,Jennifer Hamilton,3.3
+2024-11-01,Europe,Furniture,2604.99,544.35,29,21,Wholesale,Returning,Kaitlyn Smith,1.7
+2024-03-07,Europe,Groceries,3519.2,323.56,69,26,In-store,New,Christopher Smith,4.0
+2024-09-30,Asia,Clothing,1008.73,245.23,85,24,Wholesale,New,Jessica Carter,2.0
+2024-06-23,Africa,Furniture,1139.78,618.19,89,29,In-store,New,Keith Gomez,3.4
+2024-10-18,Europe,Groceries,1439.18,354.25,87,8,Online,New,Desiree Stafford,3.5
+2024-03-08,Africa,Groceries,1350.34,495.28,41,20,In-store,Returning,Hailey Harris,2.9
+2024-02-18,North America,Toys,991.04,279.05,79,19,Online,New,Heather Williams,4.9
+2024-10-05,Australia,Electronics,3906.17,441.22,62,14,Online,New,Elizabeth Cox,4.9
+2024-11-20,Africa,Electronics,2401.33,46.05,77,16,Online,Returning,Bruce Turner,4.6
+2024-05-21,Australia,Clothing,3639.5,697.23,37,28,In-store,Returning,Mallory Ochoa,4.7
+2024-04-13,Europe,Electronics,628.3,824.3,17,18,Wholesale,Returning,Julia Lewis,4.1
+2024-04-06,North America,Clothing,1800.49,555.37,4,26,Online,New,Patricia Cooper,4.9
+2024-05-16,Australia,Clothing,3895.23,859.8,8,29,In-store,New,Stephanie Black,1.2
+2024-04-29,Europe,Furniture,4441.11,976.31,46,1,Online,Returning,Russell White,2.9
+2024-09-12,Europe,Clothing,1717.23,133.57,61,7,In-store,Returning,Dakota Dunn,3.4
+2024-01-18,North America,Groceries,4779.1,124.28,57,23,In-store,New,Sarah Everett,2.9
+2024-08-12,Asia,Clothing,4545.99,134.29,61,25,Wholesale,Returning,Michael Dougherty,3.0
+2024-11-05,Australia,Toys,4081.54,873.17,65,18,Wholesale,Returning,Shelby Page,3.7
+2024-04-20,Africa,Groceries,1114.22,572.17,65,14,In-store,Returning,Tommy Barrera,1.6
+2024-01-07,Africa,Toys,1062.18,45.4,86,7,Online,New,Margaret Middleton,3.1
+2024-07-20,Australia,Clothing,4686.86,99.36,68,19,Online,New,Breanna Franklin,3.0
+2024-11-07,North America,Furniture,3115.71,231.38,92,8,In-store,New,Christopher Moore,1.1
+2024-03-28,Australia,Electronics,3708.03,991.78,76,28,Online,Returning,Andre Coleman,1.7
+2024-05-01,Asia,Groceries,4889.62,853.22,98,21,Wholesale,Returning,Antonio Aguilar,1.1
+2024-06-22,Africa,Electronics,2221.55,949.02,12,11,Wholesale,Returning,Kelly Castillo,3.1
+2024-11-28,Australia,Electronics,325.05,987.03,1,2,Online,New,Karen Hernandez,3.0
+2024-05-16,Africa,Electronics,1246.14,887.51,4,21,Wholesale,New,Robert Johnson,3.5
+2024-01-25,Australia,Clothing,1643.91,465.38,41,14,In-store,Returning,Wesley Williams,3.6
+2024-04-10,North America,Groceries,2438.29,867.03,18,12,Wholesale,Returning,Jasmine Conway,3.6
+2024-05-17,Asia,Furniture,2589.16,695.92,71,24,In-store,Returning,Jeffrey Solis,4.4
+2024-10-08,North America,Toys,199.35,924.89,30,20,Wholesale,New,Nancy Dunlap,1.3
+2024-01-30,North America,Furniture,3204.93,823.11,26,27,Wholesale,Returning,Chelsey Chase,1.3
+2024-02-13,North America,Groceries,4684.64,822.92,100,29,In-store,New,Julia Torres,2.3
+2024-07-08,North America,Furniture,4441.87,315.44,78,10,Wholesale,Returning,Mr. Cody Gutierrez Jr.,1.9
+2024-06-11,Europe,Electronics,469.43,861.33,38,4,Wholesale,New,Sarah Moore,2.4
+2024-10-13,Africa,Groceries,3368.09,465.15,94,21,Online,Returning,Jeremy Moran,4.0
+2024-06-05,Australia,Clothing,4190.51,885.86,58,9,In-store,New,Lisa Green,2.7
+2024-01-19,Africa,Electronics,3775.5,251.59,87,15,Online,Returning,James Fields,4.8
+2024-05-27,Europe,Toys,2607.66,896.61,15,7,Wholesale,New,Mr. William Stephens,3.8
+2024-07-18,Australia,Groceries,1986.65,618.39,10,27,Online,Returning,Kaitlyn Kramer,2.9
+2024-11-03,Africa,Furniture,1807.26,857.43,96,2,In-store,New,Lisa Garcia,4.6
+2024-07-08,Europe,Clothing,1982.06,497.12,27,9,Wholesale,Returning,Lisa Lewis,3.2
+2024-10-24,Africa,Toys,2115.08,129.61,40,2,Online,New,Helen Sweeney,3.1
+2024-05-19,Africa,Groceries,4381.01,205.76,51,9,Wholesale,Returning,Julie Best,1.0
+2024-07-05,Asia,Furniture,3066.52,40.69,42,8,Wholesale,Returning,Dawn Thompson,4.5
+2024-10-25,Asia,Furniture,3747.31,798.6,99,25,Online,New,Joseph Marsh,4.5
+2024-07-22,Africa,Clothing,1539.06,225.86,62,23,Online,New,Lisa Sutton,2.1
+2024-04-09,North America,Groceries,3014.45,144.12,32,15,In-store,New,Brooke Campos,3.3
+2024-08-02,Australia,Clothing,3929.72,772.84,11,11,Online,Returning,Michael Jackson,1.5
+2024-10-23,North America,Electronics,3112.45,179.1,50,26,Online,Returning,Victoria Morales,2.2
+2024-02-22,Asia,Furniture,247.52,644.85,10,8,Wholesale,New,Dr. Brandon Nunez,4.9
+2024-07-27,Europe,Toys,543.31,222.64,33,14,In-store,Returning,Taylor Davis,4.0
+2024-02-15,Asia,Toys,4743.44,843.0,29,16,In-store,New,Terry Sharp,1.1
+2024-06-25,North America,Electronics,4279.65,525.23,57,9,In-store,New,Andrew Snyder,3.1
+2024-01-09,Australia,Electronics,169.5,237.63,71,11,Wholesale,Returning,Natalie Ellis,4.1
+2024-07-13,Europe,Electronics,36.22,601.28,78,26,Online,New,Kristina Stone,1.2
+2024-05-05,Africa,Clothing,648.91,369.15,90,12,Wholesale,New,Nicole Torres,3.9
+2024-09-01,Africa,Furniture,4119.84,682.65,42,26,Wholesale,Returning,Paul Flynn,3.7
+2024-02-15,Asia,Clothing,1571.8,335.0,96,8,In-store,New,Brenda Rodriguez,3.8
+2024-04-03,North America,Clothing,928.94,880.82,52,4,Online,New,David Barber,3.1
+2024-10-13,Europe,Furniture,4026.53,613.19,54,19,Online,New,Wayne Cooper,3.9
+2024-10-27,Australia,Furniture,4044.68,866.61,42,30,Online,New,Erin Nelson,4.5
+2024-04-07,Australia,Clothing,4214.08,951.98,13,17,Wholesale,New,Aaron Thomas,3.4
+2024-05-20,Europe,Electronics,474.93,816.14,96,26,Online,New,Ariel Barron,3.5
+2024-05-13,Asia,Electronics,1537.83,134.43,11,26,Wholesale,New,Aaron Schmidt,2.8
+2024-01-29,Europe,Clothing,2735.01,290.88,79,6,Wholesale,Returning,Mary Parker,4.6
+2024-11-03,North America,Groceries,4611.53,898.68,18,0,In-store,Returning,Timothy Graham,2.1
+2024-11-16,North America,Clothing,2899.76,965.12,51,26,Wholesale,New,Matthew Gutierrez,1.8
+2024-01-28,Europe,Toys,2876.18,721.7,51,20,In-store,Returning,Melissa Cunningham,3.7
+2024-11-18,Europe,Toys,564.9,568.82,70,20,Online,New,Elizabeth Arnold,3.0
+2024-11-30,Africa,Furniture,2439.22,746.41,55,12,Wholesale,New,Robert Sutton,4.4
+2024-04-16,Australia,Toys,1641.46,298.57,67,4,Wholesale,Returning,Daniel Robinson,2.3
+2024-08-16,Australia,Furniture,2316.86,42.77,1,0,Online,New,Sarah Calhoun,3.2
+2024-08-31,Africa,Furniture,2146.86,399.49,82,19,Wholesale,Returning,John Yang,3.6
+2024-10-03,North America,Toys,1527.13,623.06,74,20,In-store,New,Ms. Carmen Cunningham,4.6
+2024-01-24,Asia,Toys,4025.43,449.6,97,0,Online,Returning,Stephanie Aguirre,3.3
+2024-05-10,Europe,Groceries,1124.27,565.16,94,15,In-store,New,Kelsey Watkins,2.4
+2024-06-07,Asia,Electronics,4612.39,482.83,79,20,Wholesale,Returning,Ruth Macdonald,1.8
+2024-05-27,Europe,Clothing,960.54,624.39,35,24,Online,New,Margaret Carpenter,4.0
+2024-10-24,Africa,Furniture,4856.15,480.44,69,26,In-store,New,Phillip Jones,4.3
+2024-05-24,Australia,Clothing,2857.35,542.59,83,25,In-store,New,Ann Williams,1.0
+2024-04-19,Australia,Furniture,4115.18,462.47,56,10,In-store,Returning,Nicholas Hensley,2.2
+2024-05-01,Australia,Furniture,435.96,40.16,71,24,Online,New,Henry Black,4.2
+2024-02-16,Africa,Furniture,579.3,747.93,68,27,In-store,New,Heather Peters,1.8
+2024-08-16,North America,Furniture,1303.09,892.81,15,0,Wholesale,Returning,Brenda Dunn,4.6
+2024-03-27,Australia,Groceries,287.36,440.44,51,16,Online,New,Charles Lang,2.4
+2024-11-25,North America,Toys,3164.62,301.81,81,10,Wholesale,Returning,Brandon Allen,4.0
+2024-10-19,Asia,Groceries,4184.78,959.9,60,30,Online,Returning,Michael Moreno,1.2
+2024-02-05,North America,Toys,3635.47,303.34,39,22,Wholesale,New,Jack Gutierrez,1.9
+2024-12-07,North America,Toys,2296.23,754.5,33,30,Online,New,Larry Walker,2.3
+2024-11-13,Europe,Toys,1568.09,435.14,1,25,Online,New,Stephen Rodriguez,1.9
+2024-04-19,Europe,Toys,3410.24,666.33,100,0,Online,New,Amanda Rush,3.5
+2024-03-23,Australia,Clothing,1531.67,587.39,36,6,Wholesale,Returning,Monica Curtis,4.5
+2024-05-07,Europe,Furniture,1678.7,862.05,61,2,Wholesale,Returning,Miranda Gilbert,4.9
+2024-01-30,Europe,Toys,3190.69,806.96,78,11,Online,New,Albert Conway,3.9
+2024-10-16,North America,Toys,4686.02,760.47,32,25,Online,Returning,Monica Edwards,2.0
+2024-03-15,Asia,Groceries,4709.22,868.28,45,3,In-store,New,Angela Vega,3.4
+2024-08-01,Europe,Groceries,410.29,612.27,9,30,Online,New,Diana Sims,1.8
+2024-11-13,Asia,Groceries,855.47,39.71,8,20,In-store,Returning,Mark Wade,1.6
+2024-06-28,North America,Clothing,3130.51,12.26,25,17,Online,New,James Miller,1.1
+2024-11-29,Australia,Toys,2289.9,753.28,67,10,Online,Returning,Peter Ortiz,2.1
+2024-08-14,Africa,Toys,2999.74,174.67,63,15,Online,New,Brent Joseph,4.0
+2024-10-06,Australia,Electronics,2665.46,284.13,68,12,Online,Returning,Rebecca Brown,4.1
+2024-12-07,Australia,Furniture,1835.67,456.36,5,12,Online,Returning,Deborah Garcia,4.7
+2024-03-24,Asia,Groceries,122.75,295.71,3,16,In-store,New,Richard Vaughn,1.2
+2024-04-11,Australia,Groceries,948.2,863.78,20,9,Wholesale,Returning,Thomas Mcdonald,1.6
+2024-03-24,North America,Furniture,4519.98,761.9,55,22,In-store,New,Allison Sharp,1.6
+2024-04-08,Europe,Electronics,380.57,347.89,45,4,Wholesale,Returning,Andre Lucero,4.1
+2024-10-18,Australia,Furniture,1767.56,88.19,41,5,In-store,New,Michelle Carroll,4.5
+2024-12-06,Africa,Electronics,3975.4,744.69,71,8,Wholesale,Returning,Lisa Reynolds,2.9
+2024-08-28,Asia,Clothing,1655.06,258.12,86,14,Wholesale,New,Hannah Gill,1.1
+2024-04-11,Europe,Toys,1861.77,941.83,1,11,In-store,New,Edwin Williams MD,3.1
+2024-07-18,Australia,Groceries,884.08,553.24,56,28,Online,New,Cathy Hernandez,4.4
+2024-06-24,North America,Electronics,1920.68,955.71,36,1,Online,Returning,Megan Patel,3.8
+2024-03-06,North America,Toys,3226.22,604.42,67,13,Online,Returning,Alicia Sparks,1.5
+2024-07-05,Africa,Toys,4182.49,790.9,6,28,Wholesale,New,Steven Smith,4.6
+2024-12-09,Australia,Furniture,502.66,965.61,96,20,In-store,New,Melissa Wright,2.5
+2024-11-23,Africa,Clothing,836.82,451.03,51,23,In-store,New,Adam Mueller,3.5
+2024-11-11,Australia,Toys,1473.46,269.31,25,20,Wholesale,Returning,Melissa Fisher,4.5
+2024-02-01,Australia,Toys,2585.31,245.45,75,24,Wholesale,Returning,Adam Johnson,1.2
+2024-03-18,North America,Clothing,3213.6,845.79,86,23,Online,Returning,Rickey Mclean,1.5
+2024-06-14,Europe,Groceries,3175.49,554.08,91,21,Online,New,David Bailey,2.5
+2024-11-10,Africa,Clothing,4598.83,529.33,57,27,Wholesale,New,Mary Robinson,2.6
+2024-02-06,Asia,Clothing,2029.72,694.59,26,17,Online,New,Bradley Morris,1.3
+2024-08-04,North America,Groceries,3733.18,595.32,43,20,In-store,Returning,Christian Torres,3.2
+2024-01-23,Australia,Toys,1783.92,199.93,89,2,Wholesale,Returning,Whitney Johnson,1.1
+2024-01-15,Africa,Groceries,1588.84,287.03,57,3,Online,Returning,Hailey Huber,1.5
+2024-04-03,Asia,Toys,4638.85,250.44,83,13,Online,New,Edward Smith,4.3
+2024-07-30,Australia,Groceries,613.76,36.97,33,12,Wholesale,New,Jonathan Reynolds,2.1
+2024-03-28,Australia,Electronics,4350.49,298.69,47,6,In-store,New,Teresa Novak,2.7
+2024-09-11,Europe,Toys,4001.1,879.46,15,10,In-store,Returning,William Ellis,3.5
+2024-02-21,Europe,Groceries,821.77,34.96,65,24,In-store,New,Michael Wright MD,3.0
+2024-08-16,Australia,Groceries,3493.99,660.09,9,5,Wholesale,Returning,Steven Nelson,3.8
+2024-09-01,Asia,Electronics,2446.36,344.86,4,28,In-store,Returning,Robert Bennett,4.1
+2024-10-17,Africa,Furniture,4509.9,273.77,24,9,In-store,New,Melissa Pierce,2.4
+2024-04-07,North America,Toys,2997.41,754.38,30,17,Online,Returning,Dalton Lopez,4.0
+2024-05-16,Asia,Electronics,667.86,941.95,3,21,Online,New,David Copeland,2.9
+2024-08-07,Australia,Groceries,3915.81,760.31,70,9,Wholesale,Returning,Mark Powers,2.4
+2024-01-27,Asia,Toys,4088.26,460.47,68,11,Online,New,William Adams,3.5
+2024-10-26,Asia,Toys,2717.62,760.5,6,7,In-store,Returning,Elizabeth Smith,4.5
+2024-03-29,Australia,Toys,2327.17,310.1,68,10,Online,New,Dawn Parker,2.9
+2024-11-14,Asia,Electronics,1298.42,809.13,5,26,In-store,Returning,Lauren Mills,4.1
+2024-02-18,Africa,Clothing,4581.06,510.37,85,27,Online,New,David Miles,4.2
+2024-07-19,Australia,Groceries,3188.46,271.06,45,13,In-store,New,Amber Benjamin,3.1
+2024-01-18,Australia,Toys,1174.63,177.72,76,29,Online,Returning,Natasha Nunez,1.1
+2024-09-08,Africa,Electronics,3552.62,601.22,75,24,In-store,Returning,Timothy Smith,2.4
+2024-06-14,North America,Furniture,4418.38,20.59,30,14,Online,New,Jennifer Castaneda,2.5
+2024-06-22,Australia,Clothing,540.83,343.17,27,9,Online,Returning,Kristen Fisher,4.7
+2024-05-29,Australia,Furniture,1635.24,954.51,90,7,Online,New,Travis Lopez,4.3
+2024-12-09,Europe,Clothing,4095.66,345.77,75,11,Wholesale,New,Dr. Courtney Clark DDS,2.1
+2024-02-21,Africa,Furniture,4906.25,970.35,33,23,Wholesale,Returning,Scott Duncan,1.6
+2024-11-25,Asia,Toys,3999.37,219.18,25,8,In-store,New,Matthew Preston,1.2
+2024-11-03,Africa,Furniture,1913.44,291.12,86,29,Wholesale,New,Dean Morales,1.6
+2024-03-30,North America,Furniture,1212.79,824.38,6,22,In-store,New,Jacqueline Mason,3.9
+2024-09-04,Europe,Electronics,4764.24,94.15,34,4,In-store,New,Sarah Roth,2.8
+2024-05-26,North America,Clothing,3150.49,358.39,73,17,In-store,Returning,Carlos Fleming,2.0
+2024-04-11,Europe,Toys,4672.2,540.5,25,17,Wholesale,Returning,Robin Hinton,3.0
+2024-09-22,Australia,Electronics,1925.68,532.71,94,24,Online,Returning,Brenda Elliott,2.9
+2024-09-04,Europe,Clothing,4684.12,224.71,58,26,Online,New,Brenda Jennings,2.0
+2024-04-09,North America,Electronics,3837.0,879.11,97,5,Wholesale,Returning,Glenda Williams,1.9
+2024-08-13,Asia,Clothing,4736.59,906.06,36,23,Online,Returning,Mark Gibson,3.0
+2024-09-10,North America,Clothing,1553.0,436.66,48,21,In-store,New,Richard Ross,3.3
+2024-05-19,Asia,Electronics,101.78,969.75,74,9,Online,Returning,Kevin Palmer,3.2
+2024-01-10,North America,Clothing,3592.97,885.2,68,0,In-store,New,Michael Long,1.9
+2024-04-20,Africa,Groceries,4017.73,370.14,56,4,Wholesale,New,Regina Clark,2.2
+2024-09-25,Africa,Electronics,480.97,962.89,19,4,Online,New,Valerie Huff,4.2
+2024-08-22,Africa,Toys,1347.02,81.28,15,9,In-store,New,Adam Walters,3.7
+2024-11-18,Australia,Clothing,2087.09,624.31,64,0,Online,Returning,Brendan Wilkinson,1.9
+2024-07-29,Europe,Toys,1439.53,711.14,92,12,Wholesale,Returning,Richard Webb,2.2
+2024-04-16,Australia,Toys,3714.43,825.12,32,8,Wholesale,New,Michael Rodriguez,4.5
+2024-08-16,North America,Groceries,4165.45,120.63,54,27,Wholesale,Returning,Kyle Kane,4.6
+2024-08-18,Europe,Clothing,4767.96,908.56,64,3,Wholesale,New,Hayley Adams,4.4
+2024-01-12,Australia,Electronics,3589.04,929.57,6,4,Wholesale,New,John Smith,4.8
+2024-07-11,Australia,Toys,1156.72,883.07,31,26,Wholesale,Returning,William Russell,3.4
+2024-09-06,Australia,Electronics,3160.97,124.99,22,12,In-store,Returning,Michael Gentry,3.0
+2024-07-17,Asia,Groceries,4460.0,426.78,79,27,Online,Returning,Anthony Mathis,2.0
+2024-03-22,Europe,Clothing,3211.55,637.79,57,18,In-store,New,Jennifer Lowe DDS,3.6
+2024-03-15,North America,Groceries,218.05,722.56,53,7,Wholesale,New,Lori Martin,3.0
+2024-11-01,Africa,Toys,2261.02,369.08,69,17,In-store,New,Allison Diaz,2.9
+2024-03-16,Australia,Clothing,3900.45,377.03,83,19,Online,New,Michele Morales,1.9
+2024-07-17,Europe,Clothing,2533.03,100.66,63,27,In-store,New,Sean Schneider,2.4
+2024-07-25,Asia,Groceries,3279.25,817.76,94,7,In-store,Returning,Danny Thomas,3.6
+2024-02-28,Australia,Electronics,791.7,269.37,13,22,Online,Returning,Jessica Galloway,2.7
+2024-02-24,Asia,Toys,4193.46,544.49,67,3,In-store,New,Janet Baldwin,3.6
+2024-11-12,Europe,Electronics,3526.75,706.04,36,7,Wholesale,New,Danielle Underwood,4.3
+2024-06-07,Europe,Toys,1595.06,359.02,39,13,Online,Returning,David Evans,5.0
+2024-01-06,North America,Groceries,1146.79,394.09,39,2,Online,New,Kristy Mcdonald,3.1
+2024-02-26,Australia,Groceries,519.95,823.55,63,1,In-store,New,Matthew Hart,1.6
+2024-11-27,Australia,Groceries,4420.31,463.87,74,29,Wholesale,Returning,Jessica Alvarado,4.3
+2024-08-17,Asia,Toys,1382.73,26.61,61,2,In-store,Returning,Brandon Hubbard,2.8
+2024-10-14,Australia,Electronics,3442.89,651.79,80,7,In-store,New,Cynthia Richardson,4.5
+2024-01-16,Asia,Electronics,3723.47,678.24,99,12,Wholesale,New,James Fuller,1.4
+2024-04-12,Africa,Toys,2729.84,378.31,13,4,Online,New,Jeremy Pennington,1.9
+2024-06-11,Australia,Clothing,1923.93,645.23,7,15,In-store,New,Alice Diaz,2.5
+2024-02-01,North America,Clothing,3264.98,336.07,72,29,Online,Returning,Cheryl Warren,3.0
+2024-04-16,North America,Clothing,4235.69,487.87,96,21,Online,Returning,Stanley Gonzales,1.6
+2024-06-15,Africa,Groceries,2426.95,183.88,22,17,Online,Returning,Mrs. Tiffany Hull,2.5
+2024-12-10,Europe,Groceries,4460.04,516.84,40,30,In-store,New,Michael Monroe,3.6
+2024-11-03,Africa,Furniture,4018.69,793.32,12,14,In-store,New,Christopher Watson,1.7
+2024-08-19,Europe,Electronics,1715.19,701.54,4,3,Wholesale,New,Lori Hopkins,2.3
+2024-11-28,Asia,Toys,1032.71,40.01,62,5,In-store,New,Megan Harris,1.7
+2024-12-06,Asia,Groceries,1417.59,830.11,1,5,In-store,New,Richard Lopez,3.1
+2024-02-02,Africa,Groceries,1819.63,695.47,46,25,In-store,New,Charles Perez,2.9
+2024-06-07,North America,Electronics,499.63,309.1,26,23,Wholesale,Returning,John Aguilar,2.3
+2024-05-26,Asia,Electronics,461.05,563.28,52,27,Online,New,Tina Oneill,3.7
+2024-01-15,Australia,Electronics,4251.26,51.88,59,4,Wholesale,Returning,Maria Reyes,3.1
+2024-04-08,Europe,Furniture,3439.75,714.79,29,15,In-store,New,Bryan Lambert,4.3
+2024-02-17,Asia,Furniture,925.0,959.03,99,28,Online,Returning,Sandy Rivera,4.0
+2024-01-18,Australia,Electronics,1649.66,118.32,93,14,In-store,Returning,Logan Williams,4.1
+2024-10-24,Asia,Groceries,3846.31,23.98,4,27,In-store,New,Michael Reeves,1.5
+2024-08-20,North America,Toys,2846.37,665.33,70,9,Wholesale,New,Brittany Buchanan,4.0
+2024-09-09,Australia,Clothing,1203.23,330.63,53,15,Wholesale,Returning,Travis Hernandez,2.1
+2024-04-18,Australia,Electronics,4130.42,971.19,33,9,Wholesale,Returning,Mackenzie Ferguson,3.8
+2024-03-09,Australia,Toys,1231.31,166.34,19,26,In-store,New,Miss Christine Ramirez,2.7
+2024-01-24,Australia,Clothing,2614.07,140.19,91,9,In-store,New,Emily Morales,3.1
+2024-03-13,Africa,Clothing,1471.58,83.62,21,1,In-store,New,Michael Vasquez,1.6
+2024-12-11,Asia,Furniture,3121.98,277.36,62,1,Wholesale,Returning,Julie Villanueva,2.0
+2024-09-30,Europe,Groceries,537.08,452.77,45,14,Wholesale,New,William Rogers,1.9
+2024-11-04,Asia,Groceries,1041.01,95.78,82,11,Online,New,Christopher Cortez,4.7
+2024-11-06,Europe,Groceries,2297.75,258.86,7,25,In-store,New,Jasmine Rodriguez,4.2
+2024-12-04,Europe,Clothing,2066.65,867.24,15,20,In-store,Returning,Joshua Davis,2.3
+2024-08-14,North America,Groceries,3904.27,294.78,45,22,Online,Returning,Paul Harrington,1.7
+2024-01-18,Asia,Clothing,3651.61,164.51,11,2,Online,Returning,William Novak,4.0
+2024-01-09,Europe,Toys,1533.12,234.24,39,19,Wholesale,Returning,Austin Soto MD,2.6
+2024-11-20,Asia,Toys,1500.13,12.02,63,5,Wholesale,New,Sandra Whitehead,3.6
+2024-08-21,Africa,Groceries,1251.93,498.88,59,12,Wholesale,Returning,Christine Lara,1.7
+2024-02-07,Africa,Toys,3009.08,965.51,33,0,Wholesale,Returning,Timothy Zimmerman,4.2
+2024-11-10,Africa,Furniture,884.49,603.84,86,12,In-store,New,Noah Barber,2.3
+2024-06-21,Asia,Toys,852.7,72.07,98,30,In-store,New,Troy Williams,1.3
+2024-09-17,North America,Clothing,1457.37,288.69,43,18,Wholesale,New,Nicole Brown,4.2
+2024-06-21,Asia,Clothing,3117.17,85.45,65,12,Wholesale,Returning,Jennifer Garcia,3.4
+2024-05-22,Europe,Furniture,1981.31,109.07,85,5,In-store,Returning,James Brown,2.6
+2024-05-01,Africa,Toys,824.49,40.05,12,0,Wholesale,New,Bridget Ross,1.7
+2024-08-25,Australia,Toys,500.74,879.5,84,13,In-store,Returning,Marie Morris,1.5
+2024-01-07,Asia,Furniture,3363.91,796.16,90,7,Wholesale,Returning,Gail Hernandez,1.3
+2024-09-30,Europe,Furniture,3381.58,841.76,77,26,Wholesale,Returning,Charles Wilkerson,4.5
+2024-11-04,North America,Toys,4260.73,515.28,91,22,Wholesale,Returning,Ronnie Larson,1.5
+2024-07-04,Europe,Electronics,4925.72,346.99,84,0,Wholesale,Returning,Christopher Mendez,1.6
+2024-09-17,Africa,Furniture,3638.98,821.97,91,30,In-store,New,Adam Palmer,3.9
+2024-05-14,Australia,Groceries,1399.84,896.55,1,15,Online,Returning,Richard Campbell,3.2
+2024-05-07,Africa,Groceries,3123.28,163.46,72,8,In-store,Returning,Joseph Hurst,1.4
+2024-11-15,Africa,Electronics,2238.93,642.23,93,25,In-store,New,Carol Schroeder,1.4
+2024-01-03,Asia,Toys,921.5,162.42,91,8,Wholesale,New,Debra Becker,4.5
+2024-07-27,Asia,Toys,1990.58,201.98,21,25,In-store,New,Joseph Key,4.1
+2024-11-30,Asia,Toys,3044.92,826.42,5,30,Online,Returning,Eric Jarvis,3.3
+2024-03-17,Australia,Furniture,2603.11,714.02,98,20,Online,Returning,Devin Melton,1.2
+2024-11-14,Australia,Furniture,2469.55,920.75,11,21,Online,New,Jennifer Evans,3.4
+2024-07-11,Africa,Furniture,4578.39,644.19,41,17,Wholesale,New,Natalie Donaldson,2.0
+2024-08-10,Europe,Toys,222.79,37.02,95,22,Wholesale,New,Kelly Lawrence,4.9
+2024-08-25,Africa,Groceries,942.95,432.44,9,14,Wholesale,New,Stephen Grant,4.7
+2024-08-24,Asia,Toys,1945.29,878.8,29,20,In-store,New,Seth Roberts,4.1
+2024-09-05,North America,Furniture,4072.59,823.76,37,16,Wholesale,Returning,Tyler Day,3.1
+2024-09-21,Asia,Electronics,1808.16,225.41,88,17,In-store,New,Joann Calhoun,1.2
+2024-02-15,Australia,Clothing,4136.16,146.2,33,23,Online,Returning,Brian Young,1.7
+2024-11-13,Australia,Toys,3074.3,845.58,23,24,In-store,Returning,George Silva,4.2
+2024-02-24,Asia,Groceries,2616.51,400.21,99,21,Online,New,Meghan Fernandez,1.3
+2024-03-13,Australia,Electronics,1772.25,818.91,81,25,Online,Returning,Charles Jacobson,3.2
+2024-06-27,Europe,Groceries,2232.03,912.24,66,6,Wholesale,New,Stephanie Miller,2.3
+2024-11-18,North America,Toys,2767.39,905.69,42,12,Wholesale,New,Kimberly Wallace,4.8
+2024-07-23,Europe,Clothing,2751.17,920.59,21,12,Wholesale,New,Paul Sheppard,1.2
+2024-01-31,Europe,Toys,4535.7,797.5,36,17,Wholesale,New,Sherry Jones,1.7
+2024-06-14,North America,Clothing,3150.66,394.74,52,11,Online,Returning,Whitney Romero,4.5
+2024-05-24,Africa,Furniture,792.62,161.77,4,25,In-store,New,Christina Farmer MD,1.1
+2024-08-19,Europe,Groceries,2099.49,99.04,7,26,In-store,New,Ronald Moody,3.9
+2024-03-23,Asia,Electronics,1520.67,95.15,35,13,Wholesale,New,Shawn Vazquez,4.1
+2024-01-13,North America,Furniture,4154.15,11.97,69,30,Wholesale,New,Patrick Fisher,1.4
+2024-01-23,Europe,Toys,3028.59,307.8,96,8,In-store,New,Maria Smith,3.2
+2024-11-04,Asia,Furniture,4882.69,839.18,77,23,Wholesale,Returning,Charlotte Santos,2.0
+2024-05-03,Europe,Toys,1584.3,283.82,6,28,Wholesale,New,Russell Ball,3.8
+2024-09-21,North America,Clothing,36.77,455.26,86,12,Wholesale,New,Andrew Robinson,1.5
+2024-10-28,North America,Furniture,3454.2,886.94,58,13,Online,New,Eric Gordon,3.4
+2024-03-01,Australia,Electronics,1324.09,962.26,20,25,Wholesale,New,Ryan Terry,2.5
+2024-10-28,Europe,Clothing,3519.67,33.43,3,8,Wholesale,Returning,Melissa Navarro,2.8
+2024-05-12,Australia,Toys,912.85,745.61,68,30,In-store,New,Lisa Hall,3.0
+2024-09-06,Africa,Furniture,2982.2,26.77,59,2,In-store,Returning,Jermaine Bailey,2.4
+2024-01-28,Australia,Toys,3588.86,517.31,59,8,Wholesale,New,Alice Buckley,4.4
+2024-01-25,Australia,Furniture,2964.67,177.7,54,28,In-store,Returning,Debra Turner,3.5
+2024-03-11,North America,Toys,1798.45,881.2,26,22,In-store,Returning,Ryan Welch,3.4
+2024-03-31,Australia,Electronics,2787.81,41.39,30,25,Wholesale,New,Elizabeth Melton,4.1
+2024-06-19,Europe,Clothing,1629.71,450.83,76,14,Wholesale,Returning,Robert Zimmerman,3.2
+2024-03-17,Europe,Electronics,4293.66,341.45,76,29,Online,Returning,Jeremy Allen,3.9
+2024-10-16,Australia,Toys,2988.86,911.83,14,7,In-store,Returning,Crystal Lang,3.4
+2024-06-26,Asia,Groceries,277.51,960.76,23,8,Wholesale,Returning,Justin Mcdonald,4.1
+2024-01-21,North America,Toys,4614.28,533.52,17,14,Online,Returning,Kenneth Watson,1.5
+2024-03-28,Africa,Electronics,753.28,100.46,1,23,Online,Returning,Victor Mason,3.4
+2024-09-23,Australia,Electronics,476.18,66.24,92,9,In-store,New,Stuart Oliver,2.7
+2024-12-06,Europe,Clothing,659.23,406.33,49,5,Wholesale,New,Brittany Davis,2.7
+2024-04-04,Europe,Electronics,1896.44,354.0,92,7,Online,New,Tasha Gates,2.3
+2024-11-09,Asia,Groceries,2566.92,836.74,8,25,Wholesale,Returning,Adam Parker,2.5
+2024-06-29,Africa,Toys,2620.47,664.14,66,21,In-store,Returning,Aaron Ware,3.3
+2024-12-11,Australia,Electronics,4701.32,388.64,55,0,In-store,New,Karen Hernandez,2.6
+2024-07-09,Europe,Clothing,1999.61,39.42,4,27,Online,Returning,Seth Morales,2.9
+2024-11-24,Asia,Clothing,4755.92,475.25,68,27,Online,Returning,Matthew Lewis,4.6
+2024-07-21,North America,Furniture,4148.75,308.14,10,3,In-store,New,Kevin Hughes,3.2
+2024-12-06,North America,Groceries,2854.29,64.95,70,1,Online,Returning,William Kim,3.3
+2024-11-30,Europe,Furniture,4649.17,500.35,18,12,Online,Returning,Nicole Dunn,3.2
+2024-04-24,Asia,Furniture,3917.86,109.52,74,5,Wholesale,Returning,Tina Reed MD,2.6
+2024-07-09,Europe,Groceries,330.55,383.19,67,13,In-store,Returning,Sara Young MD,2.6
+2024-04-02,Africa,Furniture,1958.73,513.53,12,3,Online,New,Victoria Palmer,2.9
+2024-06-27,Asia,Clothing,4279.17,247.24,5,10,Online,New,David Taylor,4.1
+2024-02-09,Africa,Electronics,3720.12,678.27,48,18,Wholesale,New,Jennifer Mcfarland,3.9
+2024-06-08,Asia,Groceries,4852.39,28.07,55,1,In-store,New,Laura Nixon,2.8
+2024-08-08,Europe,Electronics,1526.45,439.55,34,20,Online,Returning,Michael Dalton,3.2
+2024-04-24,North America,Clothing,95.79,555.9,87,28,Online,Returning,Elizabeth Walker,2.3
+2024-03-02,North America,Groceries,3431.78,488.36,15,13,In-store,Returning,John Watson,4.2
+2024-03-01,Europe,Groceries,2061.42,868.62,38,2,In-store,Returning,Hannah Jones,3.7
+2024-06-08,Australia,Toys,2605.17,706.64,24,20,In-store,Returning,Patrick Skinner,3.5
+2024-06-13,North America,Furniture,1988.99,541.48,79,30,In-store,Returning,Kendra Contreras,1.5
+2024-06-26,Asia,Furniture,877.23,365.85,90,7,Wholesale,New,Brad Pierce,4.7
+2024-01-28,Asia,Clothing,2627.82,568.94,90,14,In-store,Returning,Monica Fox,2.5
+2024-08-09,Australia,Clothing,1143.35,59.42,59,19,Online,Returning,Toni Smith,1.2
+2024-05-03,Asia,Electronics,859.51,8.54,78,22,Wholesale,Returning,Lori Jackson,3.9
+2024-05-02,Asia,Furniture,1703.29,886.23,86,9,Online,New,Mark Jones,4.5
+2024-08-25,Australia,Groceries,2087.6,664.75,94,19,In-store,New,Jack Jackson,2.0
+2024-03-05,Africa,Groceries,4477.54,998.88,90,15,Online,New,Jonathan Smith,3.4
+2024-03-25,Australia,Electronics,393.27,228.63,20,12,Wholesale,Returning,Jamie Koch,2.5
+2024-10-18,Australia,Toys,4849.07,840.81,42,10,Wholesale,New,Rhonda Swanson,3.4
+2024-01-28,North America,Clothing,3911.75,219.12,58,17,Online,Returning,Cassandra Lee,2.1
+2024-04-28,Asia,Clothing,342.11,902.5,63,24,Online,New,Beth Woods,3.5
+2024-02-09,Asia,Clothing,1498.47,308.53,44,4,Wholesale,New,Glenn Nguyen,2.5
+2024-07-06,Australia,Groceries,3526.55,222.69,45,12,Wholesale,New,Erik Beck,3.3
+2024-08-21,Asia,Electronics,4788.26,930.66,7,8,Wholesale,New,Kristi Hill MD,2.7
+2024-03-14,Africa,Electronics,4461.39,162.28,71,10,Online,Returning,Michael Brady,4.9
+2024-07-02,Europe,Clothing,2202.96,907.65,49,3,In-store,Returning,Daniel Holloway,3.8
+2024-01-03,Australia,Electronics,1342.71,91.23,2,18,Wholesale,New,Rebecca Morris,1.2
+2024-01-11,Africa,Furniture,1403.5,304.17,48,18,In-store,New,Melissa Allen,3.3
+2024-01-17,Australia,Furniture,2989.11,167.21,64,20,Wholesale,New,Garrett Jackson,3.0
+2024-04-22,Australia,Toys,1384.36,805.21,74,13,Wholesale,Returning,Zachary Reid,3.7
+2024-01-11,Africa,Clothing,1206.01,986.09,52,26,Wholesale,Returning,Jared Lucas,2.4
+2024-08-14,Australia,Groceries,3768.79,180.68,94,2,Online,Returning,Emily Turner,3.6
+2024-10-15,Europe,Electronics,3378.23,298.01,1,4,Online,New,Melanie Parker,2.6
+2024-11-03,Africa,Groceries,208.27,305.99,78,30,In-store,New,Marc Campbell,1.7
+2024-07-10,Asia,Clothing,1922.89,582.34,17,16,Online,New,Mrs. Alexandria Carpenter MD,3.2
+2024-10-22,Europe,Clothing,2876.54,9.39,53,28,Wholesale,New,Carol Gray,3.7
+2024-05-17,Europe,Electronics,1867.68,849.16,66,28,In-store,Returning,James Duarte,1.8
+2024-05-04,North America,Clothing,176.45,589.5,14,26,In-store,New,Meghan Murray,1.9
+2024-07-16,Asia,Furniture,795.21,517.23,53,20,Online,Returning,James Cox,4.5
+2024-03-29,Asia,Furniture,3826.26,707.28,59,5,Online,New,Timothy Hunt,2.2
+2024-09-09,Africa,Electronics,4615.46,314.7,42,30,Online,Returning,William Mclaughlin,2.5
+2024-11-06,North America,Furniture,4424.38,654.09,29,14,Wholesale,New,Amanda Ponce,2.6
+2024-11-28,Australia,Electronics,231.1,649.31,59,20,In-store,New,Ricky Perez,1.5
+2024-09-11,Europe,Electronics,2147.51,371.87,50,9,Wholesale,New,Brittany Ramirez,1.8
+2024-09-11,Europe,Groceries,580.1,445.81,49,12,In-store,Returning,April Diaz,4.2
+2024-03-14,Asia,Electronics,849.08,25.59,70,19,Online,New,Matthew Rice,3.8
+2024-11-25,Australia,Clothing,3398.42,240.97,51,10,In-store,New,Karen Bailey,4.4
+2024-05-26,Africa,Furniture,479.42,199.18,70,5,Online,Returning,Richard Abbott,4.5
+2024-10-25,Asia,Toys,367.8,682.2,91,17,Wholesale,Returning,Ms. Jasmine James MD,4.5
+2024-02-26,Asia,Furniture,2379.46,787.26,49,13,In-store,Returning,Nicholas Small,1.2
+2024-05-16,Asia,Groceries,3245.63,690.0,24,20,Wholesale,New,Elizabeth Berry,3.3
+2024-02-04,Europe,Clothing,567.97,134.22,45,27,Wholesale,New,Cynthia Phillips,4.3
+2024-09-21,Africa,Electronics,2046.27,916.35,100,23,In-store,New,Gregory Jensen,4.1
+2024-09-11,Europe,Clothing,254.25,534.98,42,5,In-store,Returning,Christina Adams,1.7
+2024-01-24,Africa,Groceries,3013.13,214.15,20,13,Online,Returning,Matthew Jordan,1.2
+2024-07-27,North America,Toys,656.75,547.46,85,15,Online,Returning,Ashley Buckley,1.4
+2024-09-14,North America,Groceries,2614.72,182.12,63,9,Wholesale,Returning,Peter Wright,3.8
+2024-08-09,Africa,Groceries,4193.86,113.4,59,16,Online,New,Charlene Martinez,2.0
+2024-12-11,Europe,Electronics,2255.41,100.24,40,16,Wholesale,Returning,Jonathan Cameron,2.6
+2024-02-29,Australia,Furniture,3903.32,866.2,55,22,Wholesale,Returning,Herbert Gonzalez,4.3
+2024-08-05,Asia,Furniture,3654.25,406.45,16,17,Wholesale,Returning,Brandy Hernandez MD,1.0
+2024-03-30,North America,Clothing,1757.73,206.76,61,19,In-store,New,Victoria Flores,4.6
+2024-09-02,Europe,Toys,4462.5,737.49,79,26,In-store,New,Suzanne Johnson,3.0
+2024-08-19,Africa,Clothing,4712.71,423.38,89,16,Online,New,Emma Farley,1.2
+2024-09-05,Africa,Clothing,2079.06,893.1,92,20,Online,Returning,Ricky Porter,2.8
+2024-06-07,Europe,Furniture,3770.55,291.62,49,4,Online,New,David Freeman,1.4
+2024-03-06,Europe,Furniture,116.05,536.19,57,10,Wholesale,New,Jake Jackson,1.8
+2024-07-24,Africa,Electronics,980.59,9.03,5,17,Online,Returning,Travis Crawford,2.7
+2024-04-05,Africa,Clothing,3751.8,570.8,28,13,In-store,New,Michael Gillespie,4.3
+2024-04-12,Australia,Furniture,2679.18,558.03,19,11,In-store,Returning,Lisa Johnson,4.0
+2024-02-22,Africa,Groceries,1942.99,39.3,83,26,Wholesale,Returning,David Smith,4.8
+2024-07-14,North America,Electronics,1809.86,576.2,29,6,Online,Returning,Robert Morgan,2.0
+2024-03-21,Asia,Toys,1917.78,405.5,15,25,Online,New,Ms. Alicia Roberts MD,1.4
+2024-12-06,Australia,Electronics,2327.46,548.61,48,9,Online,Returning,Jennifer Bell,1.6
+2024-08-08,Australia,Electronics,1821.07,264.5,1,10,Online,Returning,Kelly Lewis,3.1
+2024-02-23,Europe,Furniture,4441.88,481.19,42,26,Online,Returning,Randy Jordan,4.0
+2024-01-20,Asia,Groceries,4138.51,632.37,35,20,In-store,Returning,Michele Donaldson,1.1
+2024-04-16,Asia,Toys,1515.48,785.94,98,5,Online,New,Abigail Simon,4.9
+2024-09-14,Australia,Electronics,3636.44,669.88,50,21,In-store,Returning,Robert Smith,4.2
+2024-02-05,Australia,Furniture,2996.49,816.52,40,29,In-store,Returning,Lance Medina,3.0
+2024-11-15,Australia,Clothing,66.95,403.99,66,29,Wholesale,Returning,Donna Greene,4.2
+2024-10-23,North America,Electronics,3959.66,410.63,96,24,In-store,New,Amber Santos,2.8
+2024-04-28,North America,Toys,3032.33,981.17,46,2,Wholesale,Returning,Savannah Ellis,3.3
+2024-10-06,North America,Electronics,3648.25,975.1,3,27,Wholesale,New,Michael Richardson,2.4
+2024-04-23,Europe,Clothing,559.51,314.08,73,21,Online,Returning,Daniel Williams,2.9
+2024-11-04,Australia,Clothing,3495.49,499.55,8,0,Wholesale,Returning,Anthony Stevens,1.8
+2024-10-27,Australia,Groceries,1565.15,463.3,44,6,In-store,New,Frank Boyd,1.8
+2024-08-09,Europe,Toys,4876.75,485.0,27,30,Wholesale,New,Clinton Rodriguez,1.4
+2024-04-09,Australia,Furniture,1901.4,479.5,96,16,In-store,Returning,Terry Farrell,1.2
+2024-01-01,Africa,Clothing,2361.72,116.78,32,8,In-store,New,Michael Schaefer,2.2
+2024-03-11,Africa,Electronics,4192.23,523.64,3,22,In-store,New,Craig Richardson,3.0
+2024-05-01,Asia,Electronics,3635.55,753.7,11,19,Online,New,Valerie Hooper,4.9
+2024-08-20,Australia,Toys,2986.47,149.14,58,28,Online,New,Robert Martin,2.1
+2024-04-26,North America,Clothing,766.61,813.13,20,20,Online,New,Bryan Robinson,3.1
+2024-04-12,Europe,Electronics,1338.82,832.99,28,14,Online,New,Joseph Robertson,1.5
+2024-07-17,North America,Clothing,4423.55,736.65,94,19,In-store,New,Susan Taylor,4.4
+2024-03-04,Africa,Toys,4070.38,549.7,35,6,In-store,New,Katie Curry,4.7
+2024-08-30,Africa,Toys,3418.62,995.55,33,1,Online,New,Rebekah Rogers,1.1
+2024-07-25,Asia,Clothing,1016.65,779.79,83,9,Wholesale,Returning,Joseph Camacho,5.0
+2024-07-20,Australia,Clothing,3224.66,869.01,72,17,Wholesale,Returning,Jacob Cameron,2.6
+2024-05-29,Australia,Furniture,4789.46,529.64,23,8,In-store,Returning,Julie Hudson,3.1
+2024-10-02,Africa,Furniture,178.77,606.46,65,23,Online,Returning,Catherine Charles,1.4
+2024-07-20,Africa,Clothing,1591.68,131.27,55,10,In-store,Returning,Cynthia Frank,2.2
+2024-04-02,Australia,Clothing,127.97,245.83,86,22,In-store,New,William Gould,1.3
+2024-08-02,North America,Clothing,4609.63,423.79,59,5,In-store,New,Katherine Davis,3.5
+2024-09-28,Africa,Furniture,2898.64,207.51,47,1,Wholesale,Returning,Dana Ali,4.4
+2024-07-25,North America,Groceries,3761.0,89.47,27,7,In-store,Returning,Regina Roberson,2.0
+2024-10-11,Australia,Toys,530.23,268.93,81,21,Wholesale,Returning,Toni Kim,4.0
+2024-06-10,Africa,Electronics,3029.04,446.39,54,18,In-store,Returning,Ryan Hines,1.2
+2024-09-16,Australia,Electronics,2558.26,591.24,57,20,In-store,New,Jessica Thompson,3.2
+2024-10-02,North America,Clothing,3900.54,958.9,89,27,Online,Returning,Christina Miller,4.9
+2024-01-13,North America,Electronics,569.95,616.28,8,20,Online,New,Andrew Hanson,1.1
+2024-09-18,Australia,Furniture,2952.96,369.98,85,18,In-store,New,Karen Boyd,2.8
+2024-02-19,Europe,Groceries,538.4,617.28,85,25,In-store,Returning,Shawn Acosta,3.2
+2024-09-14,Europe,Clothing,2250.26,733.25,47,28,Wholesale,Returning,James Watts,3.5
+2024-07-23,Asia,Toys,2011.54,751.88,77,16,In-store,Returning,Jorge Rogers,1.2
+2024-04-10,Africa,Clothing,4258.88,732.77,33,15,Wholesale,New,Benjamin Payne,3.5
+2024-01-11,Europe,Electronics,2730.35,223.23,69,6,Wholesale,New,Teresa Henry,2.3
+2024-04-03,Africa,Furniture,4107.4,780.43,68,3,Online,Returning,Aaron Pruitt,4.2
+2024-10-05,Australia,Furniture,2671.6,197.69,40,18,In-store,New,Eric Miller,1.2
+2024-08-01,Africa,Toys,3940.29,692.38,70,28,In-store,New,Jeffrey Mann,4.0
+2024-09-01,Africa,Groceries,4493.88,665.83,92,21,Online,Returning,Rebecca Webb,2.2
+2024-01-25,Australia,Clothing,3989.82,68.86,6,12,In-store,New,Brandy Fuller,2.3
+2024-01-24,Europe,Electronics,3144.56,137.7,8,29,In-store,Returning,Richard Stevens,4.1
+2024-07-01,Europe,Clothing,4657.56,693.45,53,10,Online,New,Jennifer Brown,3.8
+2024-01-30,North America,Furniture,3136.97,840.51,95,2,Wholesale,Returning,Edward Brown,4.7
+2024-04-18,Africa,Toys,3740.56,812.3,3,3,Wholesale,New,Tina Franco,4.7
+2024-11-15,Africa,Toys,4136.79,927.53,24,26,Wholesale,Returning,Terri Mitchell,4.1
+2024-07-09,Asia,Furniture,60.58,35.85,73,19,In-store,Returning,Julie Black,1.5
+2024-12-03,North America,Clothing,3596.98,839.88,24,13,Online,Returning,Elaine Fox,3.2
+2024-03-08,Asia,Groceries,1222.2,957.7,16,11,In-store,New,Albert Jones,3.8
+2024-10-03,North America,Toys,1606.12,258.69,61,26,Online,Returning,Rachel Spears,1.7
+2024-04-30,Europe,Toys,3867.86,627.47,48,0,In-store,Returning,Karen Bruce,2.9
+2024-08-08,Europe,Clothing,4617.96,184.98,98,29,In-store,Returning,Diane Valentine,3.5
+2024-04-21,Asia,Electronics,3256.95,232.67,39,13,Online,New,Karen Smith,1.5
+2024-06-30,Africa,Groceries,4598.37,162.46,24,13,In-store,New,Brian Lucas,1.7
+2024-10-04,Africa,Clothing,2590.95,763.0,85,2,Online,New,Linda Casey,3.6
+2024-02-23,Africa,Clothing,2629.82,268.88,69,3,Wholesale,Returning,Pamela Rivera,1.0
+2024-06-19,North America,Furniture,614.77,553.03,7,12,In-store,New,Amanda Kennedy,4.3
+2024-08-26,Asia,Toys,4861.56,744.45,94,15,Online,New,Mandy Simpson DDS,4.7
+2024-03-06,Asia,Groceries,1095.74,500.01,4,0,Wholesale,Returning,Carlos Pineda,3.6
+2024-07-01,Asia,Electronics,4675.6,339.36,42,18,Online,Returning,Brittany Shaw,5.0
+2024-09-02,Europe,Toys,2980.59,294.88,72,23,Online,Returning,Nicholas Hernandez,2.7
+2024-12-03,Europe,Groceries,4679.85,600.79,12,23,Online,Returning,Angela White,2.8
+2024-04-09,North America,Electronics,1500.23,891.5,86,14,Wholesale,Returning,Brandi Suarez,2.8
+2024-10-20,Australia,Electronics,39.06,1.42,41,27,Wholesale,New,Danielle Porter,2.9
+2024-07-05,Asia,Clothing,3839.65,935.13,79,16,Wholesale,New,George Roth,3.0
+2024-03-07,Australia,Clothing,4330.06,548.97,66,29,In-store,New,Debbie Cook,1.3
+2024-07-17,North America,Groceries,1672.31,56.87,65,18,Online,Returning,Matthew Cox,4.9
+2024-06-11,Asia,Furniture,2077.52,924.54,70,28,Wholesale,Returning,Richard Hart,1.0
+2024-10-11,Australia,Electronics,4331.15,922.02,74,0,Wholesale,Returning,Ashley Miller,2.1
+2024-09-21,North America,Clothing,1618.46,653.58,61,9,Wholesale,New,Benjamin Hill,4.8
+2024-04-13,Europe,Groceries,826.27,533.96,4,14,In-store,New,Lonnie Rush,1.9
+2024-02-08,Europe,Clothing,2352.07,212.3,97,27,Wholesale,New,Katie Moore,2.5
+2024-04-05,North America,Groceries,3528.24,472.57,95,17,Wholesale,Returning,Bryce Shaw,2.6
+2024-09-29,Europe,Toys,2279.07,657.9,2,2,In-store,New,Eric Nelson,2.4
+2024-04-30,Africa,Toys,17.08,306.42,73,14,Wholesale,Returning,Jennifer Romero,4.1
+2024-11-19,Europe,Clothing,645.77,30.46,24,14,Online,New,Teresa Garcia,3.9
+2024-02-11,Australia,Electronics,1337.48,140.27,46,1,Wholesale,New,Robert Price,2.0
+2024-06-14,Europe,Toys,1212.86,617.71,14,19,Wholesale,Returning,Samantha Brown,2.0
+2024-10-22,Asia,Electronics,3152.46,900.67,44,4,Wholesale,New,Scott Hall,1.1
+2024-02-03,North America,Clothing,2351.41,335.16,60,11,Wholesale,New,Kelsey Vargas,1.4
+2024-02-01,Africa,Clothing,4722.93,931.49,43,14,Online,New,Daniel Lewis,1.7
+2024-02-01,Australia,Furniture,2516.48,69.52,82,24,Online,Returning,Kristin Williams,1.0
+2024-07-22,North America,Toys,3529.92,169.32,61,8,Wholesale,Returning,Lisa Mitchell,2.7
+2024-08-28,Africa,Furniture,853.0,735.37,15,5,Online,New,Riley Burch,1.8
+2024-10-02,Australia,Clothing,1569.31,490.45,56,11,In-store,New,Raymond Diaz,1.3
+2024-04-08,Europe,Furniture,4617.36,625.0,80,17,Wholesale,New,Danielle Powers,2.8
+2024-05-26,Australia,Toys,4651.32,819.23,43,24,Wholesale,New,Bridget Davis,3.3
+2024-03-19,Australia,Clothing,4750.69,467.65,39,11,Online,New,Jessica Miller,2.4
+2024-10-01,Asia,Furniture,2669.31,82.96,22,23,Online,New,Olivia Gomez,3.1
+2024-11-13,Asia,Electronics,3338.34,146.2,10,12,Wholesale,Returning,Ethan Bryant,4.4
+2024-04-03,Asia,Toys,4622.03,548.57,49,5,In-store,New,Dr. Daniel Macdonald,3.8
+2024-08-29,North America,Clothing,225.17,605.51,50,5,Wholesale,New,Leah Davis,3.7
+2024-11-21,Africa,Electronics,2795.7,590.25,4,1,Wholesale,New,Jennifer Hutchinson,2.1
+2024-09-08,Asia,Electronics,996.5,4.05,54,1,Wholesale,Returning,James Benson,1.5
+2024-07-06,North America,Groceries,960.5,848.57,94,27,Online,Returning,Robert Valdez,2.3
+2024-03-11,Asia,Clothing,2723.95,650.02,58,8,Wholesale,Returning,George Hamilton,2.7
+2024-02-15,North America,Clothing,1560.4,483.3,8,10,Wholesale,New,Lisa Smith,1.5
+2024-01-28,Europe,Electronics,3797.04,63.5,3,30,Wholesale,Returning,Susan Hood,1.5
+2024-02-05,Africa,Clothing,41.28,724.64,45,16,In-store,Returning,Sarah Ferguson,4.5
+2024-06-26,Europe,Groceries,1555.72,679.72,42,12,Wholesale,Returning,Lindsey Yates,1.3
+2024-03-17,Europe,Furniture,3771.14,311.79,84,17,In-store,New,Elizabeth Garza,2.9
+2024-01-24,North America,Clothing,489.89,97.68,79,15,In-store,Returning,George Duncan,1.7
+2024-10-17,Asia,Furniture,1690.88,724.41,31,8,In-store,Returning,Darrell Ortiz,3.1
+2024-01-03,Africa,Clothing,1168.45,572.95,20,19,In-store,New,Tracie Wilson,4.0
+2024-02-06,North America,Clothing,4171.57,134.24,53,19,Online,Returning,Misty Cole,4.8
+2024-11-13,Australia,Toys,2568.1,696.04,31,13,Wholesale,New,Travis Brown,4.2
+2024-10-22,Asia,Clothing,1583.35,95.28,85,7,Online,New,Mariah Garcia,1.9
+2024-02-06,Africa,Furniture,377.91,712.59,19,13,Wholesale,Returning,Laura Davis,1.3
+2024-06-01,Europe,Groceries,236.34,375.55,51,16,Online,New,Shirley Nash,3.5
+2024-01-04,Asia,Electronics,3861.15,724.05,37,25,Online,Returning,Kim Vazquez,2.4
+2024-09-06,North America,Toys,3528.92,103.24,5,20,Online,New,Zoe Sanchez,2.4
+2024-09-04,Australia,Clothing,2132.0,28.18,61,16,Wholesale,New,Cynthia Arroyo,2.1
+2024-06-28,Asia,Clothing,1551.38,239.97,99,12,Online,Returning,Gwendolyn Lee,3.8
+2024-03-30,North America,Clothing,3128.65,470.05,43,9,Online,New,Anthony Ellis,2.4
+2024-03-11,Europe,Electronics,2115.47,936.59,61,1,Wholesale,Returning,Mark Burgess,5.0
+2024-11-03,Europe,Furniture,2664.93,246.33,31,26,Online,New,Latoya Kim,2.6
+2024-02-20,North America,Electronics,2614.39,677.34,1,13,In-store,Returning,David Miles,3.0
+2024-04-26,Australia,Toys,4287.75,559.28,96,25,In-store,New,Carly Williams,4.0
+2024-04-15,Europe,Electronics,1687.28,961.36,6,2,Wholesale,New,Erin Smith,2.4
+2024-06-14,Asia,Toys,1839.96,899.91,27,9,Wholesale,Returning,John Briggs,2.6
+2024-09-10,Australia,Toys,2523.61,619.15,30,7,Online,Returning,Sandra Odom,1.7
+2024-04-07,North America,Clothing,1779.75,100.47,99,13,Wholesale,New,Whitney Wilson,1.1
+2024-05-26,Asia,Furniture,4533.12,724.19,21,8,In-store,Returning,Patricia Wyatt,1.5
+2024-06-17,Australia,Toys,1416.31,269.38,28,18,Wholesale,New,Andrew Lee,1.6
+2024-08-13,Australia,Clothing,2494.48,370.93,69,7,Wholesale,Returning,Tyler Orr,2.6
+2024-09-30,Australia,Electronics,4926.33,173.63,50,6,Online,Returning,Thomas Carroll,1.3
+2024-07-10,Europe,Groceries,1782.77,894.14,36,17,Wholesale,New,Richard Moore,4.7
+2024-09-06,Australia,Electronics,684.14,214.37,38,27,Online,Returning,Amanda Kline,4.1
+2024-07-19,Asia,Electronics,2375.37,60.9,56,8,Wholesale,New,Ashley Gallagher,3.0
+2024-05-19,Australia,Toys,1455.72,605.49,9,26,Online,Returning,Elizabeth Yu,1.0
+2024-05-17,Australia,Clothing,1365.08,381.7,1,25,Wholesale,New,Amy Thornton,1.8
+2024-08-19,North America,Clothing,2558.73,112.45,9,12,Wholesale,New,Tracy Burns,3.0
+2024-02-24,North America,Toys,1414.73,446.68,60,6,Wholesale,New,Christy Oconnor,1.6
+2024-01-10,Australia,Clothing,3149.92,185.28,41,14,Wholesale,Returning,Kayla Frey,4.0
+2024-09-04,Australia,Clothing,1604.73,13.79,9,19,Wholesale,New,Christopher Thomas,4.4
+2024-04-26,Asia,Toys,2143.74,741.73,65,8,In-store,New,Jesse Nguyen,2.1
+2024-03-07,Australia,Electronics,1039.35,80.56,98,6,Wholesale,New,Thomas Ingram,3.9
+2024-02-24,Asia,Clothing,4549.28,123.35,41,3,Online,Returning,Antonio Gomez,2.9
+2024-03-30,Europe,Furniture,4450.48,386.59,99,30,Online,New,Heather Curtis,4.3
+2024-01-02,North America,Toys,3008.37,185.88,42,18,In-store,New,Victoria Turner,1.9
+2024-08-21,Africa,Electronics,3006.41,714.24,68,4,In-store,Returning,Daniel Garcia MD,1.8
+2024-11-27,Australia,Toys,4037.08,962.24,57,18,In-store,New,Robert Bishop,4.9
+2024-10-19,Africa,Groceries,3355.89,5.84,93,12,Online,New,Mrs. Rebecca Kirk,3.9
+2024-04-17,Europe,Furniture,4155.47,380.51,2,28,Wholesale,New,Dr. Kristin Miller,4.9
+2024-07-05,Asia,Furniture,3954.09,426.77,14,3,Wholesale,Returning,Dr. Brian Nichols MD,4.1
+2024-02-18,Australia,Clothing,1665.59,825.12,47,12,In-store,New,Jose Armstrong,3.7
+2024-01-02,Asia,Toys,4991.47,579.26,27,8,Wholesale,New,Craig Morales,1.2
+2024-10-29,Africa,Clothing,470.67,24.05,48,5,Wholesale,New,Robert Daniels,1.0
+2024-12-10,North America,Clothing,3280.84,98.53,83,22,Wholesale,Returning,Amy West,4.0
+2024-10-22,Australia,Electronics,2735.97,546.22,20,28,In-store,New,Luke Travis,4.1
+2024-03-18,Africa,Electronics,3043.98,344.09,85,15,Wholesale,Returning,Daniel Hernandez,2.4
+2024-04-04,Europe,Furniture,4429.28,900.2,41,23,In-store,Returning,Debra Page,2.5
+2024-11-21,Europe,Clothing,1998.26,489.89,20,15,Wholesale,New,Matthew Gordon,4.0
+2024-04-21,Europe,Clothing,2655.8,298.56,57,28,In-store,New,Robert Morris,1.3
+2024-02-18,Europe,Toys,3625.83,392.92,70,10,Wholesale,Returning,Diane Henderson,2.1
+2024-07-01,North America,Electronics,3400.69,446.26,93,29,In-store,Returning,Kimberly Garcia,2.4

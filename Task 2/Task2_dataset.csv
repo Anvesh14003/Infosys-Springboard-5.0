@@ -1,0 +1,1118 @@
+Date,Region,Product Category,Sales Amount,Profit,Units Sold,Discount (%),Cost of Goods Sold (COGS),Sales Channel,Product Name,Order ID,Sales Representative,Customer Satisfaction Score
+2024-10-16,Africa,Furniture,3228.38,492.9,6,8.9,2756.51,Wholesale,Claim Plus,c6211ac8-e68f-4238-bf54-43701c139cd9,Madison Benjamin,4.0
+2024-03-22,Africa,Furniture,4700.77,722.2,30,16.36,2634.2,In-store,Into Ultra,3352891f-e6e3-4a0f-8732-e9aa4fd49af1,Angela Miller,4.0
+2024-07-23,Africa,Electronics,1862.74,693.19,48,11.65,89.8,Wholesale,Write Ultra,e184a96c-0515-490a-b638-08190fa48d00,Christopher Hamilton,4.3
+2024-08-12,Asia,Toys,4066.21,385.05,59,14.15,132.24,Online,Expect Pro,7d15668b-7a3e-4d58-a634-43119f5aaed8,Daniel Ruiz,4.2
+2024-01-13,Australia,Groceries,129.71,397.62,4,19.11,468.13,In-store,High X,804d445b-15ac-4278-a44a-10f7513392c9,Michele Hamilton,1.0
+2024-07-12,Australia,Toys,1342.18,616.35,72,3.17,3913.84,Wholesale,Whole X,0ef46a2a-28f2-4dfb-af65-f46e9ace2cdc,Elizabeth Martinez,3.7
+2024-11-11,Africa,Electronics,4841.82,385.57,30,20.07,217.63,In-store,Even Ultra,7af52721-b867-4e3b-a60b-e4846710c3bd,Patrick Cuevas,3.9
+2024-07-18,North America,Clothing,4347.51,506.01,21,22.79,1950.71,Wholesale,Sing X,dbd65aa1-137a-4df0-a006-a5ea3e1afec1,Emily Barnes,2.5
+2024-06-02,North America,Electronics,4580.21,961.53,62,13.4,220.54,Wholesale,Light Plus,e8268e1c-a5e7-4e94-91a6-50a421955f45,James Jackson,2.3
+2024-10-26,Asia,Toys,1481.22,81.64,45,22.83,2912.34,In-store,Story Pro,19feeb0e-422f-4f03-aa57-09188bf132ec,Evan Carr,1.8
+2024-10-10,Europe,Clothing,1321.63,614.82,78,13.44,1255.43,Online,Reflect Pro,cc918f16-2ffc-4b8c-9666-002feb7168c8,David Saunders,3.2
+2024-11-14,Asia,Toys,4774.22,848.71,25,0.22,254.08,Online,Decide Plus,4206fbf8-0fe6-4e9d-b386-9330c1c3ffb6,Jeffrey Jones,3.6
+2024-09-24,Europe,Groceries,2544.68,661.33,19,5.61,2617.09,Wholesale,Sound Ultra,3017c029-d431-489a-9cd5-bf8abba49bf8,Leonard Cox,2.2
+2024-12-11,North America,Clothing,4980.42,302.24,62,4.68,3575.98,In-store,Between X,fde1496f-4452-409b-8ed1-7b84a7ef7bdd,Tonya Nelson DDS,3.6
+2024-08-12,North America,Toys,4691.14,476.17,76,4.53,3372.73,In-store,Especially X,f45d2821-55c3-40a9-9bc1-55588bdfa5a9,Debra Moore,3.0
+2024-02-24,Asia,Clothing,1980.91,106.71,39,3.86,2145.29,Online,Career X,efc9ef9b-338b-4066-af4d-0b3b5219462b,Denise Reed,4.4
+2024-03-17,Australia,Groceries,3736.47,298.51,2,13.88,1643.4,Online,With Ultra,b8eb4e03-c196-4bd1-a001-6f7e0defbfa0,Matthew Jones,3.8
+2024-10-09,Asia,Electronics,2770.65,671.48,55,20.36,1235.21,Online,Difference Ultra,c182734e-596f-4865-a5fe-0f3eec40e8ab,Brooke Sanchez,1.5
+2024-04-19,Europe,Electronics,691.5,309.01,81,18.42,14.19,In-store,Decade Pro,d2f4f612-1817-463d-8291-c4de1c6d577c,Jacob Dougherty,3.2
+2024-09-02,Africa,Groceries,1942.38,834.49,100,24.72,3064.0,Online,Once Plus,11cfc8df-3ec7-4c65-aac2-d21a6f24decd,Dr. Sara Johnston MD,2.4
+2024-11-11,Australia,Electronics,3464.51,147.61,87,20.66,3682.7,Wholesale,To Pro,4f184ce4-5377-4059-ab84-2ed1602a7c2a,Dustin Turner,4.5
+2024-10-18,Asia,Furniture,4222.18,580.29,73,20.05,1152.73,In-store,Push Ultra,42920b77-85f5-437c-b0ee-6167acaf40e0,William Brady,3.7
+2024-04-11,North America,Electronics,2637.94,570.98,89,3.09,1352.06,Online,Prevent Pro,7c17fe69-e2a8-4c52-83f0-c463127527b4,Deborah Hayes,4.2
+2024-08-17,Africa,Furniture,3361.98,825.34,78,7.19,1577.54,Online,Beautiful Ultra,4deed34b-97c7-4e5f-903e-fb1d624bd960,Lauren Diaz,2.2
+2024-07-02,Europe,Groceries,392.98,114.13,2,0.53,2881.38,Online,Out X,b816d1e6-e923-43ed-8c55-53e66f989b44,Carl Espinoza,4.5
+2024-07-16,Asia,Electronics,3561.61,644.62,66,8.16,707.45,Wholesale,Guy Plus,a0b4e705-93e0-4c48-bbda-94125322463f,James Jackson,4.7
+2024-06-11,North America,Clothing,1283.55,798.19,45,21.53,879.78,Wholesale,Agent X,fd1fd2db-cce2-43ce-9916-9ca9a9245dcb,David Henderson,2.5
+2024-08-05,Australia,Furniture,3291.49,895.6,79,15.23,3827.82,Online,After Plus,b3407c19-4651-4d60-9d5a-1ef20a05ec0a,William Elliott,4.7
+2024-01-31,Asia,Clothing,4897.46,211.32,89,19.43,1521.65,In-store,Gun Ultra,003da1b6-bac1-467b-b957-3b784e8f3590,Robert Williams,2.7
+2024-05-06,North America,Electronics,3459.81,617.19,88,26.11,3313.95,Online,Treatment Plus,162e77a9-6b8f-4784-9d20-09ef29319429,Joshua Hernandez,3.4
+2024-01-30,Australia,Toys,1436.06,142.19,72,13.12,654.06,Online,Say X,bda669cf-db66-403f-a939-464366e62244,Mr. Victor Turner,1.0
+2024-10-16,Asia,Groceries,3939.05,525.25,41,0.68,273.52,Wholesale,Break Plus,254e2ce8-37c4-4eaa-8101-18b278994c50,Jennifer Douglas,2.1
+2024-06-09,Australia,Groceries,3521.09,649.1,27,1.45,365.74,Online,Establish X,a553693e-7e92-4846-8c2e-cd1c5787c10b,Jessica Thomas,3.3
+2024-08-16,North America,Toys,3999.6,786.5,91,2.65,3172.87,In-store,Individual Ultra,0bd7fe8a-adc7-4b7d-8ed3-1bdef237c2f5,Tyler Hill,4.6
+2024-03-27,Africa,Groceries,260.06,160.65,13,4.75,1839.73,In-store,Life Ultra,c97c3326-1871-44be-b2bf-66dd5fd58348,Taylor Rodriguez,1.0
+2024-02-11,Africa,Furniture,2315.62,690.63,58,27.44,3282.63,Wholesale,No Pro,e1dc9e9b-5b88-4acf-b0c2-97a0f9a17065,Robert Wilcox,1.8
+2024-09-03,North America,Clothing,3193.66,618.06,48,25.95,2295.04,Wholesale,Age Ultra,1579fb75-4338-4544-87d4-c5e5a1f9a1a4,Teresa Barker,4.0
+2024-10-22,North America,Furniture,719.03,99.48,70,17.29,2040.31,In-store,Event Pro,4737f225-8382-47b6-a1b3-af3b022937e3,Ashley Kim,3.9
+2024-11-24,Europe,Electronics,3955.48,741.09,9,18.58,3608.74,Wholesale,Often Pro,cd0890c5-33cd-4a08-a511-3544994fdba8,Miranda Valdez,4.7
+2024-03-10,Australia,Groceries,1267.61,443.98,64,1.65,721.0,In-store,Even Ultra,a3f4e982-e0ae-4919-b3eb-91ab3a74b6da,Alexandra King,1.0
+2024-03-28,Australia,Furniture,1795.52,495.13,10,24.46,1176.91,In-store,Eat Pro,8f46feff-39bb-48bd-a219-8e1c9ab5c0c9,Chase Rodriguez,3.7
+2024-09-09,Europe,Groceries,4624.09,483.19,86,10.8,2600.69,Online,Government Pro,ba2c7e7f-677e-4c32-9f8a-7dd32191ed73,Erin Garza,1.3
+2024-01-05,Africa,Clothing,2851.22,260.69,9,16.01,3101.3,Online,Tax Pro,d7297035-bf93-4431-85fd-b72a30aa8d7f,Michelle Green,1.1
+2024-10-29,Australia,Clothing,2162.8,191.01,100,29.35,2429.04,Online,Leader Pro,b20e56f6-4e07-4887-8557-c1205243d119,Kevin Bush,4.0
+2024-02-11,Australia,Clothing,4730.09,130.19,41,16.09,315.12,In-store,Much X,d4877247-79b4-4209-a8ae-4fe5a8b187f3,Kevin Brown,3.1
+2024-04-13,Europe,Groceries,4671.6,500.15,47,5.49,3282.73,In-store,Occur Ultra,ed38e777-8be6-4f52-9d83-b5d828ca1b3b,Sheryl Brown,3.9
+2024-04-07,Asia,Toys,4647.55,638.95,63,24.96,3691.36,In-store,Generation X,43d4311a-ba6a-47de-a0a4-cc3284ce51de,Jacob Weeks,3.2
+2024-05-13,Australia,Clothing,3554.16,899.8,28,18.45,273.87,Wholesale,Would Pro,22af9e14-1fcf-4eb9-8a11-e2e52af8ceb2,Jonathan Wilson,2.3
+2024-03-13,Europe,Electronics,4068.28,711.19,30,3.59,1796.08,Wholesale,Spend Pro,b0fb266b-7465-449d-b660-c1aa0e4680a9,Jacob Greene,4.2
+2024-02-10,Australia,Toys,412.23,67.64,92,18.98,2325.3,Online,Theory X,23aab4b2-e981-487f-9b82-64cfe7c91516,Alexandra Barton,2.1
+2024-02-01,Africa,Toys,191.9,904.21,36,15.83,3086.08,Online,Near Plus,b12c24ed-3fa8-47a7-9421-a04aa124e3d9,Kimberly Woods,1.1
+2024-02-21,Australia,Clothing,2192.88,953.74,66,1.93,3325.65,Wholesale,Voice Plus,83a9bd3d-7ba9-411c-a684-0b0cedf1e0cf,Sarah Livingston,2.0
+2024-05-26,North America,Electronics,4944.96,618.94,66,21.96,29.89,In-store,Treatment Ultra,9ed1f52c-4508-42b5-8813-cc891073a2ae,Elizabeth Clark,3.6
+2024-07-11,Asia,Toys,4884.75,517.4,26,24.86,481.94,Online,Father X,426ac3d6-64ef-4f54-babd-f7d003f67df9,Steven Mitchell,1.9
+2024-05-13,Europe,Electronics,1192.68,139.45,49,20.14,1636.9,Online,Pull X,0b55cf2c-45c8-4d74-8714-1a5859cfec22,Dwayne Wong,4.4
+2024-07-28,Australia,Electronics,1385.36,890.23,81,11.09,1775.53,Wholesale,Actually Plus,655e1109-5043-4af4-87cb-6a8e7e774a88,Alison Ward,2.4
+2024-09-06,Australia,Toys,633.76,855.91,14,9.76,357.02,Wholesale,Someone Pro,840309fc-3415-4966-a18a-87fc36123726,Heather Griffin,3.7
+2024-03-06,Europe,Toys,4652.51,44.67,82,28.15,3588.6,In-store,Way Pro,bacedeb8-4e9a-4f50-9787-81f66f1df9c7,Christine Cowan,3.7
+2024-02-28,Asia,Toys,3440.93,250.69,55,1.24,2337.53,Online,Probably Ultra,ef50c44b-9257-4058-bcac-023f73d2da44,Christopher Reid,1.0
+2024-11-04,Asia,Groceries,1294.28,370.87,55,11.26,3574.58,Online,Old Plus,79a08086-21f6-4b97-8feb-14b095d5d7ff,David James,1.0
+2024-08-17,Europe,Clothing,2867.24,570.36,84,12.5,2716.6,Wholesale,Suffer Ultra,b544ee58-9bda-4d52-b091-a5d3d6cc7993,Lindsey Martinez,1.3
+2024-05-17,Africa,Clothing,387.63,119.08,94,3.17,1846.76,Online,Alone X,ce88fe02-ba4a-49e0-8f4a-9b8e06e3d66f,Susan Jones,3.3
+2024-05-08,Australia,Electronics,438.69,295.13,4,25.36,2730.4,Wholesale,Protect Pro,85d18922-9605-4938-883b-621dc74d19dc,Amber Chambers,4.4
+2024-01-01,Europe,Groceries,168.46,108.21,27,3.67,3925.58,In-store,This X,48a28e33-f861-4888-81a8-d970f3484eaf,James Glover,4.7
+2024-06-26,Europe,Electronics,1811.88,786.56,98,7.98,2193.81,Online,Make X,570994e1-9d1d-4283-97f9-0359d2d557e2,Samuel Anderson,1.8
+2024-04-17,Australia,Groceries,3556.16,334.38,77,2.44,3258.94,In-store,Leave X,89bf02ff-066f-4567-9e70-ca85901fd8ad,Brian Merritt,3.6
+2024-12-14,North America,Groceries,844.92,420.4,86,0.32,1168.94,Online,Break Pro,8e217466-33a5-46bc-901b-a1e4ba9b1cb2,Kaitlyn Simon,4.7
+2024-10-28,Europe,Furniture,1086.68,196.18,63,14.56,714.92,Wholesale,Political Ultra,3a4e5d98-3141-49bb-968d-0eb554a73cda,Sherry Montes,3.8
+2024-08-23,Australia,Clothing,1008.61,738.13,8,19.52,26.8,In-store,Entire Pro,91d3e41e-b029-4e35-83eb-059c81e9f132,Eddie Benson,3.8
+2024-04-08,Asia,Groceries,1068.3,476.38,56,7.54,3214.29,Online,Politics Pro,de4e573a-e20b-4fd8-ae61-375f19faeb1d,Susan Wilson,1.4
+2024-07-07,Asia,Electronics,636.14,14.77,63,4.28,957.59,Wholesale,Degree X,fd245a42-9e1d-4ccc-8696-753da0bcbeca,Deborah Robles,2.5
+2024-11-05,Australia,Toys,4554.51,88.59,98,11.55,486.15,Wholesale,Own Plus,35c96668-1c88-4e71-a4a6-93fc510d4914,Donald Myers,1.9
+2024-08-30,Asia,Electronics,613.86,79.13,61,7.78,398.92,In-store,Us Ultra,1863ad9c-d22c-48a0-b63d-b022233d3a57,Nicholas Kelly,4.4
+2024-06-03,Africa,Groceries,1866.53,793.63,63,14.42,555.12,In-store,Could Ultra,02cebc60-fcd1-473f-a8c8-0f6a7b72c7ff,Cody Holden,1.8
+2024-03-06,North America,Clothing,2720.46,811.19,92,14.71,3798.68,Wholesale,Before X,beba184e-64e5-4550-8bdf-c4a2383595af,Larry Martin,4.1
+2024-02-13,Africa,Groceries,4051.57,557.92,24,10.63,3588.33,Online,Plan Pro,2d4f12b6-b5f3-406f-845a-52cf39882fb8,Shelly Obrien,2.2
+2024-09-03,North America,Groceries,1862.44,962.42,1,22.13,3757.03,Online,Leader Ultra,17f74e7b-650e-462e-81e4-e277fb2053e4,Alexandra Gonzales,1.9
+2024-03-18,Africa,Furniture,3332.82,342.17,13,29.27,451.68,Wholesale,Research X,abe81f08-acf2-43a9-bb54-e3bdb1a37b03,Nancy Evans,4.4
+2024-08-22,Africa,Toys,2472.27,123.26,15,16.7,766.72,In-store,Letter X,3dd9edc0-3770-49b0-8085-70fbd2444b65,Spencer Gordon,3.9
+2024-08-14,Africa,Furniture,1480.12,120.03,75,16.85,2193.49,Wholesale,Against Ultra,93271a17-cb29-4d4f-84d8-e4e92c00f9cb,Mrs. Crystal Gaines,3.3
+2024-07-10,Australia,Toys,63.59,449.57,87,11.57,379.53,In-store,Hundred Pro,a6b28bf9-73a9-4425-b1a7-f29785dd546a,Jerry Phillips,1.1
+2024-02-18,North America,Toys,1259.78,609.21,41,24.96,1593.34,In-store,Alone Pro,01bf5518-a2c1-4930-94ed-4bb9c3998809,Annette Dunn,4.3
+2024-03-25,Africa,Clothing,672.44,72.58,59,7.09,849.84,Wholesale,Improve Ultra,477d145c-4614-4602-ab14-5302fc51b604,Amy York,3.5
+2024-09-23,Europe,Groceries,4596.98,814.37,8,20.45,1805.65,Wholesale,Worry Ultra,2ec0dc99-8fa1-46b8-9ecb-70c6bee96b37,Elizabeth Brown,4.7
+2024-05-07,Africa,Clothing,1993.09,439.82,61,20.94,3535.4,In-store,Final X,595f61d4-07a5-482f-863d-ae57c307c417,Rachel Davis,2.3
+2024-10-01,Europe,Clothing,4788.81,395.8,86,28.37,3618.3,In-store,Seat Pro,ddf65d86-2466-45a1-b0f4-b82ca6ef7180,Joshua Shepherd,3.5
+2024-12-11,Australia,Clothing,1882.53,605.51,28,21.89,972.69,In-store,Ball Plus,1caf45bd-cd72-40ea-9514-5a87f62b3082,Mrs. Caroline Johnson,4.8
+2024-01-02,Australia,Toys,4680.14,34.31,24,3.53,3270.9,Online,The Plus,89c74bcc-e871-4d2f-9082-2b28e2d7255b,Cindy Diaz,2.0
+2024-12-02,Asia,Electronics,2374.05,785.11,51,20.46,337.18,Wholesale,Card Plus,6d5b3530-4325-4b21-a6d3-f2cdf2ecfe96,Jacob Owens,3.7
+2024-10-18,North America,Groceries,4909.85,339.45,52,9.3,521.36,Wholesale,Benefit Plus,ee168a7d-a504-4f74-821d-2fd736818bb1,Jesse Rogers,4.7
+2024-01-19,North America,Toys,3710.04,713.1,91,25.58,1195.13,Online,Value Pro,5e7ac7ca-68f8-44f5-8ea8-99b23a322d1c,Christopher Arias,2.5
+2024-09-13,Africa,Groceries,1242.09,35.85,6,26.05,1710.13,Online,Factor Plus,24053de5-33e7-4d1c-957e-fcc915ec59f4,Juan Reilly,2.6
+2024-09-29,Africa,Groceries,2295.73,102.47,100,3.0,3898.48,Wholesale,Because X,1779b6a3-fcbd-47de-a633-3342c029dbb4,Michael Mcpherson,3.5
+2024-07-20,Asia,Groceries,2225.39,27.81,39,23.89,2905.97,In-store,Western Plus,9addc490-2ed9-480e-b0c2-38f2fdae9cd3,Anthony Edwards,2.0
+2024-10-15,Asia,Electronics,3221.62,430.87,33,24.84,2555.79,Wholesale,Summer Pro,832afda1-64ae-4573-99b5-aba4ed4901ec,Lindsay Burnett,3.2
+2024-04-03,Asia,Clothing,1533.96,851.15,52,16.77,834.06,Online,Nice Pro,4af9d75e-d196-4179-abfd-cdd23c23df96,Joseph Sawyer,2.8
+2024-11-17,North America,Furniture,46.71,850.3,51,28.7,3099.77,Wholesale,Unit Ultra,eb348899-6f10-49ff-b47a-9acdbadc6a3f,Lisa Montgomery,2.5
+2024-02-11,Asia,Groceries,1831.61,80.48,73,23.46,1855.14,Online,Allow Plus,7c21b65c-0f35-4e62-866b-858edc7b1c23,Dawn Avery,2.7
+2024-01-07,Europe,Electronics,784.78,264.89,86,7.65,806.75,In-store,Pattern Plus,82690959-32c3-4d8d-b217-58ca695ce63c,Nancy Pope,2.5
+2024-10-31,Australia,Toys,4038.47,974.47,15,4.07,1418.41,Online,Mind X,749f2424-948f-47fe-946b-d7add8f4f026,Aaron Rivera,4.7
+2024-08-28,Africa,Toys,4234.96,598.42,37,24.09,3172.37,Wholesale,Production X,941f604d-4f54-445e-8adf-a20aa6b3f3fc,Rachael Pitts,4.5
+2024-05-17,Asia,Toys,1051.03,979.45,46,27.37,3280.72,Online,Range X,2c8f943b-d277-426f-b167-1ac24f1fbb5a,James Taylor,3.4
+2024-02-06,North America,Toys,2049.72,470.06,28,23.9,1111.47,Wholesale,Want Pro,5a71b877-eba9-48e6-8f29-7d89b6c7e408,Marie Lee,4.6
+2024-08-08,Europe,Electronics,1922.65,946.57,28,10.22,1146.59,In-store,Win Pro,4f84f5a8-a3fc-4108-9496-a8ed9d758f63,Mrs. Patricia Cabrera,1.1
+2024-03-19,Europe,Furniture,1886.28,228.29,68,13.55,3756.43,Wholesale,Clear Pro,cdf040e5-0a47-44ec-ab30-a3a90b0da42c,Wendy Cochran,2.6
+2024-11-18,Europe,Clothing,569.13,954.45,75,5.51,1224.86,Wholesale,Happy Ultra,8d096fd6-209e-4b3d-b759-5e627258a1d7,Brandon Larson,2.2
+2024-06-02,Africa,Furniture,4266.89,970.73,55,12.81,1459.94,Wholesale,Often Plus,44a55e4c-954a-40fc-9b55-ab2c349fe1ab,Daniel Tucker,2.1
+2024-02-20,Australia,Furniture,3784.4,692.01,72,12.86,1130.76,In-store,Company Plus,a8a49ed7-1f37-4a17-a922-9764211c9b62,Michael Fox,2.8
+2024-08-03,Europe,Furniture,4919.83,719.16,49,11.66,121.17,Wholesale,More Ultra,8b8923d2-f386-4bc8-84ad-23d15a36efc4,Jared Stephens,4.3
+2024-09-19,Australia,Furniture,3010.07,116.39,39,26.48,799.57,Online,Sure Plus,3a930b37-a517-4270-bfd8-e17b85f64765,Elijah Wong,1.6
+2024-06-05,North America,Electronics,1122.03,34.85,84,1.07,2766.77,Wholesale,High X,f99c6ffe-4614-462d-a1b2-c39e1f280aae,Laura Christian,4.6
+2024-03-26,Africa,Toys,4013.48,293.37,98,19.19,3607.44,Wholesale,Book X,0806e173-40b5-42b9-9ba2-6592457ece5a,Albert Moore,4.9
+2024-02-05,Africa,Clothing,1973.52,658.5,53,18.65,2135.39,Wholesale,Particular Plus,c2b3ebed-2733-41a8-abab-c444a69fd955,Rachel Adams,5.0
+2024-09-04,Australia,Clothing,2592.48,451.81,52,20.65,3810.92,In-store,Respond Pro,985d5ca1-d239-474e-bbdc-d43d4fec9b96,Natalie Day,4.4
+2024-09-18,Europe,Clothing,3371.17,124.1,72,10.65,1580.75,In-store,Brother Plus,fb39dc8b-99e3-4175-a379-798ffe914402,Ian Kelley,2.3
+2024-05-09,Africa,Groceries,3197.06,847.94,48,24.29,2941.12,Online,Add Pro,4ac4f04d-4109-40a4-84fc-38f8349718ee,Renee Fox,4.3
+2024-11-27,Africa,Toys,4147.11,863.5,62,9.42,1716.89,In-store,Full X,2baa1314-ba70-4ef1-a8dd-1383898538b4,Larry Wade,2.6
+2024-04-09,North America,Furniture,48.75,544.16,13,12.85,3890.2,In-store,Position Plus,ecc2cc4e-5796-417a-9d1c-7d280c0ff03a,Carlos Franco,2.2
+2024-11-13,Asia,Toys,2871.78,241.04,41,0.63,1369.29,Wholesale,Good Plus,a7280846-a83a-4d3c-bea4-f5d17aa42353,William Dickson,2.6
+2024-07-05,North America,Clothing,1789.8,535.04,45,21.85,263.93,Online,Vote Plus,87b824b9-34b3-4310-af51-5dcfcefbb685,Christine Howard,3.8
+2024-08-19,Australia,Groceries,4020.57,238.15,47,26.9,1088.67,In-store,Themselves Pro,2aa98476-3677-471f-a310-b04b6c909bd0,Carlos Taylor,4.7
+2024-03-12,Africa,Furniture,2335.77,511.16,84,11.52,52.0,Online,Speech X,0f79b737-c2ec-415f-83c7-647acf7bec4a,Jennifer Johnson,2.7
+2024-04-16,North America,Clothing,1396.36,724.01,53,21.07,3978.6,Wholesale,Few Pro,cf406d53-f5fb-4071-967a-06772969ec75,Kim Santos,2.3
+2024-01-21,Australia,Furniture,413.48,261.09,48,27.84,3431.83,Online,East Pro,b77a62d7-2751-47a5-bb9e-76bbf18a39db,Drew Hill,4.8
+2024-04-11,North America,Groceries,4796.96,785.45,59,8.2,3225.98,Wholesale,Above Ultra,c9c0ff8b-9d91-4601-9b01-8500f79b4666,Joshua Thomas,1.2
+2024-08-09,Asia,Groceries,3636.87,272.59,39,14.01,3258.48,Online,News Ultra,b7cef7b5-2dce-4b17-aeea-6e5edcee3cf4,Dr. Selena Mcdaniel PhD,4.7
+2024-12-16,North America,Toys,3657.81,513.16,30,9.32,2275.14,In-store,Employee X,80d88ec3-4db9-4754-806f-7bef95aa79a1,Tommy Lopez,4.8
+2024-08-21,Africa,Electronics,567.72,541.03,82,26.14,2902.99,Wholesale,Those Pro,dcc6f2db-1f9b-44c2-a27c-fcc4996422d8,Allison Foster,3.1
+2024-09-04,Asia,Groceries,1939.55,422.91,49,23.6,708.7,Online,Within Plus,4d7ab4e7-ab28-41fc-9236-13510eb8c4b0,Kimberly Williams,1.2
+2024-05-29,Australia,Toys,2799.5,347.68,70,22.67,1390.09,Wholesale,Chair X,74b873ff-3e2b-4e43-b753-f4884fad06e1,Juan Wallace,3.4
+2024-08-13,North America,Furniture,648.76,317.02,48,5.39,3467.04,Wholesale,Who Pro,554ff3d2-0dac-4d71-9258-8b8c16681f7d,Ms. Sheryl Murphy MD,4.0
+2024-11-26,Asia,Clothing,1037.85,876.0,39,8.28,2911.01,Online,Away Ultra,5ce00b8d-8126-4e55-862c-6f02fc1dcfda,Thomas Moore,3.5
+2024-07-14,Australia,Electronics,913.6,199.36,74,5.31,3278.7,In-store,West Pro,958c434e-5d7c-4e4a-89a4-e8bc0cdf2a64,Maureen Rodriguez,3.4
+2024-02-12,Europe,Furniture,316.19,555.19,31,23.63,839.12,Online,Your Ultra,69791b49-f7ea-4121-9291-a8da3c47537f,Joan Combs,3.5
+2024-10-19,Europe,Electronics,274.94,596.34,29,1.83,3389.83,Online,Wide Plus,4b854f17-b877-4c1a-a092-25fc43a63ee7,Adriana Smith,3.3
+2024-10-15,Asia,Toys,100.17,527.24,40,21.92,2269.56,In-store,Tv Ultra,d986f96e-aef2-4eaf-9fc5-6fd64f6e6fa8,Daniel Beck,1.2
+2024-04-26,Europe,Toys,993.06,347.28,100,29.36,3134.78,In-store,Visit Pro,0cfc788e-af15-4af9-b8d0-27dba39b6a2e,Roy Lamb,3.7
+2024-11-14,Africa,Electronics,4851.97,567.79,25,9.58,2432.85,Online,Citizen X,f537741a-5c47-467b-9f7d-1c94ce336951,Pamela Cannon,1.9
+2024-10-30,Europe,Groceries,1239.2,367.62,40,6.54,588.73,Online,Your Pro,c8fa021e-22f9-4c0c-9c6e-f93b903a7f33,Megan Andrews,3.4
+2024-04-09,Australia,Electronics,1216.48,136.11,71,28.68,87.53,Online,Middle Pro,e7f7f15b-8abe-4bb1-9bce-1a0465832f61,Brenda Shea,1.8
+2024-04-11,Africa,Groceries,2809.5,714.98,15,0.43,3537.4,Online,Year Plus,9c7b612e-977f-400c-bb65-754045c8269f,Sharon Howell,2.4
+2024-03-26,Australia,Furniture,449.94,72.05,70,14.78,2710.02,Online,End Ultra,2ea2d709-1fb3-466d-9518-5e7f0508a403,Jessica Cobb,4.9
+2024-08-21,Australia,Groceries,2083.51,766.32,41,18.48,1121.62,Wholesale,Wait Plus,9ece0f5f-df34-46c8-905c-0899f66af9a0,Brandon Long PhD,2.9
+2024-12-15,Africa,Clothing,4805.4,279.63,62,28.15,1467.16,Online,Use Plus,b85d2e27-a6eb-41a9-8da3-c0ca42839b2d,Rodney Arnold,4.8
+2024-03-01,Europe,Furniture,2318.21,978.15,31,1.05,2092.23,Wholesale,The X,dbb8a52f-bd90-4993-ba91-932545d53506,Crystal Rios DDS,4.6
+2024-01-29,Africa,Electronics,737.54,711.29,94,3.11,2896.53,In-store,Job Ultra,939f936d-c59a-4d68-b505-00a9f6e3678d,Megan Sparks,1.8
+2024-11-05,Africa,Groceries,313.02,947.7,67,28.9,2403.74,Online,Heavy Plus,c59425bb-6049-45ad-9e7e-5338933f720c,Dennis Chen,1.8
+2024-01-27,Europe,Furniture,4612.37,919.65,52,21.9,1584.89,Online,Quickly Pro,b17cde84-64ff-4d72-8206-e0d23acd297d,Savannah Atkinson,2.3
+2024-08-09,Asia,Toys,370.83,263.23,14,29.55,3311.26,In-store,Keep X,8c4eee60-8d32-467d-a424-ca9fdd08a1f9,Richard Garcia,4.3
+2024-12-12,Australia,Furniture,3396.06,567.86,68,26.44,1752.67,In-store,Sometimes Ultra,f86e1f41-4a1e-4a59-9f45-ff604cb1fb23,William Reynolds,4.2
+2024-03-27,Africa,Clothing,1884.31,882.82,28,23.64,3744.69,Wholesale,Sure X,60cb60c0-3809-49dd-b70b-e78d62fe910c,Toni Morgan,3.0
+2024-03-10,Europe,Electronics,507.02,658.23,44,24.64,1812.82,Online,Garden Ultra,7a57d907-148e-4188-8ad4-2ad97994e66c,Jason Marshall,1.4
+2024-06-30,Australia,Clothing,2267.05,227.99,48,16.7,2459.93,Online,Like X,b97b7379-7b4d-4fae-9989-d78a055f211a,Eric Gilmore,4.9
+2024-06-25,North America,Furniture,1659.06,151.47,87,12.2,2825.08,Online,Individual Ultra,32f495f5-5391-4e7d-8ee2-6caa56bf696b,Robert Sanchez,2.3
+2024-06-08,Australia,Groceries,3631.17,940.19,51,11.59,2594.45,Online,Medical Ultra,bc6e5cd4-a107-42ec-a3fc-b33e65a1ba14,Alicia Lambert,5.0
+2024-03-01,Australia,Clothing,1746.6,419.35,17,15.24,556.14,In-store,Unit Pro,50ed9fc7-9e5e-433b-9f5e-5e5c3b33777a,David Hunter,2.5
+2024-10-18,Australia,Clothing,4581.78,888.21,93,0.59,2003.06,In-store,Fill Ultra,f572e28e-4c1a-4aec-a291-663d1df2dad9,Sara Robinson,1.1
+2024-01-10,Asia,Clothing,779.99,963.08,49,18.8,598.8,Online,Left Pro,a95808b6-9ee9-459c-aa77-74440a2212cf,Gabriel Wright,2.6
+2024-02-04,Europe,Groceries,1781.8,917.1,43,0.29,397.19,In-store,Remember X,4f81df5e-00eb-43ad-958e-c67612166515,Stacie Mitchell,2.5
+2024-01-03,Australia,Electronics,1136.57,60.59,54,27.29,7.35,In-store,Who Ultra,256d6367-c790-4268-af73-7dfb13146ac8,Jennifer Oneill,1.8
+2024-03-28,Asia,Furniture,4894.43,343.59,25,12.82,1763.77,Online,Positive Pro,652e561a-732d-4def-bae9-454d8318f0bc,Travis Hall,1.9
+2024-04-25,Europe,Toys,4682.55,455.64,78,11.31,2852.82,Wholesale,Region X,9bfecac2-b0f5-4eaf-9050-b503acdd3849,Jordan Castillo,3.5
+2024-03-08,Asia,Toys,3956.39,123.52,56,0.33,3954.54,Online,Show Ultra,65ec29dd-63d3-48e7-85ea-8fb8253818b0,Misty Lopez MD,2.5
+2024-03-28,Australia,Clothing,3172.51,626.26,80,10.33,1267.34,Wholesale,Production Plus,c0ce4086-2fd9-47b9-b604-6d38a8035485,Jeremy Franklin,4.9
+2024-10-26,Asia,Groceries,1951.57,119.75,39,1.79,1381.18,In-store,To X,315dac5f-ef95-4518-9df2-f559c5408f5a,Kenneth Atkins,3.2
+2024-11-27,Australia,Electronics,1530.01,38.12,80,20.01,527.74,In-store,Free Plus,0ac41dea-1b47-4850-b113-dca9e5b8365b,Timothy Henry,4.0
+2024-06-24,Asia,Electronics,3192.11,330.24,43,11.72,611.18,In-store,Fall Plus,389d4069-692a-4809-ab95-1529d5169493,Nancy Wilson,4.4
+2024-01-15,Asia,Electronics,2200.51,631.01,49,7.0,2476.24,Wholesale,Thousand X,8f071745-a939-422b-a75c-b1cdd8681b09,Robert Smith,4.0
+2024-08-18,Australia,Groceries,3101.58,603.97,75,9.92,3906.44,In-store,Night Plus,c826b721-7929-4767-87ca-a82d788784c4,Tiffany Castro,5.0
+2024-05-01,North America,Toys,2672.4,230.56,39,9.68,3886.41,Online,Than Ultra,8879e915-b006-498b-9e44-abbb45d547c3,Nicole Cannon,4.3
+2024-08-23,Asia,Toys,684.02,911.39,32,7.08,2298.88,In-store,Phone X,d0acef9b-69a1-428c-b9f3-de596914395b,Candace Miller,4.4
+2024-01-03,Africa,Toys,3524.13,316.68,52,25.07,3942.81,Online,Vote Plus,31aed30d-87f5-41cc-8fa5-33a6b0e7f51c,Andrea Ford,3.7
+2024-04-09,Asia,Clothing,1806.09,575.19,41,5.31,2875.28,In-store,Specific Pro,326ee61a-d93d-48ef-9555-2d6983a1df10,Martha Lopez,1.4
+2024-07-05,Europe,Electronics,2489.36,783.72,7,2.9,209.02,In-store,Everybody Ultra,89704096-7cba-4ec7-9938-7cbc65ba23ba,Michael Galloway,1.4
+2024-01-05,Europe,Groceries,3093.04,215.97,98,3.05,2983.28,In-store,Family Ultra,b80f307b-2976-40fd-8721-f94beb288618,Lindsay Collins,2.8
+2024-04-19,Asia,Electronics,1812.24,538.15,51,15.41,3176.64,In-store,Year Plus,e67e86b4-84db-4aa5-98e4-45e1e7985a02,Judith Lewis,1.2
+2024-11-17,Asia,Toys,1454.92,64.04,95,8.51,1547.68,Online,Will Plus,67aaa972-69f1-4d73-8881-cf5e559f5564,Amy Simmons,4.7
+2024-05-09,Africa,Electronics,4613.23,458.88,56,9.01,1723.75,In-store,Follow Ultra,38592856-cc91-4198-afb5-182f78f8fd1f,Destiny Clark,1.4
+2024-05-02,North America,Clothing,3244.13,173.68,77,5.17,3773.38,Online,Read Plus,228072f6-07cb-4cad-9a33-cc5da3fddeb2,Karen Nguyen,4.8
+2024-05-03,Africa,Toys,3732.74,190.32,99,19.89,960.17,In-store,Sign X,a8899203-9094-43f7-a57c-954eb80cdbaa,Emily Trujillo,1.8
+2024-11-20,Africa,Groceries,294.07,265.99,11,0.83,1226.05,Wholesale,Health Pro,14f74a06-313c-413e-8ecc-851932573d39,Tyrone Bartlett,3.5
+2024-09-28,Europe,Clothing,2277.79,540.63,74,23.31,3680.17,Wholesale,Despite Ultra,998ba3a5-903f-4329-b1d0-9800bbe82c01,Tammy Boone,3.8
+2024-05-15,Europe,Furniture,3472.94,232.31,47,7.59,886.95,Online,Want Pro,636d66dc-20ce-41bb-9b7a-bb4199fa0fec,Julie Davis,3.2
+2024-01-01,Asia,Clothing,3560.79,864.16,83,20.51,3971.48,Wholesale,Woman Ultra,8b604cc9-fcdf-4caf-8509-fb4bdfeeec94,Molly Guerrero,4.4
+2024-12-02,Africa,Furniture,4218.81,79.62,63,2.36,1564.61,Wholesale,Onto Ultra,131b35aa-a6dc-40c1-82b1-c72d6446269c,John Ibarra,1.4
+2024-10-02,Australia,Groceries,1713.86,78.35,53,6.89,282.22,Wholesale,None Ultra,df79626a-59b5-4045-b01c-30429f5ae3d0,Derrick Brown,1.9
+2024-03-07,Australia,Furniture,2016.31,221.57,80,8.82,1653.56,In-store,Parent Plus,b67183c0-531d-458c-8671-a2a631cc7269,Daniel Wood,2.1
+2024-02-04,Europe,Groceries,4306.67,250.03,50,23.96,1905.49,Online,Policy Pro,e181cf01-9793-4831-aa32-29fb05a62e8a,Amanda Terrell,3.7
+2024-03-05,Asia,Electronics,4275.57,454.34,85,21.34,655.78,In-store,Close Plus,1ced181d-7f0e-4e8a-b228-0cae10dc1875,Kenneth Conner,4.7
+2024-05-12,Africa,Clothing,2581.89,636.53,86,21.71,867.0,Wholesale,Catch Plus,2f3745f4-6d17-4bde-b7b9-98b4de0f79e3,Anna Short,4.8
+2024-04-20,North America,Clothing,4660.86,513.97,23,18.69,940.24,In-store,Thus Ultra,2b7da297-73d3-411f-b58a-38688d87fbef,Heather Taylor,4.5
+2024-10-02,Asia,Toys,1087.66,928.82,53,19.32,3780.07,Online,Quality Pro,cd5b2a01-7f72-485c-9380-31b181fad927,Edward Marshall,4.9
+2024-03-20,Europe,Clothing,187.73,707.83,64,29.54,1064.54,Online,Remain Pro,7f086bb7-a3c7-4562-8ca9-4935ad8ce005,Joseph Lee,3.2
+2024-05-28,Australia,Clothing,2723.15,963.34,50,19.45,2416.98,In-store,Share Plus,b74ad532-f370-4bd0-8831-b51b9e6b4557,Charles Norman,4.0
+2024-11-02,Europe,Clothing,2485.39,640.9,34,12.09,65.45,Wholesale,And Ultra,65e4faee-2df2-4228-b772-1e4274684d18,Christopher Wallace,2.7
+2024-08-30,Europe,Toys,4386.52,381.11,99,1.66,364.24,In-store,Institution Pro,fbe8e2c9-f16d-4104-b76a-6d71aeba922f,Corey Dominguez,1.2
+2024-12-15,North America,Furniture,3242.64,502.04,23,4.84,598.91,Wholesale,Heart X,d5f24093-c5a7-4ed8-9cb7-f19ac70107b3,Rebecca Harvey,1.5
+2024-01-22,Australia,Groceries,4979.15,302.1,87,16.96,1568.7,Online,Person Ultra,cb7f773d-36d7-4bb6-a8e6-8915a52e638a,Cheryl Bailey,1.9
+2024-04-11,Australia,Clothing,646.83,484.06,11,22.12,1527.2,In-store,Organization Ultra,d04c87e4-ea43-490e-8b6a-beb888dbb765,Mr. Samuel Taylor,2.3
+2024-05-01,Australia,Electronics,3853.0,799.25,31,28.74,2043.42,Wholesale,Possible Ultra,de0bea69-1346-4c47-a24b-38dd1352d520,Joshua Hayes,3.0
+2024-04-03,Australia,Groceries,4966.89,693.87,69,24.89,1945.75,Online,Scene Plus,a02064bf-69c7-4072-b09d-964f6b8a476e,Kenneth Archer,2.3
+2024-12-10,Asia,Toys,2830.17,167.89,16,18.42,3936.72,Wholesale,Site Plus,18a2a862-3d0a-4edf-8191-30865153a9c0,Benjamin Smith,1.3
+2024-01-10,Africa,Electronics,361.4,720.87,53,25.73,3684.1,In-store,Option X,ffeddf77-2e83-4054-b31c-e56bc1ac8e07,Carlos Ellis,2.9
+2024-11-21,North America,Toys,1424.91,530.83,2,26.14,2633.54,Online,Us X,f7ddc2ec-c40e-4342-845c-e88d33c9556c,Robin Ford,1.1
+2024-02-11,Europe,Electronics,2665.76,888.24,59,12.12,2197.36,Wholesale,Yet Pro,9148c8d2-0a09-457a-9471-51da50409eda,William Casey,1.9
+2024-05-13,Europe,Furniture,2620.79,194.33,92,18.04,2689.56,Wholesale,Most Pro,7a2df74c-a5aa-4b7c-8238-fc3908bb1c26,Mercedes Stewart,2.8
+2024-10-23,Australia,Clothing,1373.4,699.03,40,10.06,1150.41,In-store,Fish Ultra,6758317c-7083-40a9-99d1-13ccd73d575f,Barbara Davis,3.0
+2024-11-11,North America,Electronics,2284.93,668.36,24,9.38,54.76,Online,Perform Plus,3979098e-64cf-4fa3-baaa-e30e5068ee43,Stephanie Ballard,1.0
+2024-07-19,Australia,Toys,2084.12,582.97,13,6.08,207.54,Online,Home Ultra,6e3f4440-e43b-43d0-8e67-930956d10697,Lisa Ruiz,4.6
+2024-03-23,Africa,Clothing,1672.59,993.52,46,7.08,177.8,In-store,Line Pro,0269607f-cb60-4210-91e3-1ff2f9b04efb,Thomas Adams,2.6
+2024-02-08,North America,Electronics,4043.49,66.84,76,26.45,3482.04,In-store,Speech Plus,3f176373-4a48-4166-b40e-481906d0c361,Jeffrey Burnett,2.6
+2024-09-18,Africa,Toys,4918.76,325.6,96,24.41,3629.11,In-store,We Ultra,79c85215-930e-46a3-b402-2c966486725e,Seth Rubio,4.9
+2024-05-04,North America,Clothing,1453.28,369.0,86,16.94,2297.6,Online,Data Pro,f54c11f6-425b-4214-b993-8570ff4c5417,Samuel Phillips,4.3
+2024-08-12,Asia,Groceries,3182.71,855.38,31,12.53,124.59,In-store,They Ultra,a34777ce-e0fd-4f28-bca8-1d3bd0386815,Tina Hartman,2.0
+2024-07-19,Australia,Toys,2409.68,263.41,100,24.0,3483.26,Wholesale,Also Plus,42b4a8f8-26af-4144-a3f4-c4b4e6b1d1b6,Tara Grant,1.9
+2024-01-13,North America,Groceries,400.97,491.01,34,15.03,436.23,Online,Five Pro,7c605f05-2f02-4189-a6f8-135c192cdb32,Tracy Richardson,4.6
+2024-12-07,Africa,Electronics,4980.23,598.27,36,29.19,617.35,Wholesale,Able Plus,4223ab90-5fef-4c03-8b41-d0c756eb27ef,Olivia Charles,2.6
+2024-08-22,Africa,Clothing,2075.17,106.83,13,9.6,2540.98,Wholesale,Remember X,6ebf685f-2768-485b-a453-1a4001e33aa1,Krista Summers,3.4
+2024-02-13,Asia,Clothing,2509.02,491.18,45,12.29,3812.03,Wholesale,Choose Plus,199113e4-4a79-4f08-867e-24583e16ef12,Jennifer Freeman,4.5
+2024-12-07,Europe,Toys,4772.24,643.38,81,25.21,2573.24,Wholesale,Design Pro,a62c9365-014b-4a39-99ff-a12481d753f3,Faith Reed,3.4
+2024-01-20,North America,Clothing,3093.81,109.93,82,3.04,1761.82,Wholesale,Glass Ultra,868d497c-f1ad-41c6-b2e9-5e5e290e2d20,Joseph Finley,2.7
+2024-03-03,Australia,Furniture,4529.33,627.56,90,21.29,1155.09,Wholesale,Race Pro,36709ea3-56a1-44a1-ac37-d28ea87307bc,Michael Perry,3.7
+2024-08-16,North America,Electronics,4886.05,882.52,37,15.13,3066.89,In-store,You Ultra,f53c81e9-1e22-4fed-94b2-1bc799598183,Victor Smith,1.2
+2024-07-22,Africa,Furniture,4252.72,627.61,54,21.61,2799.05,Wholesale,Discover Ultra,4b335232-057a-4655-b665-28a6ba0b240c,Stacy Roberts,1.3
+2024-08-02,Europe,Groceries,754.54,374.1,9,10.13,909.57,In-store,Customer Pro,af076a1c-b689-44da-9ef7-3e4eecf79d5d,Daniel Carpenter,2.8
+2024-09-18,North America,Groceries,2428.43,354.58,70,8.08,2109.31,Wholesale,Owner X,4e821724-052e-493e-abc0-7cf0f1911218,Courtney Franco,3.8
+2024-07-31,Africa,Electronics,1247.17,728.18,45,28.85,1597.9,In-store,Forward Plus,3fddf782-b43c-4108-8a6a-da75a7347ee2,Gary Brown,3.1
+2024-01-17,Africa,Groceries,4106.37,693.8,17,0.7,732.07,In-store,Expect X,c5d28054-a61e-433a-84bb-11a3e3b06daa,Mr. Thomas James MD,4.9
+2024-12-07,Europe,Furniture,4189.91,158.24,30,29.69,1100.24,In-store,Development Plus,656d37bb-ee9b-454b-a3b9-360aff2f755b,Patricia Powers,3.1
+2024-11-08,North America,Furniture,2191.09,517.19,79,12.06,3672.61,Wholesale,Fly Pro,49fa8dfb-b5cf-4d5b-8d98-0c4a4aa2a971,Sierra Yu,3.3
+2024-02-18,Australia,Groceries,480.18,382.18,12,17.92,1285.9,Online,Time Plus,780713f7-9e02-43f3-b975-6c897f7aab46,Andrea Aguilar DDS,1.4
+2024-08-28,Europe,Furniture,283.99,850.29,42,0.67,3304.5,Online,Rather Pro,9e8cee98-c00b-4bc8-beee-121b8427516f,Elizabeth Coffey,3.6
+2024-08-25,Australia,Groceries,41.82,262.48,55,24.6,3472.27,Online,Argue X,8e1965b9-e7f9-47df-87df-64922ef8eda8,Patty Foster,1.0
+2024-03-20,Europe,Electronics,3263.35,250.45,94,19.44,2150.4,Online,Dog Pro,1d6a73c8-122a-426b-a617-c7807211ff4e,Christina Townsend,4.9
+2024-04-08,Australia,Toys,3516.15,571.82,67,19.54,269.1,Wholesale,Whom Plus,b2adb343-f8f8-44a5-b097-b8e6b30c7ea5,Gabriel Wilson,4.9
+2024-05-13,Europe,Toys,4380.96,387.69,9,2.67,1046.13,Wholesale,Citizen X,d0ef1e5c-3ee4-4f00-bffb-316af5951dd2,Jared Potts,1.7
+2024-07-15,North America,Groceries,1725.45,522.92,30,28.18,3595.46,Wholesale,Admit Plus,bb470f83-83f2-49fe-8db4-b4511c6861f4,Kristin Clark,3.4
+2024-04-03,North America,Toys,2926.58,102.01,65,14.84,194.8,In-store,Type Pro,f6e6bfca-177a-48d7-8c4c-2ea2a44fcd31,Aaron Collins,3.6
+2024-08-22,Asia,Groceries,3247.3,974.14,49,7.28,1858.85,In-store,Whole Ultra,af207415-27c2-4b7f-964c-40b65ebe13b1,Ashley Miller,2.1
+2024-03-30,Africa,Groceries,3361.31,424.1,93,9.5,3640.82,Online,Cut X,0137c180-112d-4998-910a-bb62ca1dbceb,David Galvan,3.6
+2024-11-21,North America,Electronics,2793.98,302.17,87,12.12,3256.78,Online,Line Pro,c8685803-64a8-4973-8f76-95267f014625,Katherine James,1.7
+2024-06-15,Australia,Clothing,947.36,980.12,51,13.53,2864.32,In-store,Say X,bc52f8df-ec16-43d4-81ce-ae1025ff88b6,Barry Cortez,5.0
+2024-11-29,Europe,Electronics,1724.98,727.39,18,21.17,2953.76,Online,Compare Pro,93c378d4-2a54-4ea3-97d9-bf8536fc569b,Holly Reed,3.6
+2024-04-30,Europe,Clothing,4976.51,375.14,15,5.37,3907.92,In-store,Produce Plus,78f17989-8f2d-4409-9f51-29c6982d17fc,Mark Cooper,3.7
+2024-01-24,Africa,Clothing,3765.37,466.93,89,18.1,3943.82,Wholesale,Without X,f337128e-42e7-496b-8b13-dae503624f1a,Jane Craig,2.9
+2024-04-02,Africa,Clothing,384.19,772.52,21,4.23,2288.3,In-store,Half Pro,073def2e-e3ed-4668-8016-925f21bf2eaa,Jennifer Sanford,1.9
+2024-03-14,Asia,Toys,2747.72,712.64,40,26.76,3973.42,Online,Appear X,9602d289-3020-4a52-9521-1a76c454080a,Hunter Gallagher,3.7
+2024-04-16,North America,Electronics,970.31,605.96,6,8.43,3657.41,In-store,Sign Ultra,4fa172ee-92d1-4ac7-a10e-51537365d5d1,Carolyn Ramos,5.0
+2024-03-25,Asia,Toys,4413.37,343.5,47,15.78,1102.38,Wholesale,Remain Plus,d3501727-b3da-415f-bdad-259ade62be2e,Alicia Beltran,3.4
+2024-10-05,Asia,Furniture,2874.05,746.03,94,18.36,1635.12,Online,Public Plus,9e2f20d0-3f0f-4365-9797-25aa52386470,Joe Day,4.6
+2024-08-28,Europe,Electronics,1165.43,943.56,83,21.67,1303.59,Online,Mother Plus,952b6dce-483d-4c9a-b836-f664ed7ef7a5,Lori Jones,2.4
+2024-10-23,Asia,Toys,1060.69,24.13,90,21.63,3596.91,Wholesale,Recent Plus,e1f483b8-3890-4743-b5ac-1bb102a5b9e1,Jordan Hurley,2.4
+2024-02-18,Australia,Toys,2898.19,641.82,96,15.24,470.37,Online,Else X,6d3c00ab-cf5f-43ce-ad16-9e8e3d0c8588,James Sweeney,1.7
+2024-02-21,Australia,Electronics,2580.98,863.67,8,4.48,2986.0,Wholesale,Time Pro,ec75e260-b252-4d98-9ff1-a2131fb0cb18,Linda Goodman,4.2
+2024-01-27,North America,Toys,3799.27,102.47,1,11.45,2769.89,Online,Marriage Plus,26c5db2f-6d29-4a89-8813-21d9b7bbf86c,Morgan Hendricks,4.4
+2024-01-15,Africa,Toys,4022.41,144.5,91,9.95,121.09,Online,Wait X,a72ad45f-46d1-4e02-b0a9-9b9ae71db477,Chad Riley,4.6
+2024-07-04,Asia,Furniture,1796.69,710.8,37,15.59,3058.9,Online,Republican Pro,2f15520e-aadc-4579-a61b-875cb1363c55,Barbara Donaldson,4.2
+2024-11-04,Africa,Furniture,629.92,705.42,71,1.68,588.97,Online,Trip Pro,7fa60ae1-2f5e-49a5-8108-65b8da5df63b,Margaret Parker,4.3
+2024-09-21,North America,Electronics,3120.62,232.49,4,2.97,988.34,Wholesale,Law Pro,1279636d-37d8-4c09-93c7-656a174fbad0,Brandon Johnson,2.7
+2024-09-18,Africa,Groceries,1424.71,686.43,69,29.19,84.86,In-store,Whose X,e206aba8-7298-4a07-8522-138722c5dff9,Jennifer Carr,3.3
+2024-12-01,Australia,Furniture,1687.39,278.08,29,15.75,2655.83,Wholesale,Friend X,e2c949d1-1286-437f-9db8-4b5154ffc957,Steven Chambers,2.5
+2024-10-17,Australia,Electronics,4441.81,416.6,80,9.79,3132.36,In-store,Key X,dd77fe13-d6eb-4a70-a6b2-9b5977f89de2,Suzanne Barrett,2.3
+2024-11-09,Africa,Clothing,3620.61,13.53,50,23.52,1786.96,Wholesale,Quality Ultra,de15a08e-2274-4fa8-98ee-177a8c947d2e,Eric Melton,2.7
+2024-05-06,Australia,Electronics,4534.28,368.54,78,11.8,3851.37,Online,Lead Pro,4ad1e409-dfc8-4dee-9ed6-b1511774c2ba,Francisco Davis,4.0
+2024-07-14,Asia,Toys,1628.27,11.74,52,1.0,339.78,Online,Mind Pro,e429c86c-deb1-4ce4-9113-bc49181fb317,Thomas Summers,2.0
+2024-10-04,Asia,Electronics,2789.03,150.61,28,28.12,3326.07,Online,Really Plus,a5b0d300-8192-49a2-8a3f-f08b0398d670,Angela Leach,4.7
+2024-11-20,Africa,Toys,2412.22,775.42,88,22.58,104.1,Wholesale,Area Pro,7a5b07c8-589b-4a4f-a6e5-4fec64f43bce,Thomas Pennington,2.8
+2024-04-12,Africa,Electronics,2702.56,136.17,18,9.63,874.83,Wholesale,Own Ultra,c89a48e9-cae0-4337-99a0-7c9f040b3925,Dan Torres,3.0
+2024-02-19,North America,Furniture,3015.31,946.0,55,10.28,969.9,Wholesale,Instead Plus,3b1ecd3c-2333-494b-a393-2affe914f504,Michael Baker,3.3
+2024-12-03,North America,Toys,3995.23,325.39,60,27.8,2901.91,In-store,Social Pro,821ba8ce-9f92-4ed3-b7d8-7bddcfa80052,Priscilla Pena,1.1
+2024-03-14,Australia,Electronics,4354.38,199.43,50,5.66,171.49,Online,Wrong Plus,c21202bb-366d-47af-8dad-06ba8f18ed3f,Ebony Thomas,3.0
+2024-10-12,Africa,Clothing,33.41,814.2,35,22.95,1674.69,Online,Rather Ultra,3f569fcf-37d3-49df-a0c5-7c6489e9b310,Christian Fowler,1.0
+2024-04-07,North America,Electronics,3533.17,217.83,14,10.78,1104.08,Wholesale,Stand Plus,12d77675-d14a-4530-ad0b-c87d8e3e35fe,Desiree Garrett,3.6
+2024-07-22,North America,Clothing,288.08,489.95,52,1.64,1700.19,Online,Air Pro,0bcf5a57-6920-4226-aac1-66c71e84f141,Jill Greene,4.9
+2024-06-23,Africa,Electronics,2601.32,797.1,1,21.03,3118.66,Online,Discover Pro,ae9f656d-f885-495e-9f99-417e16a0b289,Kelli Wise,2.2
+2024-04-01,Europe,Electronics,4593.31,691.72,8,10.92,2498.02,In-store,Movement Pro,951dfef2-4887-4583-ae38-794f5092ae2e,Raymond Sims,3.8
+2024-09-06,Asia,Furniture,4040.94,187.83,96,18.97,1117.36,Online,Sense Pro,c7ab490a-2b6f-425b-be2d-6d6806a3163d,Paul Miller,1.5
+2024-12-02,North America,Clothing,887.21,457.87,80,13.15,3698.51,Online,Trial Plus,f1aecb1c-38ae-4189-a5f2-7d23ff6d22f3,Garrett Smith,2.3
+2024-06-11,Europe,Furniture,3520.66,483.53,37,18.58,3514.2,In-store,Early X,d638dcc7-42a2-4c16-a630-a28b563d68f1,Crystal Todd,3.5
+2024-12-05,North America,Clothing,305.36,558.56,100,29.09,910.2,In-store,Group Plus,ec64ec57-f69c-438c-b833-30580a75f811,Robert Williams,1.9
+2024-10-10,Asia,Clothing,3424.6,270.94,17,20.51,2081.55,Online,Theory X,e963c81f-d385-4e22-812c-13fb53624d4e,Dawn Jones,2.4
+2024-01-06,Africa,Electronics,2858.07,798.41,86,17.78,3855.25,Online,Heavy X,4d21d6d8-7c13-427a-9940-ab53d32b6ecb,David Abbott,4.3
+2024-05-19,Asia,Furniture,218.68,971.84,87,27.54,3049.5,In-store,Material Plus,9039a468-4de9-4dc4-be8e-a14b65c75ac2,Corey Johnson,4.7
+2024-10-18,Asia,Furniture,3109.32,984.87,57,5.13,3682.38,In-store,Natural X,5599662f-6b76-48dd-9578-99cb773883cc,Dustin Page,4.8
+2024-04-02,Africa,Groceries,1453.61,534.06,73,12.04,2044.64,Wholesale,Reveal Plus,fcb1bfb9-367c-466a-a47a-e6f1ad8a8848,Brenda Payne,4.6
+2024-11-11,Australia,Toys,4079.76,892.16,16,27.5,2793.88,Wholesale,Those Ultra,0afdadd5-2490-41a5-8006-164818afa161,Brian Stokes,3.5
+2024-02-07,Australia,Furniture,1794.61,452.95,86,1.4,810.63,In-store,View Plus,8761786e-c652-4858-80c8-46de30da0017,Kelly Clarke,3.4
+2024-01-20,Australia,Furniture,1593.65,931.52,88,7.92,3105.73,Online,Science Plus,c8097744-1150-4ab8-b5b9-565ae1ceb0ea,Helen Dickerson,1.9
+2024-01-11,Asia,Electronics,595.63,902.0,54,8.11,3573.62,Online,Position Ultra,f9006fe1-76d4-4b91-a015-174ccebcab6c,Jorge Bishop,1.6
+2024-02-21,Africa,Electronics,3566.09,735.76,45,20.8,1520.7,In-store,Reveal Ultra,e0961821-0af0-41c8-88da-deba1267670a,John Fox,3.7
+2024-09-09,Europe,Groceries,310.6,794.74,22,11.77,1473.9,In-store,The X,aaeaaf6c-96cf-425a-89d8-4c540ce8bfd3,Gary Aguilar,3.2
+2024-06-29,North America,Furniture,3762.55,701.96,99,26.37,1009.79,Online,Light X,116f60c1-2b85-434e-9375-c00f4ba1deb1,Rebecca Taylor,4.8
+2024-02-12,Europe,Toys,711.26,290.73,18,16.69,3411.07,In-store,State X,4d5118dd-eea7-4056-8f4b-46f589f851dd,Christian Valentine,4.8
+2024-01-30,Australia,Toys,1305.01,949.78,13,6.24,3709.83,Online,Forward Plus,dcdd93cb-ff13-4ffd-a386-249f27cf8ee3,Brian Callahan,4.7
+2024-04-29,Asia,Clothing,1278.22,229.87,54,18.13,1560.33,Online,Concern Pro,d8705c0b-f68c-4a89-8072-e3cca2c14a11,Nicholas White,1.0
+2024-04-12,North America,Groceries,1564.62,292.23,84,10.8,1860.84,Online,Even Ultra,714705c2-f48f-4a64-b7c5-1338714452cf,Jeffrey White,1.9
+2024-03-06,Africa,Furniture,2265.9,900.32,16,23.73,397.44,Online,With X,2522a704-b709-465e-85e9-6fc9db86784d,James Torres,4.3
+2024-06-15,Europe,Toys,3404.56,580.63,49,0.71,258.38,Wholesale,Piece Pro,23a132f5-e43c-404f-81e9-e8a39bf4d9da,Devin Stark,2.8
+2024-03-27,North America,Clothing,4523.47,567.61,31,1.64,552.01,Wholesale,Help Pro,5da11d83-8819-4df2-8c1a-9f5c920c606e,Melinda Munoz,3.3
+2024-01-18,Australia,Furniture,4420.26,207.19,59,4.65,1895.74,In-store,Method Plus,6f9b84e8-6276-4de8-9860-4fae6b5fe4bc,Jennifer Walsh,2.3
+2024-04-24,Asia,Furniture,876.58,805.46,51,16.19,2290.39,Online,Federal Plus,41030a91-e925-445c-9998-5f1f0b84573a,Christopher Silva,1.0
+2024-10-16,North America,Furniture,4161.1,349.62,67,23.15,3827.49,Online,Four Pro,a1d0b510-f8bf-4e60-8a46-d18d84ab1fff,Phillip Harris,1.9
+2024-03-11,North America,Toys,518.71,181.06,54,15.62,1390.68,Online,Meeting Ultra,7b4bc5aa-c71d-4580-a5be-2ce340474c91,Victor Price,2.9
+2024-03-07,North America,Electronics,821.32,168.41,20,13.69,558.86,Online,Take Ultra,88a5acbc-2277-4770-88de-570b5b59a048,Amy Williams,3.6
+2024-10-10,Australia,Toys,4992.44,216.7,95,7.12,3665.24,Wholesale,Serious Ultra,20515465-ddff-4949-826b-257848c68223,Kevin Dennis,2.3
+2024-10-17,Australia,Electronics,915.5,551.84,72,8.84,1963.73,In-store,Scene Ultra,41896885-a13c-4ad8-872a-9d8c4e11e16d,Joshua Bush,4.2
+2024-05-30,Europe,Toys,1400.78,322.92,81,0.25,2971.45,In-store,Outside Plus,ce96a31b-c13b-42a5-9266-6e10bcf9c396,Christina Thompson,2.3
+2024-03-08,North America,Clothing,1327.28,844.14,98,10.72,1698.38,In-store,Player Pro,169b1d88-1bc4-493c-8ea2-97a86a57efca,Keith Shields,1.9
+2024-04-08,North America,Clothing,589.19,636.01,53,18.43,446.06,Wholesale,Agent Plus,16f80017-a41d-40d8-b903-c2d906ff6ad8,Linda Bennett,2.9
+2024-11-13,North America,Furniture,3125.28,71.21,86,9.44,1913.51,Online,Purpose Pro,c84d7259-8b6c-459b-822e-f4d76bb1c42e,Cassandra Malone,4.2
+2024-10-16,North America,Groceries,1699.91,98.07,91,10.02,1832.98,Wholesale,Bit Plus,45cd15aa-3c2c-4b18-97f5-5dae4005904e,Julia Phillips,2.8
+2024-06-06,Australia,Furniture,954.09,121.45,78,8.53,3105.84,Wholesale,Effect X,1c77ad3f-5f33-48e5-b08f-deb6944e42cb,Jessica Buckley,1.5
+2024-11-29,Africa,Electronics,2826.32,982.66,19,25.75,2892.83,In-store,Analysis X,c061ccaa-1eca-4407-902e-17c81140c5a5,Jamie Turner,3.9
+2024-11-05,Europe,Toys,4067.48,163.8,85,22.19,1921.91,In-store,Owner Pro,466d50b6-3b89-4e59-8b56-20c144961cd3,Brandon Lewis,3.2
+2024-07-28,Australia,Electronics,4983.82,662.75,42,19.01,3848.35,In-store,Rest Plus,c7ce98b6-9829-48dd-a941-196040f59444,Jonathan Rice,2.8
+2024-11-30,Europe,Electronics,4301.05,127.26,48,25.89,3375.43,In-store,Call Ultra,be3d8c7a-cfd0-4c19-87a6-c59908b7f165,Kevin Jones,4.1
+2024-11-06,Asia,Toys,2591.09,85.9,71,6.31,3277.48,Wholesale,Pressure Plus,044bdc0c-a817-4ac4-a827-fd3a6f29e13e,Angie Graham,4.9
+2024-07-16,Australia,Clothing,4850.79,419.69,94,26.64,1522.45,In-store,Democrat Ultra,2686298b-5a06-49f5-8988-f07529e55b0d,James Ayers,2.5
+2024-08-15,Africa,Clothing,2423.45,510.73,80,1.09,2233.24,Wholesale,Beyond Pro,a9b11f2c-24f0-41a1-adce-c070370a059f,Nina Fleming,4.9
+2024-08-01,Australia,Groceries,3473.36,127.27,14,6.7,1536.1,Wholesale,Service X,efbea30d-5d58-400e-8d4c-66c8cbd81fab,Madeline Long,4.3
+2024-04-25,Australia,Furniture,1668.34,126.48,70,8.91,1251.76,In-store,Level X,0dd4dcbf-b2c8-4f42-8dba-ee05988ef095,Melissa Rodriguez,3.7
+2024-09-12,Australia,Groceries,1550.35,621.9,67,7.79,3618.09,Online,Rise Plus,a0510ea0-2282-47e2-8180-2428260b58b9,Joseph Kelley,4.7
+2024-02-22,Africa,Furniture,1802.16,733.52,6,12.3,2167.21,In-store,Risk Plus,4f099631-5c3a-4e8c-8548-4c3c64c635d3,Corey Gutierrez,3.3
+2024-06-13,North America,Groceries,3510.41,675.63,83,14.83,2202.26,Wholesale,Seven Pro,de540ec9-dcfe-406a-970c-acd8ee252551,Michelle Ward,4.5
+2024-01-03,North America,Toys,2347.47,662.28,84,3.71,296.39,Wholesale,Race Plus,9c9b6ebc-8e21-43d3-8057-d44cfe825478,Garrett Chang,2.8
+2024-11-13,Africa,Clothing,4943.5,704.34,28,15.53,2626.33,In-store,Our Pro,116f63ec-a7df-4a00-a14f-6ed8bfdb6378,Tami Cummings,3.6
+2024-05-16,Australia,Toys,396.29,151.93,9,8.63,1036.17,Online,Church Plus,0d5f9d35-ca43-4b00-a861-fe5d0988bd1b,Monique Brooks,2.8
+2024-09-02,Europe,Clothing,141.85,519.24,30,19.19,2528.06,In-store,Wide X,ee37291b-dea9-46ef-ae83-c5ccbeb946d1,John Pennington,1.0
+2024-10-15,Europe,Groceries,4904.75,780.17,86,10.97,142.68,Online,Side Pro,af5c15cc-3cfb-4a24-916f-4720f368d191,Karl Wiley,1.1
+2024-01-16,Africa,Toys,757.45,703.22,85,8.11,3011.24,In-store,Culture Ultra,7c468318-4707-42e4-8ca7-42ff24f9cbf8,Tammy Mckenzie,4.8
+2024-05-25,Australia,Groceries,4998.56,805.56,28,25.93,436.17,Online,It Ultra,ffd2156e-e0d1-46e5-95ae-851c509c5198,Kim Berry,2.9
+2024-11-23,Australia,Toys,2759.6,843.56,13,9.4,2931.56,In-store,Charge Ultra,170aea40-d8c5-4ae7-950e-1b356dc71805,Shannon Lucas,5.0
+2024-08-23,North America,Furniture,2958.54,99.67,62,8.4,312.31,Wholesale,Stay Pro,12ff0afa-43c3-4240-8706-0c24ec902793,Heather Thomas,2.7
+2024-05-25,Africa,Toys,3982.71,581.99,37,22.4,3991.48,Wholesale,Hot Plus,2ab2dde2-f718-434f-a28d-29348e10554f,Andrew Butler,1.5
+2024-01-09,Asia,Toys,4499.52,453.77,49,29.73,2923.66,Online,Son Pro,e02b77e0-0f26-495c-bb03-6f443fea67c4,Gregory Smith,2.5
+2024-01-12,North America,Furniture,4154.84,107.97,98,19.27,2891.18,In-store,Election X,fbef35a1-8d46-4e48-9733-6b52762f018d,Garrett Guzman,2.7
+2024-08-30,North America,Toys,1324.46,186.0,6,2.03,59.02,In-store,Letter Plus,7f658ebb-3d4e-4609-8e34-1f5ef7055840,Andrew Castillo,3.4
+2024-02-10,Africa,Furniture,2996.33,647.56,13,24.74,3904.26,Wholesale,Hotel X,c8bfcd2e-5f67-46bd-b453-b5c4b17ead9c,Michelle Ibarra,3.5
+2024-06-17,Africa,Electronics,1289.7,299.01,3,10.02,2593.17,Wholesale,Hit Plus,1f4c855e-0e43-4d8a-a141-b4a37e32a980,Kristen Horton,3.2
+2024-07-09,North America,Toys,3982.56,461.92,64,9.89,1343.87,Online,Throughout X,aeb0eb28-6418-4f61-872a-bab8c6207a24,Nicole Nguyen,1.9
+2024-08-19,Europe,Furniture,3887.69,249.75,36,18.35,356.44,Wholesale,Law Pro,5e410270-bb9d-4c18-9047-972a1e38209b,Abigail Peterson,3.2
+2024-05-14,Africa,Furniture,3793.96,585.35,68,23.43,532.96,Online,Serious Ultra,8b17be02-6320-4f87-9a8e-8e421667dd14,Mark Weeks,3.9
+2024-11-18,North America,Electronics,320.39,43.54,97,12.27,578.77,Wholesale,Exist Plus,fe7ca9c6-c3ea-4dbe-93f1-a151a2c55eac,Richard Barker,3.2
+2024-02-18,Africa,Furniture,3967.62,311.31,15,27.07,1835.72,In-store,Scientist X,71e28a40-f916-414a-94bb-9a01a19befb8,Rebecca Davenport,1.5
+2024-03-05,North America,Furniture,2817.91,487.85,91,16.42,1436.47,In-store,Card Plus,87b6d357-b434-4e58-a0c8-ab73e0a44a0f,Lisa Myers,2.3
+2024-08-29,Africa,Clothing,1416.94,632.45,53,29.46,2289.81,Online,Per Plus,536fba8f-7f15-4538-88a3-8881dcad864f,Lisa Martinez,3.4
+2024-09-22,Africa,Groceries,2501.39,624.82,54,11.24,2343.37,In-store,Treatment Plus,54247445-620a-4ca2-87e3-64b933df8a7e,Amanda Ashley,1.7
+2024-10-04,Europe,Toys,4518.81,270.74,90,17.03,1585.71,Online,Material Ultra,5b8b33c1-4907-4bb5-83ce-ccdade93d227,Jennifer King,1.0
+2024-11-26,Australia,Toys,4881.35,642.3,64,28.39,2913.45,Wholesale,By X,afeb2d36-4471-47b5-8cb8-1888e36e74c6,Christine Garcia,4.4
+2024-08-28,Australia,Clothing,2343.31,920.04,40,20.43,3625.34,Wholesale,Make Pro,a7345315-bbe1-4448-9081-f81091b90a4b,Rodney Weaver,1.3
+2024-12-09,Africa,Groceries,3668.53,378.93,55,2.81,2218.82,Online,Let Plus,3689a6ca-ebe5-4f47-807d-a98c55ca7543,Brian Gilbert,4.7
+2024-03-18,Europe,Toys,4272.32,244.17,46,14.89,3130.65,Wholesale,Yes Ultra,ea0f06ad-1e75-4a1a-85fa-7072f4a82326,Sean Clark,2.9
+2024-03-18,North America,Toys,3389.11,856.95,47,11.78,3052.71,Wholesale,Late Ultra,bd348188-54d8-4adb-8455-2883d843c642,Curtis Conway,4.2
+2024-10-15,North America,Clothing,2733.27,334.91,13,19.67,1032.91,In-store,Couple Plus,e1657917-b975-4a60-bd92-5739ffa48485,Christopher Jones,1.2
+2024-08-27,Africa,Toys,1909.01,683.89,31,21.93,1540.81,Wholesale,Official Ultra,6520485f-105d-4f78-bee8-22b5b5be9b07,April Williams,3.2
+2024-11-10,Africa,Groceries,3543.17,811.44,78,28.98,3089.57,Wholesale,Go Plus,3e39be23-22e1-412f-b1da-f700c0e60584,Dr. Kristina Nunez,3.1
+2024-04-06,Asia,Groceries,2579.36,94.47,15,17.16,2688.7,Wholesale,Pay Ultra,34253651-846b-40c6-a2e8-15475793742f,Cody Turner,5.0
+2024-04-02,Asia,Clothing,1283.94,721.6,37,2.02,872.63,Online,Picture X,5dc1bada-f727-45f4-903d-679473bf002e,Eric Munoz,1.4
+2024-06-21,Africa,Toys,1058.18,212.82,80,24.43,1597.12,In-store,Physical X,d15b74d0-c42f-4d29-9a41-ae257ec3c17a,Jason Lee,2.0
+2024-05-05,Australia,Electronics,2363.37,289.37,36,11.41,3370.17,In-store,Meeting Ultra,81b4365f-9154-4129-8625-a9e70641c918,Holly Mitchell,4.7
+2024-07-24,Africa,Toys,2756.36,98.0,71,27.21,1882.67,Wholesale,Step Pro,f686f7fe-e59c-44fb-a4f0-04649c8fc9fc,Tina Cabrera,3.7
+2024-09-19,Australia,Toys,4883.28,168.83,38,19.62,3503.45,In-store,Along Ultra,5234a665-c583-4d7b-99f7-b4c07cbf9c1f,Todd Allen,2.4
+2024-03-19,Europe,Groceries,2312.79,982.24,56,15.12,512.67,Online,Current Ultra,28747a90-04c0-404b-b748-ec08ecf641a7,Brian Ford,3.3
+2024-07-17,Europe,Furniture,127.28,936.74,87,8.82,855.44,Online,Well Ultra,f1672857-7a1e-49d1-b8e0-d39b48b07f77,Mark Butler,1.3
+2024-08-28,Africa,Groceries,1497.01,668.08,29,15.38,26.06,In-store,Nation Plus,b6527b78-f2e8-4ffa-b12e-736944057949,Erin Austin,3.4
+2024-02-05,Australia,Clothing,2007.81,422.78,35,11.47,2327.04,Online,State Plus,8c5b5cb7-bd62-468a-86bd-d014479ffd72,Amber Francis,2.0
+2024-11-22,Australia,Toys,4785.11,97.98,45,4.54,3457.65,In-store,Rock Plus,4381d8d0-9b29-4d5b-8c7d-58a5acf5996c,Ryan Huang,3.9
+2024-11-10,Asia,Furniture,3317.87,636.05,35,9.12,3485.48,Online,Several X,6754efa6-8afd-4cdc-a43b-542de396c8b4,Brian Snyder,2.9
+2024-02-16,North America,Toys,2866.5,194.22,24,10.8,2324.14,Wholesale,Race Pro,eb1af1fe-6afa-4f8e-b0ee-02d3f97eb909,Holly Flores,1.0
+2024-09-08,North America,Groceries,2258.38,843.84,70,15.53,2483.51,In-store,Boy Plus,53273cfb-4e92-4010-9bc9-930c50f9c7fc,Matthew Campbell,2.1
+2024-08-05,North America,Furniture,2746.63,771.66,72,28.31,2920.92,Wholesale,Analysis X,b145bad4-2708-4185-89aa-222fa9119b7d,Bobby Price III,3.6
+2024-06-22,Australia,Clothing,3984.56,394.35,93,13.83,3102.93,In-store,Parent Ultra,b5577277-3afb-42b5-891a-91f5a5d8e2fe,Eric Campbell,4.4
+2024-08-15,Asia,Electronics,2193.99,776.71,6,10.14,3173.1,Online,Threat X,eb7e4907-0d1d-4c77-ad16-c81dec630ba3,Daniel Jones,3.7
+2024-08-30,Asia,Clothing,4057.84,210.96,64,12.41,132.38,In-store,Article X,f93b1ab1-e82f-47a4-b30c-49cb9e1cd157,Susan Martinez,2.7
+2024-04-14,Africa,Toys,4931.17,293.82,36,21.7,2598.75,In-store,Art Plus,4c08c31c-26e9-4619-a8d2-c342f5c9510f,Stephanie Smith,1.7
+2024-10-25,Africa,Electronics,3312.57,938.33,33,0.88,3666.05,In-store,Billion Ultra,44108261-a9f4-4bca-9008-ac239dcd6b1d,Michelle Wong,1.4
+2024-09-12,Europe,Groceries,3052.25,767.05,34,6.35,347.39,Online,Both Pro,5d9aea49-5718-49c2-ae3a-56092419e4ef,Jose Cuevas,1.3
+2024-06-13,Asia,Toys,619.14,248.65,67,20.72,701.32,In-store,Career Plus,b0352ed5-6591-42f1-962f-93f68fec97d8,Christopher Miller,3.8
+2024-04-27,Asia,Clothing,3045.98,897.19,60,3.69,432.69,In-store,Range Plus,eb30b2e9-809c-4140-a000-4230ada4cddd,Noah Brown,1.8
+2024-06-08,Europe,Groceries,3770.92,298.02,58,13.46,2246.66,Online,Young Ultra,71611cf9-1dea-4a3f-a95f-e090662f9bba,Lisa Foster,4.6
+2024-08-29,Australia,Toys,2951.08,146.51,85,12.89,2948.6,In-store,Hit X,3cd23b9b-276a-4528-9123-56e890996504,Isaiah Powell,3.8
+2024-07-13,Asia,Toys,4257.92,583.43,78,23.19,500.22,Online,Together Pro,e697e235-11f4-4bec-9a39-4fafe930005c,Anthony Weber,2.9
+2024-11-06,Africa,Toys,308.29,273.85,46,2.29,780.94,In-store,Plant Plus,c201f4da-b031-4f88-af82-bfd418a93d16,Monica Mccarthy,3.0
+2024-08-14,Europe,Toys,489.58,737.64,18,3.49,2475.44,In-store,Read X,8188c855-6981-41db-bc7c-7bd8599d7324,Kimberly Solomon,2.8
+2024-07-24,Africa,Toys,863.33,948.77,98,6.21,3599.69,Online,Result Plus,5c2826a4-a62c-4124-81f8-c244426c5085,James Wright,1.7
+2024-09-03,Africa,Furniture,1374.75,981.87,57,2.51,3585.76,Online,Interview X,90d898bc-2a22-4a11-802b-f84d493feaeb,Maria Boyer,1.5
+2024-08-13,Europe,Groceries,2725.14,23.56,57,28.53,1729.9,Online,Score Pro,435ef4db-b8ba-495c-a875-fa88a130f5f0,Amanda Thomas,2.2
+2024-02-02,North America,Electronics,4609.7,912.93,30,20.55,2630.37,Wholesale,Low Pro,4859b2a0-43fa-4239-aa16-81311af43553,Mathew Parrish,4.5
+2024-02-16,Europe,Electronics,1146.63,666.96,45,13.23,2414.49,Wholesale,Dark X,ca477a0a-39d4-4a61-8894-94ea1168c9de,Brenda Davis,3.0
+2024-08-13,Australia,Clothing,2638.48,8.73,90,28.62,1465.91,Online,Nation X,88c76449-06a6-4125-8446-309144aeda8c,Gary Martinez,1.9
+2024-05-10,North America,Furniture,637.42,789.9,18,8.95,1487.03,In-store,Cell Ultra,9c45d2b4-48fe-4285-9532-7248070ee2f5,Tony Palmer,3.0
+2024-06-12,Asia,Toys,2191.86,474.66,36,1.92,2542.79,Wholesale,Anyone X,297a1caf-6618-4fd6-bcdf-b4f777de2b70,Ashley Powell,2.5
+2024-06-08,North America,Clothing,4945.97,962.14,21,14.36,502.62,Wholesale,Better Plus,52455ec8-2f1f-41fd-bd7d-664719cc7673,Sharon Mcguire,4.4
+2024-08-23,Africa,Toys,978.02,916.13,65,14.83,2520.44,Online,Reality X,daecb0f7-5dea-4be1-aeee-516cae346dc6,Deanna Stark,3.0
+2024-09-10,Asia,Furniture,4202.29,533.36,21,18.7,3742.1,Wholesale,Current X,6888a751-898f-4285-b5d8-e1dcfc7cd41d,Chad Taylor,4.4
+2024-12-09,Asia,Clothing,4380.78,974.51,74,0.05,399.41,Online,Next Plus,6e0c70d4-7746-4efa-9e34-a6f79ef14196,Louis Yu,3.8
+2024-11-21,Asia,Toys,4425.16,286.65,46,20.95,3937.34,Wholesale,Finish Pro,1cd865ce-7c1d-4b86-b1df-ab35dec22636,Anita Mendez,4.4
+2024-09-23,Australia,Furniture,1191.5,214.77,53,16.17,293.31,Wholesale,Resource Plus,6f02a7df-8127-4bc5-afaf-547598cd07b0,Lisa Turner,1.1
+2024-11-01,Europe,Electronics,3419.49,500.54,5,6.48,202.8,Online,Shoulder X,1bbeb5c9-8765-4a0c-9dd8-8aebdc83b371,Robin Carpenter,2.0
+2024-08-21,Asia,Groceries,1293.21,925.2,10,10.6,211.4,In-store,Chance Plus,a75f6c21-44a6-4ca3-938b-778e0b1724e1,Mark West,2.7
+2024-10-01,North America,Furniture,4071.15,990.82,79,1.04,3823.97,Wholesale,Among Ultra,63d2e8f0-8cab-42f3-9214-16aa44905a5b,Christopher Brown,2.6
+2024-08-19,Australia,Electronics,3780.04,469.23,99,7.37,1476.59,Wholesale,Agree X,fd472233-3aad-4668-9994-56b9022fd667,Timothy King,4.9
+2024-01-23,Europe,Groceries,4195.78,794.66,57,3.15,3990.7,Wholesale,Want X,af5709d8-5d51-478d-b479-904e74e3a8c7,Sarah Robinson,1.3
+2024-07-13,Asia,Groceries,815.34,867.84,56,22.9,181.19,Online,Get Pro,eae22329-4bad-42a4-9e9b-d536f965ced9,Dwayne Kramer,4.9
+2024-01-27,Australia,Electronics,2417.57,113.52,32,12.95,3330.77,In-store,There Pro,718880c9-68d8-4765-ba68-81fab9a1be30,Philip Wilson,4.3
+2024-05-16,Africa,Furniture,2116.24,199.54,95,23.07,633.73,Wholesale,Receive Plus,425fb106-b6bf-4947-872d-48b1fd357045,Julia Greene,2.8
+2024-04-16,Europe,Groceries,366.95,864.3,46,16.02,3866.87,In-store,Important Ultra,09253b95-ae02-441a-a977-a7ae59308e08,Danielle Bonilla,4.9
+2024-02-09,Australia,Electronics,3993.76,65.35,53,25.91,3188.65,In-store,Finish Plus,0ffb9d1e-e070-4fd6-82e6-0074b6405ea7,Micheal Potter,3.7
+2024-11-23,North America,Furniture,4360.92,212.25,71,23.06,1453.43,In-store,Lot Plus,1e94ac8d-66aa-4176-af66-1a1225b17245,Thomas Johnson,1.3
+2024-08-18,Europe,Furniture,3784.34,18.56,38,24.22,1554.34,Online,Not X,be26cbed-dabe-4cdd-8ee7-289b387b61f6,Michael Williams,2.4
+2024-08-02,Europe,Groceries,47.25,944.1,27,14.06,1635.47,In-store,Our X,b02630b9-a64a-4413-b1a9-c87646369d7e,Katherine Brown,1.1
+2024-04-21,North America,Toys,1132.96,293.02,1,22.99,108.37,Online,Evidence Ultra,5cf12e8d-e7b5-4639-b8c5-ea4c46375613,Victoria Chambers,1.0
+2024-06-08,Europe,Toys,3411.76,492.53,90,1.43,2530.86,In-store,Fast Pro,2ab4a230-785e-46d6-ae6b-c1237601351b,Heather Miranda,4.6
+2024-12-11,North America,Groceries,849.15,8.33,50,8.68,788.94,Wholesale,To Pro,7e756954-ed7e-4a83-b49f-bc0b55979bac,Jacob Sanchez,3.5
+2024-03-08,Asia,Clothing,2774.98,234.4,47,10.6,1577.43,Online,Political Plus,fb068ee6-dc16-40df-a129-280159bd64b0,James Cain,3.8
+2024-10-01,Africa,Groceries,1732.38,717.58,43,0.54,407.8,In-store,Special Ultra,2784375d-7a7f-4a84-b753-42e60331b0de,Marcus Moore,4.5
+2024-01-09,Australia,Toys,2225.69,528.64,46,7.73,1044.72,Wholesale,Record X,48c16ca8-1290-42e7-8e65-1dc392beb71e,Julie Ramos,4.5
+2024-04-30,Asia,Clothing,782.54,299.33,28,10.93,267.42,In-store,Low Plus,adbfa79a-b5c6-4209-8294-2f15032461ab,Natalie Lee,1.6
+2024-07-03,Europe,Clothing,4807.08,870.71,38,2.25,1119.43,Wholesale,Build Pro,082d62e2-e5d1-4590-afac-512a6818e05b,Kathleen Blankenship,3.2
+2024-10-15,Australia,Clothing,2024.05,937.97,85,12.38,728.53,Online,Onto Pro,6b1be915-289e-49fd-b903-d73553ba8f46,Brian Oliver,4.1
+2024-11-04,Africa,Clothing,2095.67,720.27,57,18.36,2899.59,Online,Question Pro,791bed8c-750a-487f-97eb-124198d23ed1,Andrew Taylor,4.3
+2024-09-29,North America,Toys,1230.36,441.47,35,18.06,3605.88,Wholesale,Security Pro,8a1616e0-ce26-441a-8dfa-2d5da580be40,Melinda Hernandez,2.9
+2024-11-18,Australia,Electronics,899.57,666.43,43,11.76,2797.63,Online,According X,a12b2fc8-4fb9-4560-99b5-e1cbdeca6063,Geoffrey Campbell,3.4
+2024-03-26,Europe,Toys,2312.52,171.18,25,16.32,3724.54,In-store,Third Pro,6b36fd7c-99a0-47b6-b5b7-62b2db45a099,Jeffrey Garcia,2.1
+2024-06-03,Asia,Electronics,3423.14,841.69,54,22.93,150.81,Wholesale,Customer Ultra,dd011083-5007-4f4f-bdbd-680f88b11f8b,Caroline Brown,4.2
+2024-10-13,Asia,Clothing,4687.12,418.39,5,5.29,2576.66,Online,Interesting Ultra,e7f4444a-5a2a-4cdf-98fc-da546042052d,Michael Lara,2.5
+2024-09-23,Africa,Clothing,391.99,228.25,54,8.34,2542.01,In-store,Always Pro,281afe43-476c-487f-97bb-4e40a0336b5a,Todd Palmer,1.4
+2024-12-08,Europe,Toys,4974.71,367.7,59,22.0,2343.51,Wholesale,Model Pro,d5cc1cca-0495-4e64-b501-c7d25ccda81c,Richard Stewart,3.7
+2024-09-25,Europe,Furniture,1102.0,567.6,77,8.94,1405.69,In-store,Two X,58beb0ad-af94-4da7-9a01-3ff356edff1e,Lindsey Jensen,3.4
+2024-01-19,Europe,Groceries,4469.68,536.82,24,2.39,499.38,Wholesale,Event Ultra,43eb00b3-c6ad-4268-9949-119c65a68c83,Benjamin Burns,4.8
+2024-08-15,Africa,Groceries,4095.84,467.6,85,13.19,577.69,In-store,Particularly Pro,a9fdcece-2596-4a7f-9097-8abc21732751,David Hampton,2.6
+2024-04-22,Asia,Toys,4634.08,861.85,95,6.96,1296.12,Wholesale,Material Plus,aa31a868-1c06-42cc-81e5-49c2fbfecea9,Joshua Smith,1.2
+2024-05-15,Asia,Groceries,2108.68,114.13,18,6.85,636.83,In-store,Yet Plus,68a53154-6467-4e0c-9076-14a3a4662089,Angela Collins,4.5
+2024-02-02,Europe,Clothing,1204.26,407.88,44,6.66,2425.09,In-store,Thus Ultra,eb32b899-2a3f-4492-a5a5-a23c130e7eab,Robert Young,4.2
+2024-01-02,North America,Electronics,4264.14,14.82,63,22.35,2632.32,Wholesale,Want Ultra,4d02fcfb-2d0b-4d7e-9a1f-9ecdce4ca9ad,Jason Brooks,4.3
+2024-11-20,Australia,Clothing,4024.89,246.52,49,22.53,3645.24,In-store,Him Plus,40ee0e08-0dec-4430-b280-5212cb091791,Adam Flores,4.0
+2024-11-28,North America,Clothing,2996.87,750.21,53,16.71,1078.87,Online,Manage Plus,ec86f743-0739-498c-88c5-b79ce66273ce,Lisa Fisher,4.0
+2024-06-08,Europe,Groceries,3326.69,981.89,98,23.94,3696.39,Wholesale,Say X,d0b0366c-42d9-4798-813b-caca9a6eb733,Hailey Kennedy,3.0
+2024-02-11,Europe,Clothing,4785.17,78.47,29,9.8,3447.24,In-store,Question Ultra,98c887c6-26e2-4b9b-9bf8-d6f97ee411ec,Megan Olsen,4.8
+2024-01-04,Asia,Furniture,4725.15,278.27,40,10.25,3915.87,Online,Design X,a6b855f8-2752-4123-b6ad-ca66a639f6b0,Jill Webster,1.7
+2024-02-10,Asia,Furniture,1342.5,245.92,29,20.77,809.15,In-store,Method Pro,6cd3d80f-69dd-474a-8288-3ba35e927d54,Cesar Kramer,3.5
+2024-11-27,Australia,Electronics,2204.72,302.74,60,29.2,2838.67,In-store,Stuff X,be5f2c2a-2c3c-4594-8de9-d29cbdf4136a,Stephen Hester,1.4
+2024-06-29,Australia,Groceries,2855.67,229.13,39,20.72,3671.4,Online,Feel Pro,145998a6-5e90-4f3c-9507-cd771566e768,Carolyn Torres,3.9
+2024-02-17,Africa,Clothing,1855.7,519.5,72,28.84,3783.89,Online,Accept Plus,1b7fbcd9-5d0b-406d-80b6-8c605321c98e,Kimberly Sims,4.0
+2024-08-02,Australia,Toys,433.85,671.52,31,0.76,3655.27,In-store,Indicate Pro,9938cb8a-50e9-441c-950e-e8df99064211,Mr. Charles Rogers,1.7
+2024-08-10,Asia,Toys,1688.15,643.91,5,6.92,3680.37,In-store,Something Ultra,80d8ada5-f78d-447a-b616-506244e505f9,Cynthia Perez,2.5
+2024-08-04,Europe,Toys,78.37,36.24,97,4.4,3702.0,Online,Any Plus,3cf03e66-b16f-4d48-97de-4b8667f83fef,Leon Howard,2.5
+2024-11-30,Europe,Groceries,4314.05,806.98,6,10.69,3993.69,Wholesale,Door Plus,f3cdae2c-8c1e-406f-92e0-045cc7ccb01e,Patrick Curry,3.4
+2024-07-15,Australia,Clothing,4240.55,311.85,69,10.16,1098.49,Wholesale,Traditional Plus,41103285-2ff0-4889-8423-022e39b376ff,Brittany Cooper,4.1
+2024-09-17,Asia,Furniture,4004.15,453.0,91,23.45,2453.78,In-store,Cold Ultra,dffb1dec-3e3e-4aa8-b1ad-37443dee9095,Jamie Freeman,1.1
+2024-04-30,North America,Toys,1812.0,176.18,14,23.15,167.66,In-store,Choice X,692e26cf-8704-420f-92fc-9331d853692b,Tasha Diaz,3.0
+2024-03-14,Asia,Furniture,796.02,312.59,30,11.54,2581.53,Wholesale,Image Plus,f4915558-f0cd-4949-b69e-6a6b65187ac8,Michael Davis,2.2
+2024-03-17,Africa,Toys,4489.83,411.47,64,10.93,916.81,In-store,First Ultra,81c4f2ed-46a9-4992-96dd-9e52c3be3a0c,Pamela Carter,4.9
+2024-01-07,Asia,Furniture,4103.64,590.94,58,1.7,3859.91,Online,Rule X,1dfa1dcb-011f-4af1-8cae-ce43c3355fa3,Angela Myers,2.9
+2024-10-09,Asia,Groceries,1073.01,3.98,11,9.57,2548.36,Wholesale,Car Pro,9459b3fb-e52f-4da8-b61c-3cf17bdbe68c,Alison Ellison,2.6
+2024-04-03,Australia,Electronics,3718.89,169.56,78,15.62,1482.5,Online,Pick Plus,66a141a1-b60f-45eb-8bcb-66dd1210150b,William Johnson,4.3
+2024-05-14,North America,Clothing,3222.22,330.78,25,23.37,1933.21,Online,Technology Pro,6ff50fe1-e4e7-40ae-ac33-2ccc0d4128c0,Kayla Baldwin,4.7
+2024-06-12,Africa,Electronics,1359.89,679.63,83,12.3,3236.03,In-store,Piece Pro,ca31bf69-4a11-4532-90aa-615d2b15e92d,Michael Martinez,2.0
+2024-06-06,Europe,Electronics,4665.06,68.17,33,21.32,2151.79,Wholesale,Short X,92126fb4-ac54-47cb-ace5-a550c76df788,Kimberly Rodriguez,4.0
+2024-06-09,Europe,Electronics,2697.05,235.36,90,26.7,313.69,In-store,Doctor Plus,b67d44df-0795-44ab-b7d1-839be6142602,Regina Johnson,4.9
+2024-05-23,North America,Groceries,3501.92,659.9,34,27.39,3511.8,In-store,Within Pro,1fb97682-cf53-4d74-bbbd-643b5d5e17b6,Lawrence Wilson,3.0
+2024-09-15,Europe,Groceries,3133.87,384.85,26,9.34,1816.09,Online,Check Pro,85dc6562-6ca8-477b-a703-c8180a81372a,Maria Medina,3.3
+2024-10-11,Africa,Groceries,721.42,415.94,38,27.11,1435.46,Wholesale,Theory X,4cf60416-4d56-4252-9dda-822b17a47997,Timothy Russell,1.4
+2024-08-10,Europe,Furniture,3055.18,668.84,13,13.39,2644.74,In-store,Movie Ultra,eb6b50d7-7a3c-478d-9af3-df80ac86dcd2,Miranda Ramos,3.6
+2024-08-20,Europe,Toys,2398.55,674.1,89,6.94,406.61,Wholesale,Product Ultra,5f23b300-9b38-47f3-bda6-dcc5a66e1e13,Kayla Patterson,1.0
+2024-03-07,Africa,Toys,4515.4,584.62,24,3.19,2283.07,Wholesale,Keep Pro,2e9f40e1-ca7d-4c5b-a68b-f79774c473d4,Colleen Petersen,2.2
+2024-06-30,Australia,Clothing,4463.16,6.51,64,12.13,1629.42,Online,Cultural Pro,78b5d532-aa73-4d9d-a373-012e11cc6af1,Jordan Paul,4.7
+2024-01-14,Europe,Groceries,904.63,842.39,71,6.08,1919.68,Online,Challenge Ultra,481dbd6a-64ff-481e-a569-230f8c73230a,Heather Rosario,2.1
+2024-02-14,Australia,Toys,1832.87,324.95,9,15.81,325.49,Online,List X,e8bd69cf-1910-4865-baea-00bde7328c90,Katrina Tate,2.9
+2024-12-05,Australia,Electronics,269.17,602.27,27,21.98,1263.08,Online,Buy X,add15bc1-6d83-4a2b-a8e6-06652cda18cc,Sarah Kramer,3.0
+2024-11-04,Asia,Clothing,3848.08,474.93,32,3.67,2960.85,Online,Father Plus,ab56f1ae-11be-420d-94aa-4b14a4ac88d6,Christopher Gonzalez,3.3
+2024-11-02,Australia,Groceries,3678.42,275.67,17,17.26,1222.58,In-store,Sure X,71aa6c02-9315-4858-83e5-a195b74673a2,Allen Frey,1.4
+2024-02-29,North America,Clothing,341.44,856.35,37,28.34,2313.17,In-store,Law Ultra,d7ce86b1-8756-4466-a7e4-7dc2663324ae,Melissa Thompson,1.1
+2024-02-06,Australia,Toys,2265.86,125.26,25,7.67,1866.65,Wholesale,Trouble Ultra,d0366401-154a-435f-b7bb-0c5e2e5b9c4e,Crystal Green,4.1
+2024-01-16,Asia,Clothing,1180.28,529.73,6,7.42,1871.87,In-store,Evening Plus,437c5c25-1b6f-408e-bba9-089ce606ee39,Robin Monroe,1.3
+2024-06-17,Australia,Furniture,4831.15,218.66,88,4.9,3831.7,Wholesale,Campaign X,60a71013-2528-4d52-92fe-42be2fe1f27d,Cynthia Romero,1.7
+2024-07-11,North America,Groceries,560.96,506.56,7,11.94,306.32,Online,Which Pro,008409d0-2824-43f6-81fe-665d2534c64d,Adrienne Clark,4.5
+2024-02-10,North America,Clothing,744.56,904.28,63,23.65,992.26,Online,Tv Pro,6b867679-250e-44d3-a506-0614d22b3115,Henry Washington,3.4
+2024-09-20,Europe,Clothing,2079.66,866.66,2,21.71,1013.09,Wholesale,Billion X,b4e6c184-97de-4fab-91e9-cfa8c9055b55,Ronald Vazquez,4.1
+2024-03-19,Australia,Electronics,1304.08,76.66,17,10.16,1105.92,Online,Future X,c2a2e70c-bf0e-41ef-824b-d8f6554dfab8,Tiffany Perez,3.6
+2024-10-22,Europe,Electronics,4567.43,737.13,71,0.0,282.81,In-store,Forward Ultra,7b2871e3-8195-4799-b16b-44201b30bf7f,Daniel Matthews,4.0
+2024-11-30,Africa,Clothing,4030.84,560.74,80,1.76,2332.34,Wholesale,Would Ultra,84b01fed-d0d4-48a4-94b2-8f10c17d21f3,Kyle Cruz,4.2
+2024-03-10,North America,Electronics,4074.24,878.1,97,24.25,764.09,In-store,Act Pro,cd28b963-fbb1-44ea-a602-8654ace50430,Eric Nelson,3.8
+2024-11-08,Australia,Groceries,3776.6,401.92,91,13.86,3505.03,Online,Majority Pro,fd8c5360-7063-41df-ae8e-aeaccad64a64,Heidi Sanders,2.4
+2024-01-17,Africa,Electronics,1277.55,882.68,9,10.5,1482.93,In-store,Computer Pro,ded00df2-23a3-4fd5-898b-5e671f723033,Juan Scott,3.8
+2024-09-17,Asia,Groceries,809.85,846.25,78,1.73,3629.02,Online,Window Plus,2b9df012-cbb8-4f61-8f09-e01beb200b99,Deborah Ward,3.9
+2024-03-03,Europe,Furniture,1903.91,409.2,34,21.74,3143.94,Online,Side Plus,908a02dc-cc63-47d5-bfe3-a713c0fc9743,Christian Alvarez,4.4
+2024-01-06,North America,Toys,3302.54,165.85,62,12.96,3816.61,Online,Building Ultra,604e3e97-49b2-419c-b134-a9f50e4842f9,Charles Rodgers,2.0
+2024-04-27,Australia,Electronics,1983.36,446.87,33,12.67,2351.74,Wholesale,Evening Plus,a0160a30-074a-401d-a743-3945065af2d6,Kimberly Ramirez,2.9
+2024-02-24,Asia,Furniture,980.84,530.79,62,19.26,3297.35,Online,Sister Plus,c224737e-060d-40d9-bf5e-fa8f1a5ddb22,Zoe Hill,1.2
+2024-10-17,North America,Electronics,2746.61,249.27,49,14.28,355.74,In-store,Prevent Ultra,4f07d335-b7c5-40d1-8594-fa3b0412a6da,Billy Schmitt,2.7
+2024-10-26,Europe,Electronics,3124.78,626.64,89,9.49,3685.03,In-store,Remember Pro,d9b3e1bf-4933-4cda-a4a9-90935b690c5f,Justin Owen,2.3
+2024-02-02,Australia,Furniture,4699.81,316.13,71,28.44,2120.22,In-store,Street Ultra,af82a4de-7cab-4461-babd-79c97563b40a,Patrick Wyatt,4.1
+2024-02-07,Europe,Furniture,3817.09,270.18,70,19.69,3321.83,Online,Might X,aad6e11b-b073-4fbe-b184-f8d84bed9277,Christopher Nunez,2.7
+2024-07-11,Asia,Furniture,4659.28,676.11,18,27.96,2267.0,Online,Process Plus,3bd74c76-6380-4fef-9316-8066f0dd2c0a,David Smith,3.6
+2024-03-24,Europe,Electronics,4682.46,957.85,27,7.26,2039.31,In-store,Seem Ultra,ffaf4356-7106-49be-b638-f0176d143732,Lori Jones,2.9
+2024-11-02,Asia,Groceries,3322.93,780.58,43,24.41,1060.45,In-store,Stand Ultra,c632b67a-a5a8-47cc-aed1-17fc8c72518c,Paul Oconnell,1.5
+2024-02-15,Asia,Groceries,2201.44,913.63,76,6.43,322.91,Wholesale,Yes Plus,2093aa7d-8d0c-4a92-9b93-acf783da8a8e,Brian Parker,4.3
+2024-09-08,North America,Toys,4344.85,969.76,86,22.12,1212.54,In-store,History Pro,12f9a5a9-9b55-4a04-aa5a-c3af11879b58,Christopher Solomon,4.9
+2024-02-18,North America,Toys,88.65,891.5,53,15.54,1188.35,Wholesale,Against Pro,be2ac25f-859b-4e83-87c0-ff2fdba9508b,Colleen Johnson,1.6
+2024-11-19,North America,Furniture,1682.42,97.28,14,17.24,3302.84,In-store,Middle X,5471f0fe-acf7-41af-96bb-f3224ceaa697,Jamie Mcconnell,2.8
+2024-09-07,Asia,Electronics,2194.02,974.41,72,11.65,2241.07,In-store,Create Plus,25150bc8-e428-46e4-9ee3-d2e9174af813,Parker Moore,4.1
+2024-07-31,Australia,Toys,1753.61,397.91,1,18.21,3587.08,Online,Media X,e069ac0a-5ad3-4a81-9e38-34071d67b85e,Ashley Sanchez,4.9
+2024-02-23,North America,Toys,1091.26,905.05,25,10.12,2394.44,In-store,Surface Ultra,4d6344b2-0772-4f9e-a173-e0b50b04dfad,Dr. Timothy Garza,2.6
+2024-11-19,Australia,Furniture,2970.82,718.52,19,14.44,2029.31,Wholesale,Dog Plus,787cd8de-af89-4b5b-99b1-53596fcf5f44,Jason Douglas,1.9
+2024-08-19,Europe,Clothing,1037.11,91.71,97,3.51,3363.51,Online,Memory Pro,dd8fb4d5-d7ac-4e46-8b81-e58421ca2c05,Charles Smith,3.6
+2024-05-16,Australia,Toys,1828.24,888.64,44,19.22,3621.6,Wholesale,Loss X,189b8256-de02-456f-bfa9-5592d1d5af53,Angela Walker,4.1
+2024-04-04,Africa,Clothing,958.0,421.14,24,0.25,1607.86,Wholesale,Seem X,735a46b8-ed75-4507-b66d-f156c70f1a82,Terry Greer,4.0
+2024-09-11,Africa,Clothing,1746.88,824.99,59,5.86,2294.96,Online,Pay Ultra,27d0d2e8-0497-4a32-beaa-4466a4545adb,Lori Taylor,4.3
+2024-10-12,Europe,Furniture,3952.95,846.22,49,4.23,3633.77,Online,Result Plus,df421b8a-a7b0-4f1e-9016-7b63549b87ad,Ryan Cruz,3.3
+2024-01-19,Africa,Furniture,1584.25,626.75,88,2.39,2731.05,In-store,True Plus,0f9a794b-25b0-4bdb-92cd-973bd31e7ba1,Chad Howard,1.6
+2024-04-15,North America,Groceries,2124.88,172.43,28,5.56,1072.39,In-store,Lot Ultra,5c29e6a0-f44c-4a68-8b28-3722e106110c,Cynthia Anderson,2.2
+2024-07-21,Australia,Furniture,2877.96,816.74,47,22.5,1185.72,In-store,Few Pro,16a36551-e32a-4c26-819f-0de154980ab7,Dan Burns,4.6
+2024-06-30,Europe,Electronics,1671.06,502.92,95,22.26,3042.36,Online,Yard X,3429e44e-15d0-4a74-9ac3-f6792659c35b,Michael Tucker,2.3
+2024-04-02,North America,Electronics,824.77,421.25,59,7.03,2017.32,In-store,That Plus,aad8fde8-f07d-4039-864b-adfc548db94e,John Johnson,2.7
+2024-07-20,Australia,Groceries,2123.43,422.79,45,22.22,1124.51,In-store,Trade X,971b0da7-558c-49ca-a44c-673ade039117,Stacey Wells,1.6
+2024-11-01,Europe,Toys,1928.53,393.76,47,19.88,119.27,Wholesale,Summer Pro,80adad52-52d1-4d1b-846c-479b97a7f92a,Amy Ashley,1.5
+2024-11-09,Australia,Furniture,3549.45,587.93,97,11.12,2473.3,In-store,Short Ultra,1b83ffee-5824-4358-a74c-c5be695c49d4,Richard Williamson,1.1
+2024-09-09,Africa,Clothing,4277.25,702.54,2,10.33,21.15,Online,Everybody Plus,c5ba0f7d-f140-440a-95b4-dd414debf6cf,Regina Sharp,4.7
+2024-10-01,Australia,Electronics,2781.0,590.83,38,29.32,388.01,Online,Like Pro,61099edc-1813-4fe1-8184-774ddaf89df2,Sarah Coleman,4.9
+2024-04-01,Asia,Clothing,4631.67,671.07,7,26.33,2578.75,In-store,Early Plus,33a91d21-ede3-4303-89df-e79cc2295bee,Randy Robertson,3.7
+2024-01-01,Australia,Groceries,2733.17,414.82,93,15.71,1433.13,Wholesale,Hear Ultra,378a8e6f-62bc-4bf7-8af0-bea17ca44098,Jay Smith,3.4
+2024-01-09,Australia,Groceries,384.86,475.7,77,13.87,2781.96,In-store,Able Pro,cb34c56e-24fe-4f28-9e60-959d014cc272,Danielle Jenkins,1.8
+2024-09-04,North America,Toys,2465.75,74.57,62,28.09,2649.05,In-store,Imagine X,f3b6ff99-087b-4ef8-99f0-abc5a0a4cf8a,Raymond Collins,1.3
+2024-02-17,Asia,Furniture,1032.42,905.03,81,15.32,775.42,Wholesale,Their Plus,b70e01fe-f1b9-4fd6-97b1-071cca33e2e4,Alexis Delacruz,3.9
+2024-05-23,Africa,Toys,1751.92,575.4,48,19.34,622.73,In-store,Past Plus,e9f94811-3377-42ed-ac43-fca21e538eec,Alyssa Garcia,3.8
+2024-08-11,Asia,Furniture,1057.57,160.46,84,0.73,3459.27,In-store,Both X,3ad57fc5-0ced-4cc5-b954-4afd323ddcf8,Elizabeth Kelly,2.0
+2024-03-19,North America,Clothing,4841.89,205.32,43,9.92,3216.48,Wholesale,Art Ultra,f00c23a4-d127-4823-a8ae-afc5a8e3611f,Hannah Greer,2.4
+2024-08-01,North America,Furniture,2411.99,817.09,82,4.03,2487.68,In-store,Issue Ultra,94a6822a-32b1-4128-9532-6700efdaaf36,James Dixon,3.4
+2024-06-03,North America,Toys,3598.97,391.35,75,15.48,2652.49,Online,Region X,e82ff3e4-38b6-42d0-a805-c5ece67a0721,Clarence Mccarty,3.7
+2024-07-06,Europe,Groceries,3823.59,893.86,40,25.51,3032.99,In-store,How Plus,e1bb5061-614f-45d0-a15c-b94bac253b82,Alyssa Hammond,2.7
+2024-02-18,Europe,Clothing,2251.29,590.16,53,11.07,1308.61,In-store,Position Pro,23688aa2-77da-44b7-827f-e6981c977503,Robert Peterson,3.1
+2024-05-07,North America,Electronics,4250.18,609.31,45,8.11,1362.52,Wholesale,West Pro,79b2a3bd-f489-424f-af00-bd93708fc868,Theresa Perez,2.9
+2024-05-18,Africa,Electronics,2001.22,620.54,27,16.25,2695.5,Wholesale,Pass Plus,736b9256-b835-47d9-896c-466756cb78a7,Anthony Jones,1.4
+2024-01-25,Australia,Groceries,3702.68,90.12,42,27.08,1992.23,In-store,Spend Ultra,033151c9-5d25-4683-a496-d08f968fd6a7,Elizabeth Cole,4.7
+2024-04-20,North America,Toys,239.41,247.39,38,7.99,2975.78,Online,Campaign Plus,29510dae-70e9-4dde-8c1f-4bf0359d2a16,Cindy Moore,3.4
+2024-05-14,North America,Toys,2812.2,277.91,95,27.21,1308.67,Online,Score Pro,dc3942fc-afb5-4a97-89e2-e3e4fced9346,Ian Bailey,4.9
+2024-10-23,Africa,Electronics,1651.44,944.47,62,17.37,5.89,Wholesale,Off Ultra,dbb92295-28e5-4cd8-a161-342c2775b577,Nathaniel Hill,3.7
+2024-01-25,Africa,Electronics,3022.77,247.07,94,15.62,1260.03,In-store,Health X,8df41b5c-fec4-47dd-9c72-360641dedd51,Brianna Sheppard,1.2
+2024-02-23,Europe,Groceries,672.04,170.79,55,9.91,2009.07,Online,Truth Ultra,55229d5f-1283-4752-9398-8ab43dda5648,John Gonzalez,2.5
+2024-11-23,Australia,Furniture,1296.57,220.46,27,1.18,733.85,In-store,Personal Plus,316eeee6-967e-4d82-9099-413f1399393d,Antonio Mann,2.0
+2024-11-05,Africa,Toys,1807.9,502.19,61,16.78,2871.44,Wholesale,Pretty Pro,9dbf15e0-e071-49d6-af1e-c0f6be7d8679,Gregory Padilla,1.0
+2024-11-27,Europe,Electronics,2824.96,628.48,65,0.64,198.81,Online,Likely Pro,adf7ec76-be1c-433d-a531-4bfab8b1d5b6,Mrs. Nancy Ramirez DDS,2.4
+2024-02-12,Asia,Furniture,3673.14,920.76,58,1.45,3843.45,In-store,Who Pro,cb68a13a-7afb-459b-95e8-145dda77a6ac,Joshua Mcguire,4.1
+2024-11-02,Africa,Electronics,4984.29,899.79,81,2.7,1896.68,Online,Point Pro,be492588-1293-42ad-b2e2-550b8d3ff450,Steven Mcintosh,4.0
+2024-04-27,Australia,Electronics,3243.87,828.54,57,23.89,693.13,In-store,Over Pro,a627c827-1676-4ddd-a83f-07cfe0d86863,Jessica Ho,1.1
+2024-04-03,Asia,Electronics,4397.18,148.42,44,23.67,1332.57,In-store,Reveal Ultra,8c8b4b36-0f88-46ce-bc9e-32a0035ebf0d,Andrea Hardin,4.3
+2024-01-22,Asia,Groceries,1429.18,171.09,63,6.91,1456.93,In-store,Little Ultra,e000cfcc-e989-48e7-86c5-63b901fe8388,Gregory Mcdonald,2.7
+2024-04-27,Asia,Groceries,4831.08,915.37,66,4.9,2613.81,In-store,Read Pro,84ae4ed5-c500-42b6-a1e5-423bb9017f75,Calvin Cooper,4.0
+2024-04-09,North America,Furniture,424.04,334.29,56,28.82,3486.87,Online,True Pro,1ba1b365-e24a-40c3-8e88-2a6433356300,Heather Griffin,4.6
+2024-03-08,Australia,Clothing,1289.51,906.3,14,11.02,708.36,Wholesale,Spend X,4a626c79-7fe4-462e-85c2-06686fbd6cca,Donna Padilla,2.9
+2024-10-30,North America,Furniture,2565.84,365.52,89,14.2,3160.66,In-store,Call Plus,e48c7c17-7896-4ccd-a0f3-fe665e68b704,Travis Mitchell,1.9
+2024-03-08,Australia,Furniture,4431.31,496.46,57,13.25,1494.65,In-store,Firm Pro,51e363a0-a6ef-487a-9c28-80f52ba08119,Shelly Cruz,4.7
+2024-01-29,North America,Groceries,2366.61,61.61,3,13.05,914.63,Wholesale,Watch Plus,59b89f37-fd44-4368-8eb0-21cc52e9d2bd,Jennifer Jenkins,1.4
+2024-09-09,North America,Groceries,3000.07,350.21,50,4.93,2500.57,In-store,Today Plus,5f8d12c8-c6ad-43e1-aa99-3bdd5370b541,Jocelyn Sims,1.5
+2024-02-29,Asia,Toys,2093.84,774.78,88,23.32,484.69,Wholesale,Five X,01ae3e75-3eb3-41c0-82dc-7223f6060c0e,Scott Golden,3.4
+2024-07-08,Africa,Electronics,2148.27,382.28,49,11.05,1705.67,In-store,Drive Plus,b9e39cea-bbed-4f65-b46a-de53340c3642,Miranda Brooks,1.1
+2024-09-20,Asia,Furniture,19.65,98.95,11,28.87,339.0,Online,Enough X,3069a3ad-5218-4755-8564-2a2360c3369b,Mary Maynard,3.8
+2024-02-15,North America,Toys,421.65,668.95,42,27.51,3013.99,Online,However X,7ed578f2-ea27-4842-a72b-474173f97307,Melissa Yang,1.2
+2024-12-12,Africa,Furniture,4255.1,767.2,4,14.51,2577.29,In-store,Spend Ultra,5af817fe-b0b6-40b5-8deb-f3e183660351,Patricia Kim,2.7
+2024-02-11,Europe,Groceries,2943.31,232.11,51,23.52,1739.51,In-store,Woman Pro,1ad870cc-197a-4268-bef7-fedfaf65f480,Brandy Barnett,4.4
+2024-07-22,North America,Clothing,4110.97,703.55,50,21.24,1032.79,In-store,Do X,78e6b225-8a40-4590-9af1-7938dbe67eb8,James Hall,2.4
+2024-07-22,Africa,Electronics,2600.45,236.07,15,3.22,3879.79,Online,Television Ultra,a4b8e653-6822-4050-a863-3af85dfc7222,Maria Martin,2.3
+2024-03-21,Africa,Furniture,2107.83,802.47,40,8.88,551.58,Online,Grow Ultra,add5d5e0-2e63-4dd1-8f62-4252cce49d2e,Donald Thomas,1.1
+2024-11-21,Africa,Furniture,3794.71,900.61,98,18.86,287.1,In-store,Audience Ultra,725475e6-29a5-48da-9687-7a95b1a15dc9,Dylan Edwards,5.0
+2024-12-05,Europe,Electronics,2069.63,447.91,22,3.35,1752.21,Wholesale,Western X,55d1080f-6f7a-4bf0-81a1-678fc7139719,Misty Graves,3.7
+2024-07-21,North America,Toys,4515.51,15.86,85,1.87,240.31,Online,Measure Plus,6c77477d-d1e7-4a7b-9717-f5b755f78d15,Randall Davis,2.3
+2024-09-17,Africa,Clothing,2237.28,339.0,62,27.95,2708.65,In-store,Week Pro,beff4336-0ecc-4986-a27d-10c228824ed6,Charles Price,3.2
+2024-10-15,Australia,Toys,2390.04,451.92,10,5.05,131.98,Wholesale,Others X,9d4e3aaf-eceb-4ed7-80e1-5b63e88bded6,Steven Greer,3.7
+2024-08-02,North America,Electronics,1049.42,969.54,99,1.46,52.76,In-store,Dinner Pro,c8fa545c-8536-4fd9-a330-21ced37180cc,Timothy Ryan,4.7
+2024-09-29,Australia,Electronics,3247.37,103.07,75,14.95,482.79,Online,Good Pro,9d7957ba-3ecc-426d-b990-ab40d598a803,Benjamin Morales,4.5
+2024-11-01,Africa,Toys,1072.4,660.3,12,7.08,611.03,In-store,Reach X,a2d88bb9-222d-4d8b-93b6-e60616346afa,Daniel Floyd,1.2
+2024-10-24,Asia,Clothing,2484.85,162.47,35,7.61,2835.31,Online,Professional Ultra,2565bdab-d1ca-4216-bc3b-ed0f3e30fa08,Robin Parker,3.1
+2024-04-17,North America,Furniture,2423.94,886.1,37,2.46,2421.25,Wholesale,Include Ultra,8b773930-b26a-4f90-afac-41f81718309e,Patrick Arias,4.3
+2024-01-19,North America,Toys,530.39,989.35,78,27.7,3202.03,Wholesale,Store X,12a4c4c8-5fa5-46d3-8b58-fdbcc63f358b,Brittany Fisher,3.0
+2024-05-08,Asia,Groceries,1016.41,121.12,54,20.62,3832.77,Online,Reason Plus,df3a89b0-92eb-4780-b17c-0c21329a4570,Anthony Harris,3.0
+2024-05-16,Africa,Furniture,3488.01,904.29,65,18.16,1465.9,Online,Event Ultra,70c174c4-06d3-4b06-b5b4-b61f770a70ba,Jordan Spears,3.5
+2024-03-10,North America,Toys,2945.49,626.04,97,3.46,1385.99,Wholesale,Really Ultra,57e2e0a8-8dac-449b-a524-563be06f3768,Scott Thompson,2.0
+2024-09-12,Australia,Groceries,4174.69,444.86,7,2.65,3971.31,In-store,Break Ultra,cc51ff58-af70-4e59-a4a6-7dff5ffcd4f8,Pam Brown,4.6
+2024-08-20,Australia,Electronics,2587.44,739.38,81,3.85,728.47,Online,Cost Pro,6700fc39-1333-4cf7-a7c4-c7c09ddba215,Steven Morris,1.1
+2024-07-12,Australia,Clothing,949.28,642.37,55,23.68,2616.56,Wholesale,Board Plus,b2124a7b-2d5e-4b02-a314-d54db2366a84,Michael Valencia,3.1
+2024-03-06,Africa,Toys,2943.52,391.5,16,25.45,783.1,Online,Almost X,349f7074-7a8b-4184-850b-0290443a8842,Allison Coleman,5.0
+2024-11-14,North America,Clothing,2633.47,531.31,11,0.78,1881.02,In-store,About Ultra,99bf9506-93ca-48b6-9e5d-e13c837d1b3a,Jamie Harris,2.5
+2024-02-22,Africa,Clothing,2288.73,762.18,40,7.39,3072.6,In-store,Any X,db8681d4-3f1d-462b-a6b5-a1b30e929ec5,Mr. Jacob Perry,3.0
+2024-11-18,Africa,Groceries,3238.6,753.49,51,17.0,381.06,In-store,Sit X,1f4e742f-7d14-466a-9d9d-60ac82f0652b,Christopher James II,4.8
+2024-02-16,Europe,Electronics,4796.69,70.9,77,20.86,2291.55,Wholesale,Whose X,b0cf3103-acc3-4457-a687-c50492e78492,Clarence Gonzalez,2.9
+2024-03-03,Asia,Electronics,860.86,366.09,68,19.17,2091.3,Wholesale,Manager Ultra,a8b88247-9d5a-45e8-8291-11544d5feaff,Sandra Mckenzie,4.2
+2024-06-21,Australia,Clothing,747.05,877.92,88,13.66,741.48,Online,Mean Pro,5285d306-5425-403d-9bcd-18d63ad85fb7,Tracey Wilson,1.8
+2024-12-05,North America,Furniture,4148.86,704.74,2,8.59,3770.15,In-store,Long Plus,d0051037-f62d-470d-b47c-6a946eb1c074,Alison Orozco,3.8
+2024-05-09,North America,Toys,346.19,545.37,76,29.41,12.41,In-store,Anyone Ultra,248a24a8-3c01-43f2-a809-8721b9e530c0,Paul Williams,4.5
+2024-09-08,North America,Groceries,2072.09,725.39,72,2.85,2991.44,Wholesale,Mention Pro,6dc0db54-c7a3-4130-ad3d-fc85951e7097,Stacie Lam,2.3
+2024-05-12,Asia,Groceries,1417.65,748.32,70,12.75,2617.41,Online,Billion Pro,8d7b3484-c907-45d4-b99b-7cc914b0d75f,Christine Romero,4.1
+2024-06-27,Africa,Groceries,4390.65,185.26,37,22.39,127.33,Wholesale,Sense Plus,d74ab97b-ff77-43df-9690-85a81ae32890,Taylor Baker,2.6
+2024-11-09,Australia,Clothing,4445.39,731.75,75,10.6,344.86,In-store,Story X,7c8744a8-b869-4ac8-9d17-0961ecf436e3,Jonathan Smith,4.8
+2024-08-17,Europe,Groceries,1675.71,920.36,64,19.04,140.57,In-store,Action Ultra,5822ac78-71c0-45f1-a94c-d56302fc6d08,Patricia Woods,2.0
+2024-07-20,Africa,Electronics,986.11,625.41,100,3.35,1117.4,In-store,Out Pro,173d5589-b768-4b19-b2ba-b5790b3db973,Jeffrey Bradley,1.7
+2024-06-12,Europe,Groceries,96.92,217.08,4,29.3,2733.15,Wholesale,Back Plus,ababf9b3-c6af-44e1-a7e5-c49cffcedc61,Stacey Williamson,1.4
+2024-11-20,Africa,Furniture,3929.22,193.03,57,5.46,1484.91,Wholesale,Body Pro,7962eae6-7673-46f6-a5b9-6fb7282cfe61,Cindy Jones,3.5
+2024-02-04,Europe,Groceries,3204.97,988.66,50,6.93,736.89,Wholesale,Measure X,d4c5a4c1-881a-4718-9527-f4cf8bf5c51e,Dr. Devon Hudson,1.3
+2024-07-26,North America,Clothing,1929.74,391.15,7,9.15,2225.06,Wholesale,Care Plus,85689743-38a3-45a0-8dd7-48d128d10fe4,Raymond Velasquez,4.1
+2024-09-05,Australia,Furniture,1441.65,483.44,15,25.22,1542.1,Wholesale,Responsibility Ultra,247d6460-e0f7-4c3f-ac61-ece714e03fd1,Patricia Simpson DDS,2.1
+2024-07-04,Asia,Furniture,4028.13,412.5,40,8.78,1924.69,Online,Air Ultra,8f3044d1-5f63-4fcb-b4f4-a6f11185c7a8,Alexander Turner,2.3
+2024-03-06,Africa,Clothing,2597.9,736.67,52,3.69,2526.54,In-store,Financial X,f6264eac-7784-452b-a105-bc4817c9d603,Kevin Foster,1.3
+2024-04-24,Africa,Toys,2436.53,15.3,50,12.3,780.78,Online,Blue Ultra,6a4ef4a4-41bf-419d-b917-62dd95df0982,Jessica Young,1.0
+2024-10-02,Australia,Electronics,3744.31,847.79,94,8.2,3102.12,Online,Discussion X,f6b28fa7-94a8-43c6-945c-2368c41da31c,Connie Mclean,4.0
+2024-07-21,North America,Clothing,2630.18,774.75,37,19.8,3815.18,In-store,Develop Ultra,474c6908-f695-43d2-8d79-6eb25a68988f,Brian Parks,1.3
+2024-05-30,Europe,Groceries,1469.21,12.07,95,19.79,460.25,Online,Us Pro,48cfe018-b385-462e-b73e-80b0c1af3bea,Mr. Brandon Hayes,4.2
+2024-03-06,Europe,Toys,3360.94,269.33,53,27.65,2203.98,In-store,Recent X,d9ca5e14-5eaa-453c-9d49-cdf1ecb3a39b,Timothy Lewis,2.9
+2024-03-23,Africa,Toys,1619.19,606.28,68,27.29,3788.57,Online,Shake Plus,07feb170-3063-4562-b96b-29e72396720d,Meagan Howard,3.8
+2024-01-25,Asia,Clothing,1282.6,618.53,72,29.5,2413.69,Wholesale,Operation Plus,2ff22d46-1eb1-406e-a6af-88b1555a5954,Cynthia Curtis,3.3
+2024-07-29,Asia,Electronics,3683.7,244.08,36,13.76,1736.71,Wholesale,Down X,6d11f3de-e202-46a6-880b-3c8abcf36867,Jose Smith,3.6
+2024-02-15,Africa,Groceries,1046.73,850.68,1,22.63,3221.87,In-store,Be Pro,250f1c4d-fedf-46d8-b687-8696eabdb003,Evan Scott,1.5
+2024-03-28,Asia,Electronics,1292.61,4.07,72,19.92,66.95,Online,Detail Pro,791979ba-1cce-436a-aa2f-b5ec1aea7287,Jonathan Mckinney,4.8
+2024-03-24,Australia,Clothing,4244.96,941.06,75,28.11,1283.78,Online,Set Pro,4e19eac4-dd6f-4f32-8837-2881526d45e0,Mr. Kevin Blackburn,1.3
+2024-06-18,Australia,Furniture,3540.87,765.19,43,0.01,3359.28,Online,Store Plus,4c07e7b2-f669-4efc-b9fa-ab0bfabb1fe9,Jonathan Stewart,2.7
+2024-11-23,Australia,Toys,3043.26,633.57,31,2.93,3130.22,In-store,West Plus,defed94e-c3f9-4319-8fac-7a073a2f73be,Shawn Gross,2.2
+2024-10-12,Europe,Furniture,321.32,29.58,83,2.23,2598.94,In-store,Truth X,6fcaeba7-623d-4879-bc2a-b18b9c1a77f7,John Harper,2.6
+2024-02-01,Australia,Groceries,4722.33,653.13,15,27.95,1444.98,Wholesale,Response Plus,fdf481ca-1d3b-467e-be00-a9deb4659dde,James Anderson,1.1
+2024-01-18,Asia,Clothing,1813.81,997.45,26,28.47,3656.96,Online,Industry X,686b587e-2e45-44d8-9f3a-d98d0ba16282,John Vasquez,1.5
+2024-09-22,Asia,Clothing,437.83,987.4,26,29.58,1248.28,Online,Wide Pro,7363c90b-a511-4736-95f9-de6ea1adb115,Jose Hicks,3.1
+2024-12-13,Europe,Clothing,2447.3,865.83,47,11.79,536.1,Online,Bill X,d9f069ef-ed4b-42ea-ba7d-3041c3afa4fe,James Roach,1.7
+2024-09-08,Europe,Toys,2917.08,521.46,61,22.83,2638.3,Online,Various Plus,ab084e97-615f-404e-ac07-8a99366da8f5,Marilyn Evans MD,4.8
+2024-08-07,North America,Clothing,2095.57,540.56,23,25.97,3662.3,In-store,Marriage X,bb94e64f-9ee4-4a8d-82fb-23500b71780b,Andre Gray,4.5
+2024-03-16,Europe,Furniture,4315.35,951.58,20,2.49,432.93,In-store,Enter Ultra,7ebe54f7-294a-48c4-8638-875c082b8f5b,Jeremiah Odom,1.3
+2024-05-11,Europe,Clothing,3422.24,927.05,88,5.36,699.1,In-store,Director Ultra,171a944f-1f1e-4ff7-8f5e-beb23844cdc6,Hunter Cooper,1.9
+2024-06-26,Asia,Groceries,1057.28,161.1,44,24.22,1979.63,In-store,Apply Pro,772aa464-ef04-466e-9575-459c831578b0,Isaac Beasley,4.9
+2024-02-14,Asia,Groceries,3552.51,266.13,37,13.34,5.86,Online,Seat Plus,be6a744f-4828-405c-8009-7527e72dc71f,Gregory Hughes,4.1
+2024-04-28,Asia,Clothing,2282.75,424.35,5,5.33,291.72,Wholesale,Central Ultra,367061b3-3234-4c5d-94f6-16a474d4d4ee,Denise Graves,2.2
+2024-03-07,Europe,Toys,3806.78,554.66,79,9.77,2521.46,Online,Model Ultra,c6817bc8-0248-4ff5-bcdd-29676400e536,Rebecca Medina,2.0
+2024-02-20,Europe,Electronics,2352.78,413.47,31,9.24,2876.41,Online,Would Plus,3c08e8cf-1be7-4b0d-90e6-601b63c5f361,Joshua Smith,4.9
+2024-06-01,Africa,Groceries,3440.91,95.82,73,6.84,2889.27,Wholesale,Girl Plus,ead48333-0b38-4697-b250-29f4f835faa5,Francisco Montgomery,4.6
+2024-03-24,Australia,Clothing,670.43,317.97,89,18.36,577.76,Online,Herself Ultra,6ea5a0b6-5dae-4ade-8e35-7cbb2bafdec1,Amanda Howard,4.9
+2024-04-13,Asia,Groceries,1578.22,313.7,11,11.49,1266.09,Online,First Ultra,2ffaa189-59c1-45ff-8b09-358e68c4cc97,Taylor Lewis,2.9
+2024-03-06,North America,Toys,428.42,705.03,26,19.51,1630.1,In-store,Single X,c0651ba9-ceac-4913-b4f2-9546efa0ea70,Joshua Flores,1.5
+2024-07-15,North America,Furniture,3453.97,909.29,69,11.28,399.18,In-store,Dream Plus,c0005c32-900e-4a4d-97ec-b225ee0930d0,Kathleen Lawrence,2.0
+2024-03-19,Australia,Groceries,4565.71,202.79,59,4.01,957.41,Online,Last X,d5927557-731e-4710-9ffb-59248430b8e8,Travis Brady,4.0
+2024-01-23,North America,Clothing,2626.58,743.71,9,0.7,1305.42,Online,Call X,74b9baf1-2296-4288-9d5b-d4dabda749e5,Stacy Gomez,1.3
+2024-11-20,Asia,Groceries,1330.08,793.73,10,4.52,1406.7,In-store,Call Plus,51cdafb2-99ff-4ae9-8712-339917757502,Calvin Young,4.3
+2024-04-06,Africa,Electronics,3578.5,783.81,16,27.92,2463.35,In-store,View Plus,f2a02f65-5639-4589-b4a7-63c5439d39df,Richard Duke,3.1
+2024-03-27,Africa,Clothing,582.5,943.15,24,8.0,1626.05,In-store,Hope X,da553c8a-793b-4be6-8238-7be9517424f8,Karen Weeks,1.2
+2024-06-19,Europe,Toys,244.97,194.94,74,18.09,1335.23,In-store,Focus Pro,ade3d74e-a7a5-427f-a5fe-4b041df30820,Scott Miller,1.8
+2024-05-24,Africa,Groceries,4659.36,61.17,50,11.8,1489.29,Online,Can Ultra,7e2b6456-f400-4b8f-9234-27ec510dee24,Charles Ross,2.5
+2024-05-12,Australia,Groceries,4656.74,801.8,39,24.2,2063.96,Wholesale,Ok Ultra,e73b9813-d1e0-42fe-a3f4-19f5ddbc0f7f,Monique Graves,3.5
+2024-03-11,Europe,Groceries,595.02,288.13,55,9.03,3845.67,In-store,However Pro,a3d2851c-5326-4ee2-a590-0b6b9088fe47,April Hamilton,2.4
+2024-07-15,North America,Electronics,2649.58,347.24,74,7.99,2738.06,Online,Campaign Ultra,97885da0-f58c-43d7-9ec6-b6ebbe5659f3,Desiree Dennis,3.0
+2024-07-03,Asia,Toys,3126.79,259.15,83,4.19,528.29,In-store,Police Plus,b6a6c036-9c62-4f15-9f6f-a170fbf89290,Taylor Russo,1.6
+2024-04-24,North America,Furniture,3645.26,65.26,39,15.76,1433.55,Wholesale,Artist Pro,f989e7b0-7413-48bd-83f1-fa9ea52b790f,Joshua Hall,4.3
+2024-09-07,Asia,Toys,4013.65,455.14,8,25.67,3525.74,Wholesale,Hope Plus,9def7521-69cd-457e-becd-d5a0fdf09d63,Laura Parker,1.2
+2024-07-08,Africa,Clothing,1114.33,867.62,53,13.08,58.35,Wholesale,Campaign Pro,3d04c02f-00ca-48be-8b98-78165f9ca77b,Cynthia Maldonado,2.1
+2024-07-12,Europe,Furniture,1705.7,588.07,42,14.12,1088.52,In-store,Simple Plus,0487a9a1-8b75-476a-97a6-78ba804ec603,Paula Scott,2.1
+2024-02-26,Africa,Groceries,463.07,613.91,52,2.8,2668.37,In-store,Table Plus,30294a46-8a03-4dc1-944f-becf0b546660,Lauren Whitehead,3.6
+2024-07-16,Asia,Electronics,2950.85,932.81,4,29.11,3132.52,Wholesale,Safe Ultra,d5a8939e-94dd-4910-bfae-515588d91ac3,Frank Mills,3.7
+2024-08-23,Africa,Toys,1327.91,2.19,14,15.12,2392.39,Wholesale,World Ultra,e88d908d-f666-46ed-b4e7-95293fd02807,James Smith,4.4
+2024-04-07,Australia,Electronics,411.59,616.23,81,6.81,1980.47,Online,Its Ultra,03515762-82c1-43cc-96a8-e501a1d224d8,Michael Guerrero,1.1
+2024-09-18,Asia,Electronics,4965.62,131.29,8,6.34,2817.57,In-store,Boy X,0cbebaf5-4c6b-42ef-abe7-4bbb4ead80e7,Brooke Stanley,4.7
+2024-12-03,Australia,Groceries,2377.88,742.23,89,4.24,3096.08,Wholesale,Leg Pro,1bb2c5e3-10d0-4327-89e3-6c9dec90a80d,Jonathan Potts,4.1
+2024-10-07,Asia,Clothing,1504.84,163.45,87,14.79,3643.37,Online,Along Ultra,ead72efc-5d10-4b2c-98b1-7124319468ce,Scott Bates,3.7
+2024-05-06,Europe,Furniture,2516.27,655.7,82,21.69,1203.96,In-store,Any Pro,1f52af17-a2de-45ce-a698-d3d3e5b4587a,Christina George,3.0
+2024-07-23,Asia,Clothing,2653.13,447.3,9,14.92,3159.76,Online,Television Ultra,51ef2575-d7bf-49b3-8132-264ca0c0c278,Whitney Johnson,3.3
+2024-11-22,North America,Electronics,1952.58,889.93,71,11.18,44.71,Online,Class Ultra,0b5a54f1-e97f-4a0f-abf7-5d964d2e7376,Kathleen Donovan,1.4
+2024-10-15,Europe,Electronics,4071.81,534.18,17,17.83,3264.97,Wholesale,Result Ultra,0225bd69-73f7-44a3-8d5f-deb9175543de,Rebecca Nguyen,3.5
+2024-09-01,Africa,Groceries,78.55,790.83,67,1.66,3329.94,Wholesale,Hit Pro,82e92abc-5137-4f54-bcc2-600363ada426,Robert Dominguez,1.5
+2024-01-16,Africa,Toys,4049.61,865.15,85,19.34,2924.53,In-store,Artist Ultra,84bacf4f-05a5-478a-9c6d-c9db1e2c0612,Mark Bowman,4.0
+2024-04-28,North America,Furniture,4048.74,101.15,7,14.75,1822.65,Wholesale,Campaign Plus,48f8c2ee-ffb1-4970-8461-307ab91b4c1f,Michael Brown,4.7
+2024-05-01,Asia,Groceries,1304.59,148.26,36,11.09,3474.33,Online,Physical Pro,981b956b-ee1d-4b6f-a40e-93de86bfb7ea,Jason Miller,1.3
+2024-09-17,Asia,Groceries,3132.83,607.89,10,14.48,1989.99,Wholesale,Expert Plus,fe91d8dc-fa91-4c86-9b60-bd12192c9a8c,Brittany Medina,1.3
+2024-01-29,Europe,Furniture,4377.85,991.36,12,23.76,2171.4,In-store,Act Plus,adeb09c7-1c1b-40e3-9c24-1c5069d10aaa,Michael Valdez,2.5
+2024-07-20,Asia,Electronics,825.71,384.02,12,16.28,2392.15,In-store,Ahead Plus,cd40273d-d6d2-4832-a670-e8c76e38aabb,Suzanne Garner,1.5
+2024-08-21,North America,Electronics,4769.08,306.05,11,13.27,2288.37,Wholesale,Cause Ultra,57dd95ec-6be2-43ca-b874-594d8cb35f58,Elizabeth Martin,4.6
+2024-10-22,Europe,Clothing,3467.83,141.97,54,29.3,3537.67,Online,Over X,3d10b149-6ea1-4cbf-bd3c-3496ec49b118,Michael Ward,1.9
+2024-03-24,Europe,Clothing,3740.36,539.81,49,14.08,355.04,Wholesale,Mother Pro,cf77c411-4e97-4181-b51a-5abcf5f1e047,Michele Tucker,1.4
+2024-10-23,North America,Groceries,3373.33,543.08,4,13.73,343.35,In-store,Maintain Pro,05b957b3-4618-4945-a70a-d1f998416978,Jessica White,2.3
+2024-08-12,Australia,Toys,2691.26,498.7,27,2.05,1179.44,Wholesale,Happy Pro,6753f56d-319e-486a-82f2-664cb8b25c80,Nicholas Chang,2.7
+2024-01-18,Australia,Electronics,3347.92,130.49,69,14.47,1129.43,In-store,Last Pro,929afeb2-6667-4182-8f94-30b2903830b0,Ann Hayes,3.7
+2024-01-11,Africa,Furniture,1866.22,625.14,28,23.67,1336.32,In-store,Young Plus,10fe60f3-d4f7-4043-b7f5-3c60df7e01de,Hayley Reid,1.5
+2024-01-01,Australia,Clothing,4083.99,610.77,25,26.4,3119.65,Online,Up Ultra,0b35a248-b325-4d2b-b368-db68a3e1b42d,Brian Rivera,2.4
+2024-06-21,Australia,Clothing,634.79,327.19,8,0.56,859.18,Wholesale,Century Ultra,a1540a91-93d7-4903-afb1-e02afd518338,Nicole Martin,2.3
+2024-10-09,Asia,Furniture,1076.83,247.28,54,6.8,2270.62,Online,Hospital Pro,33ebe0c4-35bc-427a-a209-ac9695ad85b2,Joshua Holland,3.1
+2024-08-21,North America,Groceries,4860.66,429.85,81,1.96,178.26,Wholesale,Sign Ultra,f0737dda-e3ca-4fb6-b8ed-78e97d06f69b,Mr. Warren Barber,3.6
+2024-02-03,Asia,Toys,3637.43,48.55,61,27.76,2638.86,Wholesale,Third Plus,30827145-7ffa-4bee-a99d-8de9260510f3,Angel Davis,3.3
+2024-11-08,Africa,Electronics,4349.69,438.04,65,3.51,3481.66,Wholesale,Kid Plus,4bcb4999-6aa6-4aaf-8e2d-d1886f43f533,Sarah Velasquez,4.6
+2024-03-07,Australia,Furniture,188.48,531.86,51,9.59,1081.25,Wholesale,Rich Plus,7df147bb-e0a7-4957-942b-ce22e3bb32d2,Angela Lynch,2.8
+2024-06-12,North America,Furniture,151.22,646.0,36,7.49,1210.03,In-store,Amount X,2a08ed4c-33cb-44ad-a08a-6abb1bf76c68,Nicole Weber,1.7
+2024-12-02,Africa,Electronics,2529.46,434.62,27,4.79,396.63,In-store,Listen Plus,8ba99151-4a90-4a2b-9be6-c753da188d9d,Ian Foster,4.2
+2024-04-10,North America,Electronics,3907.02,810.82,2,29.28,118.92,In-store,Woman Ultra,1fdae95f-ef44-41f6-945f-8a0525fe32c0,Sarah Henderson,3.1
+2024-11-16,Europe,Electronics,3131.59,464.73,8,29.27,3414.93,Wholesale,Condition Ultra,27b76af8-61d2-4a62-b72b-b4daf15371fb,Michelle Williams,2.4
+2024-12-09,Asia,Clothing,4122.92,958.92,45,25.04,260.29,Wholesale,Stay Ultra,efaf4fd0-161e-478d-87a2-521d26f2bd59,Heather Brown,4.3
+2024-07-26,Australia,Furniture,1254.17,301.96,39,29.97,2474.68,In-store,Front Pro,b59ff6e1-9ad3-4747-bdf8-1a8e9a86e902,Casey Anderson,1.2
+2024-09-18,Australia,Electronics,2152.91,711.66,45,23.04,3664.37,Wholesale,Brother X,d0b1e409-9d65-43a7-89f9-693d675efc41,Michael Mcknight Jr.,1.7
+2024-11-03,Australia,Electronics,378.5,147.19,27,18.57,2147.32,Wholesale,Manager Pro,5d5e7e4d-ea4b-43ea-a3fc-da9a5135e156,William Reynolds,2.9
+2024-07-26,Africa,Clothing,2147.8,10.02,86,12.57,846.59,In-store,They Plus,ad4c1ab0-4963-4563-a2d1-5720e17bac71,Joel Smith,2.0
+2024-08-19,North America,Furniture,4660.32,971.45,95,18.65,2003.02,Wholesale,Bit Pro,53eeb328-3dd4-4c3a-8e63-3c24ad83f04c,Elizabeth Nelson,3.6
+2024-06-20,Asia,Toys,1941.24,663.59,58,20.03,751.03,In-store,Nation Pro,1dd04264-a57d-4a5c-8e88-ec482c874035,Jennifer Stephens,4.8
+2024-08-22,Asia,Clothing,2063.75,295.44,55,27.52,3293.5,In-store,Husband Pro,d3696b16-eeae-4fc0-9b63-928cdeec470d,Daniel Mills,2.8
+2024-01-11,Europe,Electronics,3101.91,130.18,91,6.51,2018.41,In-store,Group Plus,7daf574c-b5ba-47b6-a9ae-ebcbe070ab05,Priscilla Diaz,4.0
+2024-08-06,Asia,Furniture,4996.34,979.92,19,16.42,1994.07,In-store,Effect Plus,90490bd3-9bc6-44f7-8b23-62ff6c92cb28,Nicholas Reed,1.7
+2024-09-04,Africa,Furniture,931.08,217.81,45,19.09,3658.51,In-store,Teach Pro,9c095064-66e0-4af0-893c-33e00def7b99,Melissa Clark,4.5
+2024-09-03,Africa,Toys,4665.82,535.45,51,10.59,1099.7,Online,Treatment Pro,21136b6e-fbd5-4a44-b8c5-2dc2a6d75a16,Brandon Flores,3.0
+2024-08-05,Europe,Groceries,2134.3,154.68,30,13.9,506.77,In-store,Scientist Ultra,e733e584-4830-4a95-ae68-6fc8505676e6,Michael Palmer,4.8
+2024-07-26,Africa,Furniture,4396.87,858.24,68,11.22,1936.67,Wholesale,Resource Pro,de6db6f8-6897-4a08-b1a1-9b753559550d,Aaron Richardson,3.3
+2024-06-02,North America,Clothing,1715.98,245.75,19,13.5,3380.89,Online,Black Pro,40377b01-2cb0-4749-a140-b476c31f72d1,Corey Green,1.2
+2024-06-06,North America,Toys,3906.53,820.32,36,28.14,2152.92,In-store,Body Pro,a3167a8f-d0cd-406f-b22d-261f526b5b20,Dr. Jonathan Thomas,3.1
+2024-03-18,Australia,Clothing,627.63,825.4,87,19.68,2789.93,Online,Little Ultra,74868416-17eb-4c26-b2a7-1f326d543fb4,Jennifer Stevenson,3.1
+2024-07-07,Asia,Clothing,3130.86,545.96,5,13.43,1442.24,Online,Teacher X,adea99f6-5417-4378-92f6-9106181c8028,Brian Rodriguez,2.6
+2024-09-06,Australia,Toys,4752.2,874.21,66,29.96,596.34,Wholesale,Best X,59aa9519-3857-4630-8b8f-9cdc6e65642b,Joshua Moore,3.5
+2024-01-17,Africa,Groceries,1993.93,646.38,79,17.14,2880.25,Online,Strategy X,f206dd0a-cfd5-471d-92e6-09143baf1178,Lee Bailey,2.6
+2024-01-14,Australia,Groceries,1666.07,394.88,76,11.21,3177.04,Online,Material X,29351b37-b40c-42b3-82d0-4428be5cd801,Samuel Diaz,4.7
+2024-06-18,Europe,Electronics,122.76,966.03,2,13.5,2647.07,Wholesale,Risk Ultra,de98c3a2-357a-4488-9267-e7e5595dbf6f,Stanley Owen,2.0
+2024-10-22,Europe,Furniture,1677.14,371.78,75,11.48,1358.4,Online,Else X,d0cdd103-c8fd-4b27-8885-f3efa0ff50be,Stephanie Smith,2.8
+2024-05-06,Europe,Furniture,2442.02,830.89,17,0.68,531.58,In-store,Attack Plus,19f8ca15-e86f-4059-b97d-123e1bb7bfcd,Emily Oneal,4.9
+2024-04-09,North America,Electronics,2763.07,94.43,75,26.8,1790.51,Wholesale,Scene Ultra,cb4ff898-f258-443c-a5f7-33a43227c516,Mark Garrett,4.1
+2024-04-09,Asia,Electronics,2212.14,612.15,38,17.3,1481.27,Online,Traditional Pro,d284ca68-7931-4850-bd36-1dc71bac53e3,David Vargas,4.2
+2024-10-13,Africa,Electronics,813.15,562.75,50,8.97,1694.59,Wholesale,Former Pro,0f1ff8f9-cb97-4c23-bd43-bd0c5c7e481e,Adam Hall,1.1
+2024-03-14,Asia,Groceries,4279.75,300.2,27,19.32,2520.6,Wholesale,Machine Pro,ea76b036-ddac-4939-8670-50dd45453764,Jacqueline Wang,3.5
+2024-11-13,North America,Toys,2938.86,624.66,51,2.8,2648.14,Wholesale,Determine Pro,cdc3a8fc-c579-4bfe-8505-159def60bb61,Virginia Peters,1.4
+2024-07-30,Asia,Clothing,4725.29,461.5,66,25.55,409.66,Online,Least Ultra,cd2d1dd3-3804-4ae6-8e62-0588888415e5,Jessica Bryant,2.2
+2024-01-29,Europe,Electronics,1035.08,716.77,69,10.08,842.52,Wholesale,Mission Ultra,8cb3a40e-bdfd-4bac-99a8-3ce84de3096b,Nicole Kelly,1.3
+2024-12-06,Asia,Toys,241.31,654.45,5,27.57,622.34,Wholesale,Final Ultra,6d5ee074-a5f9-4790-b860-b08fc99bd403,Steven Cooper,2.4
+2024-07-12,Europe,Electronics,28.47,330.51,66,19.95,41.7,In-store,Leg Plus,9cb68136-aa9a-4a5e-892f-3d37ac4bf451,Christopher Erickson,3.7
+2024-08-06,Europe,Toys,3346.5,685.85,94,15.01,3366.34,In-store,Rise X,8df3b1b5-8a4f-46f8-8724-744e0c349588,Ashley Madden,2.0
+2024-08-08,Africa,Clothing,3729.34,874.84,67,14.73,2412.37,In-store,Someone Pro,f6bb6dc5-6f03-4620-b82f-2d0ea92224f9,Megan Bennett,1.4
+2024-10-08,Asia,Furniture,3715.06,928.87,17,19.76,2810.65,In-store,What Pro,ea7d726c-f63a-49d7-b8de-fa014ea77347,Nicole Hamilton,2.1
+2024-03-18,Europe,Groceries,1692.39,478.84,13,25.4,413.07,Online,Crime Ultra,0fe2d994-c030-4144-82a0-050b87175eb6,Emily Curry,3.4
+2024-02-20,Africa,Electronics,2939.17,385.04,30,29.27,1471.7,Wholesale,Out Plus,266fa29d-6d26-4ff0-bfdd-4501069a4ed8,Matthew Salas,2.6
+2024-07-21,Africa,Clothing,336.42,363.52,48,23.48,1946.17,Wholesale,Example X,07b876db-90c7-46eb-a989-a11bf0d1c14b,Susan Lowe,4.2
+2024-01-06,North America,Clothing,2060.66,942.01,81,4.23,1787.52,Online,Visit Pro,a9b69795-c9ef-4c98-bdc6-ac097231ca94,Maxwell Mejia,2.6
+2024-09-15,North America,Furniture,3162.07,852.11,26,28.67,1668.2,Wholesale,Star Plus,4aa485e9-a18d-471c-b637-8cbce5d5213e,Kenneth Nelson,1.9
+2024-01-20,Africa,Groceries,880.61,413.07,34,12.8,2079.23,In-store,Lay Ultra,93c7a512-a562-4ed3-a4b9-b98a9c11314b,Meagan Burns,1.7
+2024-12-04,Asia,Groceries,2777.72,323.84,59,6.81,2087.77,Online,Material Ultra,943a190e-945f-4533-90fb-a3869128d878,Victor Mooney,1.6
+2024-08-16,Europe,Groceries,3446.58,901.7,76,25.16,2879.73,Wholesale,Social Ultra,f0a6ab95-cb43-4adf-a1d4-b834236a57e3,Briana Bradford,2.8
+2024-11-16,Asia,Clothing,2223.61,24.76,9,7.99,691.22,Wholesale,Pressure Plus,6fd47c9f-fa7f-49b2-bbe9-42fc42420cf2,Jeffery Thompson,1.6
+2024-03-10,North America,Toys,554.18,247.72,81,27.81,1839.91,In-store,Treatment Pro,94650639-c113-437e-92f9-d1944399f98d,Jeremiah Williams,4.8
+2024-10-28,Africa,Toys,1680.65,839.34,20,8.78,217.27,In-store,Serve X,4d278115-5ce5-4b8f-9d15-6237134b3f10,Steven Brown,3.7
+2024-09-17,Asia,Furniture,2124.04,39.55,50,10.09,1443.05,Wholesale,Few Ultra,9d3a87d4-9086-4d04-8892-e5639fe2524e,Keith Farmer,2.0
+2024-02-12,Asia,Electronics,4713.3,582.32,87,17.32,720.15,Wholesale,Such Plus,4b13416f-1df0-4c64-b292-8d7a4b287c7c,Christina Perkins,4.2
+2024-06-17,Asia,Toys,3029.29,467.76,82,29.91,543.2,Wholesale,Rather Ultra,1109cb3d-a6ef-46c1-babd-b13651bedcac,Stephanie Miller,4.4
+2024-01-22,Australia,Toys,3380.45,350.98,68,28.83,970.47,Wholesale,Action Ultra,9b6a00d6-687e-49c5-b4c8-dc48b5158c0f,James Flores,2.5
+2024-11-27,Africa,Clothing,3736.55,203.78,24,26.02,1218.0,In-store,Issue Ultra,8026ee87-234a-49d0-9ea7-74f5cacbf091,Alan Randolph,1.8
+2024-06-06,North America,Electronics,1359.76,212.06,63,26.7,1891.45,In-store,Necessary Ultra,f10c6026-6d09-4738-aef1-5de071c2c984,Katherine Sexton,4.1
+2024-02-24,Africa,Groceries,1561.96,207.57,43,18.48,3634.38,Online,Simple Plus,d38a3dbb-96e1-41e5-997e-63f6ec204557,Jason Vazquez,2.6
+2024-03-19,Asia,Furniture,4037.87,242.05,19,21.13,898.44,In-store,Her X,767ddef5-30a3-4b6d-9961-cb803f580d59,Megan Jones,4.7
+2024-05-24,Australia,Toys,510.53,286.03,59,8.59,2089.8,Online,Personal Ultra,96e1298a-333b-40ff-be69-96875118990f,Ryan Collier,4.9
+2024-01-09,Australia,Toys,747.26,618.94,90,25.57,2730.91,Online,Break Ultra,df96cbc0-77d1-4295-b4ba-63e718c09691,Ann Rodgers,1.8
+2024-05-23,North America,Electronics,3661.43,9.75,50,4.53,301.11,Wholesale,Seat Pro,01d0563b-25b4-4745-8d11-9ed46ec03b5e,Steven Bowman,4.4
+2024-01-03,Asia,Electronics,2330.07,139.09,32,4.46,1529.73,Online,Them X,f88258aa-d4d8-412b-abae-9fdbab21b974,Martin Austin,2.7
+2024-06-25,North America,Groceries,2877.57,634.98,99,16.09,2869.98,Online,Truth Plus,ce894d18-b80e-4863-981b-c001f087e933,Billy Myers,1.1
+2024-01-03,Europe,Groceries,4613.34,393.31,64,6.95,3191.13,Online,Discuss X,0fd81769-1318-4187-b0a9-c477c9bd9626,Jennifer Gonzalez,4.2
+2024-09-12,Africa,Furniture,4918.28,126.55,32,0.56,2971.73,In-store,Suffer Ultra,3e784ba6-c40d-4f8d-966d-842a1fe5f0fa,Mrs. Susan George,4.3
+2024-10-06,Europe,Electronics,462.19,855.16,7,27.44,2242.47,Wholesale,Bit Plus,8b15cff7-f8c1-47f7-9e8d-626d260a6f38,Nicholas Green,1.4
+2024-03-11,Australia,Toys,1844.34,190.2,18,14.76,2558.11,In-store,Despite Plus,21ed03d6-3abe-4372-a925-cfa3921fa836,Ricardo James,4.7
+2024-05-28,Europe,Groceries,994.64,387.76,95,19.54,1632.95,Online,My X,98f105fb-c249-4b2f-b96c-a6b08dfb8cb2,Dawn Clark,3.4
+2024-07-24,Europe,Toys,1510.54,555.13,38,0.92,96.86,Wholesale,Couple Pro,2eb1cee9-6f60-4a5c-8ec1-ef80fdab22a8,Daryl Lopez,4.1
+2024-05-09,Asia,Clothing,1112.78,98.77,50,25.6,2919.72,In-store,Kitchen X,cb8928b5-40af-474f-9659-b5b5e26d3a17,Karina Anderson,3.7
+2024-03-29,Australia,Toys,1476.53,524.6,1,16.84,2388.11,Online,Radio Ultra,6eea1661-7f75-4f64-bd2b-0937d2d4b236,Annette Crawford,4.4
+2024-07-26,North America,Groceries,934.06,140.19,2,23.74,2841.96,Wholesale,Mission Pro,aa02be9b-206d-4fc9-8a05-113f050846bb,Erin Franco,4.3
+2024-04-10,North America,Electronics,1175.77,115.77,83,15.12,1104.0,Wholesale,Environment Pro,7b0343af-3ebb-4caa-a2db-3deb6cb756e4,Pamela Henson,3.1
+2024-12-16,Asia,Groceries,1297.3,60.02,12,29.55,271.15,Online,Culture Pro,a7c5da43-1183-4b35-b59b-a2836c5bd77d,Ralph Schwartz,2.8
+2024-10-15,Asia,Electronics,361.19,809.63,85,24.74,1898.77,Wholesale,Pm Pro,5f04388a-463d-4904-aa48-737742be4526,Kathleen Walker,2.2
+2024-08-19,Africa,Clothing,1757.21,78.38,58,6.22,2113.77,Wholesale,Prove Ultra,a51c869c-9f13-4015-a865-32a09e08021b,Jonathan Walton,3.8
+2024-11-25,Africa,Toys,449.09,658.18,32,6.2,3287.38,In-store,Recent X,c6f18f17-f1d9-4ad3-aa47-9a7d69829bb7,Robert Black,4.7
+2024-05-17,North America,Clothing,3544.88,982.07,6,1.75,1928.4,In-store,Small X,68f9d28f-23dc-46f7-a7dd-a8b5a48dba67,Max Rivers,3.9
+2024-08-16,Asia,Clothing,452.43,270.7,34,12.55,1362.01,In-store,Majority Plus,574d1a89-ed7a-4080-917a-fe80a187a4e1,Craig Watts,3.7
+2024-12-15,Africa,Furniture,241.01,611.71,80,5.29,647.87,Online,Song X,655dfa13-5889-467c-b1c3-5976e68e2f71,Samuel Paul,4.3
+2024-12-06,Europe,Groceries,1451.19,241.47,34,27.6,1845.58,Online,Sit Plus,4934be01-4403-4dc9-b53b-537cbf2ebec6,Melissa Gray,1.4
+2024-01-12,Europe,Groceries,3864.23,491.68,81,5.36,80.82,In-store,Job Plus,cd886d62-af31-4306-9585-d48adfe8ff51,Anthony Combs,4.9
+2024-08-07,Australia,Furniture,2388.72,481.22,51,20.77,3148.88,Wholesale,Attention Pro,2a0264cd-4ec0-495d-9f52-70e41536788e,William Edwards,2.1
+2024-12-05,North America,Groceries,1706.93,623.43,19,10.09,2319.14,Online,City X,526a3153-653e-45e9-a01a-099eedcaa857,Melissa Miles,4.5
+2024-01-31,Africa,Furniture,2564.95,52.79,80,21.65,2944.56,Wholesale,Health Pro,1b544483-3909-4f0e-8e53-33009a43a412,Brandy Robinson,2.0
+2024-07-07,Africa,Groceries,2838.1,567.66,55,21.0,16.17,Wholesale,Same X,9d04ac3d-33ba-4990-b3d2-6c84cedaa74f,Kristopher Becker,3.5
+2024-01-12,Africa,Furniture,4594.5,92.95,88,6.5,2536.79,In-store,Network X,205e1a08-23f6-4aab-9815-09fe68eb1c20,Matthew Herman,1.8
+2024-07-19,Australia,Groceries,1430.27,971.92,23,7.69,3846.48,Online,Lot X,8af071df-83a9-4cd8-a64e-92bb243847b5,Nicholas Marshall,3.3
+2024-12-11,Africa,Groceries,1358.18,4.4,34,7.02,2059.9,In-store,Form X,4e351071-3422-4dbc-b25b-3b4ca1f04956,Amanda King,4.2
+2024-05-15,Australia,Electronics,3402.18,966.39,24,3.81,2383.25,Online,Child Ultra,2a0f0c7a-7c6d-4ce9-b4c8-9167196aa203,James Obrien,3.5
+2024-01-12,Europe,Clothing,4513.1,593.12,16,22.87,3895.98,Online,Beautiful Ultra,1b134814-f80e-4bba-8ffc-53b44dcd5f5e,Kathryn Montgomery,4.2
+2024-09-05,Australia,Electronics,916.64,774.03,68,19.77,3241.06,In-store,Hit Ultra,af6db0ee-eb6d-4c83-a56e-a5180417d873,Joshua Mccoy,3.6
+2024-07-06,Australia,Furniture,3666.74,492.02,91,4.1,899.95,In-store,Not Pro,d0c198b6-a74c-44a8-8feb-2df246ed8f4f,Roger Tanner,2.2
+2024-08-02,North America,Clothing,609.72,292.74,46,24.41,2518.95,Wholesale,Identify Plus,fce26ff7-1475-4cdd-b4fb-64c0abf200dd,John Campbell,2.3
+2024-05-09,Africa,Electronics,2597.36,432.68,67,19.25,1313.54,In-store,Area X,5e68dfdf-cda5-4121-a4b5-01c8802f5a8b,Francis Thomas,2.7
+2024-06-26,North America,Clothing,24.32,852.61,30,27.18,2754.53,Wholesale,Though X,eab4f736-70f5-481b-8b67-951a105a3857,Caitlyn Carter,4.7
+2024-01-24,Africa,Groceries,3637.39,695.96,72,10.59,496.14,Wholesale,Such Pro,5f7ab9c2-f7bc-4366-8a50-2f1723779fde,Veronica Smith,3.3
+2024-07-23,Australia,Groceries,2613.23,901.13,56,22.3,2183.23,Wholesale,Rise Pro,af5c47d2-1c62-449a-82a0-594078569658,Grant Adams,3.6
+2024-09-30,North America,Toys,4021.13,396.87,20,16.18,3876.1,Wholesale,Girl Ultra,c3a82c98-c2f6-42df-b4a9-3dae4894fc35,Jennifer Johnson,1.4
+2024-08-01,Australia,Groceries,925.39,370.07,48,25.36,2754.06,Wholesale,Center Plus,e4e9115c-0d34-461f-a99e-302f17548836,Craig Adams,4.1
+2024-12-07,Australia,Toys,2016.67,958.02,48,28.86,2982.32,Wholesale,Take Ultra,0ff9b363-2548-448c-8f24-c597007f01eb,John Jones,3.7
+2024-05-20,North America,Groceries,3391.45,525.36,94,7.09,3910.47,Wholesale,Open Ultra,e45381a7-940a-4c9c-bd9a-6bd73344f614,Nicole Jimenez,2.4
+2024-07-24,North America,Groceries,2682.95,339.89,15,21.82,3985.89,Online,Pay X,27e749dd-a927-44ef-8da4-c5fe8bc76291,Sean Myers,3.7
+2024-03-28,Europe,Toys,71.25,799.94,63,29.37,3432.55,In-store,White X,856ddfac-5508-4af4-ab6c-a9f11e630020,Kelly King,1.2
+2024-01-19,North America,Toys,436.71,543.82,75,20.43,333.92,Wholesale,Star Plus,26b2a214-71f9-435b-9ab0-a752b03b675a,Tim Shepherd,1.3
+2024-03-15,North America,Toys,3608.29,522.19,91,10.12,240.62,Online,Tonight Pro,7b08fc85-eaf0-442e-bc05-d175d8743191,John Levy,1.5
+2024-04-06,North America,Electronics,621.85,451.82,78,3.0,559.6,In-store,Summer Pro,ff374e1b-fbb4-4020-b295-c14f9d8212af,Barry Gillespie,4.6
+2024-04-23,North America,Furniture,3612.16,139.26,2,18.16,226.54,Wholesale,Adult Plus,b02b774e-dafb-49f4-a9fd-70b40339f1e6,Erin Lynch,4.6
+2024-10-04,North America,Electronics,1385.13,473.53,6,23.97,3219.13,In-store,Oil Pro,3d5b809a-0f81-49db-a00f-8e797b1ec9bd,Andrew Hopkins,2.9
+2024-11-15,Asia,Furniture,4185.03,940.79,91,8.43,2660.64,Wholesale,Finally Plus,5045cdbd-1a18-4fd6-be17-14a9cd993439,Jordan Bond,1.6
+2024-10-03,North America,Toys,1079.06,955.07,32,13.64,3814.71,Online,Set Pro,be94e053-9386-4f4d-90c9-796a624338cd,Andrea Sullivan,1.6
+2024-08-13,Europe,Furniture,4569.59,100.63,68,4.07,1333.7,Wholesale,Manager Ultra,6ece0a1c-865f-47bf-b298-d12e2d5fde7d,Christopher Moreno,2.9
+2024-10-28,North America,Clothing,95.64,115.43,69,9.36,2572.32,Wholesale,Nor X,1c56abe4-35ee-4498-9693-764398a61406,Jonathan Ortiz,2.9
+2024-05-09,Europe,Groceries,2170.13,643.09,70,1.76,708.75,In-store,Family Ultra,85bde713-4a84-4863-b964-824feb455a85,Linda Fowler,3.2
+2024-07-07,North America,Clothing,1261.6,741.8,69,13.19,994.44,In-store,In Ultra,8b5f62df-efcf-4077-8bd2-c7368dfc621e,Laura Richard,1.1
+2024-01-18,Africa,Electronics,349.39,139.73,92,13.04,1702.31,Online,Maintain X,cfa7f73a-50f9-4da2-8382-7e12890c0e93,Joshua Armstrong,3.4
+2024-09-28,Africa,Electronics,2465.98,931.41,42,19.33,1308.92,In-store,Maybe Ultra,ceade4bf-d672-4204-9fb8-7d5a77b48eaa,Robert Luna,3.3
+2024-04-27,North America,Groceries,320.16,858.75,43,2.66,604.93,Online,Drug X,06bedda4-65d9-46d1-8545-f523c80176f4,Julie Jackson,2.2
+2024-10-16,Europe,Toys,4235.8,432.61,29,7.62,3620.82,Wholesale,Could X,04049838-7699-4d6a-a2f5-94afb04e8fff,Susan Hernandez,2.8
+2024-08-09,Asia,Clothing,4426.26,825.4,94,29.53,3552.61,Online,Magazine X,2830da8a-9d03-4193-bba3-5614dc990490,Rachael Kelley,3.7
+2024-09-24,Asia,Toys,2961.78,635.58,90,4.34,2029.98,In-store,Ask Pro,90a97b2e-3164-4022-b062-f2d6133ed012,Mr. Clayton Hanson PhD,1.2
+2024-08-09,Europe,Furniture,2539.26,552.6,45,24.49,3426.85,In-store,Tend X,9106e0ba-e516-4603-a87c-549e168fa56a,James Young,3.3
+2024-01-08,Australia,Electronics,947.01,216.72,79,0.88,3707.11,In-store,Deal Plus,f41f5be5-51cc-4d01-b499-e6b343981741,Sandra Thompson,2.5
+2024-06-10,North America,Toys,746.97,123.71,62,7.41,2166.5,In-store,Style Ultra,0cb82dd8-66e0-4033-9a2d-bcb6f20a84cf,Alan Sanchez,3.7
+2024-10-31,Australia,Groceries,4857.01,50.78,66,6.42,2902.81,Wholesale,Choose Ultra,38b8899c-1ea7-4f5d-b0d3-d513ab54a0e1,Cassandra Kidd,4.4
+2024-03-30,Australia,Clothing,3701.73,203.36,86,2.46,2732.73,In-store,Research Pro,8aa0da3b-c7ac-4879-a6f4-d883aa1406bd,Patricia Lewis,5.0
+2024-03-17,Europe,Clothing,3864.75,549.42,55,18.97,389.65,In-store,Age Ultra,99ab384f-3c44-431d-9a65-280ad055eca3,Debra Lamb,3.6
+2024-03-12,Australia,Clothing,4962.33,798.13,51,8.38,2041.92,Wholesale,During Pro,acef985f-9b6b-436c-9962-2e12dd9f1c72,Emily Martin,4.2
+2024-03-31,Europe,Groceries,3854.91,624.2,46,17.16,752.83,Wholesale,Every X,fe0d48df-aca5-4a3c-8641-a10b914799dd,John Black,3.7
+2024-08-18,Asia,Clothing,486.27,488.55,76,1.93,3653.25,Wholesale,Per Plus,5b5b5abf-d4f8-4235-aea6-6bd01193eabd,Denise Smith,2.1
+2024-03-11,Europe,Toys,3966.1,221.69,1,5.76,2611.27,Online,However X,52e42414-a9a6-4d7a-9ddd-4797f3f8f361,Ronald Stephens,3.9
+2024-10-13,Europe,Groceries,799.02,220.39,4,23.64,2707.54,Wholesale,Respond X,5c8dfaad-b5a5-4e6c-84e2-a7d4aa517071,Tammy Harrison,4.7
+2024-01-30,Europe,Furniture,3252.77,332.73,81,20.85,1041.42,Wholesale,Health X,26600b8a-a670-4494-809f-f697bb56dd19,Lisa Sullivan,1.2
+2024-05-14,North America,Groceries,629.91,86.82,32,5.95,3399.24,Wholesale,Best X,fac7b79a-b7f1-45a7-87fd-b6f565b4dbbf,Jeremy Meyer,2.4
+2024-07-29,Africa,Groceries,4226.51,473.09,99,1.83,3029.15,Online,Exist X,1eb5cfa1-3ace-4281-b8e1-a1f44ced0469,James Hurst,4.4
+2024-08-19,Asia,Clothing,2492.93,16.79,9,23.53,1171.05,Wholesale,Go Pro,951863b1-00ba-4004-bce8-6f5599d9f681,Briana Freeman,1.6
+2024-01-12,Australia,Clothing,173.06,436.94,93,19.14,3577.01,Online,Arm Pro,0f5fbdf1-1f2d-48e7-9ac3-25e9db2c7eb5,Justin Mora,4.9
+2024-05-16,Asia,Toys,2970.02,580.96,2,4.57,3086.88,In-store,Down X,71a25e29-d81f-4ff4-85b2-7098022cf3de,Emma Martinez,2.2
+2024-01-15,North America,Electronics,405.23,518.41,51,23.19,2734.78,In-store,Focus Plus,a8abea06-c7fc-4043-9e11-aedfc8f82bf9,Kenneth King,4.8
+2024-09-08,Australia,Clothing,19.02,175.08,42,10.96,2476.45,Wholesale,Throw Ultra,0c7470ab-8dcd-4469-ac5c-4b48745603c9,Mary Wright,2.8
+2024-04-12,Asia,Electronics,3303.81,281.21,51,11.06,512.16,Online,Sport Plus,f11ac8b7-29db-4cc9-9d13-d9e8f6463064,Gabriel Castillo,2.0
+2024-08-06,Asia,Groceries,1132.58,163.81,73,24.54,914.87,Online,Dinner Pro,ae947ad9-e0ce-4ea8-b71e-0c92a3e28a8d,Timothy Edwards,3.7
+2024-07-30,Europe,Toys,1273.0,439.98,10,4.01,3292.18,Online,Specific Ultra,0ae253b6-c9b7-4757-9a28-c8f6e8fdc6aa,Brian Freeman,1.2
+2024-07-12,Europe,Toys,3827.87,350.33,33,17.86,2359.78,In-store,Forward Plus,c202818f-756c-45a2-813c-320b1debbab5,Lindsay Lopez,4.3
+2024-04-07,Africa,Toys,2549.94,498.83,88,1.26,810.02,Wholesale,Modern Plus,4e97b790-c319-4d8b-9348-b1080b25d13c,Joshua Bradshaw,5.0
+2024-08-01,Africa,Groceries,2398.55,712.58,88,23.84,775.61,Wholesale,Great Pro,be9c7968-e102-41a0-82fb-2e05c98e02c1,Stacy Ward,1.5
+2024-04-07,Asia,Clothing,1346.26,807.29,77,21.82,587.59,Online,Data X,fbea4997-4e62-4822-a437-777b0ac01fc7,Amanda Miller,4.2
+2024-08-27,North America,Furniture,4451.02,769.54,80,29.83,3556.88,Online,Country Ultra,dce03564-81c5-4dc7-940f-bacc86b47921,Mr. Jason Baker Jr.,1.4
+2024-11-28,Europe,Electronics,742.88,81.7,65,14.35,1310.98,In-store,Six Plus,686643db-b3fe-46c8-a900-a920269ebabd,Donna Miller,3.6
+2024-05-26,Asia,Groceries,4679.71,928.98,95,9.76,2100.56,Online,Sport Plus,f520d345-055a-4db2-bcc7-fc789778a7b5,Michelle Roach,2.7
+2024-10-22,Australia,Groceries,1183.47,415.28,6,19.36,454.54,Online,Society Ultra,1d627db5-efe0-40a8-b8a4-bd230bda9402,Lindsey Graham,2.7
+2024-12-03,Australia,Furniture,1819.68,573.34,32,18.13,2409.22,Wholesale,Method Pro,17813cd1-5ab8-4f88-aa46-3732a7afaee7,Jennifer Patrick,4.4
+2024-02-08,Australia,Furniture,3877.94,907.14,35,8.19,509.81,Online,Oil Pro,c30c4871-477e-4bb6-bf2b-b0adf967c694,Brenda Ford,4.3
+2024-03-20,Europe,Groceries,2795.95,289.72,23,4.45,2985.26,Wholesale,Various Pro,719bc97c-eaca-4492-9d3e-40458cb12a27,Jennifer Turner,4.8
+2024-01-28,North America,Toys,1501.17,506.67,8,10.55,1279.18,Online,Rich Plus,dfd069ee-4edf-4211-82f4-66008a983393,Mr. Christian Vasquez,2.3
+2024-11-08,Australia,Groceries,3344.8,839.36,42,15.11,3041.97,Online,Never Plus,902690a7-8b72-4980-bd73-599869583fde,Jessica Johnson,4.0
+2024-06-22,Asia,Electronics,1094.13,695.33,38,2.42,2212.78,Online,Again Pro,3f6f5e30-5879-4b65-96b8-50323cad2536,Penny Morris,4.9
+2024-02-19,Australia,Furniture,1794.79,721.9,34,10.47,2382.69,In-store,Paper X,bd1e3a95-9886-49a8-ba0e-dac7bde54a2e,Roger Long,3.5
+2024-10-22,Europe,Groceries,1800.48,294.01,64,19.85,3350.92,In-store,Development Pro,26a8dfb1-f69a-4496-84b1-29701136153d,Dawn Phillips MD,2.4
+2024-05-01,North America,Groceries,4097.68,464.48,94,9.6,3366.31,Wholesale,Change X,4f6dee3b-326b-4f2a-baf0-099fc2c09a9d,Joshua Garcia,1.2
+2024-01-09,Africa,Clothing,2617.77,275.88,46,8.58,2250.12,In-store,Run X,be51738b-bb69-4c6e-8412-5fc2b7a4f03b,Andrea Contreras,2.8
+2024-08-31,Asia,Electronics,4728.59,253.71,72,18.04,3181.18,Wholesale,Lot Ultra,b21d600f-2054-47b6-af2e-4b1143918132,Kelly Petersen,4.7
+2024-10-22,Australia,Groceries,2058.95,432.72,30,23.05,470.0,Wholesale,And X,7ec6c9a9-b871-4c56-a77b-27f0aad294b2,Nicolas Schneider,3.0
+2024-11-30,North America,Furniture,3624.41,837.61,43,6.14,2967.66,Wholesale,Direction Pro,9fdca700-306e-48b5-a4d1-70a4ec4dc97a,Linda Terry,2.3
+2024-12-14,Asia,Furniture,1282.11,726.17,67,8.57,3116.0,Wholesale,Become Plus,a555cbec-8687-4885-ba68-69b71ce47265,Sharon Holden,1.7
+2024-05-05,Asia,Furniture,2265.53,855.72,62,17.56,1949.69,Wholesale,Wait Plus,bb8a3c66-6b38-46c3-bc7f-5c654b099bcd,Michelle Barnes,3.7
+2024-09-08,Asia,Electronics,4816.31,27.4,11,17.24,1522.13,In-store,Executive X,27470440-7b4d-4cd0-8f38-d522b79434aa,Megan Roberts,2.1
+2024-06-02,Europe,Electronics,1037.91,598.53,2,13.87,2016.6,Wholesale,Join X,08a7be05-d480-4705-87f5-a33d5b01b601,Daniel Sharp,4.4
+2024-11-11,Europe,Groceries,208.14,355.59,14,20.06,360.91,Wholesale,Reflect Pro,f62c5e1c-c5c0-477f-bef2-545efb5383ce,Luke Jones,4.0
+2024-01-28,Europe,Electronics,4946.11,666.96,95,22.55,1972.8,Online,Computer Ultra,7b415adc-2003-46c2-8d29-ee44286c18eb,Jennifer Dunlap,2.1
+2024-08-10,Australia,Electronics,1438.93,71.34,90,0.11,2448.53,In-store,Staff Ultra,cebc8a3e-2ee4-44d0-94c5-b4a272fda8d9,Jay Owens,2.6
+2024-08-07,Australia,Toys,4461.18,511.79,50,6.11,2246.61,Wholesale,Couple Pro,277168a8-9ce3-4c5d-b956-b894ae2d1da9,Melissa Miller,2.3
+2024-05-21,Europe,Groceries,443.72,257.05,22,26.36,621.47,Wholesale,Save Plus,87ee1637-59e9-4ad8-9e94-9a2688f03749,Jennifer Perry,1.0
+2024-04-06,Europe,Clothing,2207.72,22.45,61,19.79,1228.91,Wholesale,Other Pro,ed4d61b3-2db2-4db7-8339-18247073293b,Benjamin Stone,4.8
+2024-08-01,Africa,Furniture,3616.57,345.05,49,17.38,2639.91,Wholesale,Assume X,fb534241-49ed-47d5-a52d-cc8b6a6c56a3,Daniel Bass,2.2
+2024-02-07,Europe,Toys,1063.96,922.91,16,13.8,2387.23,Online,Moment Ultra,2a7186b4-18b0-4e4e-af64-efb22942534f,Michael Baker MD,4.1
+2024-11-04,Africa,Clothing,3918.44,777.24,77,1.26,1646.19,Online,Share Plus,e0fdeaf2-3354-4415-850a-aca6c0838388,David James,4.0
+2024-03-25,Africa,Groceries,971.41,369.09,48,0.0,624.54,Wholesale,Herself Plus,4321ae41-ac1f-4c33-874b-3db2f45a0107,Maria Lin,3.5
+2024-01-23,Asia,Electronics,1340.08,835.75,23,15.83,1483.28,Online,Treatment Pro,e3f32110-c4d5-45cb-9edc-0a850aac03bc,Anna Booker,2.6
+2024-03-10,North America,Electronics,761.71,660.35,78,29.95,2542.99,Online,Pretty Pro,a18a08b3-8ec1-416f-bddc-0ddd08d4c6ee,Kevin Goodman,2.4
+2024-01-20,Australia,Toys,300.44,32.69,72,0.91,2159.16,In-store,Last Ultra,67992fd2-ffc5-4a05-a335-35648534d287,Leslie Bailey,2.7
+2024-09-05,Asia,Clothing,4725.13,263.0,50,18.42,3910.69,Online,Note X,31fa619f-0175-4c3e-93c7-7c894e479e98,Micheal Mcdonald,4.3
+2024-02-18,Europe,Toys,2373.96,194.95,68,7.02,1068.93,Wholesale,Rate X,940689f1-f0a1-4f07-af71-ffefd2c7b6b6,Andrew Bishop,4.3
+2024-08-28,Australia,Electronics,4059.64,998.35,54,18.2,2500.45,Online,Learn X,a0596987-4979-4cd7-a39d-0d776f388471,Richard Hart,3.7
+2024-08-26,North America,Groceries,2031.46,596.0,96,5.93,3316.06,Online,Animal Plus,616d3f5e-7820-4701-beee-a403a79ecd21,Thomas Davis,2.0
+2024-11-12,Asia,Groceries,4348.1,386.17,70,16.36,1917.69,Wholesale,Anything X,2a245a0a-fee2-4db2-9f9d-c81111d29588,Joshua Russell,1.6
+2024-07-31,Asia,Clothing,389.38,795.17,39,12.84,1651.26,Wholesale,College Ultra,fbd3683e-29a2-4b94-8cdf-52dccb9e0a7e,Brian Myers,1.3
+2024-11-15,Africa,Electronics,1679.88,734.13,19,3.82,1049.35,In-store,Sometimes X,67b5fca3-e801-4322-a8a7-f52393f5163a,Danielle Houston,2.0
+2024-05-06,North America,Groceries,2488.77,350.57,61,14.45,1373.55,In-store,Go Plus,b2e6a3f5-e72d-4709-bcee-5f8dc5c86ddf,Dr. Scott Stevens MD,4.3
+2024-10-28,Africa,Groceries,1932.01,385.38,40,18.34,3256.18,Online,Three Ultra,6b47c738-02d1-49b7-8755-8f3dd931dd3d,Andrea Miller,1.1
+2024-08-22,Asia,Toys,4719.17,230.24,45,3.23,3629.66,In-store,President Pro,89b57f17-dc15-4e36-8fd1-10115e82fa21,Erika Cooper,1.7
+2024-04-23,Australia,Furniture,4248.58,315.83,31,8.79,3919.34,In-store,Later Pro,c8caa8c7-e08d-42ab-88a8-8f2de366b0e2,Gary Miller,1.2
+2024-03-25,North America,Groceries,4075.7,122.63,51,7.77,995.38,Online,Society Plus,60848e0e-e6f6-4327-9b4d-d40cba032dec,Kristen Mendoza,1.2
+2024-12-06,Europe,Toys,1593.17,354.35,43,9.95,1890.21,In-store,Agreement Pro,5d01b8ab-d555-4ecf-870e-401f9fda3124,Gregg Martinez,2.6
+2024-07-07,Europe,Toys,3111.8,66.82,93,12.72,3935.28,In-store,See Ultra,39b5d4d3-9aea-4c42-9229-465c00bfcb09,David Hernandez,1.9
+2024-05-29,Africa,Electronics,1096.66,348.79,34,21.46,34.21,Wholesale,Ago Plus,b3539d7e-67e1-4de2-9cf4-ae254329eb80,Lee Mejia,4.7
+2024-10-22,Australia,Groceries,4671.44,942.43,73,25.39,3848.03,Online,Bill Ultra,52de4f74-e5a8-4edf-a9d2-5b725b4a2b3f,Jackie Ward,1.1
+2024-08-19,Asia,Groceries,2212.44,709.42,32,28.8,3200.67,Online,Heart X,8fc66e88-b454-4a77-a164-c30b81e96f2a,Debra Schmidt,3.9
+2024-10-17,North America,Clothing,429.49,762.23,50,14.97,3741.71,In-store,Though Pro,3fd29acd-cdd1-40f4-96cb-249809ced3d3,Claudia Ross,3.7
+2024-09-16,Australia,Clothing,2246.95,502.81,44,9.61,2730.69,Online,White Pro,e22deaea-4490-4b8a-b826-394cbc1880eb,Lisa Douglas,4.8
+2024-08-27,Asia,Toys,1880.06,547.52,13,16.52,2206.72,In-store,Rather X,60586c33-5ab6-4ada-a89a-4493d1ee1a24,Monica Warner,1.2
+2024-09-23,Asia,Furniture,103.25,843.69,3,23.32,2983.05,Wholesale,Member Plus,862287bf-b397-4399-ac00-e216f0a1162e,Mr. Chris Ferrell,1.9
+2024-09-17,Africa,Clothing,508.33,693.49,84,0.06,3443.8,Online,Paper X,b22b274c-8ac5-47e9-a4e7-a8576f294511,Nicholas Scott,2.2
+2024-04-13,Australia,Groceries,3287.83,794.57,4,10.75,2188.27,Online,Nature Ultra,5312c03d-50c7-4d20-91d4-7d191490e4d1,Rachael Orozco,1.2
+2024-07-16,Australia,Groceries,1556.5,696.88,13,3.52,3548.37,Online,Because Pro,f45eb625-174d-4b56-9eb0-ff07009ce8b4,Daniel Perry,4.9
+2024-11-02,Africa,Furniture,287.02,614.5,92,8.31,3421.25,In-store,Head Pro,e26cedab-0258-457a-bd54-43f052d679ec,Justin Donaldson,4.8
+2024-04-05,Australia,Groceries,4492.87,904.97,82,18.24,2713.84,Wholesale,In Ultra,e121b467-dcf6-48b4-bdb2-865a1cf82b5d,Susan Matthews,1.4
+2024-06-26,Africa,Clothing,2608.25,366.35,81,9.05,1548.63,Online,Themselves Ultra,fb351829-5d1b-4cbe-911e-d69b02a75b85,Robert Proctor,2.4
+2024-08-15,Europe,Groceries,2027.76,745.7,46,16.59,3278.01,Online,Daughter X,878d590b-6162-4b16-aa19-c89dfe814cc6,Jerry Jimenez,1.4
+2024-11-11,Australia,Electronics,3800.54,729.28,72,28.8,342.3,In-store,Memory Plus,a93cea95-2faf-4416-89a5-e56dd0a4723a,Deanna Cunningham,2.8
+2024-04-07,Europe,Toys,3121.71,84.13,6,16.18,2624.85,In-store,Whatever Ultra,08f404f2-f04b-4fcf-b110-6f2cccf08098,Lawrence Mason,4.1
+2024-03-10,Europe,Clothing,2082.31,842.95,52,6.55,1873.05,Wholesale,Future Ultra,0f072ca6-fd5d-463f-8082-9e722e0e0659,Don Miller,2.2
+2024-05-20,North America,Toys,112.23,391.8,10,14.72,3002.41,In-store,Population Plus,9ef7d86e-d175-401f-9f1f-6bf577ebd4e3,Kimberly Randall,4.6
+2024-06-02,Europe,Electronics,4256.0,322.01,64,14.84,3984.09,In-store,Recognize Pro,3b535d67-16b6-483a-881e-e0d7f491171d,Kathryn Thomas DDS,2.2
+2024-06-13,Asia,Toys,4692.64,218.31,23,8.86,2136.47,In-store,Reflect Ultra,e7c1bdd9-a720-4683-8e85-767003928027,Sierra Kim,1.9
+2024-09-05,North America,Furniture,1137.57,354.52,90,16.38,749.52,In-store,Leg Pro,f6d1be6e-51c0-4539-88ff-81b6c0c1e201,Joshua Pham,1.5
+2024-01-04,Africa,Electronics,4369.49,935.93,24,22.7,409.71,Online,Computer X,6bb6b6a8-40cc-4734-8b14-a32809668fb2,Adam Ray,2.8
+2024-11-14,North America,Clothing,4068.99,617.61,26,29.65,859.4,Wholesale,Describe Plus,4a262d56-7167-46ca-9408-40f81e6977c4,Katrina Soto,3.2
+2024-02-21,North America,Clothing,4615.59,693.48,51,21.09,2374.14,Wholesale,Energy X,f2a3b583-9937-4918-bdf3-fbef295d4507,Kevin Curry,1.5
+2024-08-12,Asia,Clothing,935.19,166.03,40,28.62,3696.81,Online,Difficult Plus,8cdf4a1f-40d0-4cea-b342-41332300d780,Dawn Freeman,3.6
+2024-07-15,Europe,Furniture,2228.91,936.75,6,6.64,3128.57,In-store,Allow Plus,7e9aa06e-7963-45fa-912b-3623ba742edc,Vanessa Burns,4.6
+2024-01-15,Africa,Toys,3820.05,260.14,5,6.41,1090.98,In-store,Tell Plus,2a179cdb-6236-4564-8bbc-2ee865d06877,Ian Hawkins,2.0
+2024-05-19,Asia,Toys,1400.02,342.01,11,24.09,728.13,Wholesale,Significant Pro,ad6541b9-4e5f-4d85-ab4f-a8391e3203ca,Kevin Stout,2.0
+2024-08-22,Europe,Toys,2360.82,236.45,17,13.98,3137.41,In-store,Person Ultra,1c2659a9-35c1-458b-ac7e-71827ccc8d6a,Connie Estrada,4.9
+2024-06-27,Australia,Groceries,3464.54,517.75,97,2.57,456.21,In-store,Expect Plus,88543f49-1949-4cd5-9d31-7cab2ba34a30,Steven Lamb,1.0
+2024-10-28,Asia,Furniture,3586.12,19.11,17,13.43,79.9,In-store,Which Plus,bad9aa8e-9cb7-4c51-9406-29bc4dae9058,Victor Newman,2.4
+2024-07-03,Europe,Electronics,1269.55,105.9,85,21.61,1824.33,Wholesale,Contain X,9b45ed0b-e0da-4e17-a90a-1dd566b68f94,Tara Brooks,3.4
+2024-10-25,Australia,Groceries,2956.55,242.6,3,5.85,3913.64,Online,Stand Pro,0f53161b-a4de-4b22-819e-80673f2da74e,James Brooks,2.0
+2024-03-30,Europe,Furniture,4749.89,456.79,80,25.82,3926.65,Online,Teach X,0ca81de3-6633-4f8f-a917-e1a213ae5dc4,Lisa Davies,2.3
+2024-07-26,Australia,Electronics,642.85,773.19,35,18.31,1281.03,In-store,Reality X,f59462c6-2f48-4947-bc97-e96d874dd7ab,David Montoya,4.6
+2024-06-06,Africa,Furniture,3255.88,50.95,17,8.0,3204.79,In-store,Skill Plus,584c0ca7-a79d-4462-bf69-d8cdad267611,Mark Harrison,1.2
+2024-08-05,North America,Clothing,2365.24,61.05,42,27.05,994.77,Wholesale,College Pro,674655e5-e604-4370-aef0-61bafe315a50,Michael Melendez,3.8
+2024-07-31,Africa,Electronics,4254.12,742.05,33,18.01,1713.64,Online,Worker Ultra,7fec34f1-0543-4aed-98ea-d903b6d638a8,Paula Ball,1.7
+2024-11-30,Asia,Toys,1940.01,455.35,99,6.35,3246.53,Wholesale,Open Pro,f003e651-879f-4b32-b6b0-ba6cb51bedca,Brooke Thomas,4.2
+2024-10-04,Australia,Furniture,3876.45,261.83,69,8.42,3912.86,Wholesale,Far Ultra,1c88ec95-51c1-49d4-84ea-43282fae8a2d,Robert Taylor,2.8
+2024-06-17,Europe,Clothing,989.63,167.57,12,18.84,709.24,Online,Serious Plus,49652a0d-ccf3-4f3b-abdc-73a69e7324e4,Mary Smith,4.8
+2024-06-05,Australia,Furniture,3289.29,59.34,31,8.55,2924.19,In-store,Collection Pro,3e9290fb-7aac-4c15-84f5-f88f4000447a,Michael Romero,3.5
+2024-05-02,Africa,Groceries,2418.45,758.71,79,0.96,2993.8,Online,Decision Ultra,dcb9014f-6ed8-47cb-aa37-c39c89a78ff5,Russell Lopez,3.9
+2024-09-25,Europe,Groceries,2800.01,697.94,62,21.38,329.96,Wholesale,Tough Ultra,92938671-3078-4799-be0e-87d6086dc8b2,Jeffrey Whitehead,3.3
+2024-10-18,North America,Electronics,4338.52,699.82,64,19.02,2471.61,Online,Be X,66c167ce-a00c-431e-94cd-51cf705f49a1,Tamara Smith,1.8
+2024-09-26,Europe,Electronics,3495.21,186.82,33,10.16,1509.88,Wholesale,Federal Plus,b7e84a49-1831-467f-baf4-e1928601915a,Caitlin Martin,3.0
+2024-02-13,Africa,Clothing,4715.29,619.32,17,8.16,1108.34,Online,Million Plus,8efce087-7857-44e7-9208-32b43f0c650a,Kathryn James,1.8
+2024-01-24,Europe,Clothing,3143.85,273.53,94,6.24,234.52,Wholesale,Themselves Plus,e163fe15-2cd6-4779-8e63-a070d86ec799,Jamie Hess,4.6
+2024-04-26,North America,Furniture,4171.41,43.92,86,21.15,3019.07,Wholesale,Officer Pro,52c28b2b-16e3-4203-8fb7-45c18e524feb,Barbara Rosario,1.3
+2024-03-14,Europe,Furniture,3510.33,742.06,67,4.64,3074.64,Wholesale,Occur X,9cc91df3-c605-4d78-8602-d8b1f47e2578,Gary Miller,1.3
+2024-02-21,North America,Toys,921.45,224.42,70,6.54,2130.43,Online,When X,0443b07e-7d4d-4f23-ae77-b8262922dcdd,Richard Sandoval,2.8
+2024-09-25,Africa,Clothing,3438.22,235.61,17,5.71,3297.91,Wholesale,Represent Pro,d8e1bfcb-ad68-45db-9e4a-b80d08eba437,Amy Salinas,3.8
+2024-10-27,Africa,Clothing,603.04,710.69,76,27.28,52.94,In-store,Want Ultra,b29083ac-10ab-4cc3-8d10-5012f5038d0d,Evelyn Craig,2.9
+2024-03-26,Australia,Toys,4447.04,28.04,79,25.67,2912.73,Wholesale,War X,0affe9ca-536e-4ca4-a6d2-bc083fdf2df4,Hannah Gonzales,4.5
+2024-11-20,North America,Toys,3541.49,803.39,50,0.72,3381.7,Wholesale,Few Ultra,136f8f49-fb93-4425-a459-0a250140feb9,William Johnson,3.2
+2024-02-27,Australia,Groceries,1970.94,382.69,39,18.05,661.82,Wholesale,Personal Ultra,a79f19e8-8389-4f22-bba7-045797e0045f,Jasmine Medina,3.0
+2024-11-30,Europe,Groceries,2424.7,939.66,4,0.61,1313.89,Online,Miss Pro,e56a6951-d526-48b3-8b46-a6f386c51d0f,Mitchell Welch,1.6
+2024-04-17,Africa,Clothing,2256.67,798.88,44,25.26,1975.12,Online,Cup Plus,8045bdd3-c049-43b6-ab92-64b3bcb6e034,Stephen Hill,2.9
+2024-06-11,Europe,Electronics,1602.46,800.1,22,27.49,2262.8,Wholesale,Travel X,810ac953-35e4-44b1-8749-d72648a037da,Terry Bass,3.3
+2024-08-22,Asia,Electronics,2988.08,257.1,40,12.94,1739.56,Online,A Ultra,282ec59a-19cb-4cfb-a468-92809596a23c,Lori Huynh,3.1
+2024-06-25,North America,Clothing,1526.61,123.56,58,3.78,1640.8,Wholesale,Whole Ultra,939276f3-98ed-4eb1-b03f-49a6bd19f601,Jennifer Jordan,4.2
+2024-02-13,Asia,Groceries,3639.41,84.02,28,2.39,1735.46,Online,Explain Plus,9a5764e8-5443-4f36-92c4-e0394bc16b1a,Andrew Gordon,1.8
+2024-08-14,North America,Clothing,3973.35,709.89,91,16.32,681.52,In-store,Film Ultra,004d476c-ddbf-43d3-b87c-e327d2e37c15,Tammy Carter,3.0
+2024-02-18,Africa,Electronics,1695.13,455.69,19,26.94,1913.82,In-store,Pass Plus,81a4916e-acd7-4159-b7ff-c4500f8f847e,Aaron Bush,1.1
+2024-05-27,Australia,Furniture,1253.47,543.17,32,18.92,2880.21,In-store,Above Plus,cb8df6f5-a4c2-404d-8926-d54ad5a6605b,Barbara Browning,4.5
+2024-02-06,Asia,Groceries,4712.1,612.32,99,1.84,392.86,Online,Special Plus,089f8872-7cd5-4210-b18f-a6e99b46b78b,Peggy Carroll,4.6
+2024-07-03,Africa,Groceries,2912.23,529.25,60,6.93,748.62,Wholesale,Cultural Ultra,abf60c83-212c-46d3-9df4-8778ec12f4dc,Johnathan Colon,3.4
+2024-10-05,Australia,Toys,1368.65,744.23,77,21.31,1034.36,Online,Include X,a654b562-c685-4cb3-921e-0a044354d205,Angel Murphy,2.7
+2024-11-02,North America,Electronics,3466.13,807.46,80,17.09,2061.42,Online,Career Pro,c3dc5ce6-7a38-4b4a-9b59-be7a703e289c,Cameron Gates,2.9
+2024-03-12,Europe,Groceries,361.21,132.86,21,12.17,2271.44,Online,Fine X,0f8f53a3-b19c-492c-9ead-458eedfd0e1e,Angie Wilson,2.5
+2024-03-20,North America,Clothing,2837.66,809.58,74,14.34,2683.83,Wholesale,Describe Pro,3610eef9-a43b-4179-abef-0c54aa0ec947,Marcus Robertson,3.5
+2024-05-30,Africa,Clothing,3415.91,796.31,23,13.45,528.76,In-store,Cause Plus,0238c476-5a31-4c2d-99f7-b55663df255f,Christy Edwards,3.6
+2024-05-04,Europe,Electronics,2934.86,304.3,90,25.15,808.64,In-store,True Ultra,d013dc40-67e5-4b68-9f5b-a25622566d39,Michael Hull,2.5
+2024-10-06,Asia,Electronics,4383.74,928.42,96,1.54,2602.54,In-store,Player Ultra,bbcb9788-01aa-4535-8748-048b8132562d,Peter Mcmahon,4.9
+2024-08-28,Europe,Electronics,1307.63,143.69,82,16.01,2888.74,In-store,Idea Ultra,9b675410-821c-416a-b67d-843c7fca384b,Jennifer Mitchell,3.1
+2024-04-27,Asia,Clothing,4474.13,342.03,34,28.69,2460.17,Online,Garden Ultra,972a8761-82fb-4640-bd75-03419737dd7c,Andrew Robinson,2.8
+2024-05-01,Australia,Electronics,4517.57,890.94,57,21.48,2452.05,In-store,Cell Pro,2af535a6-0bc6-4071-95d4-deb98ca25500,Henry Calderon,2.3
+2024-06-18,Europe,Electronics,867.42,531.88,54,25.36,529.21,Online,Region X,9bdce12f-66ba-44fe-994d-c0d6280c81d0,Danielle Davis,3.2
+2024-05-25,Africa,Clothing,2312.9,710.86,24,17.94,2602.35,In-store,Born X,66df411f-fd03-4dc0-9f6b-7ece16558f88,Joshua Ramsey,4.7
+2024-01-16,Europe,Groceries,4135.34,326.46,79,17.63,2060.38,Wholesale,Some Pro,05fb6f3c-6f12-44c7-aba5-9455911c9b34,Elizabeth Cruz,2.3
+2024-07-24,Asia,Groceries,4533.24,23.52,15,4.65,2140.52,Wholesale,Family Ultra,600ab86c-da6d-433a-956a-1da6e2854d4c,Barbara Shaffer,3.3
+2024-01-16,Australia,Clothing,4293.83,906.05,61,21.41,2905.58,In-store,Teach Pro,e3bbf88b-4f07-4122-a5b3-d2064b2fc486,Ian Campbell DDS,1.2
+2024-02-08,Asia,Clothing,4875.56,923.36,89,16.14,2326.88,Wholesale,Serve Pro,b07d170f-3acd-4fc6-9594-bdadd12f3922,Kaitlin Sullivan,2.6
+2024-02-22,North America,Toys,1434.75,970.76,8,13.54,94.25,In-store,Contain Pro,a38441c1-ef6f-433d-b29e-c17768784bda,Christina Santana,4.5
+2024-07-21,Europe,Clothing,2054.72,646.87,59,28.87,2267.52,Online,Music X,7d41c513-bc46-4f0a-9765-f7cea7664b6d,Holly Stanley,1.8
+2024-04-28,Africa,Toys,3604.45,336.16,12,20.09,443.15,Wholesale,Any Pro,8d30acc1-08b9-469e-a405-c080ab6b005d,Brandi Mullins,1.9
+2024-08-25,Asia,Furniture,3689.37,81.97,21,7.38,3895.1,In-store,Anything Plus,0d5494f4-fec5-4f2d-80e1-a2f61aa9bd1b,Garrett Herrera,1.7
+2024-10-07,Africa,Groceries,1661.18,35.25,88,3.39,1770.95,Wholesale,Approach Plus,20e66eca-3597-4f0f-81a6-84137952a960,Katherine Perry,1.6
+2024-09-10,Europe,Clothing,1065.59,801.93,6,13.27,147.82,Online,Be Plus,6282daaa-440c-4f22-8392-d99ef9712d6e,Michael Chavez,3.0
+2024-01-02,North America,Furniture,3491.32,224.24,26,19.07,1135.04,In-store,Picture Ultra,a76e4691-8640-4af1-bb16-3c53fb658f1d,Bradley Mcdonald DDS,1.7
+2024-03-21,Africa,Toys,585.73,240.82,18,21.96,3010.78,Online,Clearly Ultra,4aeec6cc-1718-4032-a32f-8d8db2570647,Tiffany Weber,3.1
+2024-08-10,Africa,Electronics,1756.76,302.4,89,16.78,3016.31,In-store,Rise X,a135c127-2a50-4168-acf0-73a9ef5965ee,Michelle Ellis,4.3
+2024-05-17,North America,Groceries,3302.44,622.47,4,2.29,2423.0,Wholesale,Morning Plus,551b787c-5949-4ba1-aec9-33bc90898143,Rachael Cardenas,3.9
+2024-06-26,Australia,Electronics,3305.11,644.26,85,22.53,2608.14,Wholesale,Charge Pro,35d798c8-58a5-4add-891e-8e3233a44cfe,Mr. Jared Brown,1.7
+2024-04-02,North America,Clothing,3062.78,940.59,63,19.95,3354.55,In-store,Thing X,d2b6fe41-8bea-40ec-b87a-28077be3b78d,Christopher Ford,4.8
+2024-09-27,Europe,Clothing,4924.34,377.94,5,23.61,1718.35,Wholesale,Particularly Pro,0180a154-14f5-4f23-9826-1645de44fbfe,Daniel Burns,4.5
+2024-04-18,Africa,Groceries,2471.91,975.19,65,7.3,1845.04,Wholesale,Analysis X,562dfa05-5c79-4212-844c-64229bdf6d12,Courtney Brown,3.1
+2024-06-21,Asia,Electronics,2010.85,147.69,3,8.38,2215.62,Online,Avoid X,c8a4bff0-1429-4bcd-96d1-0a6c152199f5,Linda Roberts,2.2
+2024-09-13,Asia,Toys,3934.76,311.78,63,11.51,3623.47,In-store,Image Pro,40b0e093-2054-4363-84e2-d6f69a1e5f86,Morgan Lewis,4.8
+2024-05-21,Australia,Toys,3655.51,952.85,17,14.25,2304.39,Wholesale,Choice Pro,416e35d5-d955-4922-b12b-d5e9834959ae,Nancy Schultz,2.1
+2024-03-10,Australia,Clothing,2521.57,888.2,51,2.67,325.68,Wholesale,Piece Pro,63d316f8-2bc4-4c7f-b045-65d2ac65b6a3,Trevor White,1.7
+2024-09-15,Asia,Groceries,1481.09,409.8,70,22.25,50.25,Wholesale,Even X,434dcc73-1ad0-4ef2-8b9b-4a2d92c7a61b,Brian Vasquez,1.6
+2024-03-02,Australia,Furniture,3654.83,235.66,96,10.13,119.41,Online,Full X,5565849a-dabf-44a2-9e0d-053494794292,Ryan Sanchez,3.8
+2024-12-08,Australia,Furniture,1843.82,253.67,11,20.62,533.21,In-store,Cultural X,36507331-d6cb-4ac4-a270-547359b4972c,Ryan Reid,1.3
+2024-02-05,Africa,Groceries,3887.4,401.88,58,3.88,2413.16,Wholesale,Writer Pro,a0ddf0f2-d50c-4f00-9f6e-2bab65fc9ab5,Justin Gilmore,2.1
+2024-09-04,Europe,Electronics,4874.8,575.64,43,9.8,587.55,In-store,General Ultra,f1d6c18a-c2ab-4522-8544-b10cad477310,Andrew Higgins,2.4
+2024-05-30,North America,Groceries,3390.59,662.15,72,10.22,3442.38,In-store,Them Plus,2d827bc7-4bf6-429b-930e-cccac99160c8,Maurice Cruz,4.4
+2024-03-22,Europe,Groceries,4590.66,168.63,25,12.3,1909.36,Wholesale,Child Pro,4c9ab86d-1a37-4515-8e3d-c7ebdc2cc342,Harry Pearson,2.2
+2024-01-28,Asia,Toys,2303.3,428.63,71,6.81,2164.29,In-store,Money X,88a88f6a-970b-4d56-a372-484f5711f135,Nancy Johnson,1.7
+2024-10-01,Europe,Clothing,1627.18,34.5,48,26.4,2275.03,Wholesale,Three Ultra,e91361b2-82d6-4695-b104-f93a73b84608,Cheryl Ford,1.1
+2024-07-07,Asia,Clothing,2487.45,395.36,36,15.61,2310.02,In-store,War Ultra,08388a9d-6c4c-4620-a2c7-0af5f8191a5e,Karen Guzman,3.0
+2024-03-13,Europe,Furniture,2184.58,477.92,40,14.76,3241.07,Online,Establish Pro,e6969a84-4d6d-4cff-bf4d-74ba566b1fac,Michael Martin,4.4
+2024-07-13,North America,Toys,1716.56,758.47,93,5.46,961.38,Online,International Pro,ede5eae1-0749-4105-b701-b25a24667db6,Nicole Hammond,4.9
+2024-10-17,Africa,Toys,2084.18,752.17,51,10.88,3992.95,In-store,Ball Plus,dabc1df3-0c8a-43f0-95bc-90a811280e1b,Danielle Mendoza,2.2
+2024-03-21,Europe,Clothing,2242.67,854.16,72,14.87,2901.06,In-store,Member X,d366a1b8-8b7c-4110-a886-b695d3d509a7,Andrew Campbell,3.3
+2024-07-07,Australia,Groceries,4191.7,61.73,70,2.29,3883.69,Wholesale,Management Plus,4a02e71d-eeb4-4931-a142-20cb46992405,Monique Bridges,2.0
+2024-11-03,Asia,Groceries,573.83,238.89,9,18.1,358.63,In-store,Any X,2a50639d-0273-4993-b2cd-96948e703a64,Jacqueline Gomez,2.6
+2024-03-29,Africa,Furniture,4940.78,462.88,42,5.83,1245.86,Online,Dinner X,7276a21c-4c42-447b-ba30-41322ad1c59a,Valerie Powell,3.7
+2024-10-08,Europe,Clothing,3605.57,786.23,85,18.94,3279.47,In-store,Second Ultra,31f41068-01bb-4933-8705-192ab87289b6,Jonathan Harris,1.9
+2024-09-16,Africa,Furniture,3169.73,112.92,97,9.11,1185.68,Wholesale,Everything X,8e430d12-fae2-4343-b5cb-6c1f06bcb8f0,James Wells,1.5
+2024-02-26,Asia,Furniture,4134.85,429.21,26,7.53,969.52,In-store,Citizen Ultra,e63276d7-6a87-481f-975e-026350d7a6cb,Mark Ross,3.9
+2024-03-31,Australia,Electronics,1728.05,165.17,22,16.1,2865.98,Wholesale,Beautiful Pro,7c4ce66b-aa75-400d-a153-45732ac4fb51,Jacqueline Craig,4.4
+2024-04-21,Australia,Groceries,1698.77,449.41,64,28.07,1677.15,Wholesale,Pay X,e290a9ff-16bb-49bf-84bd-cb1b76634eb6,Jacob Roach,4.1
+2024-03-13,Europe,Toys,4654.23,57.48,47,23.29,1161.69,In-store,Specific Plus,37520e70-aebe-4794-9ceb-354e9a8a1830,Tony Deleon,1.5
+2024-03-28,North America,Electronics,2649.19,3.55,61,8.38,48.51,Wholesale,Really Pro,e0c6b645-5c60-431d-827b-865ba9cf2171,Jennifer Brown,3.9
+2024-11-30,North America,Furniture,1236.74,657.39,21,23.39,1157.8,Wholesale,Including Ultra,ae02bba6-73fd-48bb-a14f-e54ccd6cd921,Samuel Phillips,4.9
+2024-04-09,Australia,Clothing,4808.8,470.25,42,8.54,3451.92,In-store,Cultural X,da97a806-7864-4352-8813-6809b0d17665,Edward Walker,4.9
+2024-01-23,Europe,Clothing,3147.45,772.27,76,13.77,365.94,In-store,Author X,da5fcb1f-8715-4030-98fd-e7893fe58669,Kathleen Martin,4.1
+2024-10-03,Asia,Furniture,3615.83,303.28,88,1.55,1629.82,Wholesale,Half X,a319d767-7557-4bf2-98e7-11833d1d650c,Barbara Brown,2.2
+2024-06-01,Asia,Groceries,1392.75,82.88,44,1.26,3210.04,Online,Five Pro,d8307515-c670-4dd3-826c-d8cd4f57066d,Sean Lozano,3.0
+2024-11-15,Australia,Clothing,4286.33,35.5,35,9.39,764.78,In-store,Information Plus,2b423b93-f9ed-414e-9849-f4ace73056db,Chad Bishop,1.4
+2024-01-15,North America,Groceries,471.55,90.5,60,26.77,1044.22,Wholesale,Side X,8f6948fa-b8a0-4120-9aeb-a5eaa3ccf810,Chelsea Bernard,3.4
+2024-09-12,North America,Electronics,2080.96,992.53,83,18.82,3215.7,Online,Apply Plus,f2c73d63-5e18-4dde-9596-2a20bec1b5c5,Diane Sanchez,3.6
+2024-08-18,Europe,Toys,1954.32,240.81,31,23.64,3843.89,Online,Management Pro,acec53bb-0db3-4691-82c7-21a91a4b2616,Michael Alexander,2.4
+2024-06-24,North America,Furniture,3476.51,564.31,45,3.27,2415.37,Wholesale,Need Plus,2475a91c-49c7-4590-b1bf-4e922cab415a,John Morton,3.5
+2024-06-23,Australia,Furniture,2725.28,893.33,26,18.1,1574.72,Wholesale,Report Ultra,1bed258e-42c9-4310-a5bc-40b8366a2b27,Jeff Zhang,1.9
+2024-04-07,Europe,Electronics,1418.58,939.51,29,3.95,2950.42,Wholesale,Pull Pro,85c33000-42e9-40ec-9cbf-b9d4fa7fcad6,Benjamin Reyes,3.6
+2024-08-08,Africa,Clothing,1722.02,626.65,87,4.4,3813.21,In-store,Way Ultra,940b1c4e-32fa-41bf-b942-8ad82a7c0d91,Anne Orozco,2.7
+2024-07-10,Asia,Electronics,117.37,785.46,85,20.97,2443.83,Online,Population Ultra,4bbbaf85-26b6-4385-b0ad-e852db9473bf,Raymond Miller,2.9
+2024-07-18,North America,Toys,590.55,832.77,77,1.68,3965.66,In-store,Own X,4cd9e116-d3a0-4f47-8eea-053006b4fb7c,Madeline Hill,3.4
+2024-11-22,North America,Furniture,2797.74,869.47,59,1.02,3766.5,In-store,Inside Pro,3923b0d0-27e5-44f1-93dd-d5f74600fd85,Matthew Black,1.0
+2024-01-06,Asia,Furniture,559.7,954.96,1,20.45,1351.62,In-store,What Ultra,836d79d1-8280-4cf9-b889-99c32f4ad218,Deborah Clark,1.2
+2024-08-19,North America,Furniture,664.17,669.67,99,19.09,193.91,Online,Seem X,e63362fe-a077-4920-b4f6-a235cc7072a1,Mrs. Katrina Cummings,1.5
+2024-07-29,Asia,Groceries,2553.95,878.34,50,9.81,1913.77,Wholesale,Never X,00166067-13c9-492b-854b-84d0bf3d73d8,Jason Reyes,4.6
+2024-04-23,Australia,Clothing,108.61,195.06,97,12.1,1085.71,In-store,Near Pro,17e08060-fa61-49aa-9501-982e39c3818b,Andrea Potts,3.6
+2024-04-29,Asia,Furniture,4464.62,102.67,9,24.23,1136.85,Online,Operation X,d811b23e-292d-4a83-9c06-fde423ec1514,Michelle Stevenson,4.2
+2024-05-19,Australia,Electronics,789.55,457.37,5,22.08,790.87,Wholesale,Arrive X,76a9fa3d-7504-4a8a-9466-22b412979c48,Daniel Russo,3.2
+2024-05-02,Africa,Electronics,4471.63,530.97,37,13.75,2735.56,Wholesale,Despite Pro,1b5d0505-ece7-44ab-80eb-dd79cf2fabf1,Daniel Jackson,1.4
+2024-06-25,Europe,Furniture,3849.25,486.37,43,17.89,2264.2,Wholesale,Past Plus,e45ebb60-669e-43ea-939d-96433dce2daa,Amanda Meyers,4.9
+2024-06-23,North America,Groceries,2527.73,389.27,68,26.27,212.28,Wholesale,Up Pro,6a12d36b-75cb-46ee-a6b5-0bbfcf533601,Miss Judy Lewis,1.7
+2024-05-27,Asia,Groceries,3013.85,900.84,7,4.07,2367.93,In-store,Population Ultra,43af5a57-bde6-4c70-9220-f97451399a06,Jamie Anderson,4.9
+2024-11-04,North America,Clothing,1540.93,204.9,51,13.91,3718.38,In-store,Bag Pro,449660de-d3a5-4971-91a6-ae268b2c1929,Melissa Owens,4.2
+2024-06-24,North America,Electronics,3826.12,974.77,37,6.31,1095.56,Wholesale,Believe X,6d578806-6c6a-4a14-ab91-65be73013bcf,Carmen Allen,4.3
+2024-05-25,Australia,Electronics,1722.93,998.21,7,9.87,1490.4,Online,Subject Pro,9038875a-d881-4e30-8273-31146520659f,Brittney Mills,4.3
+2024-11-04,North America,Groceries,2255.75,556.08,3,4.85,3812.03,Wholesale,Share X,542d1550-eaf1-4d19-b95a-8c95cb6c8da4,Sherri Gates,4.6
+2024-03-16,North America,Furniture,327.88,212.13,40,29.7,563.08,Wholesale,Reality Ultra,a8382b1e-df25-47a9-8330-ff8f910caa2f,Jennifer Burke,1.3
+2024-03-12,Asia,Toys,4027.8,176.13,69,3.35,3203.64,Online,Project Plus,a363f2d4-351f-489c-8956-d6e64c77ca32,Christina Reynolds,2.2
+2024-09-01,Australia,Groceries,550.37,310.2,40,26.19,3758.26,In-store,Term Ultra,7b256fcb-724e-4fbe-b70d-c5d796eae833,Michael Johnson,4.5
+2024-04-01,North America,Furniture,670.25,276.49,86,24.07,1006.65,Wholesale,Where Ultra,63167f99-13b7-47f8-9f3d-a9f19f5f6635,Lisa Bates DDS,2.6
+2024-06-08,North America,Electronics,3025.73,240.98,100,11.13,576.25,Online,Month Pro,892c78f5-fd38-4851-8277-fb501a373966,Melissa Bell,4.4
+2024-07-15,Africa,Electronics,3787.01,671.35,44,21.74,3254.27,Wholesale,Part Plus,62436cfc-22f9-4222-b2e0-6f192f6df89f,Stephanie Aguilar,1.1
+2024-09-21,North America,Furniture,3308.07,865.51,6,14.87,2166.72,Wholesale,Reflect Plus,e6c3203b-9af0-4d2b-aeb8-52163e03cca3,Eric Schultz,2.9
+2024-06-27,Africa,Furniture,1124.69,258.81,32,8.79,280.44,Online,Pull Pro,4eec2ff3-00ad-4646-9460-8f6792a440b6,Dr. Edward Johnston,1.6
+2024-08-04,Africa,Furniture,16.57,746.26,10,17.59,3267.66,In-store,Enjoy Pro,3279d56d-cb6c-461f-822f-6308e703b5b7,Jeff Hamilton,4.6
+2024-10-06,North America,Toys,3742.41,897.03,20,2.73,3254.54,Wholesale,Bad Plus,a1966954-ea87-47d6-ae65-ad8027c49823,Michael Richards,2.9
+2024-06-07,Africa,Groceries,523.92,421.94,28,18.9,427.43,Online,Present Ultra,47cadcb1-0069-4443-9e8e-d9351ee7f6f6,Adam Martinez,4.6
+2024-07-30,Australia,Furniture,578.29,238.19,65,20.84,3697.94,Wholesale,Suffer X,d9a0e988-4386-48c6-aae3-176e7d95c50c,Jose Bean,3.2
+2024-02-01,Asia,Clothing,3425.46,230.75,78,15.09,1981.88,In-store,Dinner Ultra,5c3c2ce6-3ad3-49f0-b385-d656a366e6cf,Chris Allen,2.5
+2024-03-07,Australia,Groceries,2167.13,530.57,3,5.19,1114.34,Online,Guess Ultra,2b779e41-f6aa-41b0-9b7e-2887edd0d13a,John Wise,1.0
+2024-11-02,Europe,Toys,4440.79,810.97,92,11.21,3016.33,In-store,Century Ultra,10a1dcf9-2d01-4eac-bc8e-3a9a23febfe1,Christina Snyder,2.6
+2024-11-08,North America,Clothing,1720.29,889.43,64,13.28,693.52,Wholesale,Energy Pro,5dbc1aef-7cf9-45c6-9045-233406572ed0,Garrett Robles,2.3
+2024-05-07,Africa,Furniture,482.92,39.76,28,0.04,2070.32,Wholesale,Certainly Plus,ec607cd6-65e2-4bf7-a243-72b8611ec547,Jimmy Mitchell,3.7
+2024-06-07,Asia,Furniture,3935.87,642.15,33,25.24,2288.53,Wholesale,Day Ultra,6bb45690-6b5a-4138-b900-1068707a8265,Stephanie Hill,3.4
+2024-05-10,Asia,Toys,771.9,422.93,62,26.58,151.73,In-store,Director Pro,588f6051-91fd-465f-9d2e-59acff0be235,Brittany Salinas,2.6
+2024-12-02,North America,Electronics,836.77,398.5,51,23.69,801.24,Wholesale,Sing Pro,a17bdf55-e7bc-473e-8161-d971852cded4,Christopher Austin,3.8
+2024-09-20,Africa,Electronics,4050.94,712.4,55,10.67,629.57,In-store,Team X,20f87439-1524-4308-b859-c82ea573ef1f,Jennifer Snyder,3.6
+2024-04-18,North America,Furniture,1376.28,975.1,56,14.15,3301.35,Wholesale,West Pro,3faea320-1e7f-4c70-ab32-c7d34fa32e48,Jacob Phillips,2.5
+2024-11-23,Africa,Clothing,86.07,673.85,100,17.33,3285.08,Online,Direction X,dc32be0a-d75a-4def-a188-e89fc6dd07b5,Kevin Duke,1.5
+2024-03-16,North America,Clothing,4380.87,706.19,56,21.95,1032.21,In-store,Character X,cadb9230-922f-4295-9608-569b94a4cb3a,Katherine Weeks,2.8
+2024-05-16,Africa,Electronics,208.51,720.09,15,7.48,1126.97,Wholesale,Hard X,0aa7d6d2-b93b-4340-a68f-bf583c0fdef7,Melissa Peterson,2.1
+2024-09-08,Australia,Electronics,1553.03,310.78,61,22.23,3982.31,Wholesale,Benefit Plus,6de5201b-9ca7-4819-be3e-651218b8626b,Samuel Roberts,3.6
+2024-06-16,Asia,Electronics,4155.16,671.71,24,22.02,3486.28,Wholesale,Voice Pro,d1c4864a-6f11-4a54-a3ac-0cf615e9ef82,Donna Taylor,3.3
+2024-03-18,Africa,Clothing,4956.43,831.28,82,10.11,1762.82,Online,Option X,b7096430-b7e4-4370-87fb-8e47aac2e06c,Tracey Velasquez,3.3
+2024-09-05,North America,Electronics,4937.18,537.85,83,13.49,749.45,In-store,Important Ultra,1fbff313-2090-4ebe-9dbd-71ad156c86a3,Jacob Thomas,1.3
+2024-09-10,Asia,Clothing,4434.7,111.06,20,2.87,895.83,Wholesale,Nice Ultra,99f70d13-d0ee-4ee3-979b-94ae557dcce7,Gabrielle Olsen,2.4
+2024-05-26,Australia,Groceries,2221.47,547.92,16,0.59,1400.09,Online,My Pro,34ebe092-9e34-4382-a4a0-030c059b27a6,Luis Garrison,2.9
+2024-05-31,Australia,Toys,2743.07,575.99,4,17.25,3614.99,Wholesale,Company Pro,ac48f610-28e7-4275-8d03-eaf80d5f1d56,Jacqueline Wiggins,1.9
+2024-10-18,Europe,Clothing,4580.83,188.1,18,28.84,339.2,Online,Imagine X,1cced79b-6739-4ca9-9b18-daa39c2993bf,Paul Richardson,2.4
+2024-09-08,Africa,Toys,1057.37,743.82,86,22.15,2277.5,In-store,Item Ultra,04ddde15-1db6-4223-bf52-a496918cc733,Teresa Parsons,1.9
+2024-09-15,North America,Clothing,1456.69,27.33,87,26.74,2807.46,In-store,Join X,e74e2b22-d226-4f36-996e-b28bbb5160eb,Mark Johnson,2.5
+2024-02-28,Africa,Clothing,392.85,191.7,53,15.22,1905.36,In-store,Per Pro,bd39cadb-8cc3-49e8-a885-ee9f043cc333,Judy Cross,2.1
+2024-11-06,North America,Groceries,1820.88,707.45,47,25.89,1681.08,Online,Evidence Ultra,10c0302a-72f3-49ae-9cb5-9a078866eeaf,Jason Jones,4.1
+2024-08-30,Asia,Toys,86.53,145.65,2,22.47,3885.45,Wholesale,At Pro,9181bfe7-28d1-425b-9f5a-680591977131,Jamie Moreno,1.2
+2024-07-23,Africa,Toys,2211.57,359.32,52,3.44,3861.34,Wholesale,Increase Plus,89ef317a-4577-4528-b6ff-5d7760f35852,Adam Brown,4.0
+2024-01-12,North America,Toys,2208.32,111.07,18,1.46,494.99,In-store,Whatever Plus,8d0d8233-75ac-4d4f-9905-c6230c955104,Anna Munoz,4.3
+2024-03-29,Australia,Furniture,437.69,549.98,22,0.07,191.5,In-store,How X,8a9ed083-503f-4436-8be2-e24b8893169d,Crystal Flores,4.1
+2024-10-02,Australia,Groceries,1808.48,58.88,68,18.39,3809.52,Online,Teacher Pro,bd5cf5ef-bc6c-4411-868d-788643958bce,Roger Fisher,4.2
+2024-04-26,Asia,Groceries,4548.33,574.38,48,11.54,1918.66,Online,However Plus,90064e05-0a95-4652-bc71-e382b776b1cd,Kevin Williams,4.8
+2024-12-06,Australia,Clothing,877.5,692.91,88,7.54,1279.55,Online,Contain Plus,d95c9afe-d5be-4a5c-8154-f23b393c1166,Megan Richardson,1.7
+2024-07-16,North America,Groceries,3700.67,949.41,92,6.67,776.77,Online,Own Pro,32f797f1-39ff-4127-8330-95f2c146f633,Randall Clark,2.3
+2024-04-26,Asia,Clothing,2563.83,967.61,17,21.59,1929.67,Wholesale,Land Pro,5100a21f-b529-4f97-acd8-ae21d700173c,George Burton,4.2
+2024-05-23,Australia,Clothing,3928.87,946.76,45,17.63,3222.22,In-store,Use Pro,05cfecf1-8cff-4cf7-8c92-6da695875311,Jose Thomas,3.2
+2024-12-10,Africa,Electronics,4267.58,711.16,65,13.03,3156.78,In-store,Modern X,8768a176-c3c4-4c1e-bb57-22adbb4fcaad,Kent Duarte,4.8
+2024-07-14,Europe,Toys,3461.33,910.6,34,3.35,3519.98,Online,Determine Plus,36564b19-8fb9-461f-a0f4-50d05ec781e8,Antonio Sanders,4.4
+2024-11-09,Australia,Electronics,2723.47,107.78,17,9.13,712.88,In-store,Resource Pro,e3bdfa8c-d6f2-4d63-b8ed-6bfd9da1603d,Clayton Frazier,3.9
+2024-10-02,Australia,Furniture,4260.9,274.75,99,7.15,3638.61,Online,Finish Ultra,1f5f6c08-af18-4491-b215-49bd853a8b32,Tanya Gonzalez,3.1
+2024-10-29,Africa,Groceries,4339.05,925.3,26,21.68,3421.19,Wholesale,Environment Plus,cafd4eb1-e745-4440-a8fe-00d2e9dd7831,Joseph Camacho,2.2
+2024-06-24,North America,Furniture,1058.07,933.71,39,13.89,2744.23,Wholesale,Order Ultra,088b05ef-4691-4321-b860-1a1151c2eb83,Bobby Brown,1.4
+2024-08-16,North America,Furniture,495.54,277.91,56,28.21,528.56,Online,Best X,37369b03-8b63-41ee-b5c5-99940d7bed3a,Kristi Weber MD,3.7
+2024-03-18,North America,Groceries,3625.28,645.23,32,8.53,3533.53,Online,Across Plus,f19a2785-3418-43e6-aabd-4f1775655ddd,Maureen Frye,3.6
+2024-06-04,North America,Groceries,4798.68,53.94,29,28.96,2967.98,Online,Floor Pro,146a363f-43c6-47a5-9c6d-3762840bc5d3,Sarah Andrews,3.0
+2024-11-03,Africa,Furniture,4086.66,67.47,44,27.92,3870.91,Wholesale,Line X,e386d01b-75a4-41bc-980f-16463d7e1543,Angel Davis,4.2
+2024-12-04,Australia,Electronics,3069.28,383.08,17,15.76,152.57,Online,Suffer X,218ad281-5b4d-4f06-8440-6b0de3e47862,Todd Miller,3.2
+2024-05-08,Europe,Groceries,175.68,799.79,99,9.47,737.48,Online,Experience Plus,f85148ad-b784-4cc5-ad3a-26476558d70e,Ronald Hayes,1.2
+2024-03-23,North America,Furniture,2761.02,156.43,84,4.21,2849.64,Online,Detail Pro,05bfa228-820e-4149-b931-b4cce8ac2445,James Hoover,4.9
+2024-02-12,Africa,Electronics,4765.68,697.36,85,3.43,470.85,Wholesale,Within X,fdd89dfe-a900-4bdd-99d8-b067d5c0674a,Sharon Mathis,1.7
+2024-07-05,Africa,Clothing,4766.42,373.46,43,3.61,3569.59,In-store,Statement Plus,4478f366-eabf-4993-8eab-dd39bed80eef,Brian Oneill,4.6
+2024-10-09,Asia,Groceries,3672.2,441.33,32,2.65,233.19,Wholesale,Month Ultra,85c94f47-a7e5-41eb-8923-9c476f8a2a07,Omar Valdez,4.4
+2024-09-30,Australia,Clothing,129.72,593.59,96,29.28,3172.97,Wholesale,Every X,a5e6cbe8-c8a0-45dc-902d-c58b5db8444a,Danielle Villegas,2.6
+2024-06-28,Africa,Electronics,2705.75,830.86,46,17.68,2534.69,In-store,Message Plus,ba04c4ef-5bd0-46b6-9f7d-b584be4408f9,Kelli Conway,4.2
+2024-08-07,Australia,Clothing,1387.61,922.6,28,22.21,1337.95,Wholesale,Oil Ultra,e81c62b1-82c2-4ec8-873d-59bc47cb8c79,Michelle Garcia,4.6
+2024-01-28,Europe,Furniture,108.89,193.46,65,12.19,2432.05,Online,Condition Pro,0660e33b-ed6e-4a00-8059-97fa87706a00,Natasha Miller,1.7
+2024-02-03,Australia,Clothing,3346.87,291.33,73,0.93,54.48,In-store,Authority Pro,8333afcd-bc63-49ad-87c1-bee5ab4d9d07,Michael Long,1.2
+2024-05-04,Europe,Groceries,4073.2,101.75,77,24.14,1866.51,Wholesale,My Ultra,849df1b8-44cd-4d68-ac25-e46e6d99dc78,Lauren Thompson,2.0
+2024-11-12,Australia,Clothing,2800.45,443.3,66,14.25,716.39,Online,Large Plus,283e02b1-cf43-4f38-8b41-933fcea5c901,Kimberly Willis,3.5
+2024-01-29,Europe,Toys,192.15,263.11,84,6.58,305.25,In-store,Drop X,2fef694e-7128-40f6-aab3-719a11be5f2c,Jose Powers,1.6
+2024-02-25,Asia,Electronics,4107.15,53.71,23,5.12,54.65,In-store,Hot Plus,229d047f-c013-4162-bccb-f32517074fa6,Laurie Thomas,3.3
+2024-05-15,Asia,Toys,1084.27,808.89,31,18.33,3263.4,Online,Least X,4e9c9571-ad33-4df9-ae6c-913a4a4eace3,Colleen Jordan,2.1
+2024-09-17,Asia,Toys,1283.83,885.41,37,23.25,3148.5,Online,Discover Plus,9afc6efd-2f4d-4c76-ad8b-51accf7eeb37,Lisa Young,3.7
+2024-12-10,North America,Toys,4060.17,333.05,63,23.89,3342.38,Online,Resource Ultra,95dd7255-46b7-4ded-a4d5-90fd87b8692a,Brandon Sanders,2.0
+2024-05-22,Australia,Clothing,2166.53,56.63,11,12.68,2711.41,In-store,Price X,7ab6c463-fd1b-4559-a8da-a1a0e252fa62,Kurt Hunt,3.5
+2024-07-15,Europe,Electronics,1757.46,774.88,82,23.03,2145.77,In-store,Type X,bab2dbfb-f32e-4255-a13c-1861c8d44812,William Snyder,1.8
+2024-05-30,Asia,Furniture,4032.76,711.45,85,22.14,1934.3,Online,Reduce Plus,997cdf9f-f643-4f93-8f67-ecd8592711de,Donald Dean,4.6
+2024-12-06,Africa,Electronics,605.1,206.87,22,5.79,3811.1,Online,Their Plus,20570b10-4a44-49b6-b23b-0080421adad2,Stephanie Waller,1.8
+2024-03-22,Africa,Groceries,3264.67,208.08,19,18.3,1365.13,Online,Be Pro,3c5cc27d-0260-4883-9bcc-1ac3c1aa391d,Jasmine Gibson,4.0
+2024-04-16,Africa,Clothing,4819.17,213.12,92,17.67,777.24,In-store,Large Ultra,ed7c091d-cff4-44da-8674-18c29cc58676,Lauren Butler,1.9
+2024-11-23,North America,Groceries,2365.82,756.68,52,12.86,2520.8,Wholesale,Coach Pro,9f114cae-3f4b-421e-8dba-29b9121a664a,Lauren Williamson,4.6
+2024-03-03,Australia,Groceries,2751.27,622.41,64,1.84,143.97,In-store,Chair Ultra,14e41135-7a06-49d8-b6d4-73342a8a1043,Douglas Davis,4.5
+2024-04-06,Europe,Clothing,691.65,636.18,8,20.52,3632.41,In-store,Street Pro,66df8a89-b7fc-464c-995a-2a3c5c746764,Lindsey Fox,2.8

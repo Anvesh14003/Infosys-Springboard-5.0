@@ -1,0 +1,1249 @@
+Customer ID,Customer Name,Age Group,Gender,Region,Product Category,Sales Amount,Profit,Purchase Date,Discount (%),Payment Method,Customer Loyalty Level,Customer Satisfaction Score
+1,Erik Wilson,36-45,Female,Europe,Toys,2105.72,1009,09-02-2024,9.91,Cash,Platinum,2.8
+2,Blake Gonzalez,36-45,Other,Australia,Groceries,1873.67,440.65,08-08-2024,15.75,Debit Card,Platinum,4.4
+3,Gregory Sanders,60+,Other,Asia,Clothing,3551.79,1318.11,31-01-2024,15.7,Credit Card,Platinum,3.4
+4,Caleb White,18-25,Female,Africa,Clothing,1554,74.59,04-07-2024,10.72,Credit Card,Bronze,4.3
+5,Amy Winters,26-35,Male,Africa,Furniture,4772.48,200.78,02-02-2024,3.43,Bank Transfer,Gold,1.5
+6,Laura Molina,36-45,Male,Africa,Electronics,1833.63,1159.81,28-11-2024,12.59,Debit Card,Gold,3.5
+7,Michael Nichols,36-45,Female,North America,Books,2680.41,392.65,11-07-2024,15.98,Bank Transfer,Platinum,2.7
+8,Heidi Young,18-25,Other,Europe,Clothing,3134.98,68.67,14-05-2024,2.95,Bank Transfer,Bronze,2
+9,Cathy Little,18-25,Other,Europe,Electronics,3558.31,277.31,27-02-2024,27.55,Cash,Silver,4.3
+10,James Myers,18-25,Female,Asia,Groceries,636.34,590.37,02-03-2024,16.25,Debit Card,Gold,4.7
+11,Holly Vega,60+,Other,Asia,Sports,4786.79,426.19,07-07-2024,15.76,Bank Transfer,Bronze,1.8
+12,Crystal Sampson,46-60,Female,Europe,Sports,2511.43,1397.91,13-02-2024,1.98,Digital Wallet,Gold,1.5
+13,Scott Mills,36-45,Male,Europe,Furniture,716.72,157.96,07-07-2024,26.79,Bank Transfer,Platinum,2.8
+14,Ashley Norman,46-60,Other,Africa,Sports,4312.34,1025.34,21-05-2024,3.34,Cash,Platinum,1.9
+15,Jamie Bradley,60+,Female,North America,Groceries,4968.65,1467.3,14-12-2024,15.21,Digital Wallet,Bronze,1.1
+16,William Morgan,26-35,Male,North America,Books,2396.4,1245.26,06-11-2024,2.3,Debit Card,Platinum,4.1
+17,Monique Whitehead,18-25,Female,Africa,Toys,3632.46,1195.64,06-07-2024,15.31,Debit Card,Silver,1
+18,Karen Bradley,46-60,Male,North America,Groceries,3318.99,1000.25,08-08-2024,17.8,Cash,Platinum,1.8
+19,Kelly Ray,36-45,Male,Europe,Groceries,1759.58,28.62,24-02-2024,20.11,Credit Card,Gold,4.7
+20,Phillip Perry,60+,Male,Australia,Clothing,1206.79,576.36,10-12-2024,21.66,Digital Wallet,Silver,2
+21,Sarah Yang,60+,Male,Asia,Toys,2805.9,1110.63,10-05-2024,29.91,Bank Transfer,Gold,3.5
+22,Lisa Stewart,18-25,Other,North America,Clothing,3901.45,1408.99,24-09-2024,11.95,Debit Card,Gold,3.6
+23,Donna Randall,18-25,Male,Australia,Sports,188.08,434.56,16-06-2024,10.6,Digital Wallet,Bronze,4.1
+24,Tara Fisher,46-60,Other,Australia,Clothing,926.72,1393.42,28-04-2024,20.64,Bank Transfer,Platinum,2.7
+25,Joshua Smith,26-35,Male,Asia,Sports,1310.5,1151.99,04-06-2024,4.78,Digital Wallet,Silver,3.4
+26,Garrett Barnes,60+,Other,Asia,Groceries,2796.22,776.95,16-11-2024,10.97,Digital Wallet,Gold,2
+27,Jeremy Nelson,46-60,Male,Australia,Books,238.14,1393.03,13-08-2024,15.68,Cash,Gold,4.6
+28,Sara King,36-45,Other,Europe,Sports,928.18,784.83,12-08-2024,25.64,Credit Card,Bronze,3.8
+29,Leonard Hahn,60+,Male,North America,Books,1247.03,592.24,28-07-2024,1.13,Credit Card,Gold,1.5
+30,David Baker,36-45,Other,Asia,Toys,628.6,468.12,23-05-2024,3.87,Credit Card,Silver,4.7
+31,Jessica Smith,26-35,Female,Australia,Furniture,568.11,1402.33,28-05-2024,16.22,Debit Card,Gold,3.3
+32,Kenneth Jacobs,60+,Female,North America,Clothing,4372.46,837.27,21-11-2024,8.88,Digital Wallet,Silver,4.1
+33,Carly Smith,18-25,Male,North America,Clothing,2097.33,861.5,27-11-2024,9.2,Debit Card,Bronze,2.4
+34,Anne Baird,26-35,Male,North America,Sports,4640.93,789.25,07-07-2024,22.98,Credit Card,Silver,4.5
+35,Matthew Finley,46-60,Other,Europe,Books,3222.82,959.16,03-05-2024,17.76,Cash,Gold,2.5
+36,Dr. Tony Peterson MD,36-45,Female,Australia,Toys,4938.75,247.32,28-03-2024,27.35,Digital Wallet,Platinum,4.8
+37,Sarah Boyd,46-60,Male,Asia,Sports,3696.5,303.49,06-06-2024,26.27,Debit Card,Bronze,4.3
+38,Mark Cox,18-25,Female,Asia,Toys,3644.18,272.65,30-04-2024,16.79,Digital Wallet,Bronze,1
+39,William Williams,46-60,Male,Australia,Clothing,3869.7,703.51,06-07-2024,4.03,Bank Transfer,Gold,4.6
+40,Julia Coleman,46-60,Male,Asia,Furniture,2738.1,1419.82,16-09-2024,1.06,Credit Card,Platinum,2.8
+41,Cameron Hernandez,36-45,Male,Europe,Furniture,4457.48,714.8,23-03-2024,2.2,Bank Transfer,Bronze,3.4
+42,Richard Mendoza,26-35,Male,Asia,Books,4230.27,1151.81,10-06-2024,20.78,Bank Transfer,Silver,2
+43,Joann Price,36-45,Male,Africa,Sports,2557.49,823.17,16-03-2024,4.67,Credit Card,Bronze,2.9
+44,Victor Wilson,60+,Other,Australia,Sports,2204.45,1065.96,10-08-2024,2.23,Cash,Platinum,4.8
+45,Jenna Bowman,46-60,Female,Asia,Clothing,4674.28,1465.28,03-09-2024,22.93,Debit Card,Bronze,1.3
+46,Jermaine Anderson,60+,Other,Africa,Sports,3919.44,800.46,26-01-2024,8.15,Credit Card,Gold,4
+47,Christopher Terrell,26-35,Male,North America,Groceries,708.94,1050.98,06-07-2024,24.98,Debit Card,Gold,3.2
+48,Meredith Torres,26-35,Other,North America,Electronics,606.79,942.53,11-03-2024,20.28,Bank Transfer,Silver,1.9
+49,April Miller,60+,Other,Australia,Groceries,3917.73,1064.04,06-04-2024,22.54,Debit Card,Silver,3.6
+50,Laura Harrison,18-25,Male,Asia,Groceries,399.89,616.63,10-08-2024,1,Credit Card,Bronze,5
+51,Katherine Campos,26-35,Female,Australia,Clothing,4551.71,432.53,27-09-2024,5.44,Credit Card,Bronze,1.4
+52,Stephen Cooper,18-25,Male,Asia,Toys,1436.74,145.21,10-12-2024,21.47,Bank Transfer,Silver,1.7
+53,Frank Johnson,36-45,Male,Australia,Books,1121.65,249.7,03-11-2024,8.37,Cash,Gold,2
+54,Stephanie Higgins,18-25,Male,Australia,Furniture,3665.73,713.42,12-01-2024,28.16,Debit Card,Silver,1.4
+55,Courtney Peterson,26-35,Other,Australia,Groceries,2748.05,70.08,23-01-2024,27.89,Cash,Silver,3.1
+56,Tracy Baxter,46-60,Female,Europe,Books,1241.93,426.57,14-09-2024,21.33,Credit Card,Platinum,3.6
+57,Douglas Gaines,26-35,Male,Europe,Sports,2329.71,55.69,11-03-2024,20.97,Digital Wallet,Platinum,4.4
+58,Suzanne Combs,46-60,Other,North America,Clothing,2050.14,640.29,08-04-2024,2.02,Digital Wallet,Bronze,1.7
+59,Joshua Martin,60+,Female,Europe,Toys,3139.86,581.03,09-02-2024,26.17,Bank Transfer,Platinum,4.1
+60,Carrie Huffman,46-60,Other,North America,Books,4558.13,1222.82,10-12-2024,19.35,Credit Card,Silver,4.2
+61,Daniel Myers,18-25,Other,Africa,Sports,2512.87,1053.01,05-09-2024,2.12,Digital Wallet,Gold,2.1
+62,Ryan Adams,60+,Female,Asia,Electronics,2942.5,439.32,23-07-2024,27.32,Cash,Silver,2.4
+63,Alexis Goodman,26-35,Female,North America,Clothing,2268.57,1016.78,22-07-2024,8.94,Credit Card,Silver,2.2
+64,Alexander Bennett,60+,Male,Europe,Electronics,4907.26,602.12,09-01-2024,10.54,Credit Card,Gold,3.3
+65,Patricia Brown,18-25,Male,Australia,Furniture,737.66,664.45,22-07-2024,7.82,Bank Transfer,Gold,3.4
+66,Alyssa Santos,36-45,Female,Asia,Sports,1542.13,717.71,26-01-2024,9.71,Cash,Bronze,1.2
+67,Tiffany Mendez,36-45,Female,Asia,Furniture,1106.5,684.16,03-11-2024,26.95,Bank Transfer,Gold,3.5
+68,Jose Moore,26-35,Other,Asia,Sports,1776.35,892.45,02-09-2024,13.5,Digital Wallet,Gold,4.6
+69,Anthony Martinez,60+,Female,North America,Toys,2705.33,884,16-07-2024,15.57,Debit Card,Gold,1.2
+70,Gary Wilson,36-45,Other,North America,Electronics,3673.88,483.71,17-02-2024,27.71,Bank Transfer,Silver,3.7
+71,Veronica Young,60+,Male,North America,Toys,2404.48,1235.01,22-10-2024,15.03,Cash,Gold,1.4
+72,Danny Lopez,46-60,Male,North America,Books,1259.38,1301.9,25-01-2024,20.81,Cash,Bronze,4
+73,Cheryl Welch,18-25,Male,Europe,Sports,2723.7,833.53,03-12-2024,18.84,Digital Wallet,Platinum,1.5
+74,Bryan Meyers,18-25,Female,Australia,Furniture,3919.28,1253.75,11-10-2024,5.91,Bank Transfer,Bronze,2.2
+75,Natasha Smith,18-25,Female,North America,Toys,568.81,602,28-08-2024,24.65,Digital Wallet,Bronze,4.8
+76,James Williamson,60+,Female,Asia,Sports,2738.48,3.7,06-08-2024,8.15,Digital Wallet,Platinum,3.4
+77,Andrew Henson,26-35,Female,Asia,Books,2787.26,950.13,22-09-2024,11.07,Bank Transfer,Bronze,2.3
+78,Kevin Nguyen,60+,Female,North America,Electronics,733.17,712.47,02-04-2024,17.11,Cash,Gold,2.1
+79,Mercedes Williams,26-35,Female,Africa,Electronics,4487.27,1135.36,13-08-2024,11,Cash,Bronze,2
+80,Joseph Jordan,60+,Male,Asia,Books,523.84,1395.79,03-07-2024,23.45,Bank Transfer,Silver,1.6
+81,Linda Gilmore,60+,Other,North America,Electronics,4906.03,1181.1,08-11-2024,0.26,Credit Card,Platinum,3.9
+82,Kristin Jackson,46-60,Female,Europe,Sports,2207.03,1078.49,31-07-2024,20.98,Bank Transfer,Platinum,2.3
+83,Eric Ponce,60+,Other,Africa,Toys,2481.34,1205.68,23-03-2024,6.42,Cash,Gold,3.6
+84,Jacob Grimes,46-60,Male,Australia,Furniture,2473.44,735.8,22-03-2024,25.21,Digital Wallet,Silver,4.8
+85,Alexandra Brady,46-60,Other,Europe,Electronics,137.54,185.69,10-06-2024,16.12,Credit Card,Bronze,3.8
+86,Susan Byrd,46-60,Female,North America,Toys,3873.01,1037.28,18-04-2024,4.81,Credit Card,Platinum,1.7
+87,Daniel Miller,60+,Male,Asia,Books,1786.18,418.89,02-05-2024,29.07,Cash,Platinum,3.5
+88,Richard Silva,18-25,Female,Africa,Sports,3950.99,796.89,17-10-2024,8.86,Bank Transfer,Gold,1.9
+89,Jill Ross,26-35,Female,Asia,Books,2222.82,1182.78,05-12-2024,19.62,Bank Transfer,Silver,1.9
+90,Carla Wallace,26-35,Female,North America,Groceries,3523.99,452.99,19-07-2024,6.51,Bank Transfer,Silver,2.5
+91,John Booker,60+,Female,Africa,Sports,2281.56,1352.96,14-01-2024,21.26,Credit Card,Platinum,3.4
+92,Lisa Doyle,46-60,Female,Africa,Toys,1945.64,447.36,19-03-2024,22.25,Debit Card,Silver,4.2
+93,Jeremiah Huff,18-25,Female,Asia,Clothing,1765.71,558.97,15-08-2024,18.57,Cash,Platinum,4.1
+94,Heather Horton,60+,Other,Asia,Furniture,3356.1,234.44,08-12-2024,19.81,Debit Card,Gold,1.2
+95,Sarah Watkins,46-60,Male,Africa,Clothing,3360.51,1269.17,09-08-2024,27.61,Debit Card,Bronze,4.6
+96,Jonathan Gardner,36-45,Other,Africa,Groceries,2801.49,157.3,30-06-2024,4.36,Cash,Gold,4
+97,Eric Lawrence,36-45,Female,Asia,Toys,1766.88,784.79,10-02-2024,11.79,Bank Transfer,Bronze,4.7
+98,Roy Crawford,60+,Male,North America,Electronics,4280.44,846.23,09-12-2024,24.57,Cash,Silver,2.1
+99,Nicole Lewis,18-25,Male,Australia,Groceries,226.54,575.39,11-02-2024,21.59,Bank Transfer,Silver,1.3
+100,Scott Rowe,18-25,Other,Australia,Toys,3902.77,615.19,08-03-2024,15.61,Debit Card,Silver,1.1
+101,Sean Lopez,46-60,Female,Africa,Furniture,1251.55,332.53,30-10-2024,1.26,Bank Transfer,Bronze,1.7
+102,Stephanie Lopez DVM,26-35,Female,Australia,Clothing,4674.46,743.86,19-03-2024,21.24,Digital Wallet,Platinum,4.4
+103,Mrs. Kristy Rojas,18-25,Female,Asia,Toys,3962.77,1175.09,01-04-2024,16.49,Credit Card,Silver,4.8
+104,Michael Montgomery,18-25,Other,Europe,Furniture,504.02,327.87,18-04-2024,15.88,Digital Wallet,Silver,3.7
+105,Anna Hall,60+,Male,North America,Sports,277.95,722.93,26-01-2024,8.65,Cash,Platinum,4.2
+106,Sarah White,46-60,Female,Africa,Electronics,4810.04,843.4,07-12-2024,19.04,Credit Card,Silver,2.4
+107,Dr. Justin Hartman,60+,Other,Africa,Groceries,4973.5,520.82,18-05-2024,15.48,Credit Card,Platinum,2.6
+108,Michael Walter,18-25,Other,Europe,Groceries,2653.25,482.82,12-04-2024,19.08,Cash,Platinum,2
+109,Mark Cole,46-60,Male,Australia,Electronics,341.44,1382.45,05-12-2024,2.08,Debit Card,Gold,4.3
+110,Anita Joyce,60+,Other,Europe,Groceries,4043.04,361.56,25-09-2024,27.39,Cash,Platinum,2.5
+111,Thomas Olson,46-60,Female,North America,Books,3493.95,853.99,07-01-2024,28.5,Digital Wallet,Platinum,2.8
+112,Catherine Taylor,18-25,Female,Europe,Toys,1929.53,543.13,09-09-2024,8.13,Credit Card,Bronze,1.1
+113,Mark Shields,36-45,Female,Europe,Groceries,4698.93,221.95,26-05-2024,20.25,Bank Transfer,Bronze,1
+114,Aaron Smith,60+,Other,Asia,Clothing,4011.01,342.81,30-08-2024,11.24,Bank Transfer,Gold,2.6
+115,Cindy Pierce,18-25,Female,Australia,Groceries,311.78,1393.69,06-12-2024,1.38,Debit Card,Gold,4.7
+116,Clarence Wang,26-35,Female,Australia,Sports,2734.47,1448.68,05-09-2024,29.78,Bank Transfer,Silver,2.6
+117,Caleb Mendez,60+,Male,Europe,Toys,2525.49,1418.82,21-11-2024,7.5,Cash,Bronze,3.6
+118,Brandi Espinoza,46-60,Other,North America,Sports,797.38,309.35,19-05-2024,19.43,Digital Wallet,Gold,1.6
+119,Linda Barnes,46-60,Other,Africa,Toys,3898.35,1005.96,09-02-2024,16.12,Bank Transfer,Gold,2.9
+120,Joseph Burton,18-25,Other,Africa,Electronics,3014.15,417.71,16-01-2024,7.48,Bank Transfer,Platinum,3.7
+121,Ashley Castaneda,36-45,Male,Australia,Sports,4629.7,812.77,10-10-2024,16.07,Digital Wallet,Gold,4.8
+122,Sharon Christian,60+,Female,Asia,Sports,4231.39,566.53,15-01-2024,4.86,Debit Card,Bronze,1.6
+123,Suzanne Vargas,46-60,Other,North America,Sports,4958.66,519.22,07-02-2024,14.9,Cash,Bronze,3.9
+124,Lucas Bryant,60+,Male,Africa,Toys,1599.98,188.08,04-08-2024,9.23,Bank Transfer,Silver,1.3
+125,Brian Williams,18-25,Male,Asia,Furniture,4005.59,559.69,01-08-2024,17.29,Bank Transfer,Gold,4.6
+126,Matthew Williams,60+,Female,North America,Sports,4738.03,185.44,13-06-2024,14.94,Bank Transfer,Platinum,2.1
+127,Ernest Johnson,46-60,Male,Africa,Clothing,702.08,1111.09,04-04-2024,11.18,Cash,Gold,4.4
+128,Zachary Wilson,26-35,Male,Europe,Groceries,3134.51,1002.97,27-04-2024,12.84,Bank Transfer,Silver,1.4
+129,William Morgan,60+,Male,Africa,Clothing,3632.32,104.84,01-03-2024,26.09,Bank Transfer,Silver,2.1
+130,Jonathan Atkinson,36-45,Male,Europe,Toys,1981.34,960.54,14-09-2024,19.48,Bank Transfer,Platinum,1.7
+131,Robert Hall,18-25,Other,Europe,Books,1189.41,726.9,03-07-2024,25.23,Cash,Gold,1.6
+132,Jeffery Leblanc,36-45,Male,North America,Electronics,4584.62,307.98,07-10-2024,28.09,Digital Wallet,Platinum,2
+133,Susan Mcclain,26-35,Female,Africa,Furniture,2598.82,288.34,08-05-2024,9.76,Cash,Bronze,2.9
+134,Craig Mcfarland,60+,Female,Europe,Books,4864.03,1421.05,06-11-2024,24.69,Digital Wallet,Platinum,4.3
+135,Reginald Young,36-45,Male,Africa,Books,4738.79,1065.37,24-01-2024,22.83,Credit Card,Gold,4.2
+136,Sarah Ward,36-45,Female,Asia,Clothing,3274.36,780.36,05-12-2024,5.59,Bank Transfer,Platinum,2.1
+137,Sarah Hanson,36-45,Other,Asia,Books,75.8,1119.68,30-11-2024,6.03,Cash,Silver,2.4
+138,Ashley Robertson,46-60,Other,Europe,Clothing,252.34,558.92,14-05-2024,29.45,Debit Card,Bronze,1.3
+139,Lori Mooney,18-25,Male,North America,Clothing,1802.43,590.87,07-09-2024,19.61,Cash,Platinum,2.2
+140,Michael Maxwell,46-60,Other,Asia,Books,4457.84,583.11,08-08-2024,15.96,Credit Card,Platinum,2.4
+141,Lauren Burke,60+,Male,Australia,Furniture,4953.14,210.27,13-09-2024,11.95,Digital Wallet,Platinum,4.7
+142,Joseph Hanson,36-45,Other,North America,Sports,2878.06,1361.79,21-05-2024,16.66,Debit Card,Gold,4
+143,Steven Morgan,60+,Other,Europe,Electronics,327.26,1343.99,02-11-2024,18.51,Debit Card,Silver,2.4
+144,Wesley Campbell,26-35,Other,Australia,Electronics,1533.68,856.9,22-03-2024,1.68,Debit Card,Silver,4.5
+145,Ryan Ray,18-25,Female,Asia,Books,4037.11,940.75,10-07-2024,0.77,Bank Transfer,Gold,2.1
+146,Robert Cabrera,26-35,Other,North America,Sports,3399.49,158.66,15-09-2024,16.06,Digital Wallet,Bronze,2.1
+147,Michael Rivera,36-45,Male,North America,Clothing,4718.44,33.45,06-01-2024,24.67,Bank Transfer,Platinum,1.1
+148,Rebekah Leach,46-60,Other,Australia,Books,4423.46,580.66,17-10-2024,19.79,Debit Card,Bronze,4.2
+149,Kenneth Davis,46-60,Other,Africa,Groceries,4818.57,1289.59,26-06-2024,3.02,Cash,Platinum,4.3
+150,Michael Dixon,36-45,Other,Europe,Toys,4149.17,789.17,27-06-2024,18.33,Debit Card,Gold,3.1
+151,Donna Miller,36-45,Other,Asia,Groceries,2723.89,1099.94,21-10-2024,29.1,Bank Transfer,Platinum,2.4
+152,Alfred Hayes,60+,Other,Asia,Electronics,2939.73,667.58,12-02-2024,14.65,Cash,Bronze,1.9
+153,Craig Davis,26-35,Female,Africa,Furniture,1819.08,586.71,10-07-2024,18.39,Credit Card,Silver,4.8
+154,Stephanie Chambers,60+,Male,North America,Toys,1288.52,959.06,25-08-2024,9.19,Cash,Platinum,3
+155,Christopher Martinez,60+,Other,Europe,Sports,4791.37,1104.62,09-05-2024,22.24,Credit Card,Bronze,4.6
+156,Edward Blake,46-60,Female,North America,Sports,831.08,255.47,14-06-2024,10.68,Credit Card,Platinum,1.6
+157,Edwin Noble,60+,Male,Africa,Furniture,3190.28,681.95,11-01-2024,25.27,Credit Card,Gold,2.2
+158,James Watts,46-60,Other,Europe,Electronics,3132.38,649.04,21-04-2024,27.93,Credit Card,Platinum,1.7
+159,Jose Smith,26-35,Male,Asia,Toys,4213.78,1425.17,28-06-2024,2.41,Cash,Bronze,4.7
+160,Christine Horton,36-45,Other,Australia,Furniture,2867.84,939.6,10-09-2024,5.55,Digital Wallet,Bronze,4
+161,John Morales,26-35,Female,Australia,Books,4236.75,649.58,06-08-2024,7.46,Bank Transfer,Silver,1.4
+162,Scott Green,60+,Female,Australia,Toys,2666.38,972.65,07-12-2024,16.87,Bank Transfer,Gold,2.2
+163,Amanda Franco,26-35,Female,Africa,Sports,242.66,1079.91,08-10-2024,1.55,Credit Card,Gold,4.5
+164,Gregory Rivera,18-25,Female,Australia,Furniture,4050.02,556.62,05-02-2024,1.97,Debit Card,Bronze,2.6
+165,Lawrence Patterson,18-25,Other,Africa,Furniture,2524.59,894.12,20-11-2024,8.6,Cash,Silver,3.9
+166,Micheal Tanner,18-25,Other,Europe,Books,163.85,1075.97,23-10-2024,6.98,Cash,Bronze,1.4
+167,Angela Carter,46-60,Male,Asia,Toys,3777.96,260.18,27-05-2024,24.82,Credit Card,Gold,4.9
+168,Chloe White,18-25,Male,Africa,Furniture,3183.28,370.38,28-05-2024,14.31,Cash,Silver,1.2
+169,Robert Phillips,36-45,Female,Australia,Toys,1293.21,206.73,20-08-2024,21.94,Cash,Bronze,4.8
+170,Wesley Jackson,26-35,Female,Europe,Sports,1597.62,861.15,15-03-2024,22.91,Cash,Bronze,2.1
+171,Dawn Lawrence,36-45,Female,Australia,Electronics,678.08,1383.76,06-09-2024,22.12,Digital Wallet,Silver,4.4
+172,Jill Anderson,60+,Other,Australia,Clothing,1918.74,159.75,13-08-2024,25.88,Debit Card,Bronze,3.7
+173,Timothy Reid,26-35,Female,Australia,Sports,2164.25,626.8,30-06-2024,26.78,Credit Card,Gold,3.4
+174,Jeffrey Gallagher,36-45,Female,Europe,Books,620.54,845.77,23-08-2024,6.25,Bank Transfer,Bronze,4.9
+175,Sheila Shaffer,18-25,Female,Europe,Books,4142.9,818.34,11-08-2024,24.06,Cash,Bronze,1.7
+176,Jeffrey Anderson,36-45,Male,Africa,Books,4758.82,990.39,05-05-2024,14.84,Digital Wallet,Bronze,4.7
+177,Candice Taylor,46-60,Male,Asia,Electronics,1034.27,1145.56,17-05-2024,21.17,Cash,Silver,4.4
+178,Ray Leon,36-45,Male,Africa,Clothing,2018.11,1389.71,24-10-2024,27.99,Bank Transfer,Bronze,2.1
+179,Cameron King,36-45,Female,Europe,Clothing,150.96,1272.2,21-03-2024,2.79,Credit Card,Gold,3.7
+180,Jennifer Bradley,18-25,Male,Asia,Clothing,3099.53,904.66,13-09-2024,29.55,Credit Card,Platinum,1.6
+181,Michele Edwards,26-35,Other,Africa,Electronics,483.84,399.15,18-10-2024,0.73,Credit Card,Bronze,3.6
+182,David Bennett,60+,Female,Africa,Sports,727.95,1361.4,05-06-2024,16.87,Bank Transfer,Silver,1.4
+183,Laura Davis,36-45,Male,Africa,Furniture,3333.96,1096.17,01-06-2024,9.23,Bank Transfer,Platinum,3.1
+184,David Howard,36-45,Female,Australia,Electronics,3356.86,675.03,11-06-2024,19.94,Digital Wallet,Bronze,1.3
+185,Valerie Meyer,26-35,Other,North America,Sports,4909.56,886.19,31-05-2024,4.33,Bank Transfer,Platinum,4
+186,Lindsey Turner,26-35,Male,Australia,Sports,4503.17,815.13,08-10-2024,27.48,Digital Wallet,Silver,3
+187,Nathaniel Mullins,26-35,Female,Africa,Books,4021.53,85.52,29-06-2024,4.45,Digital Wallet,Bronze,4.3
+188,Katherine Hawkins,36-45,Male,Asia,Furniture,1175.33,1065.12,06-11-2024,22.93,Credit Card,Bronze,4.8
+189,Jonathan Garcia,60+,Other,North America,Clothing,3639.44,126.85,26-05-2024,5.67,Digital Wallet,Gold,3
+190,Misty Chapman,36-45,Male,North America,Furniture,3413.13,181.16,03-08-2024,8.01,Debit Card,Gold,3.3
+191,Francis Walker,60+,Male,Australia,Sports,751.1,1075.38,26-08-2024,23.3,Cash,Platinum,3.2
+192,Sarah Hughes,18-25,Female,Europe,Clothing,3660.04,737.87,14-12-2024,25.07,Cash,Gold,4.9
+193,Victor Perry,46-60,Other,Europe,Clothing,3477.79,921.69,01-08-2024,14.17,Credit Card,Gold,4.3
+194,Patricia Francis,26-35,Male,Australia,Groceries,2738.03,206.79,29-03-2024,8.84,Bank Transfer,Platinum,3.1
+195,Charles Chandler,46-60,Female,Europe,Sports,168.34,630.98,16-11-2024,27.15,Cash,Platinum,1.1
+196,Amber Little,46-60,Other,Australia,Furniture,3266.2,124.45,01-11-2024,25.04,Digital Wallet,Gold,4
+197,Michaela Miller,60+,Female,Europe,Sports,657.21,1190.38,20-11-2024,0.39,Digital Wallet,Bronze,3.3
+198,Rebecca Lewis,26-35,Other,Australia,Toys,1821.3,1192.77,06-02-2024,28.66,Credit Card,Silver,3.8
+199,Daniel Smith,18-25,Female,Australia,Electronics,1253.19,785.98,15-05-2024,28.74,Debit Card,Platinum,2.4
+200,Victor Ho,46-60,Male,North America,Sports,134.56,986.68,01-11-2024,6.46,Digital Wallet,Gold,2.4
+201,Michael Sharp,46-60,Female,North America,Furniture,3125.68,257.55,09-06-2024,22.88,Cash,Bronze,1.6
+202,Joseph Meyers,36-45,Female,Australia,Groceries,414.71,1331.73,07-04-2024,1.84,Bank Transfer,Gold,1.4
+203,James Atkinson,18-25,Male,North America,Clothing,3070.57,244.33,29-04-2024,20.44,Bank Transfer,Silver,2.9
+204,Jeffery Kelley,46-60,Other,Europe,Toys,762.17,447.24,05-07-2024,15.1,Credit Card,Silver,2.5
+205,Cynthia Garcia,26-35,Female,Africa,Books,4808.79,306.58,20-09-2024,29.32,Cash,Platinum,4.7
+206,Katie Bennett,36-45,Male,Europe,Books,4446.33,376.29,15-10-2024,14.74,Digital Wallet,Bronze,2.3
+207,Tara Williams,36-45,Female,Asia,Groceries,1424.04,969.3,06-03-2024,1.81,Digital Wallet,Platinum,4.1
+208,Christopher Stevens,36-45,Other,Asia,Books,1395.33,1116.04,24-11-2024,3.95,Credit Card,Gold,3.9
+209,Ronald Hart,36-45,Female,Asia,Furniture,2266.14,1445.99,13-09-2024,22.76,Credit Card,Platinum,2.3
+210,Taylor Marks,60+,Female,Europe,Sports,4017.28,1047.63,24-11-2024,7.17,Debit Card,Gold,4.4
+211,Donna Chang,18-25,Other,North America,Sports,2599.24,1436.78,08-06-2024,13.22,Credit Card,Gold,3.1
+212,Oscar David,26-35,Other,Africa,Groceries,3137.66,1393.08,25-11-2024,4.48,Debit Card,Gold,1.6
+213,Alicia Green,18-25,Female,North America,Groceries,1656.5,1155.56,06-08-2024,7.01,Debit Card,Bronze,2.8
+214,Mark Chambers,18-25,Other,Asia,Books,100.76,1238.97,17-09-2024,14.56,Credit Card,Bronze,1.4
+215,Adrienne Dorsey,46-60,Female,Africa,Electronics,312.41,1272.81,20-11-2024,14.96,Debit Card,Bronze,2.2
+216,Julian Pacheco,26-35,Female,Asia,Clothing,3042.68,1095.55,16-06-2024,24.07,Credit Card,Silver,1.2
+217,Deborah Smith,46-60,Other,Africa,Clothing,2137.12,176.72,03-10-2024,17.54,Credit Card,Platinum,2.3
+218,Christina Rodriguez,18-25,Female,Africa,Sports,3506.15,1176.38,13-07-2024,26.52,Bank Transfer,Silver,4.9
+219,Samuel Hill,60+,Male,Australia,Electronics,1575.58,851.43,21-07-2024,21.09,Debit Card,Gold,2.8
+220,Kathleen Benson,18-25,Male,Asia,Books,3524.4,1067.22,19-05-2024,8.56,Bank Transfer,Silver,2.1
+221,Jack Coleman,46-60,Other,Europe,Groceries,1742.64,1482.93,06-03-2024,9.57,Debit Card,Platinum,3
+222,Erica Michael,18-25,Male,Europe,Clothing,2358.15,272.64,17-08-2024,3.17,Digital Wallet,Bronze,2.9
+223,Vickie Robertson,26-35,Male,Africa,Sports,760.21,925.59,14-06-2024,24.43,Bank Transfer,Platinum,4.2
+224,Troy Franco,18-25,Female,Africa,Sports,4282.74,916.91,04-11-2024,8.12,Bank Transfer,Platinum,4.5
+225,Mike Reyes,18-25,Female,Asia,Clothing,3222.3,84.4,13-11-2024,27.91,Cash,Gold,3.6
+226,Leslie Avila,36-45,Male,Australia,Clothing,1986.51,1000.24,09-09-2024,5.79,Debit Card,Platinum,3.9
+227,Mrs. Ashley Bernard,36-45,Other,North America,Electronics,3120.5,1285.29,19-05-2024,28.28,Cash,Silver,4.9
+228,Cody Moore,36-45,Female,Africa,Sports,4814.45,1041.45,24-03-2024,23.63,Digital Wallet,Gold,2
+229,Mr. David Gilbert,46-60,Female,Africa,Furniture,3302.62,280.79,29-07-2024,4.54,Bank Transfer,Silver,2.6
+230,Brian Mendez,46-60,Other,Europe,Clothing,3874.49,338.4,20-09-2024,22.11,Credit Card,Bronze,1.6
+231,Melinda Pearson,26-35,Female,Asia,Toys,1850.98,1275.28,05-06-2024,9.13,Cash,Gold,2.8
+232,Jason Cunningham,36-45,Male,Africa,Clothing,2373.46,1194.11,16-07-2024,12.96,Digital Wallet,Gold,1.5
+233,Johnny Perry,60+,Other,Australia,Sports,2447.64,1051.04,30-10-2024,29.25,Bank Transfer,Platinum,3.6
+234,Mrs. Michele Harris,26-35,Other,North America,Sports,4104.92,65.29,01-08-2024,14.2,Cash,Platinum,1.1
+235,Dr. William Navarro,26-35,Other,Africa,Furniture,4997.13,462.26,17-10-2024,16.86,Cash,Gold,4.4
+236,Nancy Hammond,46-60,Female,North America,Sports,2369.85,547.09,08-08-2024,17.26,Digital Wallet,Platinum,1
+237,Rhonda Ramirez,60+,Other,Europe,Books,1125.97,174.3,11-01-2024,23.92,Bank Transfer,Platinum,4.9
+238,Mark Noble,26-35,Female,North America,Groceries,2818.04,1066.81,29-09-2024,14.3,Credit Card,Platinum,2.1
+239,Mary Martinez,26-35,Male,Europe,Groceries,2596.45,541.65,29-01-2024,29.04,Bank Transfer,Bronze,3.5
+240,David Newton,60+,Other,Africa,Books,4418.15,673.7,05-03-2024,26.01,Credit Card,Bronze,3.9
+241,Natalie Howe,60+,Female,Africa,Toys,375.92,680.72,01-06-2024,18.84,Digital Wallet,Bronze,4.2
+242,Timothy Salazar,18-25,Male,North America,Sports,2268.56,163.91,11-01-2024,6.51,Debit Card,Silver,4.7
+243,Brian Ruiz,18-25,Male,Europe,Toys,290.55,562.9,09-06-2024,8.21,Digital Wallet,Gold,3.9
+244,Terri Williams,26-35,Male,North America,Clothing,4678.93,957.51,15-01-2024,21.04,Credit Card,Bronze,3.2
+245,Dr. Sandra Smith,46-60,Male,Australia,Sports,1291.22,602.76,24-05-2024,18.96,Bank Transfer,Gold,2.6
+246,Douglas Lewis,60+,Male,North America,Groceries,3693.25,1079.32,20-08-2024,6.27,Digital Wallet,Bronze,4.6
+247,Bradley Marshall,36-45,Male,Asia,Clothing,1295.04,1084.09,06-08-2024,18.26,Cash,Platinum,2.7
+248,Elizabeth Lewis,26-35,Female,Europe,Electronics,1429.07,307.05,11-06-2024,21.11,Debit Card,Silver,1.7
+249,Christopher Patel,18-25,Male,Asia,Electronics,4003.29,981.62,20-02-2024,8.65,Debit Card,Bronze,1.5
+250,Kristen Spencer,26-35,Male,Asia,Furniture,3691.04,324.54,24-09-2024,18.91,Digital Wallet,Bronze,3.1
+251,Mrs. Christine Jordan,18-25,Male,Australia,Electronics,864.52,21.33,16-11-2024,5.59,Debit Card,Silver,2.9
+252,Sean Collins,36-45,Female,Africa,Sports,4319.76,106.05,05-05-2024,12.31,Credit Card,Bronze,1.2
+253,Kelsey Baker,60+,Male,Africa,Furniture,3508.35,429.56,01-02-2024,13.36,Bank Transfer,Silver,4
+254,Raymond Diaz,60+,Female,Africa,Groceries,1182.84,262.07,13-02-2024,17.8,Cash,Platinum,2.3
+255,Carla Johnson,36-45,Male,Asia,Electronics,1085.8,198.47,24-05-2024,27.84,Digital Wallet,Gold,2.6
+256,Krista Ramos,60+,Female,Asia,Books,3795.68,322.77,09-02-2024,27.18,Bank Transfer,Gold,2.1
+257,Anthony Adams,26-35,Female,Australia,Clothing,1368.43,546.76,16-04-2024,21.72,Cash,Silver,3.7
+258,Bill Sanders,36-45,Other,Asia,Furniture,1622.18,1483.22,19-02-2024,7.67,Credit Card,Gold,1.8
+259,Danny Ellison,18-25,Male,Europe,Books,2323.3,1013.95,06-03-2024,10.51,Digital Wallet,Bronze,4.7
+260,Andrew Clark,46-60,Female,North America,Sports,3961.19,1191.61,04-01-2024,17.11,Debit Card,Bronze,1.7
+261,Maria Adams,60+,Other,Asia,Sports,1049.48,509.86,22-07-2024,1.29,Bank Transfer,Gold,2.7
+262,Lisa Rodriguez,36-45,Other,Africa,Clothing,4558.65,1116.97,04-05-2024,9.22,Cash,Platinum,4.6
+263,Richard Skinner,26-35,Male,North America,Sports,2138.57,1030.43,17-05-2024,15.79,Digital Wallet,Gold,4.6
+264,Robert Welch,46-60,Other,North America,Clothing,4574.49,423.62,24-09-2024,26.09,Debit Card,Bronze,2.1
+265,Russell Rodriguez,18-25,Other,North America,Sports,64.5,521.57,05-12-2024,10.83,Cash,Platinum,3.8
+266,George Simpson,36-45,Male,North America,Electronics,344.6,809.43,24-09-2024,10.09,Debit Card,Gold,3.5
+267,Daniel Duke,18-25,Male,Australia,Sports,1567.92,1206.89,29-04-2024,17.58,Cash,Bronze,2.2
+268,Patrick Warner,26-35,Female,Africa,Sports,1680.12,1496.3,07-01-2024,27.95,Debit Card,Platinum,2.5
+269,Amber Watkins,36-45,Male,Australia,Clothing,2729.88,873.84,15-08-2024,21.11,Bank Transfer,Silver,1.7
+270,Ms. Pamela York,18-25,Male,Asia,Sports,136.39,616.97,29-03-2024,25.97,Bank Transfer,Platinum,4.6
+271,Melissa Nelson,60+,Male,Asia,Sports,2115.17,412.81,09-12-2024,19.4,Bank Transfer,Bronze,1.1
+272,Sarah Gordon,18-25,Female,Europe,Toys,1895.34,1297.19,09-06-2024,27.68,Digital Wallet,Gold,4.5
+273,Rodney King,36-45,Other,Australia,Sports,3376.05,1232.91,08-09-2024,26.51,Credit Card,Bronze,1.1
+274,Pamela Smith,60+,Female,Africa,Electronics,1893.34,170.11,25-07-2024,9.7,Digital Wallet,Gold,3.9
+275,William Reyes,46-60,Other,Europe,Books,1688.15,48.85,11-10-2024,4.17,Cash,Silver,1.4
+276,Stephanie Scott MD,46-60,Female,Africa,Electronics,4284.41,247.98,25-02-2024,0.46,Cash,Platinum,3.6
+277,Patrick Riddle,18-25,Other,Australia,Groceries,3687.04,1417.87,14-03-2024,7.95,Cash,Silver,4.2
+278,Richard Scott,36-45,Male,Africa,Furniture,314.25,330.94,23-06-2024,29.05,Debit Card,Gold,3.1
+279,Carlos Gutierrez,60+,Female,Europe,Books,4719.55,608.88,02-02-2024,15.57,Bank Transfer,Gold,2.7
+280,Bianca Brown,60+,Female,Australia,Books,1882.3,627.38,13-03-2024,25.9,Bank Transfer,Bronze,3
+281,Michael Cobb,46-60,Female,North America,Clothing,2037.68,869.43,02-05-2024,9.42,Credit Card,Gold,3.3
+282,Kristin Gould,36-45,Male,Europe,Electronics,2623.51,418.36,15-12-2024,0.32,Digital Wallet,Gold,2.2
+283,Patricia Hart,36-45,Other,Africa,Sports,1714.42,1002.92,03-10-2024,8.08,Credit Card,Gold,1.1
+284,Dennis Stewart,36-45,Male,North America,Books,3864.74,286.32,08-07-2024,26.62,Bank Transfer,Bronze,3.4
+285,Eric Hernandez,60+,Female,Europe,Clothing,2035.27,1184.55,29-09-2024,17.97,Digital Wallet,Gold,4.3
+286,Jasmin Huynh,18-25,Female,Australia,Groceries,2435.96,214.13,06-10-2024,24.57,Credit Card,Silver,4
+287,Kim Riley,46-60,Male,North America,Toys,4203.56,1384.9,19-10-2024,17,Bank Transfer,Bronze,2.2
+288,Daniel Walsh,26-35,Female,Africa,Electronics,1884.56,778.24,11-10-2024,23.03,Bank Transfer,Silver,2.1
+289,Rachael Barr,18-25,Male,North America,Books,1597.16,1232.88,06-07-2024,26.2,Bank Transfer,Bronze,4.9
+290,John Petersen,60+,Male,Asia,Books,3526.18,172.06,31-10-2024,27.92,Bank Transfer,Silver,2.1
+291,Anthony James,26-35,Other,Asia,Books,3075.5,246.28,03-03-2024,4.82,Credit Card,Gold,1.6
+292,Luis Rocha,18-25,Female,Africa,Furniture,2709.06,1392.91,15-08-2024,25.97,Digital Wallet,Silver,1.6
+293,Ryan Kemp,18-25,Male,North America,Electronics,3261.79,808.44,24-06-2024,8.55,Cash,Bronze,1.1
+294,Lynn Simmons,46-60,Female,Asia,Toys,384.23,232.99,28-06-2024,29.11,Digital Wallet,Silver,4
+295,Alexander Johnson,18-25,Other,Asia,Furniture,4300.96,663.43,12-12-2024,14.54,Digital Wallet,Silver,3.3
+296,Joyce Ponce,46-60,Other,Africa,Groceries,2790.57,1145.78,11-06-2024,0.61,Bank Transfer,Gold,2.1
+297,Mr. Jason Campbell,46-60,Male,North America,Furniture,737.49,205.04,04-06-2024,15.38,Cash,Silver,4.7
+298,Jimmy Jordan PhD,46-60,Male,Australia,Books,434.51,640.38,14-09-2024,23.14,Digital Wallet,Gold,3.7
+299,Patrick Maldonado,26-35,Female,Asia,Sports,149.17,1262.14,02-05-2024,24.83,Credit Card,Gold,3
+300,Matthew Davis,26-35,Male,North America,Toys,422.64,890.31,01-02-2024,17.5,Credit Card,Silver,5
+301,Megan Rogers,46-60,Male,Australia,Groceries,3076.76,1184.51,10-03-2024,13.4,Digital Wallet,Silver,3.1
+302,Jennifer Schmidt,26-35,Female,Asia,Electronics,1664.01,1026.11,19-04-2024,11.75,Debit Card,Bronze,3.5
+303,William Goodwin,26-35,Other,North America,Electronics,1232.89,157.8,18-10-2024,8.95,Debit Card,Bronze,4
+304,Sheri Hernandez,60+,Female,Europe,Sports,1494.89,750.55,25-04-2024,3.46,Debit Card,Platinum,3.6
+305,Jimmy Gray,36-45,Male,North America,Sports,207.45,349.84,22-07-2024,27.59,Cash,Gold,2
+306,Ronald Chen MD,18-25,Other,North America,Electronics,2912.45,1247.89,27-06-2024,18.02,Cash,Silver,4.9
+307,Blake White,18-25,Female,North America,Furniture,405.23,648.4,22-10-2024,20.63,Debit Card,Bronze,3
+308,Kevin Pitts,18-25,Female,North America,Sports,1348.92,116.42,01-11-2024,17.52,Debit Card,Platinum,2.6
+309,Daniel Anderson,36-45,Other,Asia,Electronics,3025.28,262.39,30-11-2024,1.93,Debit Card,Bronze,3.2
+310,Danielle Smith,26-35,Female,Asia,Electronics,690.29,536.95,04-12-2024,25.23,Debit Card,Bronze,2.9
+311,Andrea Klein,26-35,Female,North America,Groceries,1538.94,481.27,19-08-2024,12.38,Debit Card,Silver,4.8
+312,Elizabeth Gregory,46-60,Other,North America,Groceries,2490.16,4.87,03-12-2024,8.07,Bank Transfer,Gold,2.5
+313,Leonard White,36-45,Other,Europe,Clothing,4425.78,105.56,30-03-2024,1.95,Credit Card,Silver,2.9
+314,Gary King,18-25,Other,Europe,Clothing,994.36,595.76,28-04-2024,18.66,Debit Card,Silver,3.9
+315,Heather Burke,36-45,Other,North America,Groceries,3000.49,1287.01,14-11-2024,13.38,Cash,Platinum,3.1
+316,Wendy Sherman,60+,Male,Europe,Electronics,3388.67,1014.98,02-05-2024,14.13,Digital Wallet,Silver,3.1
+317,Laura Barron,60+,Female,Australia,Electronics,853.7,973.07,07-03-2024,14.25,Cash,Bronze,4.1
+318,Hunter Nelson,18-25,Male,Asia,Clothing,480.56,1131.21,30-06-2024,18.93,Credit Card,Platinum,4.4
+319,Stephen Hill,60+,Other,Europe,Furniture,3612.38,1166.31,21-04-2024,23.07,Cash,Gold,2.1
+320,Stephen Barnett,26-35,Female,Europe,Toys,2184,1429.88,06-04-2024,18.52,Cash,Bronze,3.1
+321,Victoria Franco,36-45,Male,Asia,Groceries,2810.11,630.35,09-04-2024,29.72,Digital Wallet,Platinum,4.9
+322,Christopher Calhoun,46-60,Female,Asia,Electronics,1363.81,1172.94,12-11-2024,5.58,Bank Transfer,Platinum,2
+323,William Bullock,36-45,Male,Africa,Groceries,2300.16,232.77,21-02-2024,13.59,Credit Card,Platinum,3.9
+324,Jonathan Mendez,26-35,Female,Africa,Furniture,1395.53,1052.18,02-08-2024,25.67,Credit Card,Silver,1
+325,Mark Mann,18-25,Female,Asia,Groceries,1672.59,1431.57,06-01-2024,26.01,Cash,Gold,2.5
+326,Ashley Flores,36-45,Female,Australia,Books,2512.87,585.51,04-10-2024,3.74,Bank Transfer,Platinum,3.5
+327,Eric Smith,26-35,Male,Africa,Furniture,4542.03,1044.61,02-10-2024,1.53,Credit Card,Gold,3.5
+328,Madison Torres,60+,Other,North America,Furniture,1645.52,353.77,04-04-2024,20.25,Cash,Gold,2.2
+329,Lisa Garrison,60+,Other,Europe,Toys,2449.12,1437.91,30-04-2024,4.61,Credit Card,Bronze,4.4
+330,Vincent Dean,18-25,Female,North America,Toys,2162.09,820.04,19-09-2024,8.05,Credit Card,Silver,4.9
+331,Bridget Evans,60+,Other,Asia,Clothing,2038.84,30.81,29-09-2024,0.54,Credit Card,Platinum,4.7
+332,Jonathan Lindsey,46-60,Female,Asia,Furniture,3325.88,448.38,18-01-2024,13.75,Bank Transfer,Gold,4
+333,Courtney Reid,60+,Other,Africa,Groceries,2230.92,319.73,11-12-2024,21.92,Bank Transfer,Platinum,4.5
+334,Dakota Brown,46-60,Male,North America,Toys,2568.49,601.47,28-02-2024,5.01,Bank Transfer,Bronze,1.6
+335,Jacob Thompson,60+,Other,Europe,Books,33.42,531.45,02-09-2024,4.49,Debit Card,Silver,3.9
+336,Heather Ward,36-45,Male,Asia,Electronics,3708.14,1215.55,15-08-2024,13.48,Digital Wallet,Platinum,1.7
+337,Christopher Flores,46-60,Male,North America,Sports,928.75,459.08,06-09-2024,25.14,Digital Wallet,Platinum,1.7
+338,Lisa Brooks,18-25,Female,Australia,Books,4302.66,903.28,02-08-2024,17.5,Cash,Platinum,1.1
+339,Billy Holloway,36-45,Female,Australia,Electronics,1269.3,705.32,01-04-2024,2.55,Credit Card,Silver,4.3
+340,Anna Obrien,36-45,Female,Africa,Groceries,17.66,481.12,31-08-2024,27.84,Cash,Silver,4.5
+341,Edward Burke,26-35,Male,Asia,Clothing,2466.91,397.98,25-10-2024,8.51,Bank Transfer,Gold,2.2
+342,Darlene House,18-25,Other,North America,Books,1212.06,455.6,24-10-2024,0.38,Digital Wallet,Bronze,3.2
+343,Barbara Sanford,18-25,Other,Europe,Groceries,2630.11,1402.32,09-05-2024,10.31,Debit Card,Silver,5
+344,Robert Robinson,18-25,Female,Europe,Toys,1447.47,277.28,28-04-2024,18.83,Cash,Silver,1.3
+345,Claire Williams,36-45,Female,Europe,Books,3223.17,620.63,06-10-2024,21.59,Debit Card,Gold,1.5
+346,Pamela Jones,60+,Female,Africa,Books,1325.68,533.76,02-09-2024,19.66,Debit Card,Bronze,1.3
+347,Monica Smith,26-35,Female,Australia,Electronics,3618.01,658.88,29-05-2024,11.05,Bank Transfer,Bronze,2.3
+348,Paige Chang,18-25,Male,North America,Clothing,4656.04,990.33,27-11-2024,13.58,Cash,Silver,1.7
+349,David Fisher,46-60,Other,Africa,Clothing,2807.15,116.59,11-04-2024,14.19,Bank Transfer,Platinum,2.6
+350,Lee Morse,36-45,Male,Australia,Sports,4878.63,697.79,17-02-2024,19.71,Cash,Platinum,3.3
+351,Elizabeth Bonilla,60+,Other,Asia,Furniture,326.59,1116.87,20-11-2024,21.82,Credit Card,Silver,2
+352,Preston Mcneil,46-60,Female,Asia,Toys,4234.31,629.1,22-05-2024,27.38,Cash,Bronze,4.4
+353,Terrance Watkins,46-60,Male,Asia,Furniture,1108.18,919.24,29-04-2024,27.47,Digital Wallet,Platinum,2.8
+354,Todd Campbell,46-60,Other,Europe,Sports,3976.61,1417.52,08-05-2024,14.87,Debit Card,Platinum,2.4
+355,Christian Jones,36-45,Male,Asia,Books,4837.82,776.68,08-09-2024,0.31,Digital Wallet,Platinum,2.5
+356,Sarah Kelly,46-60,Other,Africa,Groceries,95.9,780.96,18-02-2024,27.14,Bank Transfer,Gold,4.5
+357,Mark Meyer,26-35,Male,North America,Sports,3785.89,21,07-09-2024,14.31,Credit Card,Silver,2.9
+358,Matthew Meyer,60+,Female,North America,Sports,195.91,272.25,08-03-2024,22.26,Bank Transfer,Gold,1.2
+359,Tyler Robinson,46-60,Male,Europe,Furniture,1195.43,880.51,28-02-2024,11.89,Digital Wallet,Silver,4.2
+360,Derek Hoffman,18-25,Female,Europe,Clothing,832.02,163.39,10-11-2024,25.34,Bank Transfer,Platinum,4.2
+361,Lisa Miller,46-60,Male,Europe,Books,3955.58,498.8,30-06-2024,9.84,Credit Card,Gold,2.1
+362,Mario Oneill,46-60,Other,Europe,Books,2836.86,15.46,12-02-2024,10.84,Bank Transfer,Gold,2.6
+363,Nathan Hughes,36-45,Other,North America,Toys,469.23,1283.73,14-02-2024,27.53,Digital Wallet,Platinum,3.4
+364,Jose Tate MD,18-25,Male,Asia,Toys,3655.97,275.86,27-07-2024,18.56,Cash,Platinum,4.4
+365,Ashley Hansen,26-35,Male,North America,Sports,4560.28,142.49,12-07-2024,9.58,Digital Wallet,Platinum,2.9
+366,Andrea Leon,60+,Male,Asia,Furniture,2163.12,1070.53,11-08-2024,27.5,Bank Transfer,Silver,3.2
+367,Robert Rodriguez,36-45,Male,Africa,Sports,1643.38,990.74,01-04-2024,7.11,Credit Card,Gold,2.6
+368,Crystal Avila,18-25,Other,North America,Sports,580.48,37.38,18-11-2024,23.93,Credit Card,Gold,1.4
+369,Bruce Mason,60+,Other,North America,Electronics,3025.2,135.3,24-04-2024,27.91,Cash,Silver,3.7
+370,Alexandra Hayes,46-60,Female,North America,Groceries,3276.48,954.25,24-11-2024,22.25,Digital Wallet,Gold,2.5
+371,Kimberly Burgess,46-60,Other,Australia,Groceries,2498.63,1008.59,26-05-2024,4.23,Credit Card,Bronze,4.5
+372,Kimberly Jones,36-45,Female,North America,Electronics,4397.21,29.31,28-07-2024,5.28,Digital Wallet,Bronze,2.6
+373,Amy Brown,46-60,Female,Asia,Toys,1320.56,1117.8,13-08-2024,16.73,Credit Card,Bronze,1.5
+374,Veronica Butler,18-25,Female,North America,Electronics,4325.14,985.44,13-09-2024,2.55,Digital Wallet,Silver,4.9
+375,Kathleen Hall,46-60,Male,Europe,Books,1477.53,253.01,07-05-2024,4.81,Credit Card,Gold,4.1
+376,Manuel Greene,36-45,Female,North America,Books,4990.96,159.3,30-07-2024,23.69,Bank Transfer,Silver,4.2
+377,Brittany Williams,60+,Other,Australia,Sports,4366.72,864.11,27-10-2024,13.06,Credit Card,Bronze,2.1
+378,Cameron West,36-45,Female,North America,Sports,1887.73,625.58,02-01-2024,28.42,Digital Wallet,Platinum,2.7
+379,Lauren Rodriguez,36-45,Male,North America,Clothing,480.97,41.68,17-10-2024,5.48,Cash,Silver,1.8
+380,Sarah Pugh,36-45,Other,Europe,Electronics,3206.45,1356.44,23-06-2024,16.08,Bank Transfer,Platinum,4.1
+381,Mark Hendrix,36-45,Male,Australia,Groceries,4182.68,89.33,10-11-2024,16.81,Cash,Platinum,4.2
+382,Larry Logan,26-35,Other,Europe,Groceries,2287.13,608.3,23-04-2024,13.72,Debit Card,Platinum,3.1
+383,Christopher Thompson,46-60,Male,Europe,Clothing,360.38,1406.79,07-02-2024,12.85,Cash,Gold,3.8
+384,Terry Whitney,18-25,Male,Africa,Groceries,4487.59,215.68,09-10-2024,2.52,Credit Card,Gold,1.7
+385,Jonathan Rojas,46-60,Male,Europe,Sports,2924.71,1319.08,19-02-2024,1,Credit Card,Gold,3.9
+386,Lisa Perry,60+,Other,Asia,Furniture,4539.5,185.53,25-09-2024,15.05,Credit Card,Bronze,2.5
+387,Miguel Odom,26-35,Other,Asia,Furniture,3333.57,1324.42,07-07-2024,6.76,Bank Transfer,Platinum,4.1
+388,Christine Riley,36-45,Female,Europe,Furniture,1169.81,92.19,29-08-2024,24.14,Debit Card,Platinum,3.2
+389,Grace Lee,36-45,Male,Australia,Electronics,4779.35,296.22,13-12-2024,8.74,Bank Transfer,Bronze,3.9
+390,Carmen Bailey,26-35,Female,Asia,Books,4827.71,267.94,12-08-2024,16.34,Digital Wallet,Silver,2.7
+391,Randall Villanueva,36-45,Other,North America,Books,4660.68,815.76,13-07-2024,24.67,Credit Card,Silver,1.5
+392,Erik Smith,60+,Female,Asia,Books,484.71,968.85,18-08-2024,25.15,Bank Transfer,Platinum,3.5
+393,Eric Hays,26-35,Female,Australia,Clothing,3780.28,325.86,05-11-2024,19.45,Digital Wallet,Bronze,2.2
+394,Kevin Mccann,60+,Other,Australia,Toys,4209.1,134.66,20-11-2024,3.96,Cash,Platinum,1
+395,Mary Lewis,60+,Other,Asia,Clothing,3245.67,1413.52,04-12-2024,15.8,Cash,Bronze,4.7
+396,Amanda Munoz,18-25,Female,Europe,Electronics,4075.12,100.38,08-02-2024,4.35,Credit Card,Gold,2.8
+397,Yolanda Carter,18-25,Female,Europe,Toys,2735.87,121.12,11-09-2024,20.87,Bank Transfer,Silver,3.9
+398,Ryan Dean,18-25,Female,North America,Electronics,4008.7,752.15,07-09-2024,13.63,Digital Wallet,Silver,2.4
+399,Matthew Banks,60+,Female,North America,Clothing,4408.01,654.74,21-03-2024,0.29,Bank Transfer,Silver,2.3
+400,Holly Hernandez,46-60,Male,North America,Clothing,4548.94,756.65,07-07-2024,19.77,Bank Transfer,Platinum,3.2
+401,Miguel Guerrero,36-45,Male,North America,Groceries,2389.61,50.49,28-02-2024,14.28,Bank Transfer,Silver,3.6
+402,David Ramirez,26-35,Male,Africa,Books,2333.55,839.89,04-10-2024,21.38,Bank Transfer,Bronze,1.8
+403,John Lee,26-35,Male,Africa,Furniture,600.43,380.58,25-09-2024,9.36,Debit Card,Platinum,3
+404,Patricia Johnson,46-60,Female,Africa,Clothing,759.1,1416.65,19-02-2024,4.91,Bank Transfer,Platinum,2.9
+405,Nicolas Fisher,46-60,Female,Australia,Electronics,2375.45,460.08,03-07-2024,25.67,Bank Transfer,Platinum,3.6
+406,Shawn Barnett,18-25,Female,North America,Furniture,4047.36,474.41,29-05-2024,5.54,Digital Wallet,Platinum,4.6
+407,Kelly Smith,36-45,Other,Africa,Electronics,2655.08,677.52,29-05-2024,24.71,Bank Transfer,Platinum,4.7
+408,Amanda Johnson,26-35,Other,Europe,Clothing,4855.34,455.25,18-04-2024,21.8,Digital Wallet,Bronze,3.5
+409,Kaitlin Harris,18-25,Female,North America,Groceries,3420.92,246.17,18-11-2024,13.48,Bank Transfer,Gold,1.2
+410,Mary Tucker,26-35,Female,Africa,Groceries,3870.42,1208.83,18-06-2024,28.57,Credit Card,Bronze,3.9
+411,Richard Myers,18-25,Female,Europe,Books,4716.28,920.68,16-08-2024,25.06,Digital Wallet,Platinum,2.5
+412,Steven Sims,46-60,Female,Europe,Clothing,2532.6,1369.99,16-06-2024,18.19,Cash,Platinum,2
+413,Desiree Cox,46-60,Other,Australia,Sports,656.83,763.85,16-03-2024,23.6,Cash,Silver,4.9
+414,Eric Robinson,36-45,Male,Europe,Sports,1816.8,1404.15,22-10-2024,20.47,Credit Card,Gold,1.5
+415,James Kirk,18-25,Other,Europe,Furniture,3497.2,682.45,08-04-2024,14.64,Cash,Silver,1.4
+416,Janet Martin,26-35,Male,North America,Sports,394.6,373.69,18-04-2024,6.61,Credit Card,Platinum,3.7
+417,Keith Allen,46-60,Other,Australia,Toys,2833.41,1143.41,13-01-2024,25.64,Debit Card,Platinum,2.3
+418,Whitney Murphy,60+,Male,Asia,Electronics,4485.81,236.38,29-11-2024,0.18,Cash,Silver,3.6
+419,Sydney Brooks,36-45,Male,Europe,Sports,3962.07,334.05,01-06-2024,13.34,Credit Card,Bronze,1.4
+420,Sydney Brown MD,46-60,Male,Australia,Clothing,4736.68,1307.66,18-09-2024,12.09,Debit Card,Platinum,3.8
+421,Adrian Clark,60+,Other,Australia,Clothing,109.63,215.9,04-07-2024,15.8,Bank Transfer,Silver,4
+422,Kristina Cannon,36-45,Female,North America,Toys,2809.56,1090.15,01-02-2024,20.66,Debit Card,Platinum,2.8
+423,George Peterson,60+,Male,Australia,Books,2703.31,990.7,24-07-2024,4.71,Digital Wallet,Silver,4.4
+424,Christopher Carson,46-60,Male,Africa,Toys,4041.49,853.09,04-07-2024,0.82,Debit Card,Bronze,2.7
+425,Craig Allison,26-35,Other,North America,Books,473.32,1024.53,13-03-2024,10.11,Credit Card,Platinum,2.5
+426,Mr. Christopher Frost,36-45,Male,Africa,Sports,4802.02,1259.67,04-05-2024,29.72,Digital Wallet,Bronze,4.2
+427,Juan Ortiz,36-45,Male,North America,Toys,4233.55,1082.92,10-12-2024,4.49,Bank Transfer,Silver,3.9
+428,Jodi Petty,46-60,Female,Asia,Furniture,129.2,144.23,22-08-2024,27.53,Debit Card,Silver,1.9
+429,Erika Mccarthy,26-35,Other,Africa,Clothing,4876.27,1193.23,02-03-2024,8.43,Bank Transfer,Bronze,3.1
+430,Katherine Gonzalez,46-60,Male,North America,Books,1014.91,75.64,17-04-2024,29.79,Credit Card,Gold,2.1
+431,Karen Garcia,46-60,Male,North America,Clothing,1426.25,759.24,25-05-2024,29.32,Credit Card,Gold,1.8
+432,Ashley Miller,36-45,Male,Africa,Electronics,1879.83,775.97,22-02-2024,13.39,Credit Card,Platinum,2.1
+433,Adam Davis,46-60,Female,Africa,Sports,3059.03,490.71,15-09-2024,11.09,Credit Card,Silver,4.8
+434,Andrea Donaldson,36-45,Male,Africa,Groceries,2645.37,500.61,01-04-2024,12.34,Bank Transfer,Gold,3.9
+435,Logan Bell,26-35,Male,Asia,Furniture,4787.3,975.52,07-08-2024,3.54,Bank Transfer,Bronze,4.7
+436,Kevin Gonzalez,26-35,Female,Australia,Clothing,2248.3,248.42,14-04-2024,17.45,Digital Wallet,Gold,3.5
+437,Evelyn Mack,18-25,Other,Africa,Books,2619.97,1220.18,20-05-2024,12.5,Bank Transfer,Gold,1.6
+438,Loretta Kelly,18-25,Female,North America,Books,2024.22,1301.39,10-08-2024,8.54,Bank Transfer,Silver,3.7
+439,Lori Rice,18-25,Male,Asia,Furniture,2203.61,365.35,12-06-2024,2.02,Cash,Gold,1.9
+440,Wyatt Scott,18-25,Other,North America,Sports,2691.11,484.31,02-12-2024,14.84,Bank Transfer,Platinum,3.5
+441,Pamela Vaughn,46-60,Female,North America,Books,150.08,1414.28,12-02-2024,2.7,Credit Card,Silver,3.1
+442,Patricia Wright,36-45,Male,Europe,Books,2915.73,393.73,23-02-2024,3.14,Digital Wallet,Bronze,2.4
+443,Brian Peters,60+,Female,Africa,Books,788.48,1198.29,06-12-2024,2.16,Digital Wallet,Gold,4.8
+444,Kevin Torres,18-25,Other,Australia,Books,3976.76,1235.15,06-10-2024,13.34,Credit Card,Gold,4.2
+445,Jeremy Snyder,60+,Male,Europe,Sports,1957.32,896.32,02-11-2024,9.06,Credit Card,Bronze,1.1
+446,Justin Miller,18-25,Other,Asia,Electronics,1752.21,1048.89,09-09-2024,2.13,Bank Transfer,Bronze,1.3
+447,Robert Mata,18-25,Other,Africa,Furniture,2766.53,113.13,16-09-2024,28.37,Bank Transfer,Platinum,1.1
+448,Anthony Gibbs,26-35,Other,Africa,Books,3623.92,1397.95,30-08-2024,15.94,Bank Transfer,Platinum,4.8
+449,Jessica Allen,36-45,Male,Africa,Groceries,1741.74,468.54,05-11-2024,10.33,Digital Wallet,Gold,4
+450,Hayley Noble,26-35,Other,Asia,Toys,738.08,26.35,03-01-2024,22.95,Cash,Platinum,4.8
+451,Marcus Ray,26-35,Other,Europe,Furniture,1436.05,294.96,01-04-2024,8.16,Digital Wallet,Bronze,1.4
+452,Kristen Griffin,46-60,Female,Australia,Groceries,2167.37,1311.79,23-11-2024,0.1,Bank Transfer,Platinum,4.5
+453,Danielle Leonard,18-25,Male,North America,Electronics,760.95,152.21,03-08-2024,25.26,Digital Wallet,Silver,5
+454,Paul Kelly,26-35,Female,Africa,Books,1549.06,207.98,14-08-2024,2.39,Credit Card,Platinum,4.7
+455,Tammy Martin,46-60,Female,Africa,Groceries,4009.03,1230.47,06-06-2024,11.43,Digital Wallet,Platinum,3.6
+456,Michelle Jones,46-60,Other,Africa,Toys,503.47,1119.6,01-03-2024,24.72,Bank Transfer,Platinum,1.6
+457,Heather Harris,26-35,Female,Australia,Clothing,234.6,1107.62,05-07-2024,9.31,Cash,Platinum,4.1
+458,Tara Walker DDS,46-60,Other,North America,Books,3901.18,559.71,28-03-2024,9.01,Credit Card,Bronze,3.7
+459,David Rodriguez,26-35,Other,Australia,Sports,3320.26,1005.9,07-02-2024,3.29,Digital Wallet,Platinum,4.3
+460,Sue Sanchez,18-25,Other,Asia,Groceries,2117.23,774.11,17-01-2024,6.32,Cash,Gold,2.5
+461,Anna Alvarado,18-25,Other,Asia,Books,1608.72,146.53,15-12-2024,7.78,Digital Wallet,Bronze,4.9
+462,Erica Smith,60+,Male,Europe,Books,306.42,360.89,09-07-2024,1.15,Cash,Gold,5
+463,Christopher Rogers,26-35,Female,Asia,Toys,979.97,1285.16,06-06-2024,14.28,Debit Card,Platinum,1.6
+464,Laura Adams,36-45,Other,Australia,Sports,713.4,492.13,08-12-2024,20.69,Credit Card,Gold,4
+465,Vicki Miller,18-25,Other,Africa,Toys,2697.58,1381.59,16-12-2024,18.54,Debit Card,Bronze,2.9
+466,Brianna Lewis,60+,Male,Australia,Sports,1447.12,447.55,27-09-2024,15.51,Cash,Silver,1.9
+467,Kathryn Martinez,60+,Female,North America,Toys,1064.68,1008.73,02-12-2024,22.9,Cash,Bronze,3.8
+468,Alexis English,26-35,Male,North America,Furniture,4351.01,385.54,27-03-2024,13.85,Debit Card,Platinum,2.5
+469,Brian Dixon,60+,Male,Australia,Furniture,3611.37,1406.35,20-06-2024,18.41,Cash,Bronze,2.3
+470,Timothy Griffin,26-35,Female,Australia,Clothing,1781.96,1340.39,24-02-2024,29.69,Bank Transfer,Silver,1.5
+471,Cheryl Silva,26-35,Female,Africa,Groceries,1755.28,279.8,24-11-2024,1.53,Bank Transfer,Platinum,3.1
+472,Lauren Berger,46-60,Male,Europe,Furniture,1514.71,738.03,01-03-2024,20.05,Digital Wallet,Bronze,3.1
+473,Robert Johnson,18-25,Other,Africa,Groceries,4914.1,626.57,29-01-2024,19.67,Credit Card,Bronze,2.5
+474,Chelsea Stewart,18-25,Other,Australia,Electronics,1029.36,1447.03,12-09-2024,13.48,Credit Card,Platinum,1.4
+475,Cynthia Cameron,60+,Female,Asia,Sports,4081.36,973.1,30-11-2024,20.74,Credit Card,Platinum,1.4
+476,Karla Haynes,46-60,Female,Asia,Toys,168.92,483.65,22-03-2024,2.19,Digital Wallet,Bronze,4.6
+477,David Sanchez,36-45,Other,Australia,Electronics,120.22,269.45,12-05-2024,11.02,Bank Transfer,Platinum,2.1
+478,Angela Hickman,18-25,Other,Asia,Sports,1531.39,914.26,18-06-2024,0.84,Cash,Gold,3.3
+479,Ernest Flores,26-35,Female,Australia,Furniture,1478.56,643.99,04-05-2024,16.11,Debit Card,Platinum,3.7
+480,Melanie Cross,36-45,Male,Africa,Toys,2968.98,1335.36,01-04-2024,15.08,Credit Card,Platinum,3.9
+481,Kristen Russo,60+,Female,Africa,Furniture,4800.03,969.95,30-04-2024,2.75,Digital Wallet,Gold,4.8
+482,Mr. Brian Nielsen,60+,Female,Africa,Electronics,1662.44,952.8,25-07-2024,13.97,Bank Transfer,Platinum,3.7
+483,Wayne Nguyen,60+,Male,Asia,Clothing,3000.69,321.37,09-09-2024,16.78,Debit Card,Bronze,1
+484,Brandon Hampton,26-35,Other,Australia,Groceries,4486.42,413.54,12-01-2024,6.48,Digital Wallet,Gold,3
+485,Becky Gardner,60+,Female,Africa,Furniture,2979.31,858.91,24-08-2024,27.26,Credit Card,Platinum,4.4
+486,Brian Boyer,60+,Other,Australia,Toys,3185.61,521.05,04-02-2024,2.06,Cash,Bronze,3.2
+487,Rebecca Campos,46-60,Female,North America,Toys,2005.8,974.85,03-07-2024,19.18,Debit Card,Silver,4.6
+488,Monique House,18-25,Male,North America,Furniture,4326.32,515.03,28-03-2024,9.76,Debit Card,Gold,4.4
+489,Jeremiah Estrada,60+,Female,Africa,Books,1883.93,952.17,05-09-2024,9.71,Digital Wallet,Gold,4.8
+490,Richard Keller,26-35,Female,Europe,Sports,1658.68,865.04,15-09-2024,11.49,Bank Transfer,Platinum,2.9
+491,Christina Castro,36-45,Female,Australia,Electronics,3482.36,112.21,11-08-2024,5.78,Credit Card,Silver,1.3
+492,Reginald Rollins,18-25,Male,Africa,Groceries,313.39,859.83,12-09-2024,29.22,Bank Transfer,Silver,4.8
+493,Kristopher King,18-25,Male,Australia,Books,3679.35,853.64,07-10-2024,23.56,Cash,Platinum,4
+494,Michael Clark,18-25,Other,Europe,Books,3787.61,1259.17,27-10-2024,28.88,Debit Card,Platinum,3.1
+495,Emily Ortiz,26-35,Other,Africa,Clothing,2837.99,388.93,31-07-2024,25.84,Cash,Gold,2.7
+496,Danielle Smith,26-35,Female,Asia,Sports,2395.92,847.93,27-01-2024,17.85,Bank Transfer,Bronze,2
+497,Thomas Pruitt,36-45,Other,North America,Sports,906.52,945.26,29-02-2024,18.42,Credit Card,Platinum,4.7
+498,Kevin Boyer,36-45,Male,Asia,Sports,4025.05,1051.44,05-09-2024,29.24,Cash,Gold,4.2
+499,Allen Yoder,26-35,Male,Australia,Clothing,4201.17,26.29,11-03-2024,12.84,Bank Transfer,Gold,2
+500,Paul Smith,46-60,Other,Australia,Books,3663,353.84,09-06-2024,13.2,Digital Wallet,Silver,3.7
+501,Jill Graham,26-35,Female,Africa,Toys,3100.87,961.36,14-12-2024,16.85,Credit Card,Bronze,3.4
+502,Bryan Jensen,18-25,Female,Asia,Furniture,4064.39,1153.41,09-09-2024,17.38,Bank Transfer,Silver,4.9
+503,Anthony Patton,26-35,Other,North America,Books,1364.05,309.8,27-07-2024,14.79,Debit Card,Bronze,4.4
+504,Timothy Franklin Jr.,36-45,Male,North America,Electronics,2223.19,1365.17,04-05-2024,28.37,Debit Card,Silver,4.2
+505,Benjamin Costa,60+,Other,Asia,Toys,2069.6,1482.2,10-06-2024,0.94,Bank Transfer,Platinum,4.6
+506,Joshua Martin,26-35,Female,Europe,Groceries,747.46,42.4,05-08-2024,25.5,Cash,Silver,3
+507,Cameron Farley III,18-25,Female,North America,Clothing,3397.54,114.7,21-08-2024,19.01,Digital Wallet,Gold,1.3
+508,Patrick Johnston,60+,Other,Australia,Sports,253.46,974.27,20-11-2024,9.35,Digital Wallet,Platinum,4.9
+509,Darlene Branch,18-25,Male,Europe,Sports,2642.94,283.39,08-11-2024,28.51,Digital Wallet,Bronze,1.1
+510,Sheila Lee,26-35,Female,Asia,Clothing,1368.04,867.06,29-06-2024,26.85,Credit Card,Silver,3.5
+511,William Sharp,46-60,Other,Asia,Sports,1101.23,930.65,09-05-2024,16.64,Credit Card,Platinum,1.6
+512,Ashley Cruz,36-45,Female,Africa,Furniture,1925.36,566.21,13-09-2024,3.65,Cash,Silver,4.8
+513,Jennifer Ramirez,18-25,Other,Australia,Sports,2687.72,476.68,25-11-2024,21.38,Bank Transfer,Silver,1.1
+514,William Holland,36-45,Female,Australia,Sports,1784.57,1431.88,01-03-2024,8.93,Digital Wallet,Gold,4.6
+515,Samantha Clarke,36-45,Male,Europe,Toys,4503.84,955.88,20-06-2024,0.25,Cash,Gold,2.1
+516,Nicole Mahoney,26-35,Male,Africa,Clothing,1364.15,553.63,19-10-2024,16.49,Bank Transfer,Gold,3.2
+517,Todd Diaz,60+,Other,Africa,Toys,4417.9,110.25,10-08-2024,29.69,Cash,Bronze,3.1
+518,Kelly Warren,46-60,Other,Asia,Electronics,3794.11,540.85,27-01-2024,17.13,Digital Wallet,Platinum,1.6
+519,Jessica Elliott,46-60,Male,North America,Electronics,2341.34,535.17,19-06-2024,10.8,Digital Wallet,Platinum,3.1
+520,Leslie Macdonald,18-25,Female,Africa,Furniture,1965.69,827.81,25-07-2024,5.21,Credit Card,Silver,3.7
+521,Adam Rodriguez,36-45,Male,Africa,Toys,4495.79,188.87,15-06-2024,17.45,Bank Transfer,Platinum,4.7
+522,Chad Hall,26-35,Female,Australia,Groceries,444.31,293.94,04-05-2024,14.61,Debit Card,Silver,3.7
+523,Amy Simmons,26-35,Female,North America,Toys,1309.42,275.65,01-04-2024,19.29,Digital Wallet,Platinum,4.1
+524,Kevin Martinez,46-60,Other,Africa,Books,256.09,1204.16,08-09-2024,25.86,Digital Wallet,Platinum,2.8
+525,Desiree Mccarthy,26-35,Female,Australia,Furniture,1202.28,1408.64,23-06-2024,29.42,Digital Wallet,Silver,1.2
+526,Michele Andrade,18-25,Male,Africa,Electronics,1995.98,594.6,08-04-2024,3.2,Digital Wallet,Silver,2.7
+527,Timothy Weaver,26-35,Female,Australia,Toys,3010.2,1130.88,03-11-2024,0.72,Debit Card,Gold,1.5
+528,Shannon Wagner,60+,Female,Africa,Sports,2831.24,717.12,04-11-2024,9.25,Credit Card,Bronze,2.9
+529,Monica Marshall,36-45,Other,Africa,Groceries,3474.8,564.08,20-08-2024,28.25,Digital Wallet,Platinum,1.3
+530,David Gardner,46-60,Other,Africa,Groceries,4328.01,578.3,05-02-2024,20.37,Digital Wallet,Gold,1.3
+531,Jean Munoz MD,36-45,Other,Europe,Toys,717.6,12.78,21-01-2024,17.98,Debit Card,Gold,2.8
+532,Dr. Steven Anderson,36-45,Other,Africa,Electronics,2325.43,788.3,22-05-2024,17.93,Credit Card,Platinum,2.3
+533,Kirsten Sanders,36-45,Male,Europe,Clothing,846.13,629.84,02-05-2024,1.6,Cash,Bronze,4.1
+534,Melissa Rodriguez,36-45,Female,North America,Toys,531.29,275.08,25-10-2024,21.21,Bank Transfer,Gold,2.3
+535,Vanessa Garcia,46-60,Female,Asia,Furniture,3144.98,1247.49,13-12-2024,17.12,Bank Transfer,Bronze,4.7
+536,Cindy Martinez,60+,Female,North America,Sports,445.61,1028.67,23-08-2024,19.09,Credit Card,Bronze,2.6
+537,Nicholas Thomas,26-35,Female,North America,Books,3721.98,1244.68,24-06-2024,2.13,Credit Card,Gold,1.5
+538,Thomas Wilson,18-25,Female,North America,Groceries,4921.85,912.61,24-05-2024,5.9,Digital Wallet,Bronze,2.3
+539,Justin Ramos,18-25,Male,Africa,Books,1271.3,827.89,10-09-2024,14.75,Digital Wallet,Bronze,3.6
+540,Shelby Dennis,26-35,Male,Asia,Groceries,1436.55,135.3,29-03-2024,20.52,Digital Wallet,Bronze,1.6
+541,Brian Robinson,36-45,Other,Australia,Clothing,2407.96,204.71,02-01-2024,29.49,Bank Transfer,Bronze,1.3
+542,Makayla Stokes,60+,Female,Europe,Clothing,267.15,146.84,20-07-2024,9.3,Digital Wallet,Bronze,1.6
+543,Stephanie Brown,36-45,Female,Africa,Books,3878.73,735.79,24-07-2024,27.65,Credit Card,Gold,2.4
+544,Samantha Anderson,60+,Female,North America,Books,3252.55,9.21,18-04-2024,18.26,Digital Wallet,Gold,3.1
+545,Erin Marshall,18-25,Female,Australia,Groceries,614.06,382.55,01-08-2024,12.83,Credit Card,Gold,4.4
+546,Joseph Logan,36-45,Male,North America,Groceries,2372.64,1139.05,14-11-2024,4.98,Cash,Gold,2.9
+547,Carlos Steele,36-45,Male,Europe,Electronics,2142.54,1407.66,21-08-2024,13.64,Debit Card,Bronze,4.5
+548,Kevin Barry,18-25,Other,Africa,Clothing,601,20.6,01-09-2024,24.15,Cash,Silver,1.9
+549,Dr. Joshua Larsen,46-60,Other,Asia,Groceries,4704.44,605.3,19-06-2024,0.09,Debit Card,Platinum,3.8
+550,Laurie Reese,36-45,Male,Europe,Groceries,344.21,945.77,28-08-2024,1.45,Digital Wallet,Bronze,1.2
+551,Kyle Moore,60+,Female,Australia,Toys,1990.07,887.24,06-10-2024,3.27,Cash,Gold,4.1
+552,Dr. Erika Taylor,60+,Other,Africa,Electronics,4605.15,753.58,18-01-2024,3.91,Digital Wallet,Platinum,3.5
+553,Anna Stone,60+,Other,Europe,Clothing,4961.02,406.54,10-09-2024,24.73,Bank Transfer,Bronze,1.8
+554,Stacey Pearson,60+,Female,Europe,Sports,2971.86,497.88,27-05-2024,13.48,Bank Transfer,Silver,3
+555,Ebony Miller,18-25,Female,Asia,Toys,3701.65,69.14,20-03-2024,16.34,Cash,Platinum,2.9
+556,Matthew Smith,36-45,Female,Europe,Furniture,4666.58,828.38,27-07-2024,12.05,Digital Wallet,Silver,3.2
+557,Erin Johnson,46-60,Male,Australia,Electronics,2491.56,506.2,16-01-2024,17.11,Digital Wallet,Silver,1.1
+558,Sara Fuller,46-60,Female,North America,Sports,1981.96,1428.26,27-03-2024,9.36,Bank Transfer,Gold,3
+559,William Allen,36-45,Male,North America,Books,4339.95,717.87,07-06-2024,7.49,Debit Card,Platinum,4.6
+560,Christine Howard,60+,Male,Asia,Groceries,3660.01,184.73,09-08-2024,17.62,Digital Wallet,Gold,3.6
+561,Thomas Todd,60+,Other,Australia,Furniture,3479.11,1445.52,08-04-2024,5.3,Debit Card,Platinum,2.1
+562,Jeffery Lopez,36-45,Female,Asia,Clothing,960.08,1013.51,16-05-2024,14.66,Digital Wallet,Gold,2.6
+563,Joel Allen,36-45,Female,North America,Furniture,4118.2,1198.08,12-08-2024,7.94,Debit Card,Gold,1
+564,Linda Mathis,36-45,Female,Australia,Books,2648.46,452.25,14-06-2024,27.01,Digital Wallet,Silver,1.9
+565,Andrew Jones,26-35,Other,Africa,Furniture,4267.91,7.32,21-07-2024,2.41,Cash,Gold,4.6
+566,Edwin French,60+,Other,Australia,Books,955.29,1279.72,20-02-2024,10.21,Debit Card,Gold,1.7
+567,Marie Cook,36-45,Other,North America,Toys,2440.1,969.93,23-01-2024,20.89,Debit Card,Bronze,1.6
+568,April Franklin,26-35,Female,Asia,Furniture,4833.69,1162.06,15-09-2024,1.42,Cash,Bronze,2.2
+569,Anthony Hansen,18-25,Other,Australia,Toys,1308.42,1299.74,06-02-2024,28.21,Cash,Platinum,1.3
+570,Isaiah Nguyen,46-60,Male,Australia,Furniture,3062.31,1306.54,20-06-2024,18.29,Digital Wallet,Platinum,2
+571,Stephen Williams,26-35,Female,Africa,Furniture,2615.01,129.97,02-10-2024,25.18,Bank Transfer,Silver,1.8
+572,Susan Cummings,60+,Female,Asia,Toys,3427.24,736.15,03-08-2024,20.7,Digital Wallet,Bronze,2.8
+573,Christine Carter,26-35,Male,Africa,Clothing,2828.74,900.9,03-06-2024,0.33,Cash,Gold,2.3
+574,Beth Walter,18-25,Female,Africa,Toys,453.97,1430.19,22-02-2024,4.82,Bank Transfer,Silver,2.4
+575,Misty Avila,46-60,Other,Australia,Electronics,4126.43,621.91,20-11-2024,8.36,Digital Wallet,Bronze,2
+576,Dwayne Cohen,60+,Other,Australia,Books,1225.91,392.28,31-03-2024,21.31,Cash,Bronze,3.4
+577,Matthew Brown,18-25,Female,Africa,Electronics,2914.84,328.3,15-10-2024,20.71,Debit Card,Platinum,3.2
+578,Sandra Hall,18-25,Female,North America,Groceries,1150.38,369.2,23-05-2024,24.7,Credit Card,Platinum,3.8
+579,Kristy Crawford,60+,Other,Asia,Groceries,794.54,429.23,13-10-2024,3.81,Debit Card,Gold,1.6
+580,Steven Sherman,36-45,Other,Europe,Clothing,713.86,48.67,10-11-2024,20.62,Cash,Silver,4.4
+581,Chad Hughes MD,46-60,Female,Asia,Groceries,1925.49,269.08,16-01-2024,1.47,Cash,Bronze,2.2
+582,Mark Hoffman,36-45,Male,North America,Electronics,1947.87,64.96,07-06-2024,4.24,Digital Wallet,Silver,1.9
+583,Gina Powell,46-60,Other,Europe,Groceries,3032.56,109.57,31-05-2024,25.67,Debit Card,Bronze,1.5
+584,Lance Krause,18-25,Female,Europe,Toys,2720.16,498.86,17-04-2024,2.72,Credit Card,Gold,3.5
+585,Maureen Wilson,18-25,Female,Asia,Electronics,4527.02,1150.8,16-04-2024,12.43,Digital Wallet,Gold,2.4
+586,Karen Mckenzie,36-45,Female,Africa,Sports,1710.01,906.22,12-11-2024,22.59,Bank Transfer,Platinum,1.4
+587,Elizabeth Mitchell,46-60,Female,Asia,Furniture,3473.38,909.13,21-01-2024,14.3,Digital Wallet,Silver,4.2
+588,William Ford,26-35,Other,Africa,Electronics,2750.6,499.97,10-05-2024,16.32,Bank Transfer,Bronze,4.3
+589,Bonnie Liu,26-35,Other,North America,Clothing,1497.83,1378.26,23-09-2024,26.77,Credit Card,Bronze,1.4
+590,Scott Richard,46-60,Other,Europe,Groceries,2594.77,134.41,10-10-2024,23.62,Debit Card,Gold,1.4
+591,Stacey Hinton,60+,Other,Africa,Clothing,1549.82,1124.86,06-09-2024,2.89,Debit Card,Silver,2
+592,Joshua Mcdaniel,18-25,Other,Australia,Clothing,3186.59,955.58,05-12-2024,1.16,Digital Wallet,Bronze,4.5
+593,Jennifer Gardner,46-60,Female,Australia,Clothing,4178.48,567.34,19-07-2024,17.6,Cash,Silver,3
+594,Henry Lewis,26-35,Female,Australia,Clothing,3187.86,1455.52,08-05-2024,2.95,Digital Wallet,Gold,4.4
+595,Jeremy Barker,46-60,Female,Africa,Books,475.92,571.55,19-10-2024,22.63,Credit Card,Silver,3.5
+596,Nicole Reid,18-25,Other,Africa,Groceries,820.09,919.04,04-03-2024,24.89,Digital Wallet,Bronze,1.2
+597,Taylor Schmidt,26-35,Other,Australia,Groceries,2038.86,27.06,23-10-2024,24.64,Bank Transfer,Gold,4.7
+598,Justin Shah,26-35,Male,Asia,Electronics,3537.74,303.26,07-10-2024,8.59,Digital Wallet,Platinum,4
+599,David Owen,26-35,Male,Australia,Toys,474.93,361.54,25-09-2024,7.04,Debit Card,Gold,3.3
+600,Mary Benitez,26-35,Female,Asia,Groceries,2618.83,1422.31,28-02-2024,26.94,Debit Card,Silver,4.4
+601,Dennis Butler,36-45,Other,Australia,Furniture,2785.07,160.3,16-09-2024,9.26,Debit Card,Silver,4.8
+602,Eric Anderson,46-60,Male,Africa,Groceries,1330.95,1191.92,24-06-2024,8.3,Credit Card,Silver,1.2
+603,James Chavez,46-60,Male,Europe,Clothing,4311.88,1141.04,14-10-2024,23.83,Digital Wallet,Bronze,1.8
+604,Blake Solis,18-25,Other,Africa,Books,1915.77,1138.42,11-03-2024,28.59,Cash,Gold,1.6
+605,Martin Jackson,26-35,Other,Africa,Furniture,3998.1,1091.26,18-07-2024,13.44,Bank Transfer,Bronze,2.6
+606,Elizabeth Lee,36-45,Female,Australia,Sports,4427.62,562.91,24-11-2024,0.82,Credit Card,Silver,3.2
+607,Brett Castro,26-35,Male,North America,Electronics,2489.42,439.14,12-06-2024,13.36,Credit Card,Silver,3
+608,Robert Weiss,26-35,Female,North America,Clothing,418.34,156.81,04-02-2024,9.73,Cash,Platinum,2
+609,Andrew Nelson,36-45,Other,North America,Furniture,1572.77,862.6,03-08-2024,18.58,Digital Wallet,Platinum,1.8
+610,Christina Herrera,36-45,Other,Africa,Electronics,3271.52,1236.02,23-10-2024,7.54,Credit Card,Silver,2.3
+611,Cynthia Greene,36-45,Other,Europe,Electronics,910.17,268.18,04-07-2024,20.82,Debit Card,Gold,1.2
+612,Patrick Williams,26-35,Female,Europe,Clothing,1739.48,1358.77,22-02-2024,20.38,Bank Transfer,Silver,4.2
+613,Peter Harris,18-25,Other,North America,Groceries,378.57,1402.91,10-11-2024,19.85,Bank Transfer,Bronze,2.3
+614,Robert Lin,46-60,Female,Asia,Toys,4905.2,451.2,28-05-2024,3.61,Bank Transfer,Bronze,4.9
+615,Joshua Rivas,46-60,Female,Australia,Furniture,2127.77,206.61,21-11-2024,5.65,Bank Transfer,Gold,4.1
+616,Linda Pittman,26-35,Female,North America,Furniture,739.57,1004.48,25-11-2024,21.53,Credit Card,Gold,4.8
+617,Mary Martin,26-35,Female,Africa,Books,1845.08,1141.33,02-03-2024,3.38,Cash,Platinum,4.6
+618,Christina Hart,60+,Other,North America,Electronics,2176.44,1396.07,12-09-2024,7.82,Bank Transfer,Gold,4.8
+619,Jeremy Johnson,36-45,Male,Africa,Books,630.06,976.46,13-12-2024,0.6,Bank Transfer,Silver,3.9
+620,Jackie Barber,46-60,Male,North America,Toys,2561.56,1122.75,09-04-2024,27.44,Digital Wallet,Bronze,4.2
+621,Kayla Cummings MD,46-60,Female,Africa,Electronics,2579.92,1022.1,01-12-2024,18.71,Debit Card,Bronze,4.2
+622,Charles Price,46-60,Female,Asia,Toys,324.79,1263,17-04-2024,25.64,Digital Wallet,Silver,1.6
+623,Andrea Henson DDS,60+,Other,Asia,Toys,4648.94,737.7,26-04-2024,22.6,Digital Wallet,Platinum,1.7
+624,Thomas Blake,46-60,Other,North America,Furniture,4431.15,992.99,20-01-2024,15.66,Debit Card,Gold,4.5
+625,Courtney Garcia,46-60,Male,Africa,Groceries,1965.69,88.7,02-05-2024,10.75,Digital Wallet,Gold,5
+626,Johnny Lee,36-45,Female,Europe,Furniture,39.23,679.57,13-11-2024,24.58,Digital Wallet,Platinum,3.9
+627,Richard Ortega,46-60,Female,Europe,Electronics,4626.67,478.32,16-07-2024,21.8,Credit Card,Gold,4
+628,Margaret Guzman,60+,Other,Europe,Clothing,870.83,870.92,30-03-2024,5.37,Bank Transfer,Bronze,3.4
+629,Cindy Watkins,36-45,Other,Australia,Clothing,4892.95,791.22,06-05-2024,8.28,Bank Transfer,Bronze,3.5
+630,Theresa Sanchez,46-60,Other,Africa,Sports,1424.2,330.42,18-05-2024,6.68,Bank Transfer,Bronze,2.6
+631,Karen Crawford,36-45,Other,Australia,Clothing,3501.02,422.22,23-07-2024,10.27,Debit Card,Bronze,2.8
+632,Nichole Richardson,26-35,Female,Europe,Groceries,165.42,1365.86,11-03-2024,3.37,Credit Card,Gold,3
+633,Donna Reynolds,26-35,Male,Australia,Electronics,2102.25,406.11,16-09-2024,2.52,Credit Card,Silver,3.4
+634,Megan Rivera,46-60,Male,Asia,Sports,2210.76,959.21,10-06-2024,2.71,Debit Card,Gold,3.2
+635,Diana Hamilton,60+,Other,Asia,Toys,3216.59,260.95,29-03-2024,27.45,Debit Card,Bronze,5
+636,Shawn Martin,18-25,Female,Australia,Clothing,3395.02,67.44,23-05-2024,28.92,Cash,Platinum,2.9
+637,Erin Stanley,18-25,Male,North America,Books,4742.52,447.86,04-04-2024,3.79,Credit Card,Platinum,1.9
+638,Christopher Rubio,36-45,Male,Europe,Clothing,2994.11,319.09,03-01-2024,15.49,Bank Transfer,Gold,2.9
+639,Cheryl Middleton,60+,Male,Africa,Electronics,1054.38,1138.31,20-06-2024,19.63,Cash,Silver,3.4
+640,Jared Phillips,18-25,Female,Europe,Clothing,1060.09,245.35,15-12-2024,2.76,Bank Transfer,Gold,2.1
+641,Robert Ford,46-60,Male,Asia,Groceries,890.41,1369.65,25-06-2024,3.42,Cash,Silver,2.4
+642,Valerie Marshall,26-35,Other,Europe,Furniture,3857.48,186.15,05-04-2024,24.39,Digital Wallet,Bronze,2.4
+643,Loretta Bennett,60+,Other,Africa,Furniture,4539.43,166.83,24-07-2024,20.89,Debit Card,Silver,3.5
+644,Thomas Sandoval,36-45,Other,Asia,Books,4377.82,111.12,13-11-2024,19.73,Digital Wallet,Silver,3.6
+645,Patrick Porter,46-60,Other,Asia,Clothing,1799.25,453.38,02-11-2024,10.18,Debit Card,Gold,3.2
+646,Debbie Deleon,46-60,Female,Australia,Books,1782.36,1062,24-06-2024,26.73,Cash,Platinum,4.9
+647,Henry Cowan,26-35,Male,Asia,Sports,3339.95,1479.32,17-08-2024,4.29,Cash,Gold,3.3
+648,Brian Christian,60+,Male,Europe,Furniture,1438.53,156.96,04-02-2024,4.15,Cash,Platinum,4.8
+649,Sarah Le,36-45,Female,Europe,Toys,1930.66,971.95,18-01-2024,17.57,Bank Transfer,Gold,3.2
+650,Martin Pennington,36-45,Male,Africa,Furniture,4573.97,691.25,06-09-2024,1.65,Bank Transfer,Bronze,3.3
+651,Savannah Palmer,46-60,Other,North America,Furniture,3828.02,1420.56,03-09-2024,17.22,Bank Transfer,Gold,4.4
+652,Edwin Mason,26-35,Other,Australia,Clothing,1852.51,20.95,13-12-2024,10.69,Bank Transfer,Platinum,1.3
+653,Jessica Weiss,60+,Female,North America,Sports,2211.95,1491.58,05-05-2024,4.33,Debit Card,Gold,2.6
+654,Erica Alvarez,60+,Female,Europe,Furniture,441.08,84.9,29-06-2024,1.85,Credit Card,Bronze,3
+655,Sarah Rodgers,46-60,Female,Europe,Clothing,3734.08,822.7,26-01-2024,10.27,Digital Wallet,Bronze,2.4
+656,Robert Stafford,36-45,Male,North America,Clothing,2989.38,1179.21,05-06-2024,6.16,Debit Card,Gold,1.2
+657,Brooke Benjamin,46-60,Female,Asia,Groceries,4173.3,909.97,28-02-2024,29.85,Cash,Platinum,2.5
+658,Dana Wood,46-60,Male,Europe,Clothing,3589.28,1411.61,25-07-2024,15.29,Bank Transfer,Silver,3.3
+659,Nicole Kirk,46-60,Other,Africa,Sports,3767.33,798.6,03-07-2024,4.49,Cash,Bronze,2.8
+660,David Soto,46-60,Female,Europe,Groceries,4677.76,1220.9,30-03-2024,13.75,Debit Card,Bronze,5
+661,Michelle Mcdaniel,26-35,Female,Europe,Books,3914.88,138.9,10-03-2024,6.51,Bank Transfer,Silver,3.4
+662,Steven Sanford,26-35,Female,Europe,Books,4497.86,1497.19,12-11-2024,25.31,Debit Card,Platinum,1.2
+663,Julia Davenport,26-35,Other,Australia,Toys,4419.87,124.81,11-08-2024,13.04,Debit Card,Bronze,3.6
+664,Mark Johnson,26-35,Female,Asia,Sports,3338.67,320.44,29-05-2024,13.88,Credit Card,Silver,3
+665,Mrs. Rebecca Rodriguez,46-60,Other,Europe,Electronics,4766.06,171.22,05-03-2024,17.39,Debit Card,Platinum,3.4
+666,Terry Frost,18-25,Female,Europe,Furniture,1471.47,1108.17,14-07-2024,1.99,Credit Card,Bronze,4
+667,Tom Smith,18-25,Female,North America,Clothing,49.63,334.06,19-11-2024,24.73,Credit Card,Platinum,3.5
+668,Rose Ramos PhD,36-45,Other,Europe,Clothing,2940.48,405.87,12-10-2024,19.33,Bank Transfer,Platinum,1.7
+669,Steve Gardner,36-45,Other,North America,Books,598.18,276.26,14-12-2024,5.76,Cash,Bronze,3.6
+670,Antonio Figueroa,26-35,Female,Australia,Sports,4612.38,561.79,13-05-2024,25.77,Credit Card,Platinum,2.9
+671,Frank Lee,18-25,Male,Australia,Clothing,328.6,146.78,12-01-2024,4.43,Digital Wallet,Platinum,1.6
+672,Melissa Edwards,46-60,Other,North America,Furniture,1340.46,583.75,18-06-2024,28.72,Digital Wallet,Bronze,4.5
+673,Rebecca Kelly,18-25,Other,Europe,Sports,3684.78,1238.03,13-03-2024,12.42,Digital Wallet,Gold,3.3
+674,Michelle Flowers,26-35,Female,Europe,Toys,709.44,830.92,20-03-2024,7.81,Digital Wallet,Platinum,4.5
+675,Taylor Small,26-35,Male,Europe,Furniture,716.44,1147.44,13-12-2024,4.39,Bank Transfer,Bronze,3.8
+676,Jennifer Lopez,36-45,Other,North America,Toys,269.17,1028.75,13-11-2024,10.99,Digital Wallet,Bronze,2.8
+677,Manuel Morales,26-35,Female,Europe,Furniture,3855.32,8.62,12-04-2024,18.63,Cash,Gold,2.3
+678,Robert Mcbride,26-35,Female,Australia,Sports,2690.92,1318.92,18-02-2024,17.77,Bank Transfer,Gold,4
+679,Barbara Foster,60+,Male,Asia,Groceries,1568.6,1255.87,09-11-2024,5.99,Debit Card,Gold,2
+680,Tammie Leach,36-45,Female,Africa,Groceries,4822.1,900.99,13-07-2024,8.66,Debit Card,Silver,2.1
+681,Natalie Garrett,46-60,Other,Asia,Furniture,1897.73,463.43,24-09-2024,22.2,Bank Transfer,Silver,3.7
+682,George Mcmahon,26-35,Male,North America,Clothing,473.99,626.77,12-05-2024,19.17,Debit Card,Silver,2.1
+683,Cindy Ramirez,18-25,Other,Europe,Books,3646.07,979.26,06-01-2024,11.3,Bank Transfer,Platinum,1
+684,Lisa Boyd,60+,Other,Europe,Furniture,895.34,66.92,31-01-2024,5.86,Digital Wallet,Bronze,3.3
+685,Kyle Thomas,36-45,Male,North America,Groceries,2749.91,1486.88,23-03-2024,6.54,Digital Wallet,Gold,1.4
+686,Aaron Fisher,60+,Male,North America,Toys,4956.85,327.97,25-06-2024,0.71,Debit Card,Platinum,2.1
+687,Brittney Castro,46-60,Male,Europe,Clothing,807.36,250.06,22-02-2024,25.65,Digital Wallet,Platinum,2.3
+688,Elizabeth Hernandez,36-45,Female,North America,Sports,3485.85,432.15,31-01-2024,3.33,Credit Card,Gold,1.5
+689,Mr. Larry Gilmore,26-35,Female,Asia,Clothing,354.43,96.05,25-09-2024,26.37,Cash,Silver,1.8
+690,Brent Bradley,18-25,Male,Africa,Books,1916.94,1368.18,06-06-2024,21,Digital Wallet,Gold,3.3
+691,Sydney Sims,26-35,Male,North America,Clothing,829.42,1087.7,23-05-2024,2.75,Cash,Platinum,3.7
+692,Yvette Reid,60+,Male,Europe,Books,1842.48,798.82,01-09-2024,17.17,Credit Card,Platinum,4.9
+693,Sarah York,18-25,Female,Asia,Furniture,1808.41,873.18,25-01-2024,14.13,Debit Card,Platinum,4.2
+694,Taylor Robinson,36-45,Other,Australia,Groceries,1969.81,245.88,04-09-2024,11.2,Cash,Bronze,2.3
+695,William Rivera,46-60,Other,Australia,Books,2760.3,604.97,24-10-2024,27.25,Digital Wallet,Bronze,4.1
+696,Jacob Henry,60+,Other,Africa,Furniture,4753.26,1008.77,20-09-2024,3.49,Debit Card,Platinum,1.3
+697,Jordan Arellano,26-35,Male,Asia,Furniture,2568.19,610.86,21-10-2024,8.18,Cash,Silver,1.4
+698,Bryce Johnson,60+,Male,Asia,Clothing,1885.74,653.17,27-10-2024,22.67,Digital Wallet,Silver,4.3
+699,Jeremy Bowers,26-35,Other,Africa,Toys,1766.51,1316.44,14-03-2024,0.74,Credit Card,Gold,2.1
+700,Kayla Burke,60+,Male,Australia,Electronics,392.75,666.2,09-07-2024,25.51,Debit Card,Gold,3.2
+701,Travis Rodgers,26-35,Other,Africa,Furniture,486.08,1466.29,07-01-2024,18.56,Credit Card,Bronze,1.8
+702,Dakota Wilson,36-45,Male,Asia,Groceries,4322.1,140.17,22-07-2024,24.29,Debit Card,Platinum,1.9
+703,Isaac Mendoza,60+,Other,Europe,Clothing,1428.17,998.88,06-06-2024,14.58,Credit Card,Silver,2.9
+704,William Wood,46-60,Female,Africa,Groceries,2110.5,453.28,21-11-2024,21.46,Bank Transfer,Bronze,4.2
+705,Nathan Brown,36-45,Female,Europe,Toys,4815.87,862.26,12-06-2024,4.72,Cash,Platinum,3.4
+706,Steven Moore,60+,Other,Asia,Toys,143.01,213.76,13-11-2024,3.79,Digital Wallet,Silver,1.8
+707,Megan Bowers,36-45,Male,Australia,Clothing,3763.86,483.72,05-11-2024,1.36,Digital Wallet,Silver,2.9
+708,Wyatt Reed,26-35,Male,Europe,Electronics,4888.68,891.14,03-10-2024,17.23,Debit Card,Platinum,2
+709,Jason Finley,26-35,Female,Australia,Books,4186.25,300.28,31-10-2024,12.16,Digital Wallet,Platinum,3.6
+710,Joseph Kennedy,26-35,Female,Europe,Furniture,254.59,94.21,13-11-2024,27.35,Bank Transfer,Bronze,2.2
+711,James Cruz,26-35,Male,North America,Toys,3270.76,88.88,03-06-2024,27.61,Bank Transfer,Silver,4.8
+712,Mrs. Jasmine Nunez,36-45,Other,Europe,Clothing,2673.54,90.69,02-06-2024,23.16,Digital Wallet,Bronze,2.4
+713,Jamie Kelly,18-25,Other,Africa,Sports,752.23,3.95,04-06-2024,14.54,Cash,Silver,1.3
+714,Jason Brooks,26-35,Male,Europe,Toys,797.09,678.27,01-12-2024,25.85,Credit Card,Silver,2.7
+715,Manuel Wilson,60+,Female,North America,Furniture,3805.79,161.28,10-03-2024,15.61,Credit Card,Platinum,4.3
+716,Allison Morrow,18-25,Female,Africa,Sports,3947.02,1027.96,14-10-2024,26.73,Digital Wallet,Platinum,2.2
+717,Jennifer Murphy,18-25,Male,Europe,Electronics,854.84,727.26,19-01-2024,17.58,Cash,Gold,1.2
+718,Frederick Morales,60+,Female,Africa,Electronics,2019.24,789.11,17-10-2024,0.6,Cash,Gold,2.7
+719,Christopher Murray,46-60,Female,North America,Electronics,1142.18,279.11,03-10-2024,0.41,Credit Card,Gold,1.1
+720,Jennifer Miller,46-60,Female,Australia,Sports,2873.82,1025.3,05-01-2024,0.79,Credit Card,Silver,2.2
+721,Steven Thomas,18-25,Male,North America,Furniture,3647.57,265.53,14-04-2024,20.99,Bank Transfer,Silver,1.3
+722,Audrey Freeman,46-60,Male,North America,Books,2531.15,784.74,07-05-2024,2.72,Credit Card,Silver,2.9
+723,Mary Braun,60+,Other,Asia,Books,1161.15,925.01,07-02-2024,2.5,Debit Card,Silver,4.8
+724,Lauren Acosta,18-25,Other,Australia,Furniture,2593.96,813.71,15-05-2024,23.19,Cash,Silver,1.3
+725,Joseph Rivers,36-45,Male,Australia,Electronics,1557.73,611.49,21-05-2024,29.34,Cash,Silver,4.8
+726,Daniel Hall,60+,Other,Australia,Furniture,4186.78,856.52,02-10-2024,6.7,Bank Transfer,Gold,2
+727,Katrina Lee,60+,Female,Asia,Electronics,2488.55,730.48,10-10-2024,8.43,Credit Card,Gold,1.2
+728,Sherry Lopez,26-35,Other,Africa,Books,1569.81,1439.24,31-10-2024,23.39,Cash,Gold,2
+729,Jay Hart,60+,Other,Australia,Electronics,2589.29,397.11,15-07-2024,27.47,Cash,Platinum,2.5
+730,Tracy Lee,60+,Other,North America,Clothing,1132.35,1016.44,01-12-2024,10.46,Credit Card,Platinum,4
+731,Lucas Santiago,18-25,Other,North America,Groceries,1156.67,671.71,12-07-2024,16.13,Digital Wallet,Silver,2.3
+732,Jennifer Salazar,36-45,Female,Australia,Sports,2930.78,365.79,21-03-2024,5.04,Debit Card,Platinum,1.9
+733,David Williams,46-60,Male,Africa,Groceries,4983.7,591.72,06-02-2024,21.46,Credit Card,Silver,4.6
+734,Lori Martin,36-45,Female,Africa,Clothing,550.65,574.41,16-07-2024,19.54,Debit Card,Gold,3.6
+735,James Pierce,36-45,Other,Africa,Furniture,4545.05,331.22,03-11-2024,11.15,Digital Wallet,Platinum,4.4
+736,William Miller,18-25,Other,Africa,Electronics,1171.04,226.72,08-08-2024,27.61,Credit Card,Platinum,1.5
+737,Lisa Terry,36-45,Male,Australia,Electronics,4052.11,454.9,29-10-2024,21.81,Credit Card,Platinum,2.1
+738,Brandy Clark,18-25,Female,Asia,Clothing,3750.84,1273.67,24-03-2024,23.58,Debit Card,Bronze,1.7
+739,Sonia Reyes,36-45,Female,Europe,Electronics,891.43,200.66,25-11-2024,10.51,Cash,Bronze,4.1
+740,Dale Brown,46-60,Other,North America,Sports,3511.69,1276.63,17-07-2024,28.75,Bank Transfer,Bronze,3.9
+741,Joshua Stephens,36-45,Other,Europe,Sports,429.94,220.73,20-05-2024,29.01,Cash,Bronze,1.4
+742,Elizabeth Contreras,18-25,Other,North America,Electronics,4705.25,61,26-08-2024,0.7,Credit Card,Silver,4.1
+743,Robert Gonzalez,60+,Male,North America,Electronics,3098.16,983.92,23-02-2024,18.03,Bank Transfer,Silver,2.2
+744,Amanda Johnson,18-25,Female,Europe,Electronics,4112.63,665.89,22-10-2024,3.98,Digital Wallet,Silver,2.1
+745,Jeffrey Hughes,46-60,Female,Africa,Groceries,3651.52,872.71,29-01-2024,16.91,Debit Card,Bronze,4.6
+746,Gerald Lutz,26-35,Female,Asia,Books,2131.13,1491.12,26-03-2024,27.66,Debit Card,Gold,4.2
+747,James Sloan,26-35,Female,Africa,Sports,1006.09,60.16,02-08-2024,29.62,Credit Card,Silver,4.3
+748,Stephanie Greene,36-45,Female,Australia,Sports,1200.86,1319.71,11-09-2024,6.96,Digital Wallet,Platinum,1.9
+749,Peter Welch,46-60,Female,Europe,Electronics,3147.31,253.28,06-10-2024,1,Debit Card,Gold,1.5
+750,Richard Hester,26-35,Male,Africa,Sports,510.02,1230.94,07-02-2024,25.14,Credit Card,Silver,4.8
+751,David Ferguson,36-45,Other,Europe,Toys,3939.58,1393.17,07-07-2024,25.69,Digital Wallet,Silver,4.7
+752,Melanie Wood,18-25,Female,Asia,Furniture,3441.02,1035.99,02-12-2024,2.68,Cash,Platinum,1.4
+753,Gregory Smith,26-35,Male,Australia,Groceries,3740.67,246.48,23-02-2024,11.92,Credit Card,Silver,1.2
+754,Elizabeth Robertson,46-60,Male,Europe,Books,1353.18,1053.1,22-06-2024,13.11,Debit Card,Bronze,1.2
+755,Katherine Harper,18-25,Male,Europe,Furniture,1559.23,1481.52,28-10-2024,3.58,Credit Card,Bronze,1.5
+756,Ricardo Rice,26-35,Male,Africa,Furniture,2979.98,219.7,05-08-2024,7.33,Credit Card,Silver,1.7
+757,Monica Rodriguez,60+,Other,Asia,Sports,4503.77,937.56,30-09-2024,23.96,Debit Card,Gold,3.4
+758,Julie Rowland,60+,Male,Africa,Toys,3073.34,1321.12,07-07-2024,5.49,Bank Transfer,Gold,3.3
+759,Catherine Padilla,26-35,Female,Australia,Groceries,465.14,1030.9,03-03-2024,0.4,Cash,Silver,1.7
+760,Edward Bowman,60+,Other,Africa,Groceries,3375.44,407.44,21-02-2024,5.24,Digital Wallet,Platinum,4.8
+761,Derrick Joseph,26-35,Male,Asia,Sports,3784.8,1043.72,20-06-2024,20.87,Credit Card,Platinum,4.1
+762,Paige Villa,26-35,Male,Africa,Sports,4429.54,879.2,20-01-2024,10.73,Cash,Platinum,3.6
+763,Jacob Kim,18-25,Male,Australia,Furniture,3202.17,540.96,27-08-2024,28.07,Cash,Gold,2.5
+764,Natalie Bishop,46-60,Other,Australia,Books,2999.5,1248.04,09-10-2024,13.62,Digital Wallet,Bronze,5
+765,Timothy Miller,36-45,Other,Australia,Furniture,2944.24,290.32,11-02-2024,25.41,Digital Wallet,Bronze,4.3
+766,Ashley Williams,46-60,Male,Australia,Books,4524.7,751.02,11-09-2024,27.96,Credit Card,Gold,3
+767,Kenneth Price,46-60,Male,Asia,Furniture,4164,37.21,17-10-2024,29.72,Debit Card,Silver,2.6
+768,Ethan Nixon,46-60,Female,Africa,Electronics,2636.03,1102.78,17-11-2024,22.83,Cash,Silver,2.3
+769,Jacob Walker,36-45,Other,Asia,Groceries,1660.91,1106.29,18-01-2024,14.35,Digital Wallet,Platinum,2.8
+770,Christy Clay,36-45,Female,Africa,Books,2205.33,364.7,28-06-2024,22.95,Debit Card,Bronze,2.5
+771,Adriana Lewis,60+,Female,Australia,Groceries,4350.68,208.04,03-06-2024,2.43,Credit Card,Silver,2.8
+772,Justin Smith,60+,Female,Europe,Electronics,3135.07,354.42,13-06-2024,27.8,Debit Card,Bronze,4
+773,Shannon Campbell,60+,Male,Europe,Sports,1718.53,165.22,30-03-2024,23.7,Credit Card,Bronze,2.7
+774,Mr. Bryan Schultz,60+,Female,Europe,Toys,2584.31,408.02,29-08-2024,27.38,Cash,Gold,2
+775,Bobby Harrington,36-45,Other,Europe,Furniture,4597.51,692.95,09-06-2024,14.06,Cash,Gold,3.2
+776,Diana Davidson,36-45,Female,North America,Sports,3742.98,251.27,01-01-2024,15.15,Cash,Silver,2.3
+777,Kristen Cross,46-60,Male,Asia,Electronics,518.66,622.9,03-11-2024,13.88,Debit Card,Bronze,1.4
+778,Julie Higgins,26-35,Female,Africa,Books,3512.22,1379.83,14-03-2024,25.21,Digital Wallet,Silver,3.1
+779,Valerie Perez,18-25,Female,Australia,Furniture,1765.02,1439.16,26-04-2024,16.7,Cash,Platinum,2.1
+780,Marcus Martinez,36-45,Female,North America,Electronics,4021.78,969.26,05-02-2024,29.96,Cash,Silver,4.7
+781,Jaclyn Santos,36-45,Other,Europe,Electronics,393.14,919.35,14-02-2024,16.28,Digital Wallet,Gold,3.7
+782,Tyler Little,60+,Female,Africa,Sports,2780.63,1384.86,26-03-2024,5.57,Debit Card,Platinum,3.8
+783,Patrick Rogers,36-45,Male,North America,Furniture,1558.15,890.4,16-04-2024,19.53,Debit Card,Platinum,4.1
+784,Barbara Moore,60+,Female,Africa,Sports,3147.78,1195.08,29-10-2024,2.11,Credit Card,Gold,2.2
+785,Trevor Rios,18-25,Other,Africa,Clothing,3690.51,350.84,22-06-2024,15,Bank Transfer,Gold,4.9
+786,Mary Wolfe,60+,Other,Australia,Books,1460.23,323.14,25-03-2024,13.22,Digital Wallet,Silver,1.3
+787,Deanna Carlson,36-45,Other,Africa,Groceries,2792.54,350.93,21-03-2024,12.82,Credit Card,Silver,4.5
+788,Mark Hendrix,60+,Other,Asia,Clothing,4075.58,1043.66,18-03-2024,25.23,Bank Transfer,Platinum,3.2
+789,Katie Mitchell,26-35,Other,Africa,Clothing,1573.28,1044.29,19-04-2024,13.35,Debit Card,Platinum,2.6
+790,Kevin Hickman,60+,Other,Africa,Toys,4631.74,919.69,02-09-2024,26.7,Cash,Bronze,1.9
+791,Ryan Johnson,60+,Female,Australia,Sports,2414.09,661.58,12-01-2024,25.26,Bank Transfer,Bronze,4.3
+792,Toni Perkins,46-60,Other,Africa,Groceries,775.78,745.75,07-06-2024,8.49,Credit Card,Platinum,4.4
+793,Lindsey Webb,26-35,Male,Africa,Books,1595.86,1245.01,13-01-2024,20.9,Digital Wallet,Platinum,3.8
+794,Jeremy Kelly,60+,Female,Asia,Clothing,3209.42,979.19,01-10-2024,6.88,Digital Wallet,Silver,1.5
+795,Christopher Wilson,26-35,Female,North America,Toys,3954.07,427.6,31-05-2024,29.59,Digital Wallet,Gold,2
+796,Christian Griffin,60+,Female,Asia,Furniture,2263.82,276.72,15-02-2024,18.8,Bank Transfer,Gold,1.8
+797,Veronica Bishop,46-60,Male,Australia,Electronics,2575.77,256.95,28-04-2024,8.14,Cash,Bronze,2.2
+798,Jeffrey Collins,36-45,Female,Asia,Clothing,559.81,1452.7,20-11-2024,24.28,Digital Wallet,Silver,3
+799,Megan Harrell,18-25,Other,Europe,Sports,2703.07,765.95,29-11-2024,17.84,Bank Transfer,Bronze,1.4
+800,Brian Burton,26-35,Other,Asia,Clothing,1699.21,93.26,10-04-2024,5.88,Cash,Silver,2.1
+801,Stephanie Bell,18-25,Female,Asia,Furniture,4139.24,800.79,12-01-2024,12.25,Cash,Platinum,2.7
+802,Dr. Amanda Fernandez,18-25,Female,North America,Furniture,2218.04,1273.14,22-09-2024,26.1,Cash,Bronze,4.8
+803,David Arnold,36-45,Male,North America,Sports,4357.38,241.44,21-07-2024,18.49,Bank Transfer,Gold,2.3
+804,Mr. Joseph Jackson,26-35,Female,Australia,Electronics,753.59,1118.53,16-02-2024,0.44,Digital Wallet,Bronze,4
+805,Mark Reed,46-60,Female,Africa,Furniture,287.68,756.44,16-09-2024,3.45,Bank Transfer,Gold,4
+806,Brandon Parker,36-45,Other,Australia,Clothing,1285.73,685.57,16-11-2024,14.67,Credit Card,Platinum,4.8
+807,Sarah Baxter,18-25,Female,North America,Groceries,4819.83,1137.13,26-05-2024,21.86,Bank Transfer,Gold,3.2
+808,Robin Thomas,36-45,Other,Africa,Books,3747.83,1408.32,10-10-2024,21.92,Cash,Gold,2.6
+809,Christopher Rodriguez,36-45,Male,Europe,Clothing,4750.5,904.42,25-06-2024,21.26,Debit Card,Gold,4.1
+810,Dr. Tara Aguilar,60+,Male,Africa,Clothing,25.06,919.51,21-09-2024,2.67,Debit Card,Silver,4.4
+811,Brian Lopez,60+,Male,Africa,Electronics,473.25,134.66,02-11-2024,4.39,Debit Card,Bronze,1.6
+812,James Garcia,60+,Female,Europe,Groceries,1348.69,295.63,27-08-2024,3.2,Bank Transfer,Platinum,1.2
+813,Dale Campbell,36-45,Female,Asia,Books,1630.76,1070.55,30-04-2024,21.04,Bank Transfer,Gold,4.7
+814,Danielle Jones,60+,Male,North America,Books,4831.15,1483.47,11-07-2024,5.26,Bank Transfer,Platinum,1.2
+815,Julie Rodgers,60+,Other,North America,Sports,868.69,563.45,23-05-2024,2.89,Cash,Bronze,1.9
+816,Michelle Townsend,36-45,Other,Australia,Groceries,2732.36,825.8,18-08-2024,16.99,Digital Wallet,Gold,3.4
+817,Michael Nolan,18-25,Female,Europe,Clothing,3247.19,1487.16,31-08-2024,27.67,Debit Card,Platinum,2.5
+818,Jennifer Miles,36-45,Female,Australia,Furniture,4179.12,1466.95,20-08-2024,23.11,Debit Card,Bronze,1.5
+819,Patrick Walker,60+,Other,Asia,Furniture,3086.39,455.27,07-10-2024,10.49,Digital Wallet,Platinum,1.6
+820,Stacey Carr,26-35,Female,Africa,Sports,3906.62,582.14,07-01-2024,29.91,Cash,Platinum,1.8
+821,Robert Vasquez,26-35,Other,Europe,Toys,4310.32,983.77,24-03-2024,13.61,Debit Card,Gold,2.9
+822,Andrea Tucker,26-35,Female,Africa,Groceries,627.49,603.38,30-09-2024,12.87,Bank Transfer,Silver,3.9
+823,Jonathan Martinez,18-25,Other,North America,Electronics,3107.38,1157.77,08-04-2024,22.09,Cash,Silver,1.6
+824,Steve Howe,46-60,Other,Europe,Groceries,1949.75,681.15,30-08-2024,9.16,Digital Wallet,Silver,4.1
+825,Edward Ibarra,18-25,Other,Australia,Toys,4419.44,1221.44,28-08-2024,29.33,Cash,Platinum,4.8
+826,John Garcia,46-60,Male,Africa,Books,2970.3,1285.12,04-04-2024,16.19,Cash,Bronze,3.6
+827,Amanda Woodward,60+,Other,Africa,Electronics,4379.66,180.56,18-07-2024,4.79,Cash,Gold,2
+828,Dustin Bryan,18-25,Other,Asia,Toys,3389.72,40.52,17-05-2024,18.05,Debit Card,Bronze,1.7
+829,Glenn Steele,26-35,Male,Australia,Groceries,28.31,974.42,22-11-2024,21.65,Digital Wallet,Gold,3.1
+830,Michael Matthews DDS,26-35,Female,North America,Sports,2551.4,113.73,01-11-2024,26.26,Cash,Silver,4.2
+831,Shawn Smith,36-45,Female,Africa,Clothing,2806.51,988.94,29-02-2024,28.32,Credit Card,Platinum,1.6
+832,Stephanie Rowe,36-45,Other,North America,Clothing,4417.32,798.93,01-11-2024,24.79,Bank Transfer,Gold,1.5
+833,Amanda Gallagher,26-35,Male,Africa,Toys,1579.55,1098.38,17-06-2024,9.93,Cash,Silver,1.3
+834,David Whitehead,18-25,Female,Asia,Groceries,4706.32,37.59,19-09-2024,8.13,Bank Transfer,Bronze,4.7
+835,Kimberly Berger,46-60,Male,Asia,Sports,2318,1463.41,13-02-2024,28.63,Digital Wallet,Bronze,1.1
+836,Kimberly Simpson,18-25,Male,North America,Clothing,341.78,389.83,06-11-2024,23.13,Credit Card,Platinum,3.9
+837,Rebecca Schmidt,18-25,Male,Africa,Electronics,2719.91,668.62,06-05-2024,17.03,Cash,Gold,2.3
+838,Kevin Brown,36-45,Male,Europe,Toys,2945.56,424.8,24-02-2024,21.17,Digital Wallet,Gold,2.5
+839,Christy Torres,60+,Other,North America,Electronics,1699.44,1285.56,26-05-2024,21.25,Bank Transfer,Platinum,3.2
+840,Stephanie Perez,18-25,Female,Africa,Electronics,2967.5,1174.61,06-05-2024,29.86,Credit Card,Gold,4.9
+841,Mary Santos,46-60,Male,Africa,Clothing,1282.22,773.77,10-05-2024,0.9,Digital Wallet,Silver,1.4
+842,Sara Walker,46-60,Female,Asia,Groceries,2833.68,862.26,19-05-2024,3.69,Credit Card,Platinum,1.6
+843,Bianca Nelson,26-35,Male,North America,Electronics,212.72,323.08,19-08-2024,27.66,Cash,Gold,3.1
+844,Terry Larson,60+,Other,North America,Groceries,3159.79,1379.07,11-11-2024,7.09,Digital Wallet,Platinum,2.5
+845,Isaiah Schneider,18-25,Other,Asia,Sports,480.1,1492.6,12-08-2024,17,Credit Card,Bronze,3.8
+846,Tiffany Reed,18-25,Male,Asia,Clothing,4683.24,213.02,08-03-2024,27.68,Digital Wallet,Gold,4.9
+847,Austin Perkins,18-25,Other,Australia,Books,2542.51,352.9,23-08-2024,18.07,Credit Card,Silver,3.9
+848,Ian Tucker,18-25,Other,North America,Clothing,2496.96,1395.67,06-12-2024,9.38,Debit Card,Platinum,3.2
+849,Keith Brown,60+,Female,North America,Electronics,450.41,709.74,01-04-2024,7.78,Debit Card,Platinum,1.2
+850,Joshua Carrillo,36-45,Female,Africa,Toys,1066.22,834.58,03-05-2024,12.2,Credit Card,Silver,4.1
+851,Daniel Manning,26-35,Female,Europe,Sports,1881.78,723.95,22-09-2024,7.1,Debit Card,Silver,3.3
+852,Karen Best,36-45,Male,Asia,Sports,2227.71,716.86,27-06-2024,19.16,Debit Card,Silver,2.3
+853,April Clark,36-45,Male,Europe,Toys,2790.73,477.14,26-08-2024,13.15,Bank Transfer,Gold,3.5
+854,Kyle Taylor,60+,Female,Europe,Furniture,3577.72,195.9,30-04-2024,7,Digital Wallet,Platinum,2.4
+855,Daniel George,26-35,Male,Europe,Electronics,238.23,1065.95,22-10-2024,10.89,Digital Wallet,Platinum,4.9
+856,Melinda Stokes,36-45,Male,Africa,Sports,289.27,1099.63,08-03-2024,27.2,Bank Transfer,Bronze,3.5
+857,Antonio Irwin,18-25,Female,North America,Groceries,1797.04,337.7,20-06-2024,2.66,Cash,Bronze,1.8
+858,Melissa Williamson,36-45,Female,Asia,Books,2131.79,31.19,28-02-2024,11.46,Debit Card,Silver,3.3
+859,Cheryl Jones,60+,Other,Asia,Furniture,1532.02,693.55,30-07-2024,29.96,Bank Transfer,Bronze,3.2
+860,Timothy Mitchell,36-45,Female,Africa,Toys,2651.07,981.42,13-08-2024,0.85,Debit Card,Platinum,2.5
+861,Jacqueline Bryant,26-35,Male,Australia,Clothing,2055.52,48.79,22-03-2024,19.6,Debit Card,Bronze,3.5
+862,Michael Taylor,36-45,Male,Australia,Electronics,4331.79,968.51,17-01-2024,23.8,Cash,Platinum,4.8
+863,Kenneth Nguyen,18-25,Other,Australia,Groceries,482.04,1195.06,24-05-2024,14,Debit Card,Platinum,3
+864,Erik Jones,18-25,Female,Europe,Electronics,1559.02,1411.38,25-05-2024,21.11,Credit Card,Silver,1.9
+865,Caitlin Cole,36-45,Male,Asia,Books,3616.4,1472.19,16-12-2024,25.93,Cash,Silver,1
+866,David Davenport,36-45,Other,Europe,Clothing,4983.36,233.48,09-06-2024,12.16,Bank Transfer,Bronze,1.6
+867,Scott Zuniga,46-60,Male,Asia,Books,3737.43,1020.67,23-01-2024,0.58,Digital Wallet,Silver,5
+868,Kelly Mcconnell,60+,Male,Europe,Sports,3276.94,43.42,26-05-2024,26.17,Debit Card,Platinum,2.1
+869,Madison Sanchez,60+,Female,Asia,Groceries,4073.72,11.87,20-11-2024,19.12,Bank Transfer,Silver,3.6
+870,Heather Orozco,26-35,Female,Europe,Groceries,4806.27,1301.67,19-04-2024,27.27,Debit Card,Bronze,1.9
+871,Jonathan Morgan,60+,Female,North America,Groceries,4148.48,308.17,12-05-2024,18.65,Debit Card,Silver,1.5
+872,Sandra Fitzgerald,26-35,Other,Australia,Groceries,2559.84,170.55,08-07-2024,1.29,Bank Transfer,Silver,1.5
+873,Briana Turner,60+,Other,Africa,Clothing,4631.87,1122.19,31-03-2024,24.99,Cash,Platinum,4
+874,Felicia Griffin,60+,Male,Africa,Books,3127.11,349.31,17-08-2024,16.61,Cash,Gold,1.5
+875,Tara Brown MD,36-45,Other,Australia,Books,2103.87,1319.14,24-11-2024,5.15,Debit Card,Silver,3.9
+876,Kyle Lopez,18-25,Male,Europe,Books,1516,897.89,07-09-2024,13.31,Digital Wallet,Platinum,4
+877,Tammy Sellers,18-25,Other,Asia,Groceries,1618.65,66.95,15-10-2024,8.53,Credit Card,Silver,4.6
+878,Elizabeth Castillo,18-25,Other,Australia,Clothing,2941.96,510.99,05-02-2024,15.69,Debit Card,Gold,4.1
+879,Carolyn Simmons,46-60,Male,Asia,Sports,3976.69,1388.88,28-10-2024,9.03,Digital Wallet,Silver,4.6
+880,Jennifer Whitehead,60+,Male,Australia,Clothing,4026.47,896.23,20-03-2024,3.61,Bank Transfer,Bronze,1.6
+881,Mr. Gregory Allen Jr.,18-25,Other,Australia,Groceries,2906.24,246.22,11-06-2024,24.36,Digital Wallet,Bronze,3.4
+882,Michael Marshall,60+,Female,Asia,Sports,3519.81,179.79,28-09-2024,6.58,Cash,Bronze,3.3
+883,Terri Martin,26-35,Female,Australia,Toys,1038.42,102.28,22-05-2024,4.93,Credit Card,Gold,4.2
+884,Cheryl Roberson,18-25,Female,North America,Electronics,2519.8,234.8,29-04-2024,9.71,Digital Wallet,Platinum,1.3
+885,Edwin Mcgee,26-35,Female,North America,Sports,1179.86,1157.24,10-11-2024,6.14,Debit Card,Gold,4.7
+886,Ashley Williams,18-25,Female,Europe,Groceries,917.55,1103.58,16-07-2024,24.53,Cash,Gold,3.3
+887,Kristopher Barrera,18-25,Other,Asia,Sports,343.36,1269.69,05-06-2024,13.93,Debit Card,Bronze,1.1
+888,Sally Estes MD,26-35,Male,North America,Electronics,4415.59,1005.92,13-11-2024,20.64,Debit Card,Platinum,3.4
+889,Cheryl Lewis,60+,Other,Australia,Books,2284.65,1325.49,13-12-2024,4.2,Digital Wallet,Platinum,4.7
+890,Laura Hess,46-60,Female,Asia,Furniture,1713,1487.93,19-08-2024,7.41,Credit Card,Bronze,3.9
+891,Sherri Lopez,36-45,Male,Europe,Sports,4944.71,1004.75,06-03-2024,9.34,Credit Card,Gold,2.6
+892,Connor Ortega,18-25,Other,North America,Toys,413.57,9.95,08-08-2024,22.58,Credit Card,Silver,2.4
+893,Fernando Oliver,60+,Other,Europe,Groceries,4638.73,992.22,06-08-2024,27.89,Credit Card,Bronze,2.9
+894,David Mclaughlin,26-35,Other,Australia,Clothing,3186.87,983.72,29-03-2024,17.12,Debit Card,Platinum,3.5
+895,Daniel Bond,46-60,Female,Africa,Furniture,803.67,90.69,14-11-2024,0.62,Digital Wallet,Silver,3.1
+896,Danielle Nunez,18-25,Female,Europe,Books,525.39,529.73,12-02-2024,23.96,Bank Transfer,Silver,2.2
+897,Katrina Butler,46-60,Other,Europe,Electronics,4097.41,1303.24,26-10-2024,24.29,Credit Card,Silver,2.2
+898,Vicki Odom,36-45,Male,Africa,Groceries,2206.63,1217.08,24-07-2024,6.03,Digital Wallet,Platinum,1.1
+899,Michael Rowland,46-60,Male,North America,Toys,1422.02,395.37,23-10-2024,2.86,Bank Transfer,Platinum,4.9
+900,Jennifer Garrett,18-25,Other,North America,Electronics,3504.07,244.09,17-09-2024,4.95,Cash,Platinum,4.3
+901,Michael Byrd,18-25,Female,Europe,Sports,3437.86,812.82,30-05-2024,5.94,Bank Transfer,Silver,1.8
+902,Mrs. Molly Garcia,18-25,Male,Asia,Groceries,4331.58,451.16,22-02-2024,6.18,Cash,Gold,4.9
+903,Charles Peck,26-35,Male,Africa,Books,4077.72,1382.86,20-11-2024,26.72,Credit Card,Bronze,1
+904,Joel Kelley,18-25,Male,Asia,Sports,4159.37,1197.49,30-09-2024,25.85,Cash,Gold,2
+905,Andrew Castillo,26-35,Female,Asia,Toys,2880.19,393.22,20-03-2024,19.46,Bank Transfer,Gold,1.9
+906,Christina Campbell,26-35,Other,Africa,Groceries,3546.56,923.5,25-09-2024,20.42,Debit Card,Bronze,3.9
+907,Danielle Mack,60+,Male,Australia,Furniture,699.01,703.49,03-09-2024,16.48,Cash,Gold,2.6
+908,Monica Romero,36-45,Female,Australia,Groceries,4648.89,1388.48,12-05-2024,29.66,Debit Card,Gold,3.9
+909,Sandra Howard,60+,Male,Asia,Electronics,704.05,1060.52,08-08-2024,20.91,Bank Transfer,Gold,3.9
+910,Thomas Flores,18-25,Male,Australia,Electronics,252.05,356.68,17-06-2024,26.7,Debit Card,Silver,4.5
+911,Karen Phillips,60+,Female,North America,Books,37.09,847.03,12-03-2024,3.43,Digital Wallet,Silver,3.2
+912,Katherine Johnson,36-45,Female,Australia,Groceries,2932.15,455.6,07-04-2024,2.41,Credit Card,Platinum,2.6
+913,Eric Evans,46-60,Other,Africa,Books,4607.63,172.57,31-08-2024,18.68,Digital Wallet,Gold,2.3
+914,William Reed,60+,Female,Africa,Books,82.88,277.46,19-01-2024,28.3,Bank Transfer,Silver,3.7
+915,Alyssa Meyers,46-60,Male,North America,Electronics,4028.5,686.89,07-06-2024,4.13,Digital Wallet,Silver,3.7
+916,Kristin Turner,18-25,Male,Australia,Clothing,3344.13,373.11,02-09-2024,7.85,Credit Card,Silver,1.6
+917,Jamie Page,46-60,Female,North America,Toys,67.87,948.04,16-08-2024,7.64,Digital Wallet,Gold,2.2
+918,Stephanie Kane,46-60,Male,Asia,Clothing,2570.08,539.99,20-01-2024,22.23,Debit Card,Platinum,1.7
+919,Cole Bailey,18-25,Other,Asia,Sports,3476.97,1430.43,14-03-2024,25.09,Debit Card,Silver,3.3
+920,Anthony Townsend,46-60,Male,Africa,Furniture,489.37,349.95,16-10-2024,7.2,Credit Card,Bronze,4.7
+921,David Coffey,60+,Other,Africa,Books,339.33,879.12,02-11-2024,16.88,Cash,Silver,1.8
+922,Vincent Reyes,26-35,Female,Australia,Books,768.92,277.64,26-10-2024,23.77,Cash,Platinum,3.6
+923,Anna Cortez,36-45,Female,North America,Furniture,888.03,141,20-04-2024,11.9,Credit Card,Gold,2.3
+924,Keith Santos,18-25,Female,North America,Books,4951.87,537.72,03-10-2024,2.97,Cash,Silver,4.9
+925,Brittany Morales,18-25,Female,Europe,Toys,3366.27,1193.84,18-06-2024,8.86,Credit Card,Gold,2.3
+926,Autumn Ayala,26-35,Male,Africa,Electronics,2138.14,892.28,28-05-2024,11.91,Cash,Bronze,2.8
+927,Nicole Bell,46-60,Other,Asia,Clothing,135.4,293.01,13-10-2024,7.41,Debit Card,Platinum,4.3
+928,Chad Gray,36-45,Male,Australia,Toys,249.72,196.33,09-12-2024,11.89,Credit Card,Bronze,2.9
+929,James Brown,46-60,Female,North America,Electronics,4778.87,481.23,31-10-2024,3.26,Debit Card,Silver,5
+930,Elizabeth Gonzalez,18-25,Female,Australia,Clothing,4424.37,925.89,29-08-2024,19.13,Bank Transfer,Platinum,3.2
+931,Edward Bullock,26-35,Male,Europe,Clothing,146.37,498.22,18-08-2024,6.41,Debit Card,Silver,3.2
+932,Mr. Scott Moreno,26-35,Female,Africa,Electronics,2637.14,479.12,14-09-2024,16.05,Debit Card,Gold,2.4
+933,Antonio Bell,60+,Male,Asia,Clothing,591.28,256.58,31-07-2024,21.04,Bank Transfer,Gold,3.1
+934,Brandon Clements,60+,Female,Asia,Books,1700.02,1301.25,05-08-2024,20.09,Digital Wallet,Platinum,2.9
+935,Michael Floyd,26-35,Other,Europe,Toys,3562.46,5.34,01-05-2024,6.01,Bank Transfer,Platinum,1.3
+936,Tina Goodman,46-60,Female,Europe,Clothing,578.75,1222.56,26-11-2024,19.61,Debit Card,Silver,4.3
+937,Brenda Brewer,36-45,Female,Australia,Furniture,4926.23,181.75,29-05-2024,25.81,Bank Transfer,Silver,3.1
+938,Andre Keller,18-25,Female,Europe,Furniture,2740.38,1348.2,13-11-2024,4.04,Bank Transfer,Silver,3.3
+939,Nicole Bright,60+,Male,Africa,Electronics,3116.4,396.93,20-05-2024,22.66,Digital Wallet,Silver,2.5
+940,John Moore,26-35,Male,Asia,Sports,2252.78,1349.81,05-09-2024,0.33,Bank Transfer,Platinum,4.2
+941,Jonathan Ramos,46-60,Other,Australia,Clothing,4650.18,782.88,29-04-2024,12.2,Digital Wallet,Platinum,4.8
+942,Daniel Kelley,18-25,Other,Asia,Sports,2532.5,779.88,11-02-2024,12.41,Digital Wallet,Silver,1.4
+943,Ricky Brown,36-45,Other,Australia,Groceries,1788.67,630.43,19-07-2024,13.25,Bank Transfer,Silver,3
+944,Nicole Boyd,18-25,Female,Africa,Groceries,444.59,716.5,23-07-2024,3.99,Bank Transfer,Platinum,2
+945,David Cuevas,46-60,Other,Australia,Books,4704.59,1225.99,21-02-2024,18.13,Bank Transfer,Platinum,1.8
+946,Monica Wright,18-25,Male,Australia,Sports,713.53,1443.37,07-03-2024,26.97,Cash,Platinum,1.9
+947,Paul Bowman,46-60,Other,Africa,Furniture,2092.3,1405.51,25-04-2024,13.99,Bank Transfer,Bronze,3.2
+948,Alexis Thomas,18-25,Female,Asia,Electronics,4655.45,1393.55,08-12-2024,26.88,Credit Card,Bronze,2.4
+949,Ryan Howard,60+,Other,Europe,Toys,4828.47,1239.57,14-09-2024,23.44,Bank Transfer,Bronze,2
+950,Kathleen Valencia,36-45,Female,Asia,Electronics,1430.12,180.92,26-07-2024,1.41,Digital Wallet,Gold,4.3
+951,Tony Elliott,46-60,Other,Europe,Clothing,4124.4,732.7,17-09-2024,9.16,Bank Transfer,Platinum,1.9
+952,Matthew Davis,60+,Female,Europe,Electronics,2749.98,1034.5,11-08-2024,26.55,Cash,Platinum,4.8
+953,Matthew Bird,18-25,Other,Europe,Groceries,317.94,392.3,16-09-2024,22.59,Debit Card,Gold,1.7
+954,Michelle Howard,18-25,Female,Africa,Toys,2716.23,272.39,03-08-2024,3.96,Credit Card,Bronze,4.7
+955,Nicole Wilkinson,46-60,Other,Asia,Books,56.2,1418.4,03-08-2024,1.28,Debit Card,Bronze,3.8
+956,Tiffany Campbell,46-60,Female,Europe,Sports,1451.4,437.48,02-10-2024,4.22,Bank Transfer,Gold,3.8
+957,Mark Rodriguez,18-25,Female,Asia,Electronics,371.15,158.8,16-11-2024,21.39,Credit Card,Platinum,3.2
+958,Kristy Colon,18-25,Other,Africa,Groceries,4079.69,593.17,21-05-2024,5.95,Debit Card,Bronze,1.2
+959,Marcus Williams,26-35,Other,Asia,Sports,794.07,946.63,31-05-2024,3.48,Credit Card,Bronze,3.3
+960,David Cochran,18-25,Other,North America,Books,1324.43,333.25,22-03-2024,9.57,Bank Transfer,Platinum,1.4
+961,Kenneth Kelley,18-25,Male,Asia,Furniture,3874.86,1485.22,02-12-2024,15.26,Debit Card,Platinum,4.1
+962,Rebecca Johnson,60+,Male,Africa,Books,1374.06,117.39,05-05-2024,2.58,Bank Transfer,Platinum,2
+963,Mr. Vincent Johnson,18-25,Other,Australia,Groceries,4024.44,1267.94,16-09-2024,26.79,Cash,Bronze,1.1
+964,Ryan Stewart,36-45,Female,Europe,Toys,3643.87,1018.58,23-02-2024,9.44,Digital Wallet,Gold,4.7
+965,Cody Carey,36-45,Female,Asia,Clothing,1652.58,1361.43,25-01-2024,7.55,Credit Card,Silver,4.1
+966,Peggy Lopez,60+,Female,Australia,Sports,3926.85,495.26,18-08-2024,17.52,Cash,Bronze,3.6
+967,Aaron Bruce,26-35,Other,Australia,Electronics,1991.12,179.82,28-10-2024,12.6,Bank Transfer,Platinum,3
+968,Joe Roy,26-35,Other,Australia,Electronics,3730.8,1087.41,07-09-2024,23,Credit Card,Silver,1.7
+969,Donald Young,46-60,Other,Australia,Groceries,1125.42,407.57,03-01-2024,11.28,Digital Wallet,Bronze,4.8
+970,Jennifer Garner MD,26-35,Female,Asia,Clothing,3799.9,81.32,25-01-2024,8.88,Bank Transfer,Platinum,2
+971,William Ferguson,26-35,Other,Australia,Toys,3600.28,291.57,19-11-2024,1.85,Bank Transfer,Platinum,1.7
+972,Vanessa Wilkinson,36-45,Male,Australia,Furniture,1108.53,50.07,27-11-2024,4.62,Debit Card,Silver,2.2
+973,James Gonzalez,36-45,Male,Africa,Furniture,3704.08,558.92,13-12-2024,29.72,Cash,Platinum,2.1
+974,Kimberly Beck,18-25,Other,North America,Furniture,1407.39,744.71,01-09-2024,21.52,Debit Card,Gold,4.8
+975,Melissa Rogers,26-35,Male,North America,Electronics,535.41,1183.62,02-02-2024,11.54,Digital Wallet,Platinum,3.2
+976,Joshua Fuller,46-60,Female,Australia,Furniture,2629.98,431.77,17-04-2024,24.92,Digital Wallet,Silver,3
+977,Tyrone Mcdaniel,26-35,Female,Asia,Books,1264.2,952.46,17-07-2024,8.68,Bank Transfer,Gold,1.5
+978,Julie Arnold,46-60,Male,North America,Furniture,1793.92,879.22,04-10-2024,4.34,Debit Card,Gold,2.8
+979,Kimberly Young,26-35,Female,Europe,Clothing,3103.22,1259.96,07-11-2024,20.47,Bank Transfer,Gold,1.2
+980,Tyler Hunt,36-45,Other,Africa,Clothing,3326.65,1192.06,07-05-2024,21.48,Digital Wallet,Platinum,1.4
+981,Andrew Miller,46-60,Male,Asia,Electronics,4005.35,907.89,26-09-2024,6.95,Debit Card,Platinum,2.6
+982,Crystal Johnson,26-35,Male,Asia,Furniture,3471.53,356.63,27-04-2024,19.35,Credit Card,Platinum,1.9
+983,William Cole,60+,Male,Australia,Electronics,4366.86,928.39,01-01-2024,4.05,Digital Wallet,Bronze,3.8
+984,Leslie Smith,36-45,Female,Australia,Furniture,1193.75,1229.37,06-03-2024,28.42,Cash,Silver,2.9
+985,Amber Cooper,18-25,Other,Africa,Furniture,2483.98,1246.65,16-11-2024,24.36,Cash,Platinum,2.2
+986,Erica Ho,36-45,Other,Asia,Clothing,4142.14,41.17,22-09-2024,24.24,Bank Transfer,Gold,4.9
+987,Chad Moses,36-45,Other,Asia,Groceries,4515.32,419.62,21-10-2024,9.19,Digital Wallet,Bronze,5
+988,Karen Hernandez,36-45,Other,North America,Books,3139.92,545.71,13-08-2024,25.61,Debit Card,Bronze,2.8
+989,John Reed,36-45,Male,Africa,Electronics,2477.04,1096.42,27-09-2024,9.83,Digital Wallet,Bronze,2.5
+990,Emily Holloway,18-25,Other,Australia,Sports,2525.4,259.6,19-01-2024,19.39,Credit Card,Silver,4.1
+991,Claire Rodriguez,46-60,Other,Australia,Toys,937.81,109.77,14-02-2024,0.01,Credit Card,Gold,2.9
+992,Melanie Price,46-60,Female,Asia,Books,1908.54,716.65,15-11-2024,19.88,Digital Wallet,Platinum,3.4
+993,Mr. Daniel Miller DVM,46-60,Female,Asia,Toys,2586.35,207.49,05-10-2024,23.93,Digital Wallet,Silver,3.1
+994,Amanda Cain,18-25,Other,North America,Groceries,1927.87,184.73,10-02-2024,17.65,Debit Card,Gold,2.5
+995,John King,46-60,Female,North America,Toys,2198.45,1273.16,21-04-2024,12.43,Bank Transfer,Bronze,3.8
+996,Cassandra Carr,46-60,Other,Africa,Furniture,3925.71,1274.32,02-11-2024,6.27,Cash,Bronze,1
+997,Jaime Herrera,60+,Male,Australia,Sports,364.48,342.26,18-03-2024,9.08,Credit Card,Silver,4.7
+998,Kim Wong,26-35,Female,North America,Clothing,2180.94,1386.37,12-06-2024,10.45,Debit Card,Bronze,3.6
+999,Jennifer Bowers,18-25,Other,Europe,Furniture,2627.5,605.82,26-09-2024,27.51,Credit Card,Platinum,4.9
+1000,Alyssa Andrews,26-35,Other,Australia,Furniture,1713.82,1371.45,14-02-2024,8.52,Digital Wallet,Silver,1.6
+1001,Craig Moore,26-35,Other,Australia,Sports,3577.14,502.17,17-07-2024,20.28,Digital Wallet,Silver,2.7
+1002,Jessica Colon,18-25,Male,Africa,Sports,4724.95,1061.77,23-08-2024,7.55,Cash,Platinum,1.8
+1003,Evan Rubio,26-35,Female,Africa,Groceries,3120.89,188.93,24-07-2024,14.3,Credit Card,Bronze,3.2
+1004,Allison Holt,18-25,Female,Australia,Electronics,3013.57,874.55,20-10-2024,13.39,Debit Card,Platinum,1.8
+1005,Christina Clarke,26-35,Other,Asia,Books,4884.16,612.53,31-05-2024,13.04,Digital Wallet,Platinum,4.2
+1006,Edward Ward,18-25,Male,Asia,Electronics,2476.09,1444.56,21-07-2024,0.18,Credit Card,Silver,2.2
+1007,Matthew Little,46-60,Male,Europe,Books,3455.18,899.46,02-06-2024,20.18,Cash,Platinum,2.7
+1008,Mary Thomas,36-45,Female,North America,Groceries,4601.64,350.21,22-09-2024,2.07,Bank Transfer,Platinum,3.5
+1009,Tina Richardson,36-45,Female,North America,Furniture,1669.49,781.43,19-10-2024,2.09,Digital Wallet,Platinum,3.3
+1010,Rhonda Morris,60+,Other,Australia,Books,231.14,1470.29,06-01-2024,26.17,Bank Transfer,Platinum,3.7
+1011,Kenneth Moore,36-45,Female,Europe,Electronics,3910.76,1484.24,25-09-2024,6.84,Credit Card,Gold,3.7
+1012,Sharon Jackson,60+,Female,North America,Sports,447.68,1302.01,19-02-2024,29.07,Bank Transfer,Gold,2.5
+1013,John Watson,46-60,Other,Australia,Electronics,4906.93,1333.57,17-11-2024,12.19,Digital Wallet,Gold,3.9
+1014,Ryan Perry,60+,Female,North America,Sports,3558.49,738.98,05-07-2024,3.89,Debit Card,Gold,4.7
+1015,Amy Benton MD,60+,Female,Europe,Sports,2355.13,1035.33,14-04-2024,25.29,Bank Transfer,Platinum,1.2
+1016,Kevin Brown,18-25,Female,Australia,Books,4202.9,960.48,14-11-2024,25.11,Credit Card,Gold,1.4
+1017,Anthony Williams,18-25,Male,Europe,Sports,2020.62,618.17,04-11-2024,7.5,Bank Transfer,Silver,2.9
+1018,Melinda Cooper,46-60,Male,Africa,Furniture,4357.12,48.51,12-09-2024,9.55,Bank Transfer,Bronze,4.9
+1019,James Robinson,36-45,Male,North America,Books,2534.85,276.82,08-10-2024,18.13,Credit Card,Bronze,4.7
+1020,Michael Walker,18-25,Other,Europe,Clothing,3223.34,1227.39,06-10-2024,18.18,Bank Transfer,Platinum,3.2
+1021,John Blankenship,26-35,Other,Africa,Clothing,4690.84,638.32,17-09-2024,3.97,Bank Transfer,Platinum,2
+1022,Mr. Michael Curtis,46-60,Other,North America,Clothing,2947.53,1480.5,27-09-2024,10.13,Debit Card,Silver,1.8
+1023,Carlos Ford,26-35,Other,Australia,Books,4432.26,34.97,07-09-2024,15.62,Bank Transfer,Silver,2.9
+1024,Marilyn Johnson,46-60,Other,Australia,Electronics,3266.95,1215.91,25-02-2024,27.27,Credit Card,Silver,2
+1025,Steven Thomas,46-60,Female,Australia,Furniture,1330.32,1262.88,21-06-2024,4.19,Cash,Platinum,2
+1026,Amy Harrison,46-60,Female,Africa,Clothing,2635.56,137.29,01-02-2024,19.71,Bank Transfer,Bronze,1.4
+1027,Tom Chan,26-35,Female,Africa,Groceries,2027.21,1267.05,07-11-2024,27.75,Bank Transfer,Silver,3.4
+1028,Heather Miller,36-45,Male,Africa,Clothing,3326.06,1014.46,23-07-2024,7.76,Credit Card,Gold,1.7
+1029,James Miller,36-45,Female,North America,Toys,1889.5,331.18,24-02-2024,26.44,Cash,Silver,4.9
+1030,Ruben Jackson,18-25,Male,Africa,Clothing,4080.4,361.04,05-01-2024,18.06,Credit Card,Platinum,4.5
+1031,Stephen Moore,18-25,Female,North America,Furniture,639.89,1055.05,08-12-2024,9.09,Bank Transfer,Silver,3.5
+1032,Adam Noble,36-45,Female,Australia,Toys,4313.93,1496.48,25-09-2024,22.82,Debit Card,Bronze,2.9
+1033,Robin Sanchez,46-60,Other,Australia,Books,2154.71,552.58,26-04-2024,23.33,Bank Transfer,Platinum,3.3
+1034,Christopher Hardy,36-45,Other,North America,Groceries,3102.8,789.3,21-05-2024,2.44,Credit Card,Gold,3.9
+1035,Linda Gonzalez,36-45,Male,Australia,Toys,305.72,559.29,29-07-2024,28.02,Digital Wallet,Silver,1
+1036,Melissa Harris,46-60,Male,North America,Sports,3303.87,587.03,17-08-2024,1.92,Bank Transfer,Platinum,2.9
+1037,Charles Chapman,60+,Other,Europe,Toys,3131.19,121.74,04-02-2024,11.04,Cash,Gold,1.3
+1038,Jeffery Richards,26-35,Male,North America,Electronics,4770.14,121.23,13-04-2024,22.19,Debit Card,Platinum,2.9
+1039,Joshua Hayden,46-60,Other,Africa,Sports,4012.83,1396.52,01-11-2024,26.78,Bank Transfer,Platinum,3.7
+1040,Bradley Howell,18-25,Other,North America,Furniture,741.59,703.22,28-09-2024,16.65,Debit Card,Platinum,2.4
+1041,Jessica Gray,26-35,Female,Australia,Clothing,509.28,371.95,24-05-2024,23.05,Digital Wallet,Gold,4.8
+1042,Scott Brown,46-60,Other,Europe,Toys,1609.79,269.83,09-09-2024,16.45,Bank Transfer,Gold,2.6
+1043,Marc Butler,46-60,Male,Australia,Electronics,1065.66,1260.96,19-04-2024,10.53,Credit Card,Platinum,2.3
+1044,Caroline Curry,18-25,Female,North America,Sports,667.84,1085.7,15-07-2024,27.89,Credit Card,Gold,3.8
+1045,Shannon Cole,26-35,Male,Asia,Furniture,4623.7,1469.39,29-03-2024,29.11,Digital Wallet,Gold,2.5
+1046,Rebecca Moore,36-45,Female,Asia,Books,785.87,1053.28,16-05-2024,22.09,Debit Card,Gold,1.9
+1047,James Brown,18-25,Female,Australia,Toys,2370.47,4.34,26-06-2024,8.33,Debit Card,Platinum,2.5
+1048,Eric Williams,60+,Male,Australia,Sports,579.97,1008.74,10-12-2024,0.28,Credit Card,Silver,3.8
+1049,Sheri Larson,36-45,Female,Africa,Furniture,1471.55,824.46,14-12-2024,9.51,Debit Card,Platinum,2.6
+1050,James Cox,46-60,Female,Europe,Groceries,1585.77,537,09-10-2024,20.34,Debit Card,Gold,4.6
+1051,Brian Lamb,26-35,Male,Australia,Books,3499.42,101.48,28-11-2024,16.87,Bank Transfer,Silver,4.6
+1052,Cassandra Chaney,26-35,Female,North America,Clothing,3313.25,466.4,12-02-2024,2.37,Bank Transfer,Platinum,2.4
+1053,Michael Harris,18-25,Male,Europe,Toys,1308.82,828.09,15-01-2024,16.55,Digital Wallet,Platinum,3.1
+1054,Joseph Dodson,18-25,Other,North America,Sports,3079.53,374.57,23-05-2024,28.69,Credit Card,Bronze,1
+1055,Jason Oliver,18-25,Female,Asia,Sports,704.34,1332.82,13-03-2024,26.49,Cash,Bronze,3.5
+1056,Steven Owens,26-35,Female,Asia,Furniture,2047.27,302.35,31-07-2024,2.65,Credit Card,Bronze,1.7
+1057,Heidi Tucker,36-45,Male,Europe,Toys,920.47,536.04,25-09-2024,11.53,Digital Wallet,Silver,3.5
+1058,Joshua Davenport,26-35,Female,Europe,Sports,4966.94,1428.86,02-02-2024,14.07,Cash,Bronze,3.2
+1059,Frank Sanchez,26-35,Other,Australia,Books,1870.91,1396.69,21-03-2024,2.11,Cash,Bronze,2.7
+1060,Chloe Wiggins,46-60,Male,Australia,Furniture,4788.11,275.82,26-08-2024,1.14,Debit Card,Gold,1.7
+1061,Nicole Thompson,60+,Male,North America,Electronics,957.44,1475.33,31-10-2024,25.2,Bank Transfer,Bronze,3.7
+1062,Elizabeth Lopez,18-25,Male,Europe,Clothing,2771.71,68.79,31-01-2024,19.51,Digital Wallet,Platinum,1.2
+1063,Katherine Roberts,60+,Female,Europe,Sports,1949.62,777.19,06-12-2024,19.04,Cash,Silver,1.1
+1064,Veronica Taylor,18-25,Male,North America,Furniture,278.32,271.94,25-11-2024,27.75,Cash,Gold,4
+1065,Jessica Ross,26-35,Other,Africa,Toys,3987.05,216.91,29-01-2024,6.46,Credit Card,Silver,2.5
+1066,Angela Gardner,60+,Other,Africa,Sports,3201.32,270.63,16-06-2024,2.49,Digital Wallet,Gold,4.9
+1067,Michelle Ross,26-35,Male,Africa,Sports,805.01,58.92,15-05-2024,0.37,Debit Card,Platinum,1.3
+1068,John Brooks,46-60,Female,Europe,Sports,2179.34,911.13,28-01-2024,10.15,Cash,Silver,2.6
+1069,Timothy Peterson,36-45,Female,Africa,Groceries,1003.95,1347.34,03-05-2024,0.54,Bank Transfer,Silver,1.1
+1070,Kevin Tucker,60+,Female,Africa,Clothing,1922.11,899.58,23-10-2024,16.4,Digital Wallet,Platinum,3.7
+1071,Ariel Walker,18-25,Female,Asia,Sports,4116.32,385.11,07-12-2024,21.82,Debit Card,Silver,2.9
+1072,Dr. Rodney Bradford,36-45,Female,Australia,Electronics,1016.82,767.48,23-08-2024,9.11,Cash,Platinum,3.4
+1073,Mr. Ronald Ho,26-35,Other,Australia,Toys,1513.9,968.99,10-01-2024,0.83,Digital Wallet,Gold,3.5
+1074,Lisa Frank,36-45,Male,Australia,Groceries,4750.17,62.52,29-03-2024,10.19,Debit Card,Silver,3.9
+1075,Donald Santiago,18-25,Male,Asia,Groceries,2712.86,115.78,29-08-2024,3.38,Digital Wallet,Silver,3.1
+1076,Monique Gaines,18-25,Female,North America,Furniture,3939.7,224.02,27-07-2024,14.18,Debit Card,Gold,3.5
+1077,Zachary Andrews,46-60,Male,North America,Sports,1669.81,925.5,02-11-2024,4.38,Bank Transfer,Silver,4.8
+1078,Danielle Williams,26-35,Other,North America,Clothing,1011.46,687.08,09-01-2024,12.19,Bank Transfer,Bronze,2.1
+1079,Katherine Payne,60+,Female,Africa,Sports,3541.69,310.63,02-05-2024,6.52,Debit Card,Platinum,1.5
+1080,Sherry Bennett,18-25,Female,North America,Furniture,3870.8,408.05,22-02-2024,12.5,Credit Card,Bronze,1.6
+1081,Kenneth Malone,26-35,Other,Africa,Clothing,4312.44,563.2,30-08-2024,5.67,Cash,Silver,3.7
+1082,Melinda Wilson,60+,Other,Africa,Clothing,1363.63,1470.52,06-10-2024,24.68,Credit Card,Bronze,2.8
+1083,Deanna Simmons,60+,Male,North America,Clothing,3172.39,1201.97,10-04-2024,3.01,Debit Card,Platinum,3
+1084,Michelle Simpson,60+,Other,Africa,Electronics,4931.84,1268.03,04-11-2024,13.31,Digital Wallet,Bronze,2.9
+1085,Tabitha Davis,46-60,Other,North America,Clothing,2330.28,817.84,05-09-2024,10.09,Digital Wallet,Bronze,3.2
+1086,Caitlin Ford,26-35,Male,Europe,Sports,3974.62,324.86,30-08-2024,0.09,Credit Card,Bronze,4.8
+1087,Cynthia Smith,36-45,Male,North America,Sports,665.79,1225.57,09-07-2024,28.63,Debit Card,Gold,2.3
+1088,Christopher Roberts,18-25,Male,Asia,Clothing,2653.99,374.05,29-07-2024,9.79,Digital Wallet,Platinum,2.7
+1089,Jonathan Martin,18-25,Other,North America,Books,1680.24,300.93,18-10-2024,15.44,Debit Card,Gold,1.4
+1090,Mrs. Emily Hahn,36-45,Female,North America,Electronics,3454.86,870,15-05-2024,6.04,Bank Transfer,Silver,4.4
+1091,Cynthia Walker,18-25,Male,Australia,Furniture,772.76,414.44,21-11-2024,7.4,Bank Transfer,Silver,3.9
+1092,Daniel Chung,60+,Female,Europe,Groceries,1880.35,486.35,17-07-2024,27.7,Cash,Gold,1.2
+1093,Christopher Young,26-35,Female,Asia,Furniture,3513.23,271.49,08-02-2024,3.68,Cash,Silver,1.1
+1094,Steven Howard,46-60,Female,Asia,Sports,2561.17,1474.91,13-01-2024,10.1,Debit Card,Silver,1.6
+1095,Jeffrey Diaz,36-45,Female,Australia,Toys,645.04,831.01,29-01-2024,29.86,Bank Transfer,Silver,4.2
+1096,Wendy Glenn,36-45,Other,Asia,Clothing,3427.51,596.95,12-05-2024,0.42,Bank Transfer,Bronze,1.3
+1097,Daniel Cohen,26-35,Female,Australia,Clothing,4310.62,889.04,08-12-2024,21.5,Digital Wallet,Silver,4.9
+1098,Tara Smith,60+,Other,North America,Toys,880.49,79.12,11-10-2024,22.79,Cash,Platinum,4.6
+1099,Robert Rose,36-45,Other,Australia,Clothing,4555.31,551.91,15-01-2024,5.73,Digital Wallet,Silver,1.7
+1100,George Lee,18-25,Other,Europe,Sports,4326.53,1289.54,22-10-2024,8.61,Cash,Bronze,4.2
+1101,Veronica Bell,36-45,Female,Europe,Sports,2014.79,1081.02,10-01-2024,18.28,Digital Wallet,Gold,1.5
+1102,Mr. Michael Garcia PhD,18-25,Male,Africa,Clothing,2882.06,498.03,10-09-2024,29.67,Cash,Silver,3.8
+1103,Jessica Williams,46-60,Female,Asia,Clothing,3285.59,437.01,13-01-2024,15.03,Cash,Gold,3
+1104,Joel Hernandez,26-35,Other,Africa,Clothing,2835.38,615.8,31-07-2024,10.01,Credit Card,Silver,4.6
+1105,Janice Griffin,26-35,Male,Asia,Books,1597.26,527.12,31-10-2024,22.79,Credit Card,Bronze,1.3
+1106,Aaron Giles,26-35,Male,Asia,Toys,2246.5,1483.58,07-01-2024,27.15,Digital Wallet,Platinum,4.7
+1107,Alicia Jones,46-60,Male,Europe,Furniture,1940.41,858.67,07-08-2024,18.42,Debit Card,Platinum,3.1
+1108,Melinda Huynh,46-60,Male,North America,Clothing,121.43,26.32,05-12-2024,10.89,Bank Transfer,Platinum,2
+1109,Todd Ramirez,26-35,Male,Australia,Groceries,2094.06,73.04,22-07-2024,23.16,Bank Transfer,Gold,1.3
+1110,Amanda Gibson,26-35,Other,Africa,Clothing,2149.57,603.89,20-11-2024,21.43,Cash,Bronze,1.2
+1111,Donald Mendoza,46-60,Male,Africa,Groceries,1831.97,947.46,16-02-2024,23.83,Bank Transfer,Bronze,4
+1112,Nicholas Stewart,36-45,Other,Asia,Electronics,3224.13,183.95,23-09-2024,23.83,Credit Card,Bronze,4.4
+1113,John Jones,46-60,Male,North America,Electronics,4057.89,1209.59,18-01-2024,0.46,Digital Wallet,Bronze,1.9
+1114,James Phillips,60+,Female,Asia,Groceries,1979.56,1153.45,12-01-2024,21.92,Cash,Gold,2.1
+1115,Meagan Kaiser,36-45,Other,Asia,Clothing,1188.32,816.16,28-09-2024,16,Digital Wallet,Platinum,3.4
+1116,Steven Rivas,60+,Female,Africa,Toys,552.22,261.08,30-06-2024,14.06,Bank Transfer,Gold,3.3
+1117,Barbara Carroll,60+,Male,Australia,Electronics,4656.52,750.82,07-11-2024,28.54,Debit Card,Gold,2.3
+1118,Colleen Hughes,36-45,Male,Africa,Sports,4885.87,982.97,12-10-2024,5.59,Cash,Silver,3.2
+1119,Daniel Wilson,46-60,Other,Australia,Books,677.9,47.39,13-12-2024,17.93,Digital Wallet,Gold,1.5
+1120,David Solis,60+,Other,Africa,Books,165.28,1278.91,01-04-2024,16.76,Bank Transfer,Gold,1.9
+1121,Christian Holland,18-25,Other,Australia,Electronics,3276.56,745.01,26-05-2024,1.6,Credit Card,Silver,2.6
+1122,Christopher Aguirre,18-25,Male,Europe,Clothing,3762.58,995.34,15-10-2024,21.25,Credit Card,Gold,3.2
+1123,Dr. Dawn Walker DVM,18-25,Female,North America,Sports,4897.71,589.08,20-04-2024,2,Bank Transfer,Gold,4.5
+1124,Samantha George,26-35,Male,Africa,Toys,3375.81,441.46,18-09-2024,13.61,Digital Wallet,Silver,1.1
+1125,Melissa Matthews,36-45,Male,Australia,Groceries,2100.71,940.5,29-05-2024,21.77,Bank Transfer,Silver,1.8
+1126,Karl Mejia,18-25,Male,Asia,Clothing,1977.47,1352.5,11-12-2024,11.65,Credit Card,Silver,3.4
+1127,Isabella Perez,26-35,Male,North America,Books,3726.02,272.5,24-05-2024,25.09,Digital Wallet,Gold,1.6
+1128,Jose Jackson,60+,Female,Australia,Toys,3953.04,1055.13,23-10-2024,29.74,Cash,Silver,4.9
+1129,Amanda Willis,60+,Male,Asia,Furniture,4605.84,423.58,27-03-2024,0.96,Credit Card,Bronze,4.5
+1130,Walter Petty,26-35,Male,Europe,Groceries,74.66,964.32,02-05-2024,21.17,Debit Card,Bronze,1.2
+1131,Stephen Peterson,26-35,Female,Europe,Electronics,46.08,40.95,29-11-2024,8.07,Cash,Bronze,4.5
+1132,Robert Jackson,36-45,Female,North America,Electronics,3095.05,128.58,18-11-2024,15.51,Debit Card,Silver,3.2
+1133,Angela Vance,60+,Male,North America,Sports,2180.58,422.34,13-09-2024,13.33,Bank Transfer,Silver,4.8
+1134,Makayla Gibson,18-25,Other,North America,Books,4594.54,772.27,05-01-2024,20.1,Credit Card,Silver,4.5
+1135,Jessica Holder,18-25,Other,Africa,Books,2655,295.08,18-09-2024,12.34,Digital Wallet,Platinum,2.8
+1136,Desiree Dodson,60+,Female,North America,Clothing,1624.36,456.27,08-12-2024,28.34,Credit Card,Gold,2.7
+1137,Eric Horn,46-60,Female,Asia,Toys,1141.23,1224.52,19-05-2024,23.66,Debit Card,Platinum,1.9
+1138,Adrian Haas,60+,Female,Asia,Electronics,1061.87,1449.78,20-05-2024,21.1,Cash,Silver,2.3
+1139,Alejandro Fernandez,26-35,Other,North America,Electronics,3444.13,1032.23,16-12-2024,9.6,Cash,Gold,3.2
+1140,Rebecca Hughes,60+,Female,Africa,Electronics,2769.27,458.09,21-03-2024,11.84,Credit Card,Platinum,3.5
+1141,Mr. Michael Morgan,18-25,Male,Africa,Books,802.78,90.72,16-04-2024,6.53,Credit Card,Platinum,1.3
+1142,Madeline Trevino,46-60,Male,Asia,Electronics,3013.39,1167.18,01-12-2024,0.57,Digital Wallet,Bronze,3.2
+1143,Rebecca Roberts,18-25,Male,North America,Books,1028.62,1389.01,10-04-2024,25.19,Credit Card,Gold,2.1
+1144,Ricardo Holland,36-45,Male,Africa,Toys,4375.88,1147.45,06-03-2024,4.26,Debit Card,Bronze,1.8
+1145,Mathew Pugh,60+,Other,North America,Sports,1999.5,607.83,03-01-2024,5.34,Cash,Platinum,1.8
+1146,David Kelly,26-35,Other,Australia,Toys,4016.18,350.05,01-06-2024,16.15,Cash,Bronze,1.2
+1147,Joy Fields,60+,Female,Australia,Toys,272.96,47.21,05-03-2024,10.82,Bank Transfer,Platinum,4.1
+1148,Aaron Walters,46-60,Female,Africa,Sports,1059.64,211.97,01-10-2024,17.84,Cash,Platinum,4.3
+1149,Kristine Williams,26-35,Male,Asia,Toys,4863.84,756.25,29-03-2024,27.26,Digital Wallet,Bronze,3.9
+1150,Jesse Chambers,60+,Male,North America,Furniture,4092.94,655.83,04-07-2024,17.53,Digital Wallet,Silver,1
+1151,Ronald Hughes PhD,60+,Other,Europe,Books,3875.56,1452.7,02-06-2024,17.25,Credit Card,Platinum,4.2
+1152,Joan Norman,36-45,Male,Europe,Furniture,4430.64,334.04,21-08-2024,9.16,Debit Card,Platinum,1.8
+1153,Andrea Espinoza,26-35,Female,Africa,Electronics,3416.39,611.78,23-01-2024,3.97,Cash,Platinum,2.8
+1154,Amy Vega,46-60,Other,North America,Sports,2906.71,305.19,18-08-2024,7.68,Digital Wallet,Platinum,2.7
+1155,Richard Montgomery,46-60,Other,Asia,Toys,4079.23,1161.64,24-08-2024,9.26,Digital Wallet,Gold,3.3
+1156,Robert Wells,46-60,Male,Europe,Clothing,2683.88,247.71,23-08-2024,8.56,Debit Card,Platinum,2.8
+1157,Jessica Jones,36-45,Other,Australia,Groceries,3423.86,538.55,23-06-2024,4.58,Cash,Bronze,1.5
+1158,Stacy Rich,36-45,Male,Asia,Toys,1291.85,506.28,30-05-2024,21.47,Bank Transfer,Platinum,4.5
+1159,Natasha Reilly,36-45,Male,Africa,Furniture,4379.21,434.5,19-07-2024,11.3,Digital Wallet,Bronze,1.5
+1160,Cody Brooks,36-45,Female,Asia,Books,4421.73,1070.99,31-05-2024,25.23,Credit Card,Platinum,3.7
+1161,Stephanie Wolf,26-35,Male,North America,Clothing,452.11,382.94,29-08-2024,18.38,Credit Card,Platinum,4.3
+1162,Priscilla Mccarthy,26-35,Male,Europe,Books,4836.87,110.53,18-09-2024,10.3,Credit Card,Gold,3.6
+1163,Nicole Price,46-60,Female,Asia,Books,3226.14,773.91,06-03-2024,1.24,Bank Transfer,Bronze,2.1
+1164,Tara Johnson,18-25,Other,Asia,Furniture,1264.71,489.69,12-10-2024,27.98,Cash,Platinum,3.4
+1165,Tina Gomez,18-25,Other,Europe,Books,3536.29,753.96,31-08-2024,18.72,Debit Card,Silver,2.2
+1166,Lisa Nixon,26-35,Male,Europe,Groceries,4605.18,1127.06,04-06-2024,21.62,Bank Transfer,Gold,1.6
+1167,John Anderson,18-25,Male,North America,Clothing,3997.31,1300.97,30-06-2024,12.55,Bank Transfer,Silver,2.4
+1168,Jamie Floyd,36-45,Male,North America,Toys,1916.94,406.56,23-02-2024,25.23,Credit Card,Bronze,3.5
+1169,Eric Townsend,36-45,Other,North America,Furniture,36.25,771.13,01-05-2024,4.82,Debit Card,Silver,2.4
+1170,Nancy Lamb,36-45,Male,Australia,Furniture,39.65,94.02,19-11-2024,22,Debit Card,Bronze,1
+1171,Robin Taylor,60+,Male,Asia,Clothing,1207.95,1192.44,20-10-2024,16.83,Credit Card,Bronze,2.7
+1172,Pedro Neal,46-60,Other,North America,Groceries,2274.16,74.02,24-01-2024,0.87,Digital Wallet,Bronze,1.2
+1173,Cassie Young,18-25,Male,Europe,Toys,3229.98,519.67,16-02-2024,19.03,Bank Transfer,Silver,2.9
+1174,Savannah Murillo,36-45,Male,Australia,Toys,2655.02,561.47,07-04-2024,0.38,Digital Wallet,Bronze,4.2
+1175,James Hayden,46-60,Other,Asia,Books,227.38,694.95,08-12-2024,22.65,Bank Transfer,Bronze,3.3
+1176,Laura Dawson,60+,Other,Australia,Toys,3742.64,1104.42,05-07-2024,21.63,Credit Card,Bronze,3.6
+1177,Kimberly Perez,60+,Female,Australia,Sports,2310.54,1042.63,15-05-2024,19.64,Digital Wallet,Bronze,4.9
+1178,Dennis Richardson,60+,Other,Asia,Toys,798.4,898.8,16-11-2024,12.76,Digital Wallet,Silver,2.4
+1179,Ashley Robinson,18-25,Male,Africa,Groceries,323.38,684.23,14-05-2024,21.29,Bank Transfer,Silver,3.8
+1180,Brittney Yu,36-45,Male,Asia,Books,3229.67,346.08,18-04-2024,6.34,Digital Wallet,Platinum,4.6
+1181,Jeremy Anthony,18-25,Other,Asia,Furniture,2491.14,570.86,31-07-2024,2.24,Debit Card,Bronze,2.7
+1182,Brian Rodriguez,46-60,Male,Asia,Toys,983.81,1349.46,17-04-2024,2.09,Debit Card,Platinum,1.8
+1183,Brandon Jones,18-25,Male,North America,Groceries,1641.62,577.68,27-01-2024,23.7,Cash,Platinum,4.8
+1184,Eduardo Johnson,60+,Male,Europe,Furniture,1733.03,80.87,24-03-2024,27.38,Debit Card,Silver,1.4
+1185,Robert Cruz,26-35,Female,North America,Clothing,4799.54,1492.85,20-09-2024,16.05,Cash,Gold,4.2
+1186,Debbie Robertson,18-25,Male,North America,Books,3717.64,144.74,18-08-2024,28.04,Debit Card,Bronze,3.7
+1187,Henry Mahoney,36-45,Other,Europe,Toys,1995.88,286.77,01-07-2024,3.05,Credit Card,Silver,2.4
+1188,Brian Rojas,18-25,Other,Europe,Groceries,4860.25,220.02,24-10-2024,0.04,Bank Transfer,Bronze,4
+1189,Kimberly Ward,26-35,Other,Asia,Electronics,567.71,1351.44,26-11-2024,0.33,Debit Card,Silver,3.9
+1190,Kimberly Reyes,26-35,Female,North America,Clothing,3469.83,228.43,08-12-2024,11.77,Bank Transfer,Silver,3.9
+1191,David Payne,36-45,Female,Australia,Books,1531.96,1048.83,26-03-2024,18.39,Credit Card,Silver,1.8
+1192,Sarah Francis,36-45,Male,North America,Groceries,2824.57,889.74,21-03-2024,16.99,Cash,Silver,2.6
+1193,Heather Barrett,26-35,Other,Asia,Groceries,254.96,1041.15,21-04-2024,20.96,Bank Transfer,Silver,4
+1194,Lori Nelson,36-45,Other,Australia,Clothing,3963.78,1146.26,07-11-2024,3.23,Debit Card,Platinum,4.9
+1195,Steven Pope,60+,Male,North America,Sports,1601.28,1066.09,06-10-2024,2.99,Digital Wallet,Gold,1.5
+1196,Debra Sullivan,26-35,Female,North America,Toys,1227.27,1365.07,07-01-2024,16.5,Cash,Silver,2.2
+1197,Michael Glenn,46-60,Female,Asia,Toys,3291.79,712.54,04-05-2024,29.22,Debit Card,Silver,3.2
+1198,Richard Anderson Jr.,36-45,Male,Australia,Groceries,2150.71,466.39,15-01-2024,6.72,Bank Transfer,Bronze,4.1
+1199,Kristin Warren,46-60,Male,Europe,Electronics,2618.95,58.31,26-05-2024,17.57,Debit Card,Silver,4.8
+1200,Jesse Mitchell,46-60,Other,Asia,Electronics,2002.64,806.65,07-06-2024,22.87,Cash,Bronze,1.3
+1201,Gary Rogers,18-25,Female,Africa,Groceries,2639.97,285,17-09-2024,24.36,Debit Card,Silver,2
+1202,Theresa Kelly,46-60,Other,Europe,Furniture,3609.9,162.64,24-02-2024,13.66,Cash,Gold,1.3
+1203,Donna Cooper,26-35,Female,Africa,Furniture,3368.31,1353.03,26-09-2024,28.93,Bank Transfer,Gold,1.7
+1204,Ryan Reyes,36-45,Other,Australia,Toys,2932.42,989.55,14-06-2024,3.85,Cash,Gold,1.5
+1205,Keith Reynolds,18-25,Male,Europe,Books,4553.59,1416.48,26-02-2024,14.96,Debit Card,Silver,4.7
+1206,Leah Kelly,60+,Female,Africa,Books,3644.42,884.49,06-12-2024,3.55,Cash,Platinum,4.8
+1207,Alicia Wiley,60+,Other,North America,Electronics,3034.03,1378.58,23-01-2024,17.67,Digital Wallet,Platinum,4.6
+1208,Brian Cook,36-45,Female,Australia,Clothing,4573.9,473.59,10-07-2024,16.95,Digital Wallet,Platinum,2.9
+1209,Matthew Bass,46-60,Other,Australia,Clothing,278.04,665.08,30-03-2024,12.83,Cash,Platinum,3.3
+1210,Mr. Stephen Williams,36-45,Other,Africa,Sports,3610.5,134.87,22-03-2024,5.86,Credit Card,Platinum,4.9
+1211,Amanda Martinez,36-45,Female,Asia,Sports,4945.22,1480.21,18-04-2024,16.49,Credit Card,Platinum,4.6
+1212,Anita Haley,46-60,Male,Africa,Groceries,1808.57,957.75,26-10-2024,10.08,Digital Wallet,Silver,2.2
+1213,Ann Glenn,18-25,Female,Africa,Furniture,4635.69,209.28,21-06-2024,16.99,Bank Transfer,Gold,3.9
+1214,Robert White,18-25,Female,Europe,Groceries,3415.53,1182.11,01-09-2024,10.64,Digital Wallet,Bronze,2.4
+1215,Daniel Snyder,46-60,Male,Africa,Groceries,4367.79,1041.16,22-04-2024,19.24,Debit Card,Silver,1.5
+1216,Katrina Roy,18-25,Other,Africa,Clothing,2180.57,451.89,27-11-2024,26.33,Bank Transfer,Silver,2.1
+1217,Richard Meadows,60+,Other,Asia,Toys,4908.19,109.49,09-11-2024,7.87,Cash,Gold,4
+1218,Gregory Carter,36-45,Male,Asia,Clothing,4575.11,26.17,25-09-2024,1.22,Digital Wallet,Gold,3.1
+1219,Kelly Owen,36-45,Female,Australia,Sports,4315.36,420.55,09-02-2024,22.74,Digital Wallet,Bronze,2.5
+1220,Nicholas Daniels,46-60,Other,Europe,Clothing,3829.58,990.94,16-08-2024,13.81,Bank Transfer,Bronze,3.2
+1221,Pamela Garcia,36-45,Female,Australia,Toys,1057.14,1442.35,04-01-2024,10.02,Digital Wallet,Bronze,4
+1222,Bryan May,18-25,Other,Asia,Electronics,643.97,1472.1,03-03-2024,18.31,Cash,Platinum,2
+1223,Valerie Stein,26-35,Other,Europe,Books,2444.53,746.32,20-06-2024,17.25,Digital Wallet,Bronze,3.4
+1224,Olivia Khan,26-35,Female,Africa,Clothing,1911.1,1172.36,15-12-2024,10.87,Digital Wallet,Platinum,3.4
+1225,Micheal Kaiser,18-25,Male,North America,Electronics,2080.88,1162.83,25-01-2024,27.61,Debit Card,Bronze,4.1
+1226,Christopher Reyes,36-45,Female,Asia,Toys,1797.73,1319.55,01-07-2024,2.65,Digital Wallet,Platinum,1
+1227,Natalie Campbell,46-60,Other,North America,Clothing,1274.27,121.67,07-07-2024,7.91,Cash,Platinum,1.3
+1228,Michael Leon,46-60,Female,Africa,Groceries,4091.98,278.04,26-06-2024,11.44,Cash,Bronze,3.1
+1229,Shannon Allen,60+,Female,Europe,Furniture,3729.07,283.55,09-07-2024,4.79,Debit Card,Bronze,4.2
+1230,Taylor Campbell DDS,46-60,Male,Australia,Clothing,1131.4,1265.87,09-04-2024,24.57,Credit Card,Platinum,4.4
+1231,Lisa Ochoa MD,26-35,Female,Africa,Toys,4401.67,222.1,31-07-2024,14.71,Cash,Silver,4.9
+1232,Stephanie Thompson,36-45,Female,North America,Electronics,713.04,658.97,23-04-2024,29.13,Debit Card,Gold,3.2
+1233,Timothy Farrell,60+,Male,North America,Electronics,2803.98,1267.67,22-01-2024,14.75,Digital Wallet,Platinum,3.6
+1234,Caitlin Fleming,46-60,Male,Africa,Groceries,4734.47,196.25,22-03-2024,22.3,Debit Card,Silver,1.6
+1235,Patrick Blackburn,60+,Female,Africa,Clothing,3543.28,791.51,01-10-2024,22.46,Cash,Bronze,1.4
+1236,Joshua Camacho,18-25,Other,North America,Sports,3311.44,542.21,29-07-2024,6.33,Cash,Bronze,2
+1237,Dale Norton,26-35,Male,Europe,Sports,2098.48,432.97,24-05-2024,19.2,Digital Wallet,Bronze,1.6
+1238,Rita Patrick,18-25,Other,Asia,Toys,3104.58,316.48,28-05-2024,26.62,Bank Transfer,Silver,4.7
+1239,Jeffery Luna,36-45,Male,Europe,Sports,2155.61,130.13,16-07-2024,8.81,Digital Wallet,Platinum,4.8
+1240,Jaime Fisher,36-45,Other,Australia,Groceries,970.17,850.51,15-06-2024,27.4,Bank Transfer,Silver,2.8
+1241,Miguel Moore,60+,Female,Europe,Furniture,4695.12,1126.28,04-03-2024,18.52,Debit Card,Platinum,1.8
+1242,Tina Zamora,36-45,Male,Europe,Furniture,2294.47,356.18,12-08-2024,18.83,Credit Card,Bronze,3.9
+1243,Christian Rasmussen,46-60,Other,North America,Clothing,2864.74,1410.33,08-11-2024,26.71,Digital Wallet,Gold,3.8
+1244,Susan Richards,36-45,Male,Europe,Sports,2096.98,1464.68,22-03-2024,7.07,Debit Card,Bronze,2
+1245,Jason Reyes,26-35,Male,Europe,Groceries,2079.5,931.81,13-02-2024,7.34,Bank Transfer,Gold,1.8
+1246,Adam Clark,36-45,Female,Europe,Sports,317.84,1101.43,12-03-2024,2.93,Credit Card,Silver,4.5
+1247,Jennifer Howard,26-35,Male,North America,Books,867.37,737.12,04-02-2024,26.1,Cash,Gold,3.6
+1248,Kim Frost,46-60,Male,Europe,Books,4606.29,1201.24,18-02-2024,17.02,Cash,Silver,3.9
